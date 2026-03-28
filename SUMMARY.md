@@ -83,6 +83,7 @@
     * [Normal Cannon](cannonlar/normal-cannon.md)
     * [Heavy Cannon](cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](diger-esyalar/README.md)
+    * [Virtue Stone](diger-esyalar/virtue-stone.md)
     * [Armor Bundler](diger-esyalar/armor-bundler.md)
     * [Yew Lute](diger-esyalar/yew-lute.md)
     * [Item Storage](diger-esyalar/item-storage.md)
