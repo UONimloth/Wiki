@@ -24,3 +24,14 @@
 <p>Cannonlar yalnızca topun dönük olduğu yöne doğru atış yapabilir.</p>
 <p>Toplar yanlara veya arkaya ateş edemez; bu nedenle atış yapılabilmesi için geminin hedefe doğru konumlandırılması gerekir.</p>
 <p>Doğru yönlenme, özellikle efektif menzil içinde istikrarlı ve yüksek hasar verebilmek açısından büyük önem taşır.</p>
+
+<h2>Üretim</h2>
+<p>Normal Cannon, Blacksmithing yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:</p>
+<p>• 100 Iron Ingot</p>
+<p>• 25 Logs</p>
+<p>• 1 Axle</p>
+<p>• 100.0 Blacksmithing</p>
+<p>Ayrıca üretim için bir Blueprint zorunludur.</p>
+
+<h2>Blueprint Elde Etme</h2>
+<p>Normal Cannon üretimi için gereken Blueprint'i Blacksmith vendorlardan alabileceğiniz <a href="https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Craft Görevleri</a> ile elde edebilirsiniz</p>
