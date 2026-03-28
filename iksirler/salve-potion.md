@@ -1,8 +1,7 @@
 # Salve Potion
 
 <p>Salve Potion, bandajlarınızı güçlendirerek iyileştirme sürecinizi daha etkili hale getirmenizi sağlayan özel bir iksirdir.</p>
-<p>Bu sistem sayesinde, standart bandajların ötesine geçerek daha güçlü bir destek elde edebilirsiniz.</p>
-
+<p><a href="https://uo-nimloth.net/wiki/sistemler/salve-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Salve Sistemi</a> sayesinde, standart bandajların ötesine geçerek daha güçlü bir destek elde edebilirsiniz.</p>
 <p>Salve etkisini kullanabilmek için öncelikle Salve Potion üretmeniz gerekmektedir.</p>
 
 <h2>Üretim</h2>
