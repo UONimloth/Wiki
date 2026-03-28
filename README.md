@@ -21,4 +21,4 @@ Wiki sol menüsünden tüm kategorilere ulaşabilirsiniz.
 
 ---
 
-> Bu wiki sürekli güncellenmektedir.
+> Bu wiki websitemizde bulunan wiki ile eşzamanlı çalışmaktadır. 
