@@ -101,7 +101,6 @@
 ## Yetenekler
 
 * [Yetenekler](yetenekler/README.md)
-  * [Meditation](yetenekler/meditation.md)
   * [Alchemy](yetenekler/alchemy.md)
   * [Anatomy](yetenekler/anatomy.md)
   * [Animal Lore](yetenekler/animal-lore.md)
@@ -113,6 +112,7 @@
   * [Bowcrafting](yetenekler/bowcrafting.md)
   * [Discordance](yetenekler/discordance.md)
   * [Farming](yetenekler/farming.md)
+  * [Meditation](yetenekler/meditation.md)
   * [Peacemaking](yetenekler/peacemaking.md)
   * [Remove Trap](yetenekler/remove-trap.md)
   * [Resisting Spells](yetenekler/resisting-spells.md)
