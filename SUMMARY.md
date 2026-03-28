@@ -1,6 +1,4 @@
-# Table of contents
-
-* [Giriş](README.md)
+# Summary
 
 ## Sistemler
 
@@ -54,7 +52,7 @@
     * [Wizard Robe](robelar/wizard-robe.md)
     * [Faster Casting Robe](robelar/faster-casting-robe.md)
     * [Magical Robe](robelar/magical-robe.md)
-  * [Üretim\&Toplayıcı](uretimtoplayici/README.md)
+  * [Üretim&Toplayıcı](uretimtoplayici/README.md)
     * [Oak Fishing Pole](uretimtoplayici/oak-fishing-pole.md)
     * [Yew Fishing Pole](uretimtoplayici/yew-fishing-pole.md)
     * [Gatherer's Apron](uretimtoplayici/gatherers-apron.md)
