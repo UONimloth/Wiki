@@ -51,7 +51,7 @@
 
 <h2>Magical Silahların Tamiri</h2>
 <p>Magical silahların tamiri, platemail setlerinin tamirine benzer şekilde Aule's Anvil üzerinden yapılmaktadır.</p>
-<p>Magical silahların tamiri için Ingot yerine Virtue Stone gerekmektedir.</p>
+<p>Magical silahların tamiri için Ingot yerine <a href="https://uo-nimloth.net/wiki/diger-esyalar/virtue-stone" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Virtue Stone</a> gerekmektedir.</p>
 
 <h2>Virtue Stone Elde Etme</h2>
 <p>Magical silahları Forge üzerinde eriterek Virtue Stone kazanabilirsiniz.</p>
