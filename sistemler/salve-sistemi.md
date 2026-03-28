@@ -32,7 +32,7 @@
 <h2>Salve Potion Kullanımı</h2>
 <p>Salve Potion üzerine tek tıklandığında, iksirin doluluk oranı oyuncuya gösterilir.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/iAbBsmxnwoU260TXneKuqI8qKdC6mOeAT13FaL8e.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mZcFNHxcQwmBHAndp91Z2I2uZoEsb4f1dJG8ARc1.png)
 <p>Çift tıklandığında, oyuncuya bir hedef seçme penceresi çıkar ve bandaj seçmeleri istenir.</p>
 <p>Bu işlem sırasında sistem, söz konusu Salve Potion’ın maksimum kaç adet bandaja uygulanabileceğini de gösterir.</p>
 
