@@ -113,6 +113,7 @@
   * [Discordance](yetenekler/discordance.md)
   * [Farming](yetenekler/farming.md)
   * [Healing](yetenekler/healing.md)
+  * [Inscription](yetenekler/inscription.md)
   * [Meditation](yetenekler/meditation.md)
   * [Peacemaking](yetenekler/peacemaking.md)
   * [Remove Trap](yetenekler/remove-trap.md)
