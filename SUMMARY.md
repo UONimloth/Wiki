@@ -111,6 +111,7 @@
   * [Blacksmithy](yetenekler/blacksmithy.md)
   * [Bowcrafting](yetenekler/bowcrafting.md)
   * [Discordance](yetenekler/discordance.md)
+  * [Evaluating Intelligence](yetenekler/evaluating-intelligence.md)
   * [Farming](yetenekler/farming.md)
   * [Healing](yetenekler/healing.md)
   * [Inscription](yetenekler/inscription.md)
