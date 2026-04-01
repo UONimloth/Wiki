@@ -9,10 +9,10 @@
 
 <p>Silica Crystal, şehirlerde bulunan Glassblowing Tool yardımıyla üretilebilmektedir.</p>
 
-<p>Üretim için gerekli koşullar:</p>
+<p>Üretim için:</p>
 
 <p>• 1 adet Sand</p>
-<p>• 80 Alchemy yeteneği</p>
+<p>• 80 Alchemy yeteneği gereklidir</p>
 
 <p>Gerekli malzemeleri temin ettikten sonra, Glassblowing Tool üzerinden üretim işlemini gerçekleştirebilirsiniz.</p>
 
