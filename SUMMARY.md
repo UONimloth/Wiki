@@ -110,6 +110,7 @@
   * [Begging](yetenekler/begging.md)
   * [Blacksmithy](yetenekler/blacksmithy.md)
   * [Bowcrafting](yetenekler/bowcrafting.md)
+  * [Cartography](yetenekler/cartography.md)
   * [Discordance](yetenekler/discordance.md)
   * [Evaluating Intelligence](yetenekler/evaluating-intelligence.md)
   * [Farming](yetenekler/farming.md)
