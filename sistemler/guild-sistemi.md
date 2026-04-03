@@ -4,8 +4,8 @@
 <p>Birlikte savaşmak, kaynak paylaşmak ve adlarını duyurmak isteyen oyuncular için Guild sistemi, oyunun stratejik ve toplumsal yönünü derinleştirir.</p>
 
 <h2>Guild Kurulumu</h2>
-Guild, iki farklı yöntemle kurulabilir:
-<p>• <strong style="color: #410000;">5.000.000 altın</strong> karşılığında yetkililer aracılığıyla bir guild kurabilirsiniz.</p>
+<p>Guild, iki farklı yöntemle kurulabilir:</p>
+<p>• Vendor veya oyunculardan Castle aldıktan sonra <strong style="color: #410000;">2.500.000 altın</strong> karşılığında yetkililer aracılığıyla bir guild kurabilirsiniz.</p>
 <p>• Donate sistemi üzerinden <strong style="color: #410000;">2000₺</strong> karşılığında bir Castle + Guild paketi satın alabilir ve ardından yetkililerle iletişime geçerek guildlerini aktif hale getirebilirsiniz.</p>
 
 <p>Guild kurulduktan sonra, Guild Master ilgili guild taşına (Guildstone) tıklayarak guildi resmi olarak aktif eder.</p>
