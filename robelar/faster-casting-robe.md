@@ -40,7 +40,7 @@
 
 <h1>Spell Eraser Pen</h1>
 <p>Büyülerin robe’dan kaldırılması için Spell Eraser Pen adı verilen özel bir eşya kullanılır.</p>
-<p>Bu eşyayı Mage vendorlardan <strong style="color: #410000;">299.000</strong> altın karşılığında satın alabilirsiniz</p>
+<p>Bu eşyayı Mage vendorlardan <strong style="color: #410000;">50.600</strong> altın karşılığında satın alabilirsiniz</p>
 <p>Bu eşya, robe’a eklenmiş büyüleri tek tek silebilir ve toplamda 5 şarj içerir. Şarjlar tükendiğinde, kalem işlevini yitirir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/OcmCULcmT5R30dvqj11eEf18cgbtD73uhoziKq84.png)
