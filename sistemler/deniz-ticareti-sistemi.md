@@ -15,6 +15,23 @@
 <p>Her şehir, coğrafi konumu ve yerel üretim alışkanlıklarına göre belirli bir ticaret uzmanlık alanına sahiptir.</p>
 <p>Bu nedenle oyuncular, yalnızca o şehrin kabul ettiği mal türlerini ticaret kargosuna ekleyebilirler.</p>
 
+<table class="zebra-table" border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr>
+<th>Şehir</th>
+<th>Ticaret Türü</th>
+<th>Ticaret Edilebilen Eşyalar</th>
+</tr>
+</thead>
+<tbody>
+	
+<tr>
+<td>Vesper</td>
+<td>Blacksmith (Metal)</td>
+<td>*Ringmail* ve *Chainmail* set parçaları</td>
+</tr>
+<tr>
+
 | Şehir          | Ticaret Türü             | Ticaret Edilebilen Eşyalar                       |
 | :------------- | :----------------------- | :----------------------------------------------- |
 | **Vesper**     | Blacksmith (Metal)       | *Ringmail* ve *Chainmail* set parçaları          |
