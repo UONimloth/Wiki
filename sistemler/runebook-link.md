@@ -8,6 +8,7 @@
 
 <h2>Nasıl Kullanılır?</h2>
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZbsZOHhrLb37T6KYJxozeXwynU6WuMaCmqBCSNfz.png)
+
 <p>Runebook Linker üzerine çift tıkladığınızda, sizden linklemek istediğiniz runebook’u seçmeniz istenir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/14Jiqo6SsiqtTcetjsMD6afSh4HQ8UErH8SD3vuV.png)
