@@ -27,5 +27,6 @@
 <p>• Sol tarafta yer alan butona tıklayarak, linklenmiş runebook’un ismini değiştirebilirsiniz</p>
 <p>• Sağ tarafta bulunan Çıkart butonu ile ilgili runebook’un linkini kaldırabilirsiniz</p>
 
-Önemli:
-Çıkart butonuna bastığınızda herhangi bir onay ekranı bulunmaz. Link anında kaldırılır ve bu işlemin geri dönüşü yoktur.
+<strong style="color: #410000;">Çıkart butonuna bastığınızda herhangi bir onay ekranı bulunmaz. Link anında kaldırılır ve bu işlemin geri dönüşü yoktur.</strong>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lPiH8TwBRq9uAMqTkuviWpsGfS2j2XetUAk2X34X.png)
