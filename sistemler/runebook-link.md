@@ -21,6 +21,7 @@
 <p>Bu butonun üzerinde yer alan sayı, ilgili runebook’un toplam kaç kez linklendiğini gösterir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/xRYeZZjUfEK7Jtc8dwxIXGBRg78SggXt71UsjaKk.png)
+
 <h2>Link Yönetim Ekranı</h2>
 <p>Link yönetim ekranını açtığınızda sol tarafta, linklenmiş runebook’ların isimleri, sağ tarafta ise bu kitapların hangi oyuncuda olduğu bilgisi görüntülenir.</p>
 <p>Bu ekran üzerinden aşağıdaki işlemleri gerçekleştirebilirsiniz:</p>
