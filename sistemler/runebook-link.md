@@ -7,9 +7,6 @@
 <p>Bu sayede, birden fazla runebook’u tek tek güncellemek yerine yalnızca ana kitap üzerinden tümünü kontrol edebilirsiniz.</p>
 
 <h2>Nasıl Kullanılır?</h2>
-
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZbsZOHhrLb37T6KYJxozeXwynU6WuMaCmqBCSNfz.png)
-
 <p>Runebook Linker üzerine çift tıkladığınızda, sizden linklemek istediğiniz runebook’u seçmeniz istenir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/14Jiqo6SsiqtTcetjsMD6afSh4HQ8UErH8SD3vuV.png)
@@ -17,6 +14,27 @@
 <p>Oluşturulan linklenmiş kitap doğrudan çantanıza eklenir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/KJDjhLwc7Im86Q4iLVIXaaQjxNEZ1jPNOH3VGj11.gif)
+
+<h2>Nasıl Elde Edilir?</h2>
+
+<p>Runebook linkleme işlemini gerçekleştirebilmek için Runebook Linker isimli özel bir eşya gerekmektedir.</p>
+	
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZbsZOHhrLb37T6KYJxozeXwynU6WuMaCmqBCSNfz.png)
+
+<p>Bu eşyayı aşağıdaki kaynaklardan elde edebilirsiniz:</p>
+
+<p>• Dungeon Chest (Level 3)</p>
+<p>• Hazine sistemi</p>
+
+<p>Ayrıca şu yaratıklardan da düşmektedir:</p>
+<p>• Zul'Thar( World Boss )</p>
+<p>• Crimson Dragon</p>
+<p>• Exodus Demon</p>
+<p>• Platinum Dragon</p>
+<p>• Shadow Knight</p>
+<p>• Stygian Dragon</p>
+<p>• Blackrock Golem</p>
+<p>• Shadow Lord</p>
 
 <h2>Link Yönetimi</h2>
 <p>Ana (master) runebook’a tıkladığınızda, kitabın ortasında yer alan buton aracılığıyla linklenmiş tüm runebook’ları görüntüleyebilir ve yönetebilirsiniz.</p>
