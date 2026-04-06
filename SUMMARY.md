@@ -3,6 +3,7 @@
 ## Sistemler
 
 * [Sistemler](sistemler/README.md)
+  * [Runebook Link](sistemler/runebook-link.md)
   * [Vendor Arama Sistemi](sistemler/vendor-arama-sistemi.md)
   * [Düello Sistemi](sistemler/duello-sistemi.md)
   * [Donate](sistemler/donate.md)
@@ -84,6 +85,7 @@
     * [Normal Cannon](cannonlar/normal-cannon.md)
     * [Heavy Cannon](cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](diger-esyalar/README.md)
+    * [Runebook Linker](diger-esyalar/runebook-linker.md)
     * [Silica Crystal](diger-esyalar/silica-crystal.md)
     * [Virtue Stone](diger-esyalar/virtue-stone.md)
     * [Armor Bundler](diger-esyalar/armor-bundler.md)
