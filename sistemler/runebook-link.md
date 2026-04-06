@@ -1,5 +1,11 @@
 # Runebook Link
 
+<div style="text-align:center;">
+  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/IOJLgUdtp2Sua9pBJIliW4cxOtbTqss7EeTqOGpr.png" 
+       alt="Nimloth Logo">
+</div>
+
+<p>
 <p>Runebook Link sistemi sayesinde, mevcut runebook’larınızı birbirine bağlayarak tek bir ana kitap üzerinden tüm kitaplarınızı yönetebilirsiniz.</p>
 <p>Bu sistem, klasik runebook kopyalama sisteminden farklı olarak çalışmaktadır.</p>
 <p>Kopyalama işleminde, yalnızca o anki bilgiler çoğaltılır ve ana kitapta yapılan değişiklikler kopyalanan kitaplara yansımaz.</p>
