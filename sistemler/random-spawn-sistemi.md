@@ -49,3 +49,5 @@
 <p>Ore Llama, Desert Ostard, Forest Ostard: <strong style="color: #410000;">250 XP</strong></p>
 <p>Frenzied Ostard, Mid Ostard: <strong style="color: #410000;">400 XP</strong></p>
 <p>Shire, Mustang, Night Llama, Fire Llama: <strong style="color: #410000;">600 XP</strong></p>
+<p>Ice Ostard, Silver Steed, Fire Steed, Kii Rin: <strong style="color: #410000;">1000 XP</strong></p>
+<p>Wine Steed, Unicorn: <strong style="color: #410000;">1500 XP</strong></p>
