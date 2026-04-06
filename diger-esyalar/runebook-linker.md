@@ -19,4 +19,4 @@
 
 <h2>Kullanım</h2>
 <p>Runebook Linker üzerine çift tıkladığınızda, linklemek istediğiniz runebook’u seçmeniz istenir. Seçim sonrası linkleme işlemi başlatılır ve yeni bir runebook oluşturulur.</p>
-<a href="https://uo-nimloth.net/wiki/sistemler/runebook-link" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Runebook Link</a> sisteminin tüm detaylarını öğrenmek için ilgili sayfayı inceleyebilirsiniz.
+<p><a href="https://uo-nimloth.net/wiki/sistemler/runebook-link" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Runebook Link</a> sisteminin tüm detaylarını öğrenmek için ilgili sayfayı inceleyebilirsiniz.</p>
