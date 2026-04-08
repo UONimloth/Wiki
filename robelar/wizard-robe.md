@@ -16,7 +16,7 @@
 
 <p>Bu robe’un en önemli özelliği, <strong style="color: #410000;">1. sayfa büyülerinden etkilenmemesidir.</strong></p>
 <p>Böylece büyücüler, düşük seviye büyülerle rahatsız edilmeden savaş alanında büyülerini daha etkin biçimde kullanabilirler.</p>
-<p>Wizard Robe herhangi bir fiziksel zırh sağlamaz, tamamen büyüsel odaklı bir eşyadır.</p>
+<p>Wizard Robe, giyen oyuncuya 7 armor ve her 3 saniyede +1 mana sağlamaktadır</p>
 
 <p>Bu özel robe’un yapımı için <strong style="color: #410000;">4 adet Wizard Crystal ve 4 adet Wizard Cloth</strong>, 40 Cloth ve 60 Dragon Blood gereklidir</p>
 <p>Bu malzemeler şu kaynaklardan elde edilebilir:</p>
