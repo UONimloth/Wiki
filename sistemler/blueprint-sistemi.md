@@ -77,7 +77,7 @@
 
 <p>Ayrıca Blueprint Trade vendorunda yer alan "İnfo" butonuna tıklayarak da bu listeye ulaşabilirsiniz</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Kyx9rx5xmqkGwMmz4aPfQ13E5aip30JM0QMV7CAX.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/y2moZ6hCHN77PUEA0h5CO20Quy3FxNybfVWQv5xR.png)
 <h2>ÖNEMLİ NOT</h2>
 <p>Birleştirme işleminde bazı blueprint türleri kabul edilmez.</p>
 <p>Her türlü Dye kategorisindeki özel Blueprintler sistem tarafından reddedilir ve birleştirme sürecinde kullanılamazlar.</p>
