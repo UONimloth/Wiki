@@ -47,8 +47,5 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/GBTjJOY3PgpdsJnSoJ2Hjir4kwenmvJC7vMJMKOI.png)
 
 <h2>Savaşın Başlaması</h2>
-
-<p>Etkinlik kabul edildiğinde, her iki guild de katılacak oyuncularını seçer ve
-Seçilen oyuncular otomatik olarak etkinlik alanına gönderilir
-
-Savaş başladığında tüm oyuncular eşit şartlarda mücadele eder.
+<p>Etkinlik kabul edildiğinde, her iki guild de katılacak oyuncularını seçer ve seçilen oyuncular otomatik olarak etkinlik alanına gönderilir</p>
+<p>Savaş başladığında tüm oyuncular eşit şartlarda mücadele eder.</p>
