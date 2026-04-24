@@ -54,3 +54,13 @@
 <p>Etkinlik, bir guild’deki tüm oyuncular öldüğünde otomatik olarak sona erer.</p>
 <p>• Eğer <strong style="color: #410000;">loot açıksa</strong>, oyunculara loot yapabilmeleri için 1 dakika süre verilir</p>
 <p>• Eğer <strong style="color: #410000;">loot kapalıysa</strong>, ölen oyuncular otomatik olarak canlandırılır ve 30 saniye sonra eski konumlarına gönderilir</p>
+
+<h2>Önemli Kurallar</h2>
+<p>War Zone tamamen kontrollü ve temiz bir savaş ortamı sunar. Bu nedenle:</p>
+<p>Etkinlik alanına girişte çantanızdaki regler, bandajlar, potionlar, tp ve pet deedler(binek,golem vs) silinir.</p>
+<p>Etkinlik sonunda alandaki tüm binekler ve canlılar silinir</p>
+<p>Tüm oyuncular öldüğünde sistem 2 saniye sonra ölen tüm oyuncuları otomatik olarak canlandırır</p>
+<p>Reslenme sırasında cesedinizin başında olmanız önemlidir</p>
+
+<p>War Zone Sistemi, guild savaşlarını tamamen strateji, koordinasyon ve bireysel yetenek üzerine kurarak gerçek bir rekabet ortamı sunar.</p>
+<p>Guild’inizi toplayın, kurallarınızı belirleyin ve savaş meydanında kimin daha güçlü olduğunu gösterin ⚔️</p>
