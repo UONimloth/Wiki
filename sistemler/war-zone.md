@@ -49,3 +49,8 @@
 <h2>Savaşın Başlaması</h2>
 <p>Etkinlik kabul edildiğinde, her iki guild de katılacak oyuncularını seçer ve seçilen oyuncular otomatik olarak etkinlik alanına gönderilir</p>
 <p>Savaş başladığında tüm oyuncular eşit şartlarda mücadele eder.</p>
+
+<h2>Savaşın Sonu</h2>
+<p>Etkinlik, bir guild’deki tüm oyuncular öldüğünde otomatik olarak sona erer.</p>
+<p>• Eğer loot aktifse, oyunculara loot yapabilmeleri için 1 dakika süre verilir</p>
+<p>• Eğer loot kapalıysa, ölen oyuncular otomatik olarak canlandırılır ve 30 saniye sonra eski konumlarına gönderilir</p>
