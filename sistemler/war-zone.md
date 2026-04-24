@@ -1,5 +1,11 @@
 # War Zone
 
+<div style="text-align:center;">
+  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/iqnfLA4szO2hRganWn7p6dXWpl8Qvhq9xMfLK0qB.png" 
+       alt="Nimloth Logo">
+</div>
+
+<p>
 <p>Guild’inizle birlikte gerçek bir rekabet ortamına girmek, eşit şartlarda diğer guild’lerle mücadele etmek ister misiniz? War Zone, tam olarak bunun için tasarlandı.</p>
 <p>Bu sistem, guild’lerin <strong style="color: #410000;">tamamen eşit koşullar altında, dış etkenlerden bağımsız şekilde</strong> karşı karşıya gelmesini sağlar.</p>
 <p>Tüm ayarlar sizin kontrolünüzdedir ve her savaş, baştan sona planlı bir mücadeleye dönüşür.</p>
