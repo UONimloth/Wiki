@@ -52,5 +52,5 @@
 
 <h2>Savaşın Sonu</h2>
 <p>Etkinlik, bir guild’deki tüm oyuncular öldüğünde otomatik olarak sona erer.</p>
-<p>• Eğer loot aktifse, oyunculara loot yapabilmeleri için 1 dakika süre verilir</p>
-<p>• Eğer loot kapalıysa, ölen oyuncular otomatik olarak canlandırılır ve 30 saniye sonra eski konumlarına gönderilir</p>
+<p>• Eğer <strong style="color: #410000;">loot açıksa</strong>, oyunculara loot yapabilmeleri için 1 dakika süre verilir</p>
+<p>• Eğer <strong style="color: #410000;">loot kapalıysa</strong>, ölen oyuncular otomatik olarak canlandırılır ve 30 saniye sonra eski konumlarına gönderilir</p>
