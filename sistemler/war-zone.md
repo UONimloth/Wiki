@@ -57,10 +57,10 @@
 
 <h2>Önemli Kurallar</h2>
 <p>War Zone tamamen kontrollü ve temiz bir savaş ortamı sunar. Bu nedenle:</p>
-<p>Etkinlik alanına girişte çantanızdaki regler, bandajlar, potionlar, tp ve pet deedler(binek,golem vs) silinir.</p>
-<p>Etkinlik sonunda alandaki tüm binekler ve canlılar silinir</p>
-<p>Tüm oyuncular öldüğünde sistem 2 saniye sonra ölen tüm oyuncuları otomatik olarak canlandırır</p>
-<p>Reslenme sırasında cesedinizin başında olmanız önemlidir</p>
+<p>Etkinlik alanına girişte çantanızdaki <strong style="color: #410000;">regler, bandajlar, potionlar, tp ve pet deedler(binek,golem vs) silinir.</strong></p>
+<p>Etkinlik sonunda alanbda kalan <strong style="color: #410000;">tüm eşyalar ve canlılar silinir</strong></p>
+<p>Etkinlik bittiğinde, eğer loot kapalı ise sistem 2 saniye sonra ölen tüm oyuncuları otomatik olarak canlandırır</p>
+<p>Canlanma sırasında cesedinizin başında olmanız önemlidir</p>
 
 <p>War Zone Sistemi, guild savaşlarını tamamen strateji, koordinasyon ve bireysel yetenek üzerine kurarak gerçek bir rekabet ortamı sunar.</p>
 <p>Guild’inizi toplayın, kurallarınızı belirleyin ve savaş meydanında kimin daha güçlü olduğunu gösterin ⚔️</p>
