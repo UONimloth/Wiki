@@ -3,6 +3,7 @@
 ## Sistemler
 
 * [Sistemler](sistemler/README.md)
+  * [War Zone](sistemler/war-zone.md)
   * [Runebook Link](sistemler/runebook-link.md)
   * [Vendor Arama Sistemi](sistemler/vendor-arama-sistemi.md)
   * [Düello Sistemi](sistemler/duello-sistemi.md)
