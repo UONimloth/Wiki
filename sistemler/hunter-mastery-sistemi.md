@@ -7,7 +7,7 @@
 <p></p>
 
 <p>Hunter Mastery Sistemi, Ultima Online dünyasında avcılık becerilerinizi bir üst seviyeye taşımanızı sağlayan özel bir ilerleme sistemidir.</p>
-<p>Bu sistemde, Taming yeteneği üzerinden aldığınız görevler ile XP kazanır ve kazandıkları XP’ler sayesinde Tamer Mastery seviyelenizi yükseltebilirsiniz.</p>
+<p>Bu sistemde, Master Hunter vendorundan aldığınız görevler ile XP kazanır ve kazandıkları XP’ler sayesinde Tamer Mastery seviyelenizi yükseltebilirsiniz.</p>
 <p>Her av artık yalnızca ganimet elde etmek değil, aynı zamanda ustalık yolunda atılmış önemli bir adım hâline gelir.</p>
 
 <h2>Genel Bakış</h2>
