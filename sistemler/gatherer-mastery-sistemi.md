@@ -41,7 +41,8 @@
 <p>• <strong style="color: #410000;">Level 10: Golden Tool Kullanımı</strong> -> Golden Tool’ları kullanabilir ve toplama işlemleri sırasında daha fazla materyal elde etme şansı elde edersiniz.</p>
 <p>• <strong style="color: #410000;">Level 14: Tohum Düşme Şansı</strong> -> Farming yeteneğiniz ile bitkileri toplarken tohum elde etme şansı kazanırsınız.</p>
 <p>• <strong style="color: #410000;">Level 17: Gatherer's Apron</strong> -> <a href="https://uo-nimloth.net/wiki/uretimtoplayici/gatherers-apron" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer's Apron</a> kullanabilme yetkinliği kazanırsınız. Apronu kullandığınız süre boyunca +100 taşıma kapasitesi elde edersiniz.</p>
-<p>• <strong style="color: #410000;">Level 20: Pack Binek Kullanımı</strong></p>
+<p>• <strong style="color: #410000;">Level 20: Pack Binek Kullanımı</strong> -> <a href="https://uo-nimloth.net/wiki/binekler/pack-binekler" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Pack bineklere</a> binebilirsiniz. Böylece daha fazla malzemeyi daha efektif şekilde taşıyabilirsiniz.</p>
+
 
 
 
