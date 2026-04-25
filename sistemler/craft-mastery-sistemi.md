@@ -48,6 +48,10 @@
 <p>•	<strong style="color: #410000;">Level 17: House Crafting Tool</strong> -> Ev üretimi için gereken House Crafting Tool'u elde edersiniz.</p>
 <p>•	<strong style="color: #410000;">Level 20: Telchar's Might</strong> -> Magical silahları ve plate setleri tamir etmeniz için gereken Telchar's Might'ı elde edersiniz.</p>
 <p>•	<strong style="color: #410000;">Level 21: Superior Üretim</strong> -> Ürettiğiniz eşyalar Superior olacak ve normalden %25 daha dayanıklı olacaktır.</p>
+<p>•	<strong style="color: #410000;">Level 22: Mallet and Chisel</strong> -> Granite Stone'dan heykeller üretmek için gereken Mallet and Chisel'ı elde edersiniz.</p>
+<p>•	<strong style="color: #410000;">Level 23: Çift Üretim</strong> -> Ürettiğiniz eşyadan %10 şansla 2 tane üretme şansı elde edeceksiniz.</p>
+<p>•	<strong style="color: #410000;">Level 24: Gem Üretimi</strong> -> Gem Stone'lar üretmek için Gem Crafting Table'ı kullanma yetkinliği elde edeceksiniz.</p>
+<p>•	<strong style="color: #410000;">Level 25: Hatasız Üretim</strong> -> Üretim sırasında Fire vermeden %100 şansla eşya üretimi yapabileceksiniz ve üretim yaparken kullandığınız eşyalar daha zor hasar görecek.</p>
 
 <h2>XP Aktar</h2>
 <p>Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <strong style="color: #410000;">XP Aktar</strong> butonuna basıldığında, bir XP Deed çantaya düşer.</p>
