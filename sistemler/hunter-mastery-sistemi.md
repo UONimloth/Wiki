@@ -43,8 +43,8 @@
 
 <strong>Seviyelere göre ödüller şu şekildedir:</strong>
 <p>• Level 2: Yakın Dövüş Ustalığı -> Melee silahlar ile yaratıklara vurduğunuz hasar miktarını 2 katına çıkartır. Bunun yanı sıra yaratıklardan aldığınız hasar miktarını da ciddi oranda düşürür</p>
-Örnek vermek gerekirse 100 armorlu bir oyuncu yaratıktan gelen hasar miktarını 10 azaltmaktadır. Hunter Mastery seviyesi 2 den yüksekse bu rakam 2 katına yani 20'ye çıkmaktadır.</p>
-Ayrıca eğer oyuncuda kalkan varsa normal şartlarda def miktarı 10'dan 30'a çıkmaktadır. Hunter Mastery seviyesi 2 den yüksekse azaltacağı hasar miktarı 20'den 80'e çıkmaktadır.</p>
+<p>Örnek vermek gerekirse 100 armorlu bir oyuncu yaratıktan gelen hasar miktarını 10 azaltmaktadır. Hunter Mastery seviyesi 2 den yüksekse bu rakam 2 katına yani 20'ye çıkmaktadır.</p>
+<p>Ayrıca eğer oyuncuda kalkan varsa normal şartlarda def miktarı 10'dan 30'a çıkmaktadır. Hunter Mastery seviyesi 2 den yüksekse azaltacağı hasar miktarı 20'den 80'e çıkmaktadır.</p>
 
 <p>• Level 6: Tuzak Tecrübesi -> Remove Trap ile tuzakları açmayı başaramadığınızda tuzağın %33 ihtimalle tetiklenmemesini sağlar.</p>
 
