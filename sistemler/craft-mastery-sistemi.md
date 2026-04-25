@@ -44,8 +44,8 @@
 <p>• <strong style="color: #410000;">Level 2: Yew Bow (Blueprint)</strong> -> Yew Bow üretimi için gereken Blueprint'i elde edersiniz.</p>
 <p>•	<strong style="color: #410000;">Level 6: Golem (Blueprint)</strong> -> Golem üretimi için gereken Blueprint'i elde edersiniz.</p>
 <p>•	<strong style="color: #410000;">Level 10: Tracker's Spyglass (Blueprint)</strong> -> Golem üretimi için gereken Blueprint'i elde edersiniz.</p>
-<p>•	<strong style="color: #410000;">Level 14</strong>: Ship Crafting Tool</p>
-<p>•	<strong style="color: #410000;">Level 17</strong>: House Crafting Tool</p>
+<p>•	<strong style="color: #410000;">Level 14: Ship Crafting Tool</strong> -> Gemi üretimi için gereken Ship Crafting Tool'u elde edersiniz.</p>
+<p>•	<strong style="color: #410000;">Level 17: House Crafting Tool</strong> -> Ev üretimi için gereken Ship Crafting Tool'u elde edersiniz.</p>
 <p>•	<strong style="color: #410000;">Level 20</strong>: Telchar's Might</p>
 
 <h2>XP Aktar</h2>
