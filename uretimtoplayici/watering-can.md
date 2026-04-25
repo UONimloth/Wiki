@@ -25,9 +25,17 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/14tWPfx4DnJlx0QH7Y375jkI1Z4cFWvdhKX0JzZC.gif)
 
+<h2>Dikkat Edilmesi Gerekenler</h2>
+<p>Sulama işlemi devam ederken aşağıdaki durumlar gerçekleşirse işlem iptal olur:</p>
+<p>• Hareket etmeniz</p>
+<p>• Başka bir eşyaya çift tıklamanız</p>
+<p>• Büyü veya skill kullanmanız</p>
+<p>• Hasar almanız</p>
+<p>• Oyundan çıkmanız</p>
+<p>Bu nedenle sulama sırasında sabit ve güvenli bir konumda olmanız önerilir.</p>
+
 <h2>Blueprint Elde Etme</h2>
 <p>Watering Can Pickaxe üretiminde kullanılan Blueprint; Tinker Vendorlarından alınan görevler aracılığıyla elde edilebilmektedir.</p>
 
 <h2>Kullanım Gereksinimleri</h2>
 <p>Watering Can kullanımı için <a href="https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer Mastery</a> seviyenizin 24 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.</p>
-
