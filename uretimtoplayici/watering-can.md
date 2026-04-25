@@ -23,7 +23,7 @@
 <p>Eşyayı kullandıktan sonra kendinizi hedef aldığınızda, karakterinizin 2 kare çevresinde bulunan size ait bitkiler, 1 saniye aralıklarla otomatik olarak sulanır.</p>
 <p>Bu yöntem, özellikle yoğun ekim alanlarında büyük kolaylık sağlar.</p>
 
-<p>Watering Can ile yapılan sulamalarda <strong style="color: #410000;">başarısızlık ihtimali yoktur.</p>
+<p>Watering Can ile yapılan sulamalarda <strong style="color: #410000;">başarısızlık ihtimali yoktur</strong>.</p>
 <p>Şartlar sağlandığı sürece her sulama işlemi kesin olarak başarılı olur.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/14tWPfx4DnJlx0QH7Y375jkI1Z4cFWvdhKX0JzZC.gif)
