@@ -12,3 +12,6 @@
 <p>• 10 Silver Ingot</p>
 <p>• 100 Tinkering yeteneği gerekmektedir.</p>
 <p>Ayrıca üretim için bir Blueprint gerekmektedir.</p>
+
+<h2>Blueprint Elde Etme</h2>
+<p>Watering Can Pickaxe üretiminde kullanılan Blueprint; Tinker Vendorlarından alınan görevler aracılığıyla elde edilebilmektedir.</p>
