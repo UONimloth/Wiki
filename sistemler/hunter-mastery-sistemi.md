@@ -57,10 +57,13 @@
 
 <p>• <strong style="color: #410000;">Level 17: Büyü Ustalığı</strong> -> Mage karakterlerin büyüler ile yaratıklara verdiği hasar miktarını arttırmaktadır ve yaratığın Magic Resistance yeteneğini kullanmasını engellemektedir . Eva+Ins yeteneği ile birlikte kullanılmaktadır.</p>
 <p>Örnek vermek gerekirse 100 Magery yeteneğine sahip bir oyuncu 115 Magic Resistance yeteneğine sahip olan Platinum Dragona Energy Bolt büyüsü ile 26 yerine 19 hasar verebilmektedir. ( 7 hasar azaltımı magic resistance kaynaklıdır )</p>
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/pTSQzhtEdCSeZSHJjAByxsv3rkRfJIZ8Q8TLsKH3.png)
 <p>Oyuncunun Eva+Ins yetenekleri 100 olması durumunda ise bu hasar 31 e yükselecektir. </p>
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/fE8WSdEbEZOh4LyCYzNLlGTq6dIon5P8T6FqEpz3.png)
 <p>Oyuncunun Hunter Mastery seviyesi 17 den yüksekse bu hasar 52 ye yükselecektir.</p>
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ouQRrGCIRCBb8N92t6TClZ1AhPekZFDFw6HYfls1.png)
 <p>Oluşan 21 hasarlık fark oyuncunun ek Eva+Ins bonusu ve yaratığın Magic Resistance yeteneğini kullanamaması kaynaklıdır</p>
 
