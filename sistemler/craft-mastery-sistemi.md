@@ -24,13 +24,14 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CuOJ6IGpgbHQxA7AgFk940pxgXZCutd5QFQP125s.png)
 <h2>Craft Master Vendor Menüsü</h2>
-<p>Craft Master Vendor’a çift tıklandığınınızda, aşağıdaki gibi bir menü açılır. Bu menüde üç farklı sekme bulunmaktadır:</p>
+<p>Craft Master Vendor’a çift tıklandığınızda, aşağıdaki gibi bir menü açılır. Bu menüde üç farklı sekme bulunmaktadır:</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/W9eIt59kSYhEq2rfCf2NcDseCnKb2WaSc1vtx3OR.png)
 
 <h2>Mastery</h2>
 <p>Mastery sekmesinde, mevcut Craft Mastery seviyenizi ve bir sonraki seviyeye geçmek için gereken XP miktarını görebilirsiniz. Eğer yeterli XP’ye sahipseniz, <strong style="color: #410000;">Seviye Atla</strong> butonu aktif olacaktır. Bu butona tıklayarak bir üst seviyeye geçebilirsiniz.</p>
-
+<p>Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle dair bilgi mesajı da verilmektedir.</p>
+	
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CgXOwsyFuu8ZM3dbI9rYkX0eC6v6UMO7k9GbMZYi.png)
 
 <h2>Ödüller</h2>
@@ -56,11 +57,11 @@
 <h2>XP Aktar</h2>
 <p>Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <strong style="color: #410000;">XP Aktar</strong> butonuna basıldığında, bir XP Deed çantaya düşer.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/sem36yf1Az6HLk8bbe2bEU2DNR1bozgK7tcRadFX.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/kIfBavz39rjSd8bjPwSGYFwUTYiHA3CBuJK5dteJ.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/VJhyZe4QqG9HzmgL7r1rV1BuQ9tfJmtWLOq4GCGf.png)
 <h2>Seviye Sınırı</h2>
-<p>Craft Mastery Sistemi’nde maksimum seviye 20'dir. Ancak oyuncular, 20. Seviyeyi tamamladıktan sonra da görev alabilir ve XP kazanmaya devam edebilirler. Bu, oyunculara craft becerilerini geliştirmeye devam etme fırsatı sunar.</p>
+<p>Craft Mastery Sistemi’nde maksimum seviye 25'dir. Ancak, 25. Seviyeyi tamamladıktan sonra da görev alabilir ve XP kazanmaya devam edebilirsiniz. Bu, size craft becerilerini geliştirmeye devam etme fırsatı sunar.</p>
 
 <strong style="color: #410000;">Ustalığa Giden Yolda Sen de Yerini Al!</strong>
 <p>Zanaatın kalbindeki sırları keşfet, efsanevi aletlerin ustası ol ve Nimloth’un dört bir yanındaki ustalar arasında yerini al.</p>
