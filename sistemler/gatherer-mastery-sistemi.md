@@ -38,10 +38,12 @@
 <p><strong>Seviyelere göre ödüller şu şekildedir:</strong></p>
 <p>• <strong style="color: #410000;">Level 2: Özel Balık Yakalama </strong> -> Fishing Pole yardımı ile <a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Special Fish</a> yakalayabilirsiniz.</p>
 <p>• <strong style="color: #410000;">Level 6: Yew-Oak Pole Kullanımı</strong> -> Yew ve Oak Fishing Pole kullanarak <a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Exotic Fish</a> yakalayabilir ve ek balık yakalama şansı kazanırsınız.</p>
-<p>• <strong style="color: #410000;">Level 10</strong>: Golden Tool Kullanımı</p>
-<p>• <strong style="color: #410000;">Level 14</strong>: Tohum Düşme Şansı</p>
-<p>• <strong style="color: #410000;">Level 17</strong>: Gatherer's Belt</p>
-<p>• <strong style="color: #410000;">Level 20</strong>: Pack Binek Kullanımı</p>
+<p>• <strong style="color: #410000;">Level 10: Golden Tool Kullanımı</strong> -> Golden Tool’ları kullanabilir ve toplama işlemleri sırasında daha fazla materyal elde etme şansı elde edersiniz.</p>
+<p>• <strong style="color: #410000;">Level 14: Tohum Düşme Şansı</strong> -> Farming yeteneğiniz ile bitkileri toplarken tohum elde etme şansı kazanırsınız.</p>
+<p>• <strong style="color: #410000;">Level 17: Gatherer's Apron</strong> -> <a href="https://uo-nimloth.net/wiki/uretimtoplayici/gatherers-apron" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer's Apron</a> kullanabilme yetkinliği kazanırsınız. Apronu kullandığınız süre boyunca +100 taşıma kapasitesi elde edersiniz.</p>
+<p>• <strong style="color: #410000;">Level 20: Pack Binek Kullanımı</strong></p>
+
+
 
 <h2>XP Aktar</h2>
 <p>Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <strong style="color: #410000;">XP Aktar</strong> butonuna basıldığında, bir XP Deed çantaya düşer.</p>
