@@ -44,7 +44,7 @@
 <p>• <strong style="color: #410000;">Level 20: Pack Binek Kullanımı</strong> -> <a href="https://uo-nimloth.net/wiki/binekler/pack-binekler" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Pack bineklere</a> binebilirsiniz. Böylece daha fazla malzemeyi daha efektif şekilde taşıyabilirsiniz.</p>
 <p>• <strong style="color: #410000;">Level 21: Gem Bulma Şansı</strong> -> Gold Pickaxe ile <a href="https://uo-nimloth.net/wiki/sistemler/mining-vein" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> maden damarlarını</a> işlerken değerli taş bulma şansı kazanırsınız.
 <p>• <strong style="color: #410000;">Level 22: Verimli Kullanım</strong> -> Alet kullanım ustalığınız artar. Böylece kullandığınız aletler daha yavaş eskir.</p>
-<p>• <strong style="color: #410000;">Level 23: Toplu Sulama</strong> -> Watering Can kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz.</p>
+<p>• <strong style="color: #410000;">Level 23: Toplu Sulama</strong> -> <a href="https://uo-nimloth.net/wiki/uretimtoplayici/watering-can" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Watering Can</a> kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz.</p>
 <p>• <strong style="color: #410000;">Level 24: Kusursuz Toplama</strong> -> Materyal toplama işlemlerinde %100 başarı şansına sahip olursunuz ve toplama sırasında başarısız olma ihtimali ortadan kalkar.</p>
 <p>• <strong style="color: #410000;">Level 25: Hızlı Toplama</strong> -> Materyal toplama süreniz kısalır ve kaynakları daha hızlı şekilde elde edebilirsiniz.</p>
 	
