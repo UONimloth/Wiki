@@ -45,8 +45,8 @@
 <p>•	<strong style="color: #410000;">Level 6: Golem (Blueprint)</strong> -> Golem üretimi için gereken Blueprint'i elde edersiniz.</p>
 <p>•	<strong style="color: #410000;">Level 10: Tracker's Spyglass (Blueprint)</strong> -> Golem üretimi için gereken Blueprint'i elde edersiniz.</p>
 <p>•	<strong style="color: #410000;">Level 14: Ship Crafting Tool</strong> -> Gemi üretimi için gereken Ship Crafting Tool'u elde edersiniz.</p>
-<p>•	<strong style="color: #410000;">Level 17: House Crafting Tool</strong> -> Ev üretimi için gereken Ship Crafting Tool'u elde edersiniz.</p>
-<p>•	<strong style="color: #410000;">Level 20</strong>: Telchar's Might</p>
+<p>•	<strong style="color: #410000;">Level 17: House Crafting Tool</strong> -> Ev üretimi için gereken House Crafting Tool'u elde edersiniz.</p>
+<p>•	<strong style="color: #410000;">Level 20: Telchar's Might</strong></p>
 
 <h2>XP Aktar</h2>
 <p>Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <strong style="color: #410000;">XP Aktar</strong> butonuna basıldığında, bir XP Deed çantaya düşer.</p>
