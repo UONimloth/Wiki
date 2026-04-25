@@ -8,9 +8,7 @@
 
 <h2>Üretim</h2>
 <p>Watering Can, Tinker yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:</p>
-
 <p>• 5 Iron Ingot</p>
 <p>• 10 Silver Ingot</p>
 <p>• 100 Tinkering yeteneği gerekmektedir.</p>
-
-Ayrıca üretim için bir Blueprint zorunludur.
+<p>Ayrıca üretim için bir Blueprint gerekmektedir.</p>
