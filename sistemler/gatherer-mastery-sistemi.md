@@ -42,8 +42,9 @@
 <p>• <strong style="color: #410000;">Level 14: Tohum Düşme Şansı</strong> -> Farming yeteneğiniz ile bitkileri toplarken tohum elde etme şansı kazanırsınız.</p>
 <p>• <strong style="color: #410000;">Level 17: Gatherer's Apron</strong> -> <a href="https://uo-nimloth.net/wiki/uretimtoplayici/gatherers-apron" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer's Apron</a> kullanabilme yetkinliği kazanırsınız. Apronu kullandığınız süre boyunca +100 taşıma kapasitesi elde edersiniz.</p>
 <p>• <strong style="color: #410000;">Level 20: Pack Binek Kullanımı</strong> -> <a href="https://uo-nimloth.net/wiki/binekler/pack-binekler" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Pack bineklere</a> binebilirsiniz. Böylece daha fazla malzemeyi daha efektif şekilde taşıyabilirsiniz.</p>
+<p>• <strong style="color: #410000;">Level 21: Gem Bulma Şansı</strong> -> Gold Pickaxe ile <a href="https://uo-nimloth.net/wiki/sistemler/mining-vein" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> maden damarlarını</a> işlerken değerli taş bulma şansı kazanırsınız.
 
-
+	
 
 
 <h2>XP Aktar</h2>
