@@ -23,6 +23,9 @@
 <p>Eşyayı kullandıktan sonra kendinizi hedef aldığınızda, karakterinizin 2 kare çevresinde bulunan size ait bitkiler, 1 saniye aralıklarla otomatik olarak sulanır.</p>
 <p>Bu yöntem, özellikle yoğun ekim alanlarında büyük kolaylık sağlar.</p>
 
+<p>Watering Can ile yapılan sulamalarda başarısızlık ihtimali yoktur.</p>
+<p>Şartlar sağlandığı sürece her sulama işlemi kesin olarak başarılı olur.</p>
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/14tWPfx4DnJlx0QH7Y375jkI1Z4cFWvdhKX0JzZC.gif)
 
 <h2>Dikkat Edilmesi Gerekenler</h2>
@@ -39,3 +42,6 @@
 
 <h2>Kullanım Gereksinimleri</h2>
 <p>Watering Can kullanımı için <a href="https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer Mastery</a> seviyenizin 24 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.</p>
+
+<p>Watering Can, farming sürecinizi hızlandırmak ve daha kontrollü bir üretim yapmak isteyen oyuncular için vazgeçilmez bir araçtır.</p>
+<p>Toprağınızı hazırlayın, bitkilerinizi büyütün ve verimliliğinizi en üst seviyeye çıkarın</p>
