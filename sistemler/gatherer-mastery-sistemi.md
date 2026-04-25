@@ -36,7 +36,7 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/JNd5OUQUEBhunkoevrGwQvbnilhxHczkh2gIx9sq.png)
 
 <p><strong>Seviyelere göre ödüller şu şekildedir:</strong></p>
-<p>• <strong style="color: #410000;">Level 2: Özel Balık Yakalama </strong> -> Fishing Pole yardımı ile ( <a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Special Fish </a> )</p>
+<p>• <strong style="color: #410000;">Level 2: Özel Balık Yakalama </strong> -> Fishing Pole yardımı ile ( <a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Special Fish </a> )'leri yakalayabilirsiniz.</p>
 <p>• <strong style="color: #410000;">Level 6</strong>: Yew-Oak Pole Kullanımı (<a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Exotic Fish </a> )</p>
 <p>• <strong style="color: #410000;">Level 10</strong>: Golden Tool Kullanımı</p>
 <p>• <strong style="color: #410000;">Level 14</strong>: Tohum Düşme Şansı</p>
