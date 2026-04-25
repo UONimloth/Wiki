@@ -51,12 +51,12 @@
 <h2>XP Aktar</h2>
 <p>Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <strong style="color: #410000;">XP Aktar</strong> butonuna basıldığında, bir XP Deed çantaya düşer.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/fm8fgsINJrOJXSr5OuEIQEzdGYOaTB6RsIZZ9OdN.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gXu0vSVf4EdiNuwuR9kXAEa7T9Q5dICc7JVMtPrf.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mf1WRxXMIyE5g2Kh3YlQTnfTatHyQTV32P6UKEUl.png)
 
 <h2>Seviye Sınırı</h2>
-<p>Gatherer Mastery Sistemi’nde maksimum seviye 20’dir. Ancak oyuncular, 20. seviyeye ulaştıktan sonra da görev almaya ve XP kazanmaya devam edebilirler. Bu, oyunculara toplama becerilerini geliştirmeye devam etme fırsatı sunar.</p>
+<p>Gatherer Mastery Sistemi’nde maksimum seviye 20’dir. Ancak, 20. seviyeye ulaştıktan sonra da görev almaya ve XP kazanmaya devam edebilirsiniz. Bu, toplama becerilerini geliştirmeye devam etme fırsatı sunar.</p>
 
 <strong style="color: #410000;">Doğanın Ustası Olmak Senin Elinde!</strong>
 
