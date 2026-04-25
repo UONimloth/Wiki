@@ -26,20 +26,22 @@
 <h2>Craft Master Vendor Menüsü</h2>
 <p>Craft Master Vendor’a çift tıklandığınınızda, aşağıdaki gibi bir menü açılır. Bu menüde üç farklı sekme bulunmaktadır:</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/GquFB7G2Ky2Rzl0hAJYJOEmmDBmfXZxj7bw0IZ3w.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/W9eIt59kSYhEq2rfCf2NcDseCnKb2WaSc1vtx3OR.png)
+
 <h2>Mastery</h2>
 <p>Mastery sekmesinde, mevcut Craft Mastery seviyenizi ve bir sonraki seviyeye geçmek için gereken XP miktarını görebilirsiniz. Eğer yeterli XP’ye sahipseniz, <strong style="color: #410000;">Seviye Atla</strong> butonu aktif olacaktır. Bu butona tıklayarak bir üst seviyeye geçebilirsiniz.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CEvDirotbPUZAEvd8t9FQip0QuOd7a2WXwFhEZQg.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CgXOwsyFuu8ZM3dbI9rYkX0eC6v6UMO7k9GbMZYi.png)
+
 <h2>Ödüller</h2>
 <p>Ödüller sekmesinde, Craft Mastery seviyelerine göre alabileceğiniz ödülleri görebilirsiniz. Her ödülün yanında bir kilit simgesi veya tik işareti bulunur. Ödüller alınmadıysa ödül kutusu üzerinde kilit, alındıysa tik işareti gösterilir.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/RVcEK3EdiG4VQsQmAdDZZDvv6wLJumustQnZjQHO.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/17FN1BAKag1ZMNLt2krGy0pVgog54toIKonPoQNd.png)
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Wf2aHW6ByY0NHDx4OaT4FYzc3Uc4UoKw1VmdaAiJ.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/xRO2fGh0rvCDwdYJepWQYDFQw1rOMCbrLvdFmBNT.png)
 
 <p><strong>Seviyelere göre ödüller şu şekildedir:</strong></p>
-<p>• <strong style="color: #410000;">Level 2</strong>: Yew Bow (Blueprint)</p>
+<p>• <strong style="color: #410000;">Level 2: Yew Bow (Blueprint)</strong> -> Yew Bow üretimi için gereken Yew Bow blueprint </p>
 <p>•	<strong style="color: #410000;">Level 6</strong>: Golem (Blueprint)</p>
 <p>•	<strong style="color: #410000;">Level 10</strong>: Tracker's Spyglass (Blueprint)</p>
 <p>•	<strong style="color: #410000;">Level 14</strong>: Ship Crafting Tool</p>
