@@ -67,7 +67,7 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ouQRrGCIRCBb8N92t6TClZ1AhPekZFDFw6HYfls1.png)
 <p>Oluşan 21 hasarlık fark oyuncunun ek Eva+Ins bonusu ve yaratığın Magic Resistance yeteneğini kullanamaması kaynaklıdır</p>
 
-<p>• Level 20: Perfect Shot+ -> Bow türü silahlarda aktif olan Perfect Shot bonusu, silahın baz hasarının 3 katı kadar hasar vermenizi sağlamaktadır. Perfect Shot+ bonusu ise bu hasarı 4 katına çıkartmaktadır.</strong></p>
+<p>• <strong style="color: #410000;">Level 20: Perfect Shot+</strong> -> Bow türü silahlarda aktif olan Perfect Shot bonusu, silahın baz hasarının 3 katı kadar hasar vermenizi sağlamaktadır. Perfect Shot+ bonusu ise bu hasarı 4 katına çıkartmaktadır.</strong></p>
 
 <h2>Seviye Sınırı</h2>
 <p>Hunter Mastery Sistemi’nde maksimum seviye 20’dir. Oyuncular 20. seviyeyi tamamladıktan sonra görev almaya devam edebilirler</p>
