@@ -11,7 +11,10 @@
 <p>• 5 Iron Ingot</p>
 <p>• 10 Silver Ingot</p>
 <p>• 100 Tinkering yeteneği gerekmektedir.</p>
-<p>Ayrıca üretim için bir Blueprint gerekmektedir.</p>
+<p>Ayrıca üretim için bir <a href="https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Blueprint</a> gerekmektedir.</p>
 
 <h2>Blueprint Elde Etme</h2>
 <p>Watering Can Pickaxe üretiminde kullanılan Blueprint; Tinker Vendorlarından alınan görevler aracılığıyla elde edilebilmektedir.</p>
+
+<h2>Kullanım & Gereksinimler</h2>
+<p>Watering Can kullanımı için <a href="https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer Mastery</a> seviyenizin 24 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.</p>
