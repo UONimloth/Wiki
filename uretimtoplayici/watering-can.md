@@ -16,5 +16,17 @@
 <h2>Blueprint Elde Etme</h2>
 <p>Watering Can Pickaxe üretiminde kullanılan Blueprint; Tinker Vendorlarından alınan görevler aracılığıyla elde edilebilmektedir.</p>
 
-<h2>Kullanım & Gereksinimler</h2>
+<h2>Kullanım Gereksinimleri</h2>
 <p>Watering Can kullanımı için <a href="https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer Mastery</a> seviyenizin 24 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.</p>
+
+<h2>Kullanım Şekilleri</h2>
+
+<p>Watering Can’i iki farklı şekilde kullanabilirsiniz:</p>
+
+<p>•  Direkt Bitkiyi Seçerek
+<p>Eşyayı kullandıktan sonra sulamak istediğiniz bitkiyi hedef alabilirsiniz.</p>
+<p>Eğer seçtiğiniz bitki size aitse ve sulanmaya uygunsa, sulama işlemi anında gerçekleşir.</p>
+
+<p>•  Kendinizi Seçerek (Alan Sulama)
+<p>Eşyayı kullandıktan sonra kendinizi hedef aldığınızda, karakterinizin 2 kare çevresinde bulunan size ait bitkiler, 1 saniye aralıklarla otomatik olarak sulanır.</p>
+<p>Bu yöntem, özellikle yoğun ekim alanlarında büyük kolaylık sağlar.</p>
