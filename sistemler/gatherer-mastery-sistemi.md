@@ -22,18 +22,18 @@
 <h2>Gatherer Master Vendor Menüsü</h2>
 <p>Gatherer Master Vendor’a çift tıklandığınınızda, aşağıdaki gibi bir menü açılır. Bu menüde üç farklı sekme bulunmaktadır:</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/iBlhO8U6tOiFljE7YVNfgO5pTjf6ex8aZeChNAPx.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mDMo8VCjRbUHllAe3A8UFZW18DsXAjTPBE6eFqU2.png)
 <h2>Mastery</h2>
 <p>Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye geçmek için gereken XP miktarını görebilirsiniz. Eğer yeterli XP’ye sahipseniz, <strong style="color: #410000;">Seviye Atla</strong> butonu aktif olacaktır. Bu butona tıklayarak bir üst seviyeye geçebilirsiniz.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/iIczlNUQZ2gyfs1rYr8IUzmiFMjW18m6CBGjgvlh.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/UA0PdWsiiIKD9huKcRzKSHKt6P9QwnsMzjPPtllJ.png)
 
 <h2>Ödüller</h2>
 <p>Ödüller sekmesinde, Gatherer Mastery seviyelerine göre alabileceğiniz ödülleri görebilirsiniz. Her ödülün yanında bir kilit simgesi veya tik işareti bulunur. Ödüller alınmadıysa ödül kutusu üzerinde kilit, alındıysa tik işareti gösterilir.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/80kd9DUcefq2gJlynMCzQs9llKsDukfmXKVftrrX.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/yPkRUUBXmOSQyqoTslwxsCedIuPWTQirrLBGVmx3.png)
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZEBzCjZa3KaxmSKYENl5bbxbQ8SQ5vSOekLBTK2J.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/JNd5OUQUEBhunkoevrGwQvbnilhxHczkh2gIx9sq.png)
 
 <p><strong>Seviyelere göre ödüller şu şekildedir:</strong></p>
 <p>• <strong style="color: #410000;">Level 2</strong>: Özel Balık Yakalama ( <a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Special Fish </a> )</p>
