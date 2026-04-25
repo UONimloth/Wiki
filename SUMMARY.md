@@ -58,6 +58,7 @@
   * [Üretim&Toplayıcı](uretimtoplayici/README.md)
     * [Oak Fishing Pole](uretimtoplayici/oak-fishing-pole.md)
     * [Yew Fishing Pole](uretimtoplayici/yew-fishing-pole.md)
+    * [Watering Can](uretimtoplayici/watering-can.md)
     * [Gatherer's Apron](uretimtoplayici/gatherers-apron.md)
     * [Silver Hatchet](uretimtoplayici/silver-hatchet.md)
     * [Gold Hatchet](uretimtoplayici/gold-hatchet.md)
