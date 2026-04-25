@@ -42,20 +42,20 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/5Rn2txJs7ZU82f4l4l01doxQNtnLLKdwsnJJCM6i.png)
 
 <strong>Seviyelere göre ödüller şu şekildedir:</strong>
-<p>• Level 2: Yakın Dövüş Ustalığı -> Melee silahlar ile yaratıklara vurduğunuz hasar miktarını 2 katına çıkartır. Bunun yanı sıra yaratıklardan aldığınız hasar miktarını da ciddi oranda düşürür</p>
+<p>• <strong style="color: #410000;">Level 2: Yakın Dövüş Ustalığı</strong> -> Melee silahlar ile yaratıklara vurduğunuz hasar miktarını 2 katına çıkartır. Bunun yanı sıra yaratıklardan aldığınız hasar miktarını da ciddi oranda düşürür</p>
 <p>Örnek vermek gerekirse 100 armorlu bir oyuncu yaratıktan gelen hasar miktarını 10 azaltmaktadır. Hunter Mastery seviyesi 2 den yüksekse bu rakam 2 katına yani 20'ye çıkmaktadır.</p>
 <p>Ayrıca eğer oyuncuda kalkan varsa normal şartlarda def miktarı 10'dan 30'a çıkmaktadır. Hunter Mastery seviyesi 2 den yüksekse azaltacağı hasar miktarı 20'den 80'e çıkmaktadır.</p>
 
-<p>• Level 6: Tuzak Tecrübesi -> Remove Trap ile tuzakları açmayı başaramadığınızda tuzağın %33 ihtimalle tetiklenmemesini sağlar.</p>
+<p>• <strong style="color: #410000;">Level 6: Tuzak Tecrübesi</strong> -> Remove Trap ile tuzakları açmayı başaramadığınızda tuzağın %33 ihtimalle tetiklenmemesini sağlar.</p>
 
-<p>• Level 10: Wand Kullanımı -> Wand kullanarak büyüleri cast etmeinizi sağlar. Wand kullanımı şu an için aktif değildir, yakın zamandaki bir güncelleme ile aktif edilecektir.</p>
+<p>• <strong style="color: #410000;">Level 10: Wand Kullanımı</strong> -> Wand kullanarak büyüleri cast etmeinizi sağlar. Wand kullanımı şu an için aktif değildir, yakın zamandaki bir güncelleme ile aktif edilecektir.</p>
 
-<p>• Level 14: Yew Lute Kullanımı -> Discordance yeteneği ile yaratıkları mayıştırırken çeşitli ek özellikler kazanmanızı sağlar.</p>
+<p>• <strong style="color: #410000;">Level 14: Yew Lute Kullanımı</strong> -> Discordance yeteneği ile yaratıkları mayıştırırken çeşitli ek özellikler kazanmanızı sağlar.</p>
 <p>Yetenek seviyesi 100 olan bir oyuncu Lute kullandığında bir yaratığın tüm statları ve armor değerini en fazla %25 azaltabilmektedir. Yew Lute kullanımı ile bu rakam %30 a çıkmaktadır.</p>
 <p>Bunun yanı sıra yaratıklar normal Lute ile 4 kareden mayıştırılabilmekteyken, Yew Lute ile bu mesafe 5 kareye çıkmaktadır.</p>
 <p>Son olarak da Yew Lute kullanımı ile birlikte Discordance yeteneğinin başarısız olma şansı azalacaktır.</p>
 
-<p>• Level 17: Büyü Ustalığı -> Mage karakterlerin büyüler ile yaratıklara verdiği hasar miktarını arttırmaktadır ve yaratığın Magic Resistance yeteneğini kullanmasını engellemektedir . Eva+Ins yeteneği ile birlikte kullanılmaktadır.</p>
+<p>• <strong style="color: #410000;">Level 17: Büyü Ustalığı</strong> -> Mage karakterlerin büyüler ile yaratıklara verdiği hasar miktarını arttırmaktadır ve yaratığın Magic Resistance yeteneğini kullanmasını engellemektedir . Eva+Ins yeteneği ile birlikte kullanılmaktadır.</p>
 <p>Örnek vermek gerekirse 100 Magery yeteneğine sahip bir oyuncu 115 Magic Resistance yeteneğine sahip olan Platinum Dragona Energy Bolt büyüsü ile 26 yerine 19 hasar verebilmektedir. ( 7 hasar azaltımı magic resistance kaynaklıdır )</p>
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/pTSQzhtEdCSeZSHJjAByxsv3rkRfJIZ8Q8TLsKH3.png)
 <p>Oyuncunun Eva+Ins yetenekleri 100 olması durumunda ise bu hasar 31 e yükselecektir. </p>
