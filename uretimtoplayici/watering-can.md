@@ -15,13 +15,15 @@
 
 <h2>Kullanım Şekilleri</h2>
 <p>Watering Can’i iki farklı şekilde kullanabilirsiniz:</p>
-<p>•  Direkt Bitkiyi Seçerek
+<p>• <strong style="color: #410000;">Direkt Bitkiyi Seçerek</strong>
 <p>Eşyayı kullandıktan sonra sulamak istediğiniz bitkiyi hedef alabilirsiniz.</p>
 <p>Eğer seçtiğiniz bitki size aitse ve sulanmaya uygunsa, sulama işlemi anında gerçekleşir.</p>
 
-<p>•  Kendinizi Seçerek (Alan Sulama)
+<p>• <strong style="color: #410000;">Kendinizi Seçerek (Alan Sulama)</strong>
 <p>Eşyayı kullandıktan sonra kendinizi hedef aldığınızda, karakterinizin 2 kare çevresinde bulunan size ait bitkiler, 1 saniye aralıklarla otomatik olarak sulanır.</p>
 <p>Bu yöntem, özellikle yoğun ekim alanlarında büyük kolaylık sağlar.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/14tWPfx4DnJlx0QH7Y375jkI1Z4cFWvdhKX0JzZC.gif)
 
 <h2>Blueprint Elde Etme</h2>
 <p>Watering Can Pickaxe üretiminde kullanılan Blueprint; Tinker Vendorlarından alınan görevler aracılığıyla elde edilebilmektedir.</p>
