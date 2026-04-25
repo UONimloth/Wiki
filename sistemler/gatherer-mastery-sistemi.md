@@ -56,7 +56,7 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mf1WRxXMIyE5g2Kh3YlQTnfTatHyQTV32P6UKEUl.png)
 
 <h2>Seviye Sınırı</h2>
-<p>Gatherer Mastery Sistemi’nde maksimum seviye 20’dir. Ancak, 20. seviyeye ulaştıktan sonra da görev almaya ve XP kazanmaya devam edebilirsiniz. Bu, toplama becerilerini geliştirmeye devam etme fırsatı sunar.</p>
+<p>Gatherer Mastery Sistemi’nde maksimum seviye 25’dir. Ancak, 25. seviyeye ulaştıktan sonra da görev almaya ve XP kazanmaya devam edebilirsiniz. Bu, toplama becerilerini geliştirmeye devam etme fırsatı sunar.</p>
 
 <strong style="color: #410000;">Doğanın Ustası Olmak Senin Elinde!</strong>
 
