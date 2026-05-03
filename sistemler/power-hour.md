@@ -80,7 +80,6 @@
 <td>%50</td>
 </tr>
 <tr>
-<tr>
 <td>Anatomy</td>
 <td>%50</td>
 <td>%100</td>
