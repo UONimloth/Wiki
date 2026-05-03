@@ -72,14 +72,14 @@
 </thead>
 <tbody>
 <tr>
-<td>Anatomy, Item ID, ArmsLore, Peacemaking, Detecting Hidden, Evaluating Inteligence, Healing, Fishing, Hiding, Inscription, Magery, Inscription, Poisoning, Archery, Spirit Speak, Veterinary, Macefighting, Fencing, Wrestling, Meditation</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Alchemy, Animal Lore, Cooking, Veterinary, Lumberjacking, Stealth, Remove Trap</td>
+<td>Alchemy</td>
 <td>%25</td>
 <td>%50</td>
+</tr>
+<tr>
+<td>Anatomy</td>
+<td>%50</td>
+<td>%100</td>
 </tr>
 
 	
