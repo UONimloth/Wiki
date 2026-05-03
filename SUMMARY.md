@@ -48,6 +48,7 @@
 
 * [Eşyalar](esyalar/README.md)
   * [Silahlar](esyalar/silahlar.md)
+  * [Gemstone'lar](esyalar/gemstonelar.md)
   * [İksirler](iksirler/README.md)
     * [Salve Potion](iksirler/salve-potion.md)
     * [Vaccine Potion](iksirler/vaccine-potion.md)
