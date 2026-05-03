@@ -72,7 +72,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Anatomy, Item ID, ArmsLore, Peacemaking, Detecting Hidden, Evaluating Inteligence, Healing, Fishing, Hiding, </td>
+<td>Anatomy, Item ID, ArmsLore, Peacemaking, Detecting Hidden, Evaluating Inteligence, Healing, Fishing, Hiding, Inscription, Magery, Inscription, Poisoning, Archery, Spirit Speak, Veterinary, Macefighting, Fencing, Wrestling, Meditation</td>
 <td>%50</td>
 <td>%100</td>
 </tr>
