@@ -11,7 +11,7 @@
 <h2>Gem Kesme İşlemi</h2>
 <p>Gemstone’ları üretimlerde kullanabilmek için önce kesilerek işlenmeleri gerekir.</p>
 <p>Bu işlem, Jeweler vendorlarının yakınlarında bulunan Gemcutting Table aracılığıyla yapılır.</p>
-<p>Gemcutting Table’ı kullanabilmek için Craft Mastery seviyenizin 25 olması gerekmektedir.</p>
+<p>Gemcutting Table’ı kullanabilmek için <strong style="color: #410000;">Craft Mastery seviyenizin 25 olması gerekmektedir.</p>
 <p>Yeterli seviyeye ulaştığınızda, işlenmemiş taşlarınızı keserek üretime hazır hâle getirebilirsiniz.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ohf6ga2HgHJo7fonwYZA7ZgGOCv6atclYSocZ2Xj.png)
