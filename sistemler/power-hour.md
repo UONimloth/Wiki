@@ -163,8 +163,8 @@
 </tr>
 <tr>
 <td>Lockpicking</td>
-<td>%16</td>
-<td>%33</td>
+<td>%25</td>
+<td>%50</td>
 </tr>
 </table>
 </tbody>
