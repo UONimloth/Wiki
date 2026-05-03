@@ -71,9 +71,8 @@
 </tr>
 </thead>
 <tbody>
-
 <tr>
-<td>Alchemy</td>
+<td>Alchemy, Animal Lore, Cookinbg </td>
 <td>%25</td>
 <td>%50</td>
 </tr>
@@ -82,12 +81,13 @@
 <td>%50</td>
 <td>%100</td>
 </tr>
+	
 <tr>
-
-<td>Animal Lore</td>
+<td>ArmsLore</td>
 <td>%25</td>
 <td>%50</td>
 </tr>
+	
 </table>
 </tbody>
 </table>
