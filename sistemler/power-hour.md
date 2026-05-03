@@ -28,3 +28,68 @@
 <p>Takvim ekranı üzerinden her güne ait planlanmış Power Hour saatlerini görüntüleyebilir, gelişim sürecinizi bu zaman dilimlerine göre planlayabilirsiniz.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/WGRDdPVKecILgRpBAptQcmtkvQzPJ2snEeaOmCdi.gif)
+
+
+<style>
+.zebra-table tbody tr:nth-child(odd) {
+    background-color: #a79f8a; /* açık bej */
+}
+
+.zebra-table tbody tr:nth-child(even) {
+    background-color: #9a927d; /* biraz daha koyu */
+}
+
+.zebra-table th {
+    background-color: #8a826e; /* header rengi */
+    color: #2b1f1a; /* koyu kahve yazı */
+}
+
+.zebra-table td {
+    color: #2b1f1a;
+}
+
+.zebra-table td, .zebra-table th {
+    padding: 6px;
+    border: 1px solid #7a725f;
+}
+	
+	.zebra-table th {
+    cursor: pointer;
+}
+
+.zebra-table th:hover {
+    background-color: #756d5a;
+}
+</style>
+
+<table class="zebra-table" border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr>
+<th>Yetenek</th>
+<th>Baz Skill Gain</th>
+<th>PH Skill Gain</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Alchemy</td>
+<td>%25</td>
+<td>%50</td>
+</tr>
+<tr>
+<td>Anatomy</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+
+<td>Animal Lore</td>
+<td>%25</td>
+<td>%50</td>
+</tr>
+</table>
+</tbody>
+</table>
+
+<p></p>
