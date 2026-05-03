@@ -10,12 +10,12 @@
 
 <h2>Önemli Bilgiler</h2>
 <p>• Power Hour süresince skill gain oranları 2x olarak uygulanır.</p>
-<p>• Her gün <strong style="color: #410000;">2 farklı zaman diliminde</strong> aktif olur ve her aktivasyon 2 saat</strong> sürer</p>
+<p>• Her gün <strong style="color: #410000;">2 farklı zaman diliminde</strong> aktif olur ve her aktivasyon <strong style="color: #410000;">2 saat</strong> sürer</p>
 <p>• Günlük <strong style="color: #410000;">toplamda 4 saat</strong> boyunca Power Hour avantajından faydalanabilirsiniz.</p>
 <p>• Başlangıç ve bitiş saatleri sistem duyuruları ile bildirilir.</p>
 
 <h2>Hariç Tutulan Yetenekler</h2>
-<p>Animal Taming ve Stealing yetenekleri Power Hour bonusundan etkilenmez.</p>
+<p><strong style="color: #410000;">Animal Taming ve Stealing</strong> yetenekleri Power Hour bonusundan etkilenmez.</p>
 <p>Bu yeteneklerde standart skill gain oranları geçerliliğini korur.</p>
 
 <h2>Power Hour Saatlerini Nasıl Görüntüleyebilirsiniz?</h2>
