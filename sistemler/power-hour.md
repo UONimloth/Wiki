@@ -72,7 +72,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Alchemy, Animal Lore, Cookinbg </td>
+<td>Alchemy, Animal Lore, Cooking, Veterinary, Lumberjacking, Stealth, Remove Trap</td>
 <td>%25</td>
 <td>%50</td>
 </tr>
