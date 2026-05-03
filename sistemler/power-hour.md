@@ -1,283 +1,30 @@
 # Power Hour
 
 <div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/NwqAGsJftxVwT52xvVJs8ABntaSb80ooOcSq8ckO.png" 
+  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/t1U2U3R7nnHC1zUN1K109JPpbjIOQibDy38Jufsk.png" 
        alt="Nimloth Logo">
 </div>
 
 <p>Power Hour, belirli saatlerde aktif olan ve karakter gelişiminizi hızlandıran özel bir oyun içi uygulamadır. </p>
 <p>Aktif olduğu süre boyunca karakterinizin skill gelişim oranı geçici olarak artırılır ve bu sayede yeteneklerinizi çok daha hızlı geliştirebilirsiniz.</p>
 
-<p>Power Hour başladığında sistem tarafından otomatik bir duyuru geçilir ve uygulama <strong style="color: #410000;">2 saat boyunca</strong> aktif kalır. Bu süre içerisinde desteklenen yeteneklerde <strong style="color: #410000;">skill gain oranı normal değerinin 2 katına</strong> çıkar.</p>
+<p>Power Hour başladığında sistem tarafından otomatik bir duyuru geçilir ve uygulama <strong style="color: #410000;">2 saat boyunca</strong> aktif kalır. Bu süre içerisinde desteklenen tüm yeteneklerde skill gain oranı normal değerinin <strong style="color: #410000;">2 katına</strong> çıkar.</p>
 
 <p>Örnek vermek gerekirse;</p>
 <p>Normal şartlarda bir craft yeteneğinde ortalama 6 denemede 1 skill gain alınıyorsa, Power Hour aktifken bu oran yaklaşık 3 denemede 1 skill gain olacak şekilde çalışır.</p>
 
 <h2>Önemli Bilgiler</h2>
-<p>• Power Hour süresince skill gain oranları 2x olarak uygulanır.</p>
-<p>• Her gün <strong style="color: #410000;">2 farklı zaman diliminde</strong> aktif olur ve her aktivasyon <strong style="color: #410000;">2 saat</strong> sürer</p>
-<p>• Günlük <strong style="color: #410000;">toplamda 4 saat</strong> boyunca Power Hour avantajından faydalanabilirsiniz.</p>
-<p>• Başlangıç ve bitiş saatleri sistem duyuruları ile bildirilir.</p>
+<p>Power Hour süresince skill gain oranları 2x olarak uygulanır.</p>
+<p>Her gün <strong style="color: #410000;">2 farklı</strong> zaman diliminde aktif olur ve her aktivasyon <strong style="color: #410000;">2 saat</strong> sürer.</p>
+<p>Günlük toplamda <strong style="color: #410000;">4 saat boyunca</strong> Power Hour avantajından faydalanabilirsiniz.</p>
+<p>Başlangıç ve bitiş saatleri sistem duyuruları ile bildirilir.</p>
 
 <h2>Hariç Tutulan Yetenekler</h2>
-<p><strong style="color: #410000;">Animal Taming ve Stealing</strong> yetenekleri Power Hour bonusundan etkilenmez.</p>
+<p>Animal Taming ve Stealing yeteneklerinde Power Hour uygulaması bulunmamaktadır.</p>
 <p>Bu yeteneklerde standart skill gain oranları geçerliliğini korur.</p>
 
 <h2>Power Hour Saatlerini Nasıl Görüntüleyebilirsiniz?</h2>
 <p>Günlük Power Hour saatlerini öğrenmek için oyun içerisindeki Help Menüsü üzerinden yer alan Takvim bölümünü kullanabilirsiniz.</p>
 <p>Takvim ekranı üzerinden her güne ait planlanmış Power Hour saatlerini görüntüleyebilir, gelişim sürecinizi bu zaman dilimlerine göre planlayabilirsiniz.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/WGRDdPVKecILgRpBAptQcmtkvQzPJ2snEeaOmCdi.gif)
-
-
-<style>
-.zebra-table tbody tr:nth-child(odd) {
-    background-color: #a79f8a; /* açık bej */
-}
-
-.zebra-table tbody tr:nth-child(even) {
-    background-color: #9a927d; /* biraz daha koyu */
-}
-
-.zebra-table th {
-    background-color: #8a826e; /* header rengi */
-    color: #2b1f1a; /* koyu kahve yazı */
-}
-
-.zebra-table td {
-    color: #2b1f1a;
-}
-
-.zebra-table td, .zebra-table th {
-    padding: 6px;
-    border: 1px solid #7a725f;
-}
-	
-	.zebra-table th {
-    cursor: pointer;
-}
-
-.zebra-table th:hover {
-    background-color: #756d5a;
-}
-</style>
-
-<table class="zebra-table" border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-<thead>
-<tr>
-<th>Yetenek</th>
-<th>Baz Skill Gain</th>
-<th>PH Skill Gain</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alchemy</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Anatomy</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Animal Lore</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Arms Lore</td>
-<td>%50</td>
-<td>%100</td>
-</tr>	
-<tr>
-<td>Parrying</td>
-<td>%50</td>
-<td>%100</td>
-</tr>	
-<tr>
-<td>Blacksmithing</td>
-<td>%16</td>
-<td>%33</td>
-</tr>
-<tr>
-<td>Bowcraft</td>
-<td>%16</td>
-<td>%33</td>
-</tr>
-<tr>
-<td>Peacemaking</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Carpentry</td>
-<td>%16</td>
-<td>%33</td>
-</tr>
-<tr>
-<td>Cartography</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Cooking</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Detecting Hidden</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Evaluating Intel</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Fishing</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Farming</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Herding</td>
-<td>%16</td>
-<td>%33</td>
-</tr>
-<tr>
-<td>Hiding</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Inscription</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Lockpicking</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Magery</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Magic Resistance</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Tactics</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Snooping</td>
-<td>%8</td>
-<td>%8</td>
-</tr>
-<tr>
-<td>Musicianship</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Poisoning</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Spirit Speak</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Stealing</td>
-<td>%8</td>
-<td>%8</td>
-</tr>
-<tr>
-<td>Tailoring</td>
-<td>%16</td>
-<td>%33</td>
-</tr>
-<tr>
-<td>Animal Taming</td>
-<td>%8</td>
-<td>%8</td>
-</tr>
-<tr>
-<td>Tinkering</td>
-<td>%16</td>
-<td>%33</td>
-</tr>
-<tr>
-<td>Tracking</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Veterinary</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Swordsmanship</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Macefighting</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Fencing</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Wrestling</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Lumberjacking</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Mining</td>
-<td>%16</td>
-<td>%33</td>
-</tr>
-<tr>
-<td>Meditation</td>
-<td>%50</td>
-<td>%100</td>
-</tr>
-<tr>
-<td>Stealth</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-<tr>
-<td>Sailormanship</td>
-<td>%25</td>
-<td>%50</td>
-</tr>
-</table>
-</tbody>
-</table>
-
-<p></p>
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/J4ikHELAPitUJRkoA4ZdWdjaCdsjy8Z2sRQYwuwY.gif)
