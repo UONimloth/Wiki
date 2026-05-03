@@ -90,6 +90,7 @@
     * [Heavy Cannon](cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](diger-esyalar/README.md)
     * [Runebook Linker](diger-esyalar/runebook-linker.md)
+    * [Beeswax](diger-esyalar/beeswax.md)
     * [Silica Crystal](diger-esyalar/silica-crystal.md)
     * [Virtue Stone](diger-esyalar/virtue-stone.md)
     * [Armor Bundler](diger-esyalar/armor-bundler.md)
