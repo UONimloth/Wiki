@@ -1,8 +1,23 @@
 # Gemstonelar
 
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SaRj9qQf38CoRu0OiegN2jldtUORBJ5blIhLMdkT.png)
+
 <p>Gemstone’lar, Nimloth dünyasında çeşitli özel üretimlerde kullanılan değerli taşlardır.</p>
 <p>Özellikle ileri seviye craft tariflerinde önemli bir yere sahip olan bu taşlar, üretim sürecinin vazgeçilmez bileşenlerinden biridir.</p>
 <p>Madencilik yapan oyuncular için oldukça değerli olan Gemstone’lar, doğru işlendiğinde güçlü ve özel eşyaların üretiminde kullanılabilir.</p>
+
+<h2>Mevcut Gemstone Türleri</h2>
+<p>Nimloth dünyasında toplam 9 farklı Gemstone bulunmaktadır:</p>
+<p>• Sapphire</p>
+<p>• Star Sapphire</p>
+<p>• Amber</p>
+<p>• Ruby</p>
+<p>• Citrine</p>
+<p>• Tourmaline</p>
+<p>• Amethyst</p>
+<p>• Emerald</p>
+<p>• Diamond</p>
+<p>Her bir taş, farklı üretim tariflerinde kullanılmakta ve kendi değerine göre önem taşımaktadır.</p>
 
 <h2>Nasıl Elde Edilir?</h2>
 <p>Gemstone’lar, maden cevherlerinden(Mining Vein) yalnızca <strong style="color: #410000;">Gold Pickaxe</strong> kullanılarak elde edilebilir.</p>
@@ -17,18 +32,3 @@
 <h2>Kullanım Alanları</h2>
 <p>Kesilmiş Gemstone’lar, çeşitli özel eşya üretiminde kullanılmaktadır.</p>
 <p>Özellikle takı üretimi için gereken bu taşlar, nadir bulunmaları sebebiyle oldukça değerlidir.</p>
-
-<h2>Mevcut Gemstone Türleri</h2>
-
-<p>Nimloth dünyasında toplam 9 farklı Gemstone bulunmaktadır:</p>
-<p>• Sapphire</p>
-<p>• Star Sapphire</p>
-<p>• Amber</p>
-<p>• Ruby</p>
-<p>• Citrine</p>
-<p>• Tourmaline</p>
-<p>• Amethyst</p>
-<p>• Emerald</p>
-<p>• Diamond</p>
-
-<p>Her bir taş, farklı üretim tariflerinde kullanılmakta ve kendi değerine göre önem taşımaktadır.</p>
