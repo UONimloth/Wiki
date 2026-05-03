@@ -94,6 +94,17 @@
 <td>%50</td>
 <td>%100</td>
 </tr>
+<tr>
+<td>ArmsLore</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Blacksmithing</td>
+<td>%16</td>
+<td>%33</td>
+</tr>
+	
 </table>
 </tbody>
 </table>
