@@ -86,12 +86,12 @@
 <td>%25</td>
 <td>%50</td>
 </tr>
-	
 <tr>
-<td></td>
-<td>%25</td>
+<td>Arms Lore</td>
 <td>%50</td>
-</tr>
+<td>%100</td>
+</tr>	
+
 	
 </table>
 </tbody>
