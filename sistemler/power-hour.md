@@ -11,7 +11,7 @@
 <h2>Önemli Bilgiler</h2>
 <p>• Power Hour süresince skill gain oranları 2x olarak uygulanır.</p>
 <p>• Her gün 2 farklı zaman diliminde aktif olur ve her aktivasyon 2 saat sürer</p>
-<p>• Günlük toplamda 4 saat boyunca Power Hour avantajından faydalanabilirsiniz.</p>
+<p>• Günlük toplamda <strong style="color: #410000;">4 saat</strong> boyunca Power Hour avantajından faydalanabilirsiniz.</p>
 <p>• Başlangıç ve bitiş saatleri sistem duyuruları ile bildirilir.</p>
 
 <h2>Hariç Tutulan Yetenekler</h2>
