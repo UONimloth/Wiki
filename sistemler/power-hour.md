@@ -20,7 +20,7 @@
 <p>Başlangıç ve bitiş saatleri sistem duyuruları ile bildirilir.</p>
 
 <h2>Hariç Tutulan Yetenekler</h2>
-<p>Animal Taming ve Stealing yeteneklerinde Power Hour uygulaması bulunmamaktadır.</p>
+<p>Animal Taming, Stealing ve Snooping yeteneklerinde Power Hour uygulaması bulunmamaktadır.</p>
 <p>Bu yeteneklerde standart skill gain oranları geçerliliğini korur.</p>
 
 <h2>Power Hour Saatlerini Nasıl Görüntüleyebilirsiniz?</h2>
@@ -202,8 +202,39 @@
 <tr>
 <td>Musicianship</td>
 <td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Poisoning</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Archery</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Spirit Speak</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Stealing</td>
+<td>%8</td>
 <td>%8</td>
 </tr>
+<tr>
+<td>Tailoring</td>
+<td>%16</td>
+<td>%33</td>
+</tr>
+<tr>
+<td>Animal Taming</td>
+<td>%8</td>
+<td>%8</td>
+</tr>
+	
 </table>
 </tbody>
 </table>
