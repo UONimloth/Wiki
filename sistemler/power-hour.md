@@ -68,7 +68,6 @@
 <thead>
 <tr>
 <th>Yetenek</th>
-<th>Title</th>
 <th>Baz Skill Gain</th>
 <th>PH Skill Gain</th>
 </tr>
@@ -77,26 +76,22 @@
 
 <tr>
 <td>Alchemy</td>
-<td>Alchemist</td>
 <td>%25</td>
 <td>%50</td>
 </tr>
 <tr>
 <tr>
 <td>Anatomy</td>
-<td>Scholar</td>
 <td>%50</td>
 <td>%100</td>
 </tr>
 <tr>
 <td>Animal Lore</td>
-<td>Naturalist</td>
 <td>%25</td>
 <td>%50</td>
 </tr>
 <tr>
 <td>ItemID</td>
-<td>Merchant</td>
 <td>%50</td>
 <td>%100</td>
 </tr>
