@@ -29,6 +29,8 @@
 <p>Gemcutting Table’ı kullanabilmek için <a href="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ohf6ga2HgHJo7fonwYZA7ZgGOCv6atclYSocZ2Xj.png" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Craft Mastery</a> seviyenizin 25 olması gerekmektedir.</p>
 <p>Yeterli seviyeye ulaştığınızda, işlenmemiş taşlarınızı keserek üretime hazır hâle getirebilirsiniz.</p>
 
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/cyGrplcUwvHngW5NihJoXAhLBHHDhwZSg7inaild.png)
+
 <h2>Kullanım Alanları</h2>
 <p>Kesilmiş Gemstone’lar, çeşitli özel eşya üretiminde kullanılmaktadır.</p>
-<p>Özellikle takı üretimi için gereken bu taşlar, nadir bulunmaları sebebiyle oldukça değerlidir.</p>
+<p>Özellikle çeşitli takıların üretimi için gereken bu taşlar, nadir bulunmaları sebebiyle oldukça değerlidir.</p>
