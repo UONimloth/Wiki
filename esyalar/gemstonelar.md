@@ -1,4 +1,4 @@
-# Gemstone'lar
+# Gemstonelar
 
 <p>Gemstone’lar, Nimloth dünyasında çeşitli özel üretimlerde kullanılan değerli taşlardır.</p>
 <p>Özellikle ileri seviye craft tariflerinde önemli bir yere sahip olan bu taşlar, üretim sürecinin vazgeçilmez bileşenlerinden biridir.</p>
