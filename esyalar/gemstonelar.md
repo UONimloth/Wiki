@@ -14,6 +14,21 @@
 <p>Gemcutting Table’ı kullanabilmek için <a href="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ohf6ga2HgHJo7fonwYZA7ZgGOCv6atclYSocZ2Xj.png" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Craft Mastery</a> seviyenizin 25 olması gerekmektedir.</p>
 <p>Yeterli seviyeye ulaştığınızda, işlenmemiş taşlarınızı keserek üretime hazır hâle getirebilirsiniz.</p>
 
-https://uo-nimloth.net/wiki/sistemler/craft-mastery-sistemi
+<h2>Kullanım Alanları</h2>
+<p>Kesilmiş Gemstone’lar, çeşitli özel eşya üretiminde kullanılmaktadır.</p>
+<p>Özellikle takı üretimi için gereken bu taşlar, nadir bulunmaları sebebiyle oldukça değerlidir.</p>
 
-![]()
+<h2>Mevcut Gemstone Türleri</h2>
+
+<p>Nimloth dünyasında toplam 9 farklı Gemstone bulunmaktadır:</p>
+<p>• Sapphire</p>
+<p>• Star Sapphire</p>
+<p>• Amber</p>
+<p>• Ruby</p>
+<p>• Citrine</p>
+<p>• Tourmaline</p>
+<p>• Amethyst</p>
+<p>• Emerald</p>
+<p>• Diamond</p>
+
+<p>Her bir taş, farklı üretim tariflerinde kullanılmakta ve kendi değerine göre önem taşımaktadır.</p>
