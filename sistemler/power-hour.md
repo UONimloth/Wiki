@@ -119,6 +119,26 @@
 <td>%16</td>
 <td>%33</td>
 </tr>
+<tr>
+<td>Cartography</td>
+<td>%25</td>
+<td>%50</td>
+</tr>
+<tr>
+<td>Cooking</td>
+<td>%25</td>
+<td>%50</td>
+</tr>
+<tr>
+<td>Detecting Hidden</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Detecting Hidden</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
 </table>
 </tbody>
 </table>
