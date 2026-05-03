@@ -81,7 +81,11 @@
 <td>%50</td>
 <td>%100</td>
 </tr>
-
+<tr>
+<td>Animal Lore</td>
+<td>%25</td>
+<td>%50</td>
+</tr>
 	
 <tr>
 <td></td>
