@@ -8,7 +8,3 @@
 <h2>Nasıl Elde Edebilirsiniz?</h2>
 <p>Beeswax, oyun dünyasında yer alan Beekeeper Vendor üzerinden satın alınabilmektedir.</p>
 <p>Düzenli olarak mum ve aydınlatma eşyaları üretmeyi planlıyorsanız, crafting sürecinizin aksamaması adına yeterli miktarda stok bulundurmanız tavsiye edilir.</p>
-
-<h2>Kullanım Alanı</h2>
-<p>Beeswax Candle benzeri çeşitli eşyaların üretiminde kullanılmaktadır</p>
-<p>Üretim tariflerini ilgili crafting menüleri üzerinden görüntüleyebilirsiniz.</p>
