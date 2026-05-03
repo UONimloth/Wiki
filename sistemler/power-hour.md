@@ -135,7 +135,17 @@
 <td>%100</td>
 </tr>
 <tr>
-<td>Detecting Hidden</td>
+<td>Discordance</td>
+<td>%100</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Evaluating Intel</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Healing</td>
 <td>%50</td>
 <td>%100</td>
 </tr>
