@@ -191,6 +191,27 @@
 <td>%50</td>
 <td>%100</td>
 </tr>
+<tr>
+<td>Poisoning</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Spirit Speak</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
+<tr>
+<td>Stealing</td>
+<td>%8</td>
+<td>%8</td>
+</tr>
+<tr>
+<td>Tailoring</td>
+<td>%16</td>
+<td>%33</td>
+</tr>
+	
 </table>
 </tbody>
 </table>
