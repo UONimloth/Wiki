@@ -34,3 +34,6 @@
 <h2>Kullanım Alanları</h2>
 <p>Kesilmiş Gemstone’lar, çeşitli özel eşya üretiminde kullanılmaktadır.</p>
 <p>Özellikle çeşitli takıların üretimi için gereken bu taşlar, nadir bulunmaları sebebiyle oldukça değerlidir.</p>
+
+<p>Madencilik sırasında bulduğunuz her taş, sizi daha değerli üretimlere bir adım daha yaklaştırır.</p>
+<p>Cevher damarlarını keşfedin, taşlarınızı işleyin ve ustalığınızı değerli madenlerle güçlendirin 💎</p>
