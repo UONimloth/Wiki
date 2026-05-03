@@ -20,7 +20,7 @@
 <p>Her bir taş, farklı üretim tariflerinde kullanılmakta ve kendi değerine göre önem taşımaktadır.</p>
 
 <h2>Nasıl Elde Edilir?</h2>
-<p>Gemstone’lar, maden cevherlerinden(Mining Vein) yalnızca <a href="https://uo-nimloth.net/wiki/uretimtoplayici/gold-pickaxe" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gold</a> kullanılarak elde edilebilir.</p>
+<p>Gemstone’lar, maden cevherlerinden(Mining Vein) yalnızca <a href="https://uo-nimloth.net/wiki/uretimtoplayici/gold-pickaxe" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gold Pickaxe</a> kullanılarak elde edilebilir.</p>
 <p>Mining sırasında belirli bir şansla bulunan bu taşlar, ilk elde edildiklerinde Uncut (işlenmemiş) halde bulunurlar. Bu nedenle doğrudan üretimde kullanılamazlar.</p>
 
 <h2>Gem Kesme İşlemi</h2>
