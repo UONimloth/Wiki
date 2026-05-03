@@ -1,5 +1,10 @@
 # Power Hour
 
+<div style="text-align:center;">
+  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/NwqAGsJftxVwT52xvVJs8ABntaSb80ooOcSq8ckO.png" 
+       alt="Nimloth Logo">
+</div>
+
 <p>Power Hour, belirli saatlerde aktif olan ve karakter gelişiminizi hızlandıran özel bir oyun içi uygulamadır. </p>
 <p>Aktif olduğu süre boyunca karakterinizin skill gelişim oranı geçici olarak artırılır ve bu sayede yeteneklerinizi çok daha hızlı geliştirebilirsiniz.</p>
 
@@ -21,3 +26,5 @@
 <h2>Power Hour Saatlerini Nasıl Görüntüleyebilirsiniz?</h2>
 <p>Günlük Power Hour saatlerini öğrenmek için oyun içerisindeki Help Menüsü üzerinden yer alan Takvim bölümünü kullanabilirsiniz.</p>
 <p>Takvim ekranı üzerinden her güne ait planlanmış Power Hour saatlerini görüntüleyebilir, gelişim sürecinizi bu zaman dilimlerine göre planlayabilirsiniz.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/WGRDdPVKecILgRpBAptQcmtkvQzPJ2snEeaOmCdi.gif)
