@@ -3,9 +3,10 @@
 ## Sistemler
 
 * [Sistemler](sistemler/README.md)
-  * [War Zone](sistemler/war-zone.md)
+  * [Power Hour](sistemler/power-hour.md)
   * [Runebook Link](sistemler/runebook-link.md)
   * [Vendor Arama Sistemi](sistemler/vendor-arama-sistemi.md)
+  * [War Zone](sistemler/war-zone.md)
   * [Düello Sistemi](sistemler/duello-sistemi.md)
   * [Donate](sistemler/donate.md)
   * [Hunter Mastery Sistemi](sistemler/hunter-mastery-sistemi.md)
