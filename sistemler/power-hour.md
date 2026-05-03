@@ -91,7 +91,26 @@
 <td>%50</td>
 <td>%100</td>
 </tr>	
-
+<tr>
+<td>Parrying</td>
+<td>%50</td>
+<td>%100</td>
+</tr>	
+<tr>
+<td>Blacksmithing</td>
+<td>%16</td>
+<td>%33</td>
+</tr>
+<tr>
+<td>Bowcraft</td>
+<td>%16</td>
+<td>%33</td>
+</tr>
+<tr>
+<td>Peacemaking</td>
+<td>%50</td>
+<td>%100</td>
+</tr>
 	
 </table>
 </tbody>
