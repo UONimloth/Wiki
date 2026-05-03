@@ -170,9 +170,14 @@
 <td>%100</td>
 </tr>
 <tr>
-<td>Hiding</td>
+<td>Inscription</td>
 <td>%50</td>
 <td>%100</td>
+</tr>
+<tr>
+<td>Lockpicking</td>
+<td>%25</td>
+<td>%50</td>
 </tr>
 </table>
 </tbody>
