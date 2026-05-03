@@ -4,7 +4,7 @@
   <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/t1U2U3R7nnHC1zUN1K109JPpbjIOQibDy38Jufsk.png" 
        alt="Nimloth Logo">
 </div>
-
+<p>
 <p>Power Hour, belirli saatlerde aktif olan ve karakter gelişiminizi hızlandıran özel bir oyun içi uygulamadır. </p>
 <p>Aktif olduğu süre boyunca karakterinizin skill gelişim oranı geçici olarak artırılır ve bu sayede yeteneklerinizi çok daha hızlı geliştirebilirsiniz.</p>
 
