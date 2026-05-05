@@ -255,3 +255,13 @@
 <p>Farklı görsel tasarımlara sahip bu sergileme kılıçları; duvar dekorasyonu, koleksiyon alanları veya özel sergi bölümleri oluşturmak için kullanılabilir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/6f1c52ghbpv00YVdFt9gk3zGSKAfnxNJdUTtMkLh.png)
+
+<strong style="color: #410000;">Platemail Bundles Blueprint Bundle</strong>
+<p>Platemail Bundles Blueprint Bundle, ağır zırh setlerini çok daha pratik şekilde üretmenizi ve kullanmanızı sağlayan özel blueprint paketidir.</p>
+<p>Bu bundle öğrenildiğinde toplam 11 farklı Platemail zırh setine ait, kalkanlı ve kalkansız varyasyonlar dahil olmak üzere özel bundle üretim tariflerinin kilidi açılır.</p>
+<p>Standart üretimlerden farklı olarak bundle sistemi önemli kolaylıklar sunar:</p>
+<p>• Bir zırh setine ait tüm parçalar tek bir eşya olarak üretilir</p>
+<p>• Üretim süreci başarısızlık riski olmadan tamamlanır</p>
+<p>• Vendor satışlarında daha düzenli ve pratik kullanım sağlar</p>
+<p>• Bundle kullanıldığında karakteriniz ilgili zırh setinin tüm parçalarını otomatik olarak kuşanır</p>
+<p>Bu sistem özellikle farklı platemail setlerini sık kullanan oyuncular için hem zaman kazandırır hem de ekipman yönetimini büyük ölçüde kolaylaştırır.</p>
