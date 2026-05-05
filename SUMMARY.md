@@ -90,6 +90,7 @@
     * [Heavy Cannon](cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](diger-esyalar/README.md)
     * [Magic Cloth](diger-esyalar/magic-cloth.md)
+    * [Magic Crystal](diger-esyalar/magic-crystal.md)
     * [Beeswax](diger-esyalar/beeswax.md)
     * [Runebook Linker](diger-esyalar/runebook-linker.md)
     * [Silica Crystal](diger-esyalar/silica-crystal.md)
