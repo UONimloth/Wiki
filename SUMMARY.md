@@ -89,6 +89,7 @@
     * [Normal Cannon](cannonlar/normal-cannon.md)
     * [Heavy Cannon](cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](diger-esyalar/README.md)
+    * [Wizard Cloth](diger-esyalar/wizard-cloth.md)
     * [Magic Crystal](diger-esyalar/magic-crystal.md)
     * [Magic Cloth](diger-esyalar/magic-cloth.md)
     * [Beeswax](diger-esyalar/beeswax.md)
