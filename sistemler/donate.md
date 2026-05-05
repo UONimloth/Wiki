@@ -203,3 +203,11 @@
 <strong style="color: #410000;">Ember Ring</strong>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/eIbB28ZrM1ZBEz5isQnl12tENjM1zbwh8WtGF7hx.gif)
+
+<h2>Blueprint</h2>
+<p>Donate sistemi içerisinde yer alan bir diğer özel içerik ise Blueprintlerdir.</p>
+<p>Donate üzerinden çeşitli Blueprint Bundle paketlerini satın alarak özel eşya tariflerinin üretim kilidini açabilirsiniz.</p>
+<p>Satın aldığınız blueprint paketleri size bundle olarak teslim edilir. Dilerseniz bu bundle’ı hesabınızdaki istediğiniz karakter ile kullanarak ilgili üretim tariflerini o karakter için öğrenebilirsiniz.</p>
+</p>Blueprintler, karakterlerinize özel üretim uzmanlıkları kazandırmanıza olanak tanırken aynı zamanda size daha fazla crafting seçeneği sunar.</p>
+
+</p>Donate sistemi üzerinden elde edebileceğiniz Blueprintler şu şekildedir:</p>
