@@ -282,3 +282,10 @@
 <p>Farklı tasarım seçenekleri sayesinde hem işlevsel hem de görsel açıdan daha kişisel bir denizcilik deneyimi yaşayabilirsiniz.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/bM9len05TXw0Grovzx2nhSqib76lccpnKTMT1bI9.png)
+
+<strong style="color: #410000;">Pirate Ships Blueprint Bundle</strong>
+<p>Pirate Ships Blueprint Bundle, denizlerde daha tehditkâr ve karizmatik bir görünüm sunan özel korsan temalı gemi üretimlerini içerir.</p>
+<p>Bu bundle öğrenildiğinde toplam 27 farklı Pirate Ship üretim tarifinin kilidi açılır.</p>
+<p>Bu gemiler, klasik gemilerden farklı olarak korsan estetiğine sahip özel tasarımlar içerir. Her ne kadar korsan temalı bir görünüme sahip olsalar da, kullanım açısından herhangi bir kısıtlama bulunmaz ve tüm oyuncular tarafından kullanılabilir.</p>
+<p>Denizlerde daha dikkat çekici bir görünüm elde etmek isteyen kaptanlar için güçlü bir görsel alternatif sunar.</p>
+
