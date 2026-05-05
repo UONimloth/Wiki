@@ -89,6 +89,7 @@
     * [Normal Cannon](cannonlar/normal-cannon.md)
     * [Heavy Cannon](cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](diger-esyalar/README.md)
+    * [Roll of String](diger-esyalar/roll-of-string.md)
     * [Wizard Cloth](diger-esyalar/wizard-cloth.md)
     * [Magic Crystal](diger-esyalar/magic-crystal.md)
     * [Wizard Crystal](diger-esyalar/wizard-crystal.md)
