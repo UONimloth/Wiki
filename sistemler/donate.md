@@ -232,8 +232,6 @@
 
 <p>Farklı tasarım ve temalara sahip bu heykeller, evlerinize, bahçelerinize veya özel sergileme alanlarınıza estetik bir görünüm kazandırmak için kullanılabilir.</p>
 
-<p>Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.</p>
-
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CEDYuyOLztkfM9FDn8p9a5IIkhtE8hV0xSegajdS.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mvfAFRzCa421UK9d2e3cFtkjGGJbVoQp88LRa335.gif)
@@ -246,6 +244,14 @@
 
 <p>Farklı tasarım ve görsel detaylara sahip bu dekoratif kalkanlar; ev duvarlarınızı, lonca alanlarınızı veya sergileme bölümlerinizi daha etkileyici hale getirmek için kullanılabilir.</p>
 
-<p>Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.</p>
-
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/N632nsOqnwXtVcyEZJm0s2UBeo5RmgC4Mg3NUIiK.png)
+
+<strong style="color: #410000;">Display Swords Blueprint Bundle</strong>
+
+<p>Display Swords Blueprint Bundle, yaşam alanlarınıza savaşçı ruhunu yansıtmanızı sağlayan özel dekoratif kılıç üretimlerini içerir.</p>
+
+<p>Bu bundle öğrenildiğinde toplam 9 farklı Display Sword üretim tarifinin kilidi açılır.</p>
+
+<p>Farklı görsel tasarımlara sahip bu sergileme kılıçları; duvar dekorasyonu, koleksiyon alanları veya özel sergi bölümleri oluşturmak için kullanılabilir.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/6f1c52ghbpv00YVdFt9gk3zGSKAfnxNJdUTtMkLh.png)
