@@ -232,8 +232,20 @@
 
 <p>Farklı tasarım ve temalara sahip bu heykeller, evlerinize, bahçelerinize veya özel sergileme alanlarınıza estetik bir görünüm kazandırmak için kullanılabilir.</p>
 
-Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.
+<p>Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CEDYuyOLztkfM9FDn8p9a5IIkhtE8hV0xSegajdS.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mvfAFRzCa421UK9d2e3cFtkjGGJbVoQp88LRa335.gif)
+
+<strong style="color: #410000;">Deco Shields Blueprint Bundle</strong>
+
+<p>Deco Shields Blueprint Bundle, yaşam alanlarınızı güç ve prestij temasıyla süslemenizi sağlayan özel dekoratif kalkan üretimlerini içerir.</p>
+
+<p>Bu bundle öğrenildiğinde toplam 13 farklı Decorative Shield üretim tarifinin kilidi açılır.</p>
+
+<p>Farklı tasarım ve görsel detaylara sahip bu dekoratif kalkanlar; ev duvarlarınızı, lonca alanlarınızı veya sergileme bölümlerinizi daha etkileyici hale getirmek için kullanılabilir.</p>
+
+<p>Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/N632nsOqnwXtVcyEZJm0s2UBeo5RmgC4Mg3NUIiK.png)
