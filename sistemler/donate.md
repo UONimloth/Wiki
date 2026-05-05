@@ -221,7 +221,7 @@
 
 <p>Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.</p>
 
-
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/bBE2bUrd2WltlXUzhXrEcOvbcswCfYFKyL7iO8WE.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/F2e2lsWCZFrJc5jero7D1sghcA4LT5Lf81LounNX.gif)
 
@@ -232,7 +232,7 @@
 
 <p>Farklı tasarım ve temalara sahip bu heykeller, evlerinize, bahçelerinize veya özel sergileme alanlarınıza estetik bir görünüm kazandırmak için kullanılabilir.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CEDYuyOLztkfM9FDn8p9a5IIkhtE8hV0xSegajdS.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/PHfUQKXssi5ai3H9q1yJbbdaY70joCg8gepM4d5Y.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mvfAFRzCa421UK9d2e3cFtkjGGJbVoQp88LRa335.gif)
 
@@ -266,7 +266,7 @@
 <p>• Bundle kullanıldığında karakteriniz ilgili zırh setinin tüm parçalarını otomatik olarak kuşanır</p>
 <p>Bu sistem özellikle farklı platemail setlerini sık kullanan oyuncular için hem zaman kazandırır hem de ekipman yönetimini büyük ölçüde kolaylaştırır.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Yy6uDZrDRsP97VcCGwpFzcB44XoizQ7OVho4U08X.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/W5pIckwbqWKSsvFeeBxZ5I5HiNEZ2Dfciq32jfHN.png)
 
 <strong style="color: #410000;">Lamp Posts Blueprint Bundle</strong>
 <p>Lamp Posts Blueprint Bundle, yaşam alanlarınızı aydınlatmak ve dış mekan dekorasyonlarınızı zenginleştirmek için özel aydınlatma üretimlerini içerir.</p>
