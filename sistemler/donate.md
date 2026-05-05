@@ -274,7 +274,7 @@
 <p>Farklı renk seçenekleri sayesinde ev çevrelerinizi, bahçelerinizi, yollarınızı veya özel dekorasyon alanlarınızı istediğiniz atmosfere uygun şekilde düzenleyebilirsiniz.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y3YJUxH25njCXaT2gkx4wJLfmCAxUSzNoZW7FyyX.gif)
-
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZSKgyWclqeEs1f1xZdjrdnY4kTupcXz3IY1ZsQkt.png)![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/uf4NvYNSMlsCHkTuFJVRcV5sjtki1qcer7c9A01Z.png)
 <strong style="color: #410000;">Paintable Ships Blueprint Bundle</strong>
 <p>Paintable Ships Blueprint Bundle, denizlerde kendi tarzınızı yansıtmanıza olanak sağlayan özel gemi üretimlerini içerir.</p>
 <p>Bu bundle öğrenildiğinde toplam 18 farklı boyanabilir gemi üretim tarifinin kilidi açılır.</p>
@@ -289,3 +289,5 @@
 <p>Bu gemiler, klasik gemilerden farklı olarak korsan estetiğine sahip özel tasarımlar içerir. Her ne kadar korsan temalı bir görünüme sahip olsalar da, kullanım açısından herhangi bir kısıtlama bulunmaz ve tüm oyuncular tarafından kullanılabilir.</p>
 <p>Denizlerde daha dikkat çekici bir görünüm elde etmek isteyen kaptanlar için güçlü bir görsel alternatif sunar.</p>
 
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/tkHynMWsIuqP86aFx9sNGdTQiEwSat5uVXwuPaqW.png)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/RnxQufaLS0Gx7nIeG4HekvtPr2tXgD1FVHRjikgo.png)
