@@ -4,7 +4,7 @@
 
 <p>Magic Crystal, büyü enerjisi ile şekillenmiş, özel ekipman üretimlerinde kullanılan değerli bir crafting malzemesidir.</p>
 
-<p>Faster Casting Robe üretiminde kullanılan temel bileşenlerden biridir. İçerisinde yoğunlaştırılmış büyüsel enerji barındıran bu kristal, gelişmiş büyü ekipmanlarının üretiminde önemli bir rol oynar.</p>
+<p><a href="https://uo-nimloth.net/wiki/robelar/faster-casting-robe" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Faster Casting Robe</a>  üretiminde kullanılan temel bileşenlerden biridir. İçerisinde yoğunlaştırılmış büyüsel enerji barındıran bu kristal, gelişmiş büyü ekipmanlarının üretiminde önemli bir rol oynar.</p>
 
 <h2>Nasıl Elde Edebilirsiniz?</h2>
 
