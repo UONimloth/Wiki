@@ -267,3 +267,10 @@
 <p>Bu sistem özellikle farklı platemail setlerini sık kullanan oyuncular için hem zaman kazandırır hem de ekipman yönetimini büyük ölçüde kolaylaştırır.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Yy6uDZrDRsP97VcCGwpFzcB44XoizQ7OVho4U08X.png)
+
+<strong style="color: #410000;">Lamp Posts Blueprint Bundle</strong>
+<p>Lamp Posts Blueprint Bundle, yaşam alanlarınızı aydınlatmak ve dış mekan dekorasyonlarınızı zenginleştirmek için özel aydınlatma üretimlerini içerir.</p>
+<p>Bu bundle öğrenildiğinde 6 farklı renkte Lamp Post üretim tarifinin kilidi açılır.</p>
+<p>Farklı renk seçenekleri sayesinde ev çevrelerinizi, bahçelerinizi, yollarınızı veya özel dekorasyon alanlarınızı istediğiniz atmosfere uygun şekilde düzenleyebilirsiniz.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y3YJUxH25njCXaT2gkx4wJLfmCAxUSzNoZW7FyyX.gif)
