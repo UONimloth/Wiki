@@ -3,7 +3,7 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/LAaqeNqrM0COdILXtDy9Iu2PrhWuehGtVEYL1hyY.png)
 
 <p>Magic Cloth, güçlü büyü odaklı ekipmanların üretiminde kullanılan özel bir crafting malzemesidir.</p>
-<p>Bu nadir kumaş parçası, özellikle Faster Casting Robe üretiminde kullanılmaktadır. İçerisinde barındırdığı büyüsel enerji sayesinde standart kumaşlardan farklı özellikler taşır ve gelişmiş robe üretimlerinin temel bileşenlerinden biri olarak kabul edilir.</p>
+<p>Bu nadir kumaş parçası, Faster Casting Robe üretiminde kullanılmaktadır. İçerisinde barındırdığı büyüsel enerji sayesinde standart kumaşlardan farklı özellikler taşır ve gelişmiş robe üretimlerinin temel bileşenlerinden biri olarak kabul edilir.</p>
 
 <h2>Nasıl Elde Edebilirsiniz?</h2>
 
