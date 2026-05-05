@@ -210,4 +210,17 @@
 <p>Satın aldığınız blueprint paketleri size bundle olarak teslim edilir. Dilerseniz bu bundle’ı hesabınızdaki istediğiniz karakter ile kullanarak ilgili üretim tariflerini o karakter için öğrenebilirsiniz.</p>
 <p>Blueprintler, karakterlerinize özel üretim uzmanlıkları kazandırmanıza olanak tanırken aynı zamanda size daha fazla crafting seçeneği sunar.</p>
 
-</p>Donate sistemi üzerinden elde edebileceğiniz Blueprintler şu şekildedir:</p>
+<p>Donate sistemi üzerinden elde edebileceğiniz Blueprintler şu şekildedir:</p>
+
+<strong style="color: #410000;">Animal Lamps</strong>
+<p>Animal Lamps Blueprint Bundle, yaşam alanlarınızı daha özgün hale getirmenizi sağlayan özel dekoratif aydınlatma üretimlerini içerir.</p>
+
+<p>Bu bundle öğrenildiğinde toplam 6 farklı Animal Lamp üretim tarifinin kilidi açılır.</p>
+
+<p>Her biri farklı hayvan temalarına sahip olan bu lambalar, ev dekorasyonunuza karakter katmak ve yaşam alanlarınıza farklı bir atmosfer kazandırmak için tasarlanmıştır.</p>
+
+<p>Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/aFN3NL73RiykXrypSGD84aUCTxm7HJxQpikgk0cq.png)
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/F2e2lsWCZFrJc5jero7D1sghcA4LT5Lf81LounNX.gif)
