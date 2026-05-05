@@ -274,3 +274,11 @@
 <p>Farklı renk seçenekleri sayesinde ev çevrelerinizi, bahçelerinizi, yollarınızı veya özel dekorasyon alanlarınızı istediğiniz atmosfere uygun şekilde düzenleyebilirsiniz.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y3YJUxH25njCXaT2gkx4wJLfmCAxUSzNoZW7FyyX.gif)
+
+<strong style="color: #410000;">Paintable Ships Blueprint Bundle</strong>
+<p>Paintable Ships Blueprint Bundle, denizlerde kendi tarzınızı yansıtmanıza olanak sağlayan özel gemi üretimlerini içerir.</p>
+<p>Bu bundle öğrenildiğinde toplam 18 farklı boyanabilir gemi üretim tarifinin kilidi açılır.</p>
+<p>Bu özel gemiler, standart gemilerden farklı olarak renk özelleştirmesine uygundur. Böylece geminizi dilediğiniz renklere boyayarak denizlerde kendinize özgü bir görünüm oluşturabilirsiniz.</p>
+<p>Farklı tasarım seçenekleri sayesinde hem işlevsel hem de görsel açıdan daha kişisel bir denizcilik deneyimi yaşayabilirsiniz.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/bM9len05TXw0Grovzx2nhSqib76lccpnKTMT1bI9.png)
