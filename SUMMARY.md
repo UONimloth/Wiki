@@ -91,6 +91,7 @@
   * [Diğer Eşyalar](diger-esyalar/README.md)
     * [Wizard Cloth](diger-esyalar/wizard-cloth.md)
     * [Magic Crystal](diger-esyalar/magic-crystal.md)
+    * [Wizard Crystal](diger-esyalar/wizard-crystal.md)
     * [Magic Cloth](diger-esyalar/magic-cloth.md)
     * [Beeswax](diger-esyalar/beeswax.md)
     * [Runebook Linker](diger-esyalar/runebook-linker.md)
