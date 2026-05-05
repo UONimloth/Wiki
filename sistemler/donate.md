@@ -265,3 +265,5 @@
 <p>• Vendor satışlarında daha düzenli ve pratik kullanım sağlar</p>
 <p>• Bundle kullanıldığında karakteriniz ilgili zırh setinin tüm parçalarını otomatik olarak kuşanır</p>
 <p>Bu sistem özellikle farklı platemail setlerini sık kullanan oyuncular için hem zaman kazandırır hem de ekipman yönetimini büyük ölçüde kolaylaştırır.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Yy6uDZrDRsP97VcCGwpFzcB44XoizQ7OVho4U08X.png)
