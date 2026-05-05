@@ -290,4 +290,5 @@
 <p>Denizlerde daha dikkat çekici bir görünüm elde etmek isteyen kaptanlar için güçlü bir görsel alternatif sunar.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/tkHynMWsIuqP86aFx9sNGdTQiEwSat5uVXwuPaqW.png)
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/RnxQufaLS0Gx7nIeG4HekvtPr2tXgD1FVHRjikgo.png)
