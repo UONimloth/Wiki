@@ -9,7 +9,7 @@
 
 <p>Wizard Cloth çeşitli oyun içi içeriklerden elde edilebilmektedir:</p>
 
-<p>• Yaratıklardan düşebilir</p>
+<p>• +12 ve +15 seviyesindeki yaratıklardan düşebilir</p>
 <p>• Dungeon Chest ödüllerinden çıkabilir</p>
 <p>• Hazine sistemi üzerinden kazanabilirsiniz</p>
 
