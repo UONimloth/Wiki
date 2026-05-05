@@ -212,7 +212,7 @@
 
 <p>Donate sistemi üzerinden elde edebileceğiniz Blueprintler şu şekildedir:</p>
 
-<strong style="color: #410000;">Animal Lamps</strong>
+<strong style="color: #410000;">Animal Lamps Blueprint Bundle</strong>
 <p>Animal Lamps Blueprint Bundle, yaşam alanlarınızı daha özgün hale getirmenizi sağlayan özel dekoratif aydınlatma üretimlerini içerir.</p>
 
 <p>Bu bundle öğrenildiğinde toplam 6 farklı Animal Lamp üretim tarifinin kilidi açılır.</p>
@@ -224,3 +224,14 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/aFN3NL73RiykXrypSGD84aUCTxm7HJxQpikgk0cq.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/F2e2lsWCZFrJc5jero7D1sghcA4LT5Lf81LounNX.gif)
+
+<strong style="color: #410000;">Sculptures Blueprint Bundle</strong>
+<p>Sculptures Blueprint Bundle, yaşam alanlarınızı zenginleştirecek özel dekoratif heykel üretimlerini içeren kapsamlı bir blueprint paketidir.</p>
+
+<p>Bu bundle öğrenildiğinde toplam 16 farklı Sculpture üretim tarifinin kilidi açılır.</p>
+
+<p>Farklı tasarım ve temalara sahip bu heykeller, evlerinize, bahçelerinize veya özel sergileme alanlarınıza estetik bir görünüm kazandırmak için kullanılabilir.</p>
+
+Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mvfAFRzCa421UK9d2e3cFtkjGGJbVoQp88LRa335.gif)
