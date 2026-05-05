@@ -234,4 +234,6 @@
 
 Blueprint’i kullandığınız karakter, ilgili tariflere kalıcı olarak erişim kazanır ve gerekli materyallere sahip olduğunda üretimlerini crafting menüsü üzerinden gerçekleştirebilir.
 
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/CEDYuyOLztkfM9FDn8p9a5IIkhtE8hV0xSegajdS.png)
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mvfAFRzCa421UK9d2e3cFtkjGGJbVoQp88LRa335.gif)
