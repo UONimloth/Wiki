@@ -292,3 +292,12 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/tkHynMWsIuqP86aFx9sNGdTQiEwSat5uVXwuPaqW.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/RnxQufaLS0Gx7nIeG4HekvtPr2tXgD1FVHRjikgo.png)
+
+<strong style="color: #410000;">Lanterns Blueprint Bundle</strong>
+<p>Lanterns Blueprint Bundle, yaşam alanlarınıza sıcak ve atmosferik bir aydınlatma kazandıran özel fener üretimlerini içerir.</p>
+<p>Bu bundle öğrenildiğinde toplam 16 farklı Lantern üretim tarifinin kilidi açılır.</p>
+<p>Farklı tasarım ve ışık stillerine sahip bu lantern seçenekleri; ev dekorasyonlarında, bahçelerde, etkinlik alanlarında veya özel sergileme bölgelerinde kullanılabilir.</p>
+<p>Dekorasyonlarınıza daha canlı ve karakteristik bir görünüm kazandırmak isteyen oyuncular için geniş bir aydınlatma çeşitliliği sunar.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/a9yspp0VAOmkYkJfIHyKLMcYt2qfhDJiaZqYlwgp.gif)
+
