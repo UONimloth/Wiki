@@ -299,5 +299,5 @@
 <p>Farklı tasarım ve ışık stillerine sahip bu lantern seçenekleri; ev dekorasyonlarında, bahçelerde, etkinlik alanlarında veya özel sergileme bölgelerinde kullanılabilir.</p>
 <p>Dekorasyonlarınıza daha canlı ve karakteristik bir görünüm kazandırmak isteyen oyuncular için geniş bir aydınlatma çeşitliliği sunar.</p>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/a9yspp0VAOmkYkJfIHyKLMcYt2qfhDJiaZqYlwgp.gif)
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/vmVOk106wNXaffkA0YTooP3E0lqwx6J0Td8B3oY3.gif)
 
