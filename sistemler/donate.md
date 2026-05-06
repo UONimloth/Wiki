@@ -320,4 +320,5 @@
 <p>Bu boya yalnızca cloth türündeki eşyalar üzerinde kullanılabilir ve metal ya da farklı materyal türlerine uygulanamaz.</p>
 <p>Toplam 10 kullanım hakkına sahiptir</p>
 <p>Daha sade, temiz ve dikkat çekici bir görünüm elde etmek isteyen oyuncular için özel özelleştirme seçeneklerinden biridir.</p>
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y62ddK6ednatdoqQG4GoeO8HuJmuv1fkrEQvAmea.png)
