@@ -301,3 +301,23 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/vmVOk106wNXaffkA0YTooP3E0lqwx6J0Td8B3oY3.gif)
 
+<h2>Boyalar</h2>
+<p>Boyalar, standart Rare Dye sistemi içerisinde yer almayan özel renk seçeneklerine erişmenizi sağlayan donate içerikleridir.</p>
+<p>Bu boyalar sayesinde karakter ekipmanlarınızı, kıyafetlerinizi ve çeşitli eşyalarınızı daha farklı ve özgün renklerle özelleştirebilirsiniz.</p>
+<p>Rare Dye sistemi dışında bulunan bu özel renkler, dekorasyon ve karakter görünümüne önem veren oyuncular için ek kişiselleştirme seçenekleri sunmaktadır.</p>
+<p>Donate sistemi üzerinden elde edilen boyalar tamamen görsel amaçlıdır ve oyun dengesi üzerinde herhangi bir avantaj sağlamaz.</p>
+
+<strong style="color: #410000;">Black Cloth Dye</strong>
+<p>Black Cloth Dye, kumaş ekipman ve kıyafetlerinizi özel siyah tonlarıyla boyamanızı sağlayan özel bir boya seçeneğidir.</p>
+<p>Bu boya yalnızca cloth türündeki eşyalar üzerinde kullanılabilir ve metal ya da farklı materyal türlerine uygulanamaz.</p>
+<p>Toplam 10 kullanım hakkına sahiptir</p>
+<p>Karakter görünümünü daha karanlık ve özgün bir stile dönüştürmek isteyen oyuncular için popüler özelleştirme seçeneklerinden biridir.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/c1tA9PZ7DbtqJYfQbtWgDK1awDN0lkDihVIsU2Gh.png)
+
+<strong style="color: #410000;">White Cloth Dye</strong>
+<p>White Cloth Dye, kumaş ekipman ve kıyafetlerinizi özel beyaz tonlarıyla boyamanızı sağlayan özel bir boya seçeneğidir.</p>
+<p>Bu boya yalnızca cloth türündeki eşyalar üzerinde kullanılabilir ve metal ya da farklı materyal türlerine uygulanamaz.</p>
+<p>Toplam 10 kullanım hakkına sahiptir</p>
+<p>Daha sade, temiz ve dikkat çekici bir görünüm elde etmek isteyen oyuncular için özel özelleştirme seçeneklerinden biridir.</p>
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y62ddK6ednatdoqQG4GoeO8HuJmuv1fkrEQvAmea.png)
