@@ -52,6 +52,8 @@
   * [Gemstonelar](esyalar/gemstonelar.md)
   * [Takılar](takilar/README.md)
     * [Necklace of Spellchant](takilar/necklace-of-spellchant.md)
+    * [Necklace of Spellchant (Kopya)](takilar/necklace-of-spellchant-kopya-nc8v.md)
+    * [Bracelet of Clarity](takilar/bracelet-of-clarity.md)
     * [Night Eye](takilar/night-eye.md)
   * [İksirler](iksirler/README.md)
     * [Salve Potion](iksirler/salve-potion.md)
