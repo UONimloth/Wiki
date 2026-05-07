@@ -51,6 +51,7 @@
   * [Silahlar](esyalar/silahlar.md)
   * [Gemstonelar](esyalar/gemstonelar.md)
   * [Takılar](takilar/README.md)
+    * [Night Eye](takilar/night-eye.md)
   * [İksirler](iksirler/README.md)
     * [Salve Potion](iksirler/salve-potion.md)
     * [Vaccine Potion](iksirler/vaccine-potion.md)
