@@ -334,8 +334,8 @@
 <p>Evlere ait Blueprintler, yaşam alanınızı standart yapıların ötesine taşımanızı sağlayan özel konut tasarımlarına erişim sunar.</p>
 <p>Bu blueprint’ler sayesinde klasik ev seçeneklerinden farklı mimari detaylara sahip, daha özgün ve prestijli yapılara sahip olabilirsiniz.</p>
 <p>Şu anda donate sistemi içerisinde 3 farklı özel ev blueprint’i bulunmaktadır:</p>
-<p><a href="https://uo-nimloth.net/wiki/large-houses/large-marble-house-with-terrace" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Marble House with Terrace</a></p>
-<p><a href="https://uo-nimloth.net/wiki/large-houses/wood-and-plaster-manor-with-courtyard" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Wood and Plaster Manor with Courtyard</a></p>
-<p><a href="https://uo-nimloth.net/wiki/large-houses/stone-manor-with-courtyard" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Stone Manor with Courtyard</a></p>
+<p>• <a href="https://uo-nimloth.net/wiki/large-houses/large-marble-house-with-terrace" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Marble House with Terrace</a></p>
+<p>• <a href="https://uo-nimloth.net/wiki/large-houses/wood-and-plaster-manor-with-courtyard" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Wood and Plaster Manor with Courtyard</a></p>
+<p>• <a href="https://uo-nimloth.net/wiki/large-houses/stone-manor-with-courtyard" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Stone Manor with Courtyard</a></p>
 
 <p>Her blueprint, kendine özgü mimari tasarım ve yerleşim planına sahiptir. Teras, avlu ve gelişmiş yaşam alanları gibi ek detaylar sayesinde hem dekorasyon hem de kullanım açısından daha zengin bir konut deneyimi sunar.</p>
