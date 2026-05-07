@@ -339,3 +339,15 @@
 <p>• <a href="https://uo-nimloth.net/wiki/large-houses/stone-manor-with-courtyard" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Stone Manor with Courtyard</a></p>
 
 <p>Her blueprint, kendine özgü mimari tasarım ve yerleşim planına sahiptir. Teras, avlu ve gelişmiş yaşam alanları gibi ek detaylar sayesinde hem dekorasyon hem de kullanım açısından daha zengin bir konut deneyimi sunar.</p>
+
+<h2>Diğer</h2>
+<strong style="color: #410000;">Urn of Absolution</strong>
+<p>Urn of Absolution, karakterinizin suç geçmişini temizlemenize yardımcı olan özel bir donate eşyasıdır.</p>
+<p>Bu eşya kullanıldığında karakterinizin mevcut kill sayısından 15 düşülür ve aynı anda karma değeri tamamen sıfırlanır.</p>
+<p>Özellikle yüksek kill sayısına sahip karakterler için hızlı bir dengeleme imkânı sunan bu eşya, karakter durumunuzu yeniden düzenlemenize yardımcı olur.</p>
+
+<strong style="color: #410000;">Castle + Guild</strong>
+<p>Castle + Guild, lonca yapılanmanızı hızlı ve pratik şekilde oluşturabilmeniz için hazırlanmış özel bir donate paketidir.</p>
+<p>Bu paket sayesinde gerekli süreçlerle vakit kaybetmeden kısa sürede kendi loncanızı kurabilir ve lonca faaliyetlerinize başlayabilirsiniz.</p>
+<p>Özellikle organize şekilde oyuna başlamak isteyen gruplar veya mevcut ekiplerini hızlıca yapılandırmak isteyen oyuncular için büyük kolaylık sağlar.</p>
+<p>Paket, lonca kurulum sürecini hızlandırarak oyuncuların doğrudan topluluk organizasyonu ve oyun içi hedeflerine odaklanmasına olanak tanır.</p>
