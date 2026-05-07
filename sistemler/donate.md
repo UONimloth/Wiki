@@ -369,4 +369,4 @@
 
 <p>Runebook Copier, mevcut runebook içeriklerinizi hızlı ve pratik şekilde çoğaltmanızı sağlayan kullanışlı bir yardımcı eşyadır.</p>
 <p>Bu eşya Magery vendorlardan da de elde edilebilir. Ancak donate sistemi üzerinden edinilen versiyonu önemli bir avantaj sunar.</p>
-<p>Normal sürümde runebook kopyalama işlemi sırasında ek ücret ödemeniz gerekirken, <strong style="color: #410000;">donate üzerinden alınan Runebook Copier ile kopyalama işlemlerinizi herhangi bir ek ücret ödemeden gerçekleştirebilirsiniz.</strong></p>
+<p>Normal sürümde <a href="https://uo-nimloth.net/wiki/sistemler/runebook-kopyalama" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> runebook kopyalama</a> işlemi sırasında ek ücret ödemeniz gerekirken, <strong style="color: #410000;">donate üzerinden alınan Runebook Copier ile kopyalama işlemlerinizi herhangi bir ek ücret ödemeden gerçekleştirebilirsiniz.</strong></p>
