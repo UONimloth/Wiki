@@ -345,7 +345,6 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/3g5Bmqu8WePnSsIdZVlR3KWobeY9kgy0h1J7Zqg2.png)
 
-
 <p>Urn of Absolution, karakterinizin suç geçmişini temizlemenize yardımcı olan özel bir donate eşyasıdır.</p>
 <p>Bu eşya kullanıldığında karakterinizin mevcut kill sayısından 15 düşülür ve aynı anda karma değeri tamamen sıfırlanır.</p>
 <p>Özellikle yüksek kill sayısına sahip karakterler için hızlı bir dengeleme imkânı sunan bu eşya, karakter durumunuzu yeniden düzenlemenize yardımcı olur.</p>
@@ -355,3 +354,12 @@
 <p>Bu paket sayesinde gerekli süreçlerle vakit kaybetmeden kısa sürede kendi loncanızı kurabilir ve lonca faaliyetlerinize başlayabilirsiniz.</p>
 <p>Özellikle organize şekilde oyuna başlamak isteyen gruplar veya mevcut ekiplerini hızlıca yapılandırmak isteyen oyuncular için büyük kolaylık sağlar.</p>
 <p>Paket, lonca kurulum sürecini hızlandırarak oyuncuların doğrudan topluluk organizasyonu ve oyun içi hedeflerine odaklanmasına olanak tanır.</p>
+
+<strong style="color: #410000;">Nimloth Point Shifter</strong>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/i4J43NF96zPIsnGoccd9OY3IKO68T7kswPLYWj7a.png)
+
+<p>Nimloth Point Shifter, sahip olduğunuz Nimloth Point bakiyesini dilediğiniz oyuncuya veya karaktere transfer etmenizi sağlayan özel bir donate eşyasıdır.</p>
+<p>Bu eşya sayesinde puanlarınızı farklı karakterleriniz arasında paylaşabilir ya da başka bir oyuncuya aktarabilirsiniz.</p>
+<p>Özellikle hesap içi puan düzenlemesi yapmak, farklı karakterlerinizin ihtiyaçlarını karşılamak veya puan transferi gerçekleştirmek isteyen oyuncular için pratik bir kullanım sunar.</p>
+
