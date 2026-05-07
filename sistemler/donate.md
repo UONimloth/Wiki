@@ -341,7 +341,7 @@
 <p>Her blueprint, kendine özgü mimari tasarım ve yerleşim planına sahiptir. Teras, avlu ve gelişmiş yaşam alanları gibi ek detaylar sayesinde hem dekorasyon hem de kullanım açısından daha zengin bir konut deneyimi sunar.</p>
 
 <h2>Diğer</h2>
-<strong style="color: #410000;">Urn of Absolution</strong>
+<p><strong style="color: #410000;">Urn of Absolution</strong></p>
 <p>Urn of Absolution, karakterinizin suç geçmişini temizlemenize yardımcı olan özel bir donate eşyasıdır.</p>
 <p>Bu eşya kullanıldığında karakterinizin mevcut kill sayısından 15 düşülür ve aynı anda karma değeri tamamen sıfırlanır.</p>
 <p>Özellikle yüksek kill sayısına sahip karakterler için hızlı bir dengeleme imkânı sunan bu eşya, karakter durumunuzu yeniden düzenlemenize yardımcı olur.</p>
