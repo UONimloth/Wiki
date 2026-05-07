@@ -9,8 +9,8 @@
 
 <h2>Üretim</h2>
 <p>Night Eye, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:</p>
-<p>• 3 Shadow Ingot</p>
-<p>• 3 Verite Ingot</p>
+<p>• 5 Shadow Ingot</p>
+<p>• 5 Verite Ingot</p>
 <p>• 1 <a href="https://uo-nimloth.net/wiki/esyalar/gemstonelar" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Cut Star Sapphire</a></p>
 <p>• 98.0 Tinkering</p>
 <p>• 25 Craft Mastery XP gerekmektedir.</p>
