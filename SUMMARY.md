@@ -52,6 +52,7 @@
   * [Gemstonelar](esyalar/gemstonelar.md)
   * [Takılar](takilar/README.md)
     * [Night Eye](takilar/night-eye.md)
+    * [Necklace of Spellchant](takilar/necklace-of-spellchant.md)
   * [İksirler](iksirler/README.md)
     * [Salve Potion](iksirler/salve-potion.md)
     * [Vaccine Potion](iksirler/vaccine-potion.md)
