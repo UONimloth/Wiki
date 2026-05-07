@@ -3,7 +3,7 @@
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/WlxI9YSX4Rwi9GcoLupDOYww1fEHo803uv6xEWa3.png)
 
 <p>Necklace of Spellchant, büyü kullanımınıza daha mistik bir görünüm kazandıran özel bir takıdır.</p>
-<p>Bu eşya yalnızca Pure Mage karakterler tarafından kullanılabilir. Takılı olduğu sürece karakteriniz büyü sözlerini standart şekilde telaffuz etmek yerine Runik alfabe ile söyler.</p>
+<p>Bu eşya yalnızca <strong style="color: #410000;">Pure Mage</strong> karakterler tarafından kullanılabilir. Takılı olduğu sürece karakteriniz büyü sözlerini standart şekilde telaffuz etmek yerine Runik alfabe</strong> ile söyler.</p>
 <p>Bu özellik tamamen görsel ve atmosferik bir deneyim sunmak amacıyla tasarlanmıştır. Büyülerin gücü, süresi veya oyun dengesi üzerinde herhangi bir etkisi bulunmaz.</p>
 <p>Necklace of Spellchant, kullanım sürecinde zamanla eskir. Kullanım sonrasında dayanıklılığı azalır ve kırılarak yok olur. Bu nedenle düzenli kullanımda yeniden üretilmesi gerekebilir.</p>
 
