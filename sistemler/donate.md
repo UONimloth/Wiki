@@ -322,3 +322,10 @@
 <p>Daha sade, temiz ve dikkat çekici bir görünüm elde etmek isteyen oyuncular için özel özelleştirme seçeneklerinden biridir.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y62ddK6ednatdoqQG4GoeO8HuJmuv1fkrEQvAmea.png)
+
+<strong style="color: #410000;">Runebook Dyes</strong>
+<p>Runebook Dyes, runebook’larınızı farklı renk seçenekleriyle kişiselleştirmenizi sağlayan özel boya seçenekleridir.</p>
+<p>Donate sistemi içerisinde toplam 7 farklı Runebook Dye seçeneği bulunmaktadır ve her biri ayrı olarak satışa sunulmaktadır.</p>
+<p>Her boya yalnızca 1 kullanım hakkına sahiptir. Kullanıldığında runebook’unuzun görünümünü seçtiğiniz renge dönüştürerek daha özgün ve ayırt edilebilir hale getirir.</p>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/vWS4d90AHeL6jklKKYRTqmpXWAGdCN2DtLxVWmbw.png)
