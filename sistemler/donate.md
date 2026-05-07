@@ -363,3 +363,10 @@
 <p>Bu eşya sayesinde puanlarınızı farklı karakterleriniz arasında paylaşabilir ya da başka bir oyuncuya aktarabilirsiniz.</p>
 <p>Özellikle hesap içi puan düzenlemesi yapmak, farklı karakterlerinizin ihtiyaçlarını karşılamak veya puan transferi gerçekleştirmek isteyen oyuncular için pratik bir kullanım sunar.</p>
 
+<strong style="color: #410000;">Runebook Copier</strong>
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/4aM7HlRcapdYEtAcli0qOFei4aYxb05kRcuj3SEE.png)
+
+<p>Runebook Copier, mevcut runebook içeriklerinizi hızlı ve pratik şekilde çoğaltmanızı sağlayan kullanışlı bir yardımcı eşyadır.</p>
+<p>Bu eşya Magery vendorlardan da de elde edilebilir. Ancak donate sistemi üzerinden edinilen versiyonu önemli bir avantaj sunar.</p>
+<p>Normal sürümde runebook kopyalama işlemi sırasında ek ücret ödemeniz gerekirken, <strong style="color: #410000;">donate üzerinden alınan Runebook Copier ile kopyalama işlemlerinizi herhangi bir ek ücret ödemeden gerçekleştirebilirsiniz.</strong></p>
