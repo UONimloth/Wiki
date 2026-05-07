@@ -342,6 +342,7 @@
 
 <h2>Diğer</h2>
 <p><strong style="color: #410000;">Urn of Absolution</strong></p>
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/3g5Bmqu8WePnSsIdZVlR3KWobeY9kgy0h1J7Zqg2.png)
 <p>Urn of Absolution, karakterinizin suç geçmişini temizlemenize yardımcı olan özel bir donate eşyasıdır.</p>
 <p>Bu eşya kullanıldığında karakterinizin mevcut kill sayısından 15 düşülür ve aynı anda karma değeri tamamen sıfırlanır.</p>
 <p>Özellikle yüksek kill sayısına sahip karakterler için hızlı bir dengeleme imkânı sunan bu eşya, karakter durumunuzu yeniden düzenlemenize yardımcı olur.</p>
