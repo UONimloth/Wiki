@@ -33,5 +33,9 @@
 <h2>Günlük Sıfırlanma</h2>
 <p>Tüm online ödül ilerlemeleri her gün 00:00’da sıfırlanır.</p>
 <p>Yeni gün başladığında sistem yeniden aktif olur ve günlük ödül kazanım süreciniz baştan başlar.</p>
+
+<p></p>
 <p>Bir hesapta bulunan birden fazla karakter, online ödül sistemi kapsamında puan kazanabilir.</p>
 <p>Bu sayede yalnızca tek bir karaktere bağlı kalmadan, farklı karakterlerinizle geçirdiğiniz süre de ödüllendirilmiş olur.</p>
+<p>Ne kadar aktif olursanız, kazancınız da o kadar artar.</p>
+<p>Nimloth dünyasında geçirdiğiniz her saat, sizi ödüllere ve sıralamada daha üst basamaklara taşır ⏳</p>
