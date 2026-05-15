@@ -13,7 +13,7 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/LcVrvwhQOGc3brRRw2kLmiFZq3QjG6m35QkJSTLp.png)
 
-<p>Oyundan çıkış yaptığınızda 1 saatlik süreniz sıfırlanmaz, oyuna tekrar girdiğinizde kaldığı yerden devam eder</p>
+<p>Oyundan çıkış yaptığınızda 1 saatlik süreniz </strong>sıfırlanmaz<strong style="color: #410000;">, oyuna tekrar girdiğinizde kaldığı yerden devam eder</p>
 
 <h2>Günlük Kazanç Limiti</h2>
 <p>Bir gün içerisinde standart hesaplar en fazla 5 Nimloth Puanı kazanabilir.</p>
