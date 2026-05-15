@@ -5,6 +5,7 @@
        alt="Nimloth Logo">
 </div>
 
+<p>
 <p>Nimloth dünyasında geçirdiğiniz her an artık yalnızca macera ve gelişim değil, aynı zamanda düzenli ödüller de kazandırıyor.</p>
 <p>Online Ödül Sistemi, oyunda aktif olarak zaman geçiren oyuncuları ödüllendirmek amacıyla tasarlanmıştır.</p>
 <p>Oyunda online kaldığınız her saat, hesabınıza otomatik olarak ödül puanı kazandırır ve düzenli aktifliğiniz doğrudan avantaj sağlar.</p>
