@@ -29,3 +29,9 @@
 <p>Burada sonraki ödüle kalan süreyi kolayca takip edebilirsiniz.</p>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/HMGCXatD4vancgdXumaOZqrR22ZKs9SYSBS5fkzo.png)
+
+<h2>Günlük Sıfırlanma</h2>
+<p>Tüm online ödül ilerlemeleri her gün 00:00’da sıfırlanır.</p>
+<p>Yeni gün başladığında sistem yeniden aktif olur ve günlük ödül kazanım süreciniz baştan başlar.</p>
+<p>Bir hesapta bulunan birden fazla karakter, online ödül sistemi kapsamında puan kazanabilir.</p>
+<p>Bu sayede yalnızca tek bir karaktere bağlı kalmadan, farklı karakterlerinizle geçirdiğiniz süre de ödüllendirilmiş olur.</p>
