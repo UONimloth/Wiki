@@ -129,9 +129,9 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mPv0azCjR4L8cuzxG69MlMxD9pXZN8MFO7h8S8LV.png)
 
-<h1>Online Reward Bonusu</h1>
+<h1>Online Reward Bonusu<a href="https://uo-nimloth.net/wiki/sistemler/online-odul-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Remove Trap</a> </h1>
 <p>Nimloth’da oyuncular, gün içerisinde çevrimiçi kaldıkları süreye bağlı olarak Nimloth Puanı kazanırlar.</p>
-<p>Normal şartlarda gün içerisinde 4 saat online olduğunuzda 4 puan kazanırsınız.</p>
+<p>Normal şartlarda gün içerisinde maksimum 5 saat olmak üzere her 1 saat online olduğunuzda 1 puan kazanırsınız.</p>
 <p>Premium oyuncular ise süreyi doldurduklarında <strong style="color: #410000;">+1 Nimloth Puanı</strong> kazanarak ilerleyişlerini daha hızlı destekleyebilirler.</p>
 <p>Bu özellik Premium oyunculara, uzun vadede önemli bir avantaj sağlayarak oyun içi gelişim süreçlerini hızlandırır.</p>
 
