@@ -21,5 +21,5 @@
 
 <h2>Puanların Kullanım Alanı</h2>
 <p>Kazandığınız puanlar farklı amaçlarla kullanılır:</p>
-<p>Nimloth Puanı: <a href="https://uo-nimloth.net/wiki/sistemler/donate" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Donate sistemi</a> üzerinde kullanılabilir ve çeşitli avantajlar elde etmenizi sağlar.</p> 
-<p>Online Ödül Puanı: Herhangi bir harcama alanı bulunmaz. Bu puan yalnızca Top 10 sıralamasında görüntülenir ve aktiflik seviyenizi gösterir.</p>
+<p>• Nimloth Puanı: <a href="https://uo-nimloth.net/wiki/sistemler/donate" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Donate sistemi</a> üzerinde kullanılabilir ve çeşitli avantajlar elde etmenizi sağlar.</p> 
+<p>• Online Ödül Puanı: Herhangi bir harcama alanı bulunmaz. Bu puan yalnızca Top 10 sıralamasında görüntülenir ve aktiflik seviyenizi gösterir.</p>
