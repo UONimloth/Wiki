@@ -13,11 +13,11 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/LcVrvwhQOGc3brRRw2kLmiFZq3QjG6m35QkJSTLp.png)
 
-<p>Oyundan çıkış yaptığınızda 1 saatlik süreniz <strong style="color: #410000;">sıfırlanmaz, oyuna tekrar girdiğinizde kaldığı yerden devam eder.</p>
+<p>Oyundan çıkış yaptığınızda 1 saatlik süreniz <strong style="color: #410000;">sıfırlanmaz, oyuna tekrar girdiğinizde kaldığı yerden devam eder.</strong></p>
 
 <h2>Günlük Kazanç Limiti</h2>
-<p>Bir gün içerisinde standart hesaplar en fazla 5 Nimloth Puanı kazanabilir.</p>
-<p>Eğer hesabınızda Premium aktifse, bu limit 6 Nimloth Puanına yükselir.</p>
+<p>Bir gün içerisinde standart hesaplar en fazla 5 Nimloth Puanı ve 5 Online Ödül Puanı kazanabilir.</p>
+<p>Eğer hesabınızda Premium aktifse, bu limit 6 Nimloth Puanı ve 6 Online Ödül Puanına yükselir.</p>
 <p>Online Ödül Puanı tarafında ise sistem yalnızca ilerlemenizi ve aktifliğinizi göstermek amacıyla çalışır.</p>
 
 <h2>Puanların Kullanım Alanı</h2>
