@@ -1,5 +1,10 @@
 # Online Ödül Sistemi
 
+<div style="text-align:center;">
+  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/B9I9ELmXbKTb6aj1Aq7lFbqnaTNqumOPwJ5QbHE8.png" 
+       alt="Nimloth Logo">
+</div>
+
 <p>Nimloth dünyasında geçirdiğiniz her an artık yalnızca macera ve gelişim değil, aynı zamanda düzenli ödüller de kazandırıyor.</p>
 <p>Online Ödül Sistemi, oyunda aktif olarak zaman geçiren oyuncuları ödüllendirmek amacıyla tasarlanmıştır.</p>
 <p>Oyunda online kaldığınız her saat, hesabınıza otomatik olarak ödül puanı kazandırır ve düzenli aktifliğiniz doğrudan avantaj sağlar.</p>
@@ -37,6 +42,6 @@
 <p>Tüm online ödül ilerlemeleri her gün 00:00’da sıfırlanır.</p>
 <p>Yeni gün başladığında sistem yeniden aktif olur ve günlük ödül kazanım süreciniz baştan başlar.</p>
 
-
+<p>
 <p>Ne kadar aktif olursanız, kazancınız da o kadar artar.</p>
 <p>Nimloth dünyasında geçirdiğiniz her saat, sizi ödüllere ve sıralamada daha üst basamaklara taşır ⏳</p>
