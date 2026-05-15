@@ -18,13 +18,8 @@
 <h2>Günlük Kazanç Limiti</h2>
 <p>Bir gün içerisinde standart hesaplar en fazla 5 Nimloth Puanı ve 5 Online Ödül Puanı kazanabilir.</p>
 <p>Eğer hesabınızda Premium aktifse, bu limit 6 Nimloth Puanı ve 6 Online Ödül Puanına yükselir.</p>
-<p>Online Ödül Puanı tarafında ise sistem yalnızca ilerlemenizi ve aktifliğinizi göstermek amacıyla çalışır.</p>
 
 <h2>Puanların Kullanım Alanı</h2>
 <p>Kazandığınız puanlar farklı amaçlarla kullanılır:</p>
-
-Nimloth Puanı
-Donate sistemi üzerinde kullanılabilir ve çeşitli avantajlar elde etmenizi sağlar.
-
-Online Ödül Puanı
-Herhangi bir harcama alanı bulunmaz. Bu puan yalnızca Top 10 sıralamasında görüntülenir ve aktiflik seviyenizi gösterir.
+<p>Nimloth Puanı: Donate sistemi üzerinde kullanılabilir ve çeşitli avantajlar elde etmenizi sağlar.</p>
+<p>Online Ödül Puanı: Herhangi bir harcama alanı bulunmaz. Bu puan yalnızca Top 10 sıralamasında görüntülenir ve aktiflik seviyenizi gösterir.</p>
