@@ -15,6 +15,9 @@
 
 <p>Oyundan çıkış yaptığınızda 1 saatlik süreniz <strong style="color: #410000;">sıfırlanmaz, oyuna tekrar girdiğinizde kaldığı yerden devam eder.</strong></p>
 
+<p>Bir hesapta bulunan birden fazla karakter, online ödül sistemi kapsamında puan kazanabilir.</p>
+<p>Bu sayede yalnızca tek bir karaktere bağlı kalmadan, farklı karakterlerinizle geçirdiğiniz süre de ödüllendirilmiş olur.</p>
+
 <h2>Günlük Kazanç Limiti</h2>
 <p>Bir gün içerisinde standart hesaplar en fazla <strong style="color: #410000;">5 Nimloth Puanı ve 5 Online Ödül Puanı</strong> kazanabilir.</p>
 <p>Eğer hesabınızda Premium aktifse, bu limit <strong style="color: #410000;">6 Nimloth Puanı ve 6 Online Ödül Puanına</strong> yükselir.</p>
@@ -34,8 +37,6 @@
 <p>Tüm online ödül ilerlemeleri her gün 00:00’da sıfırlanır.</p>
 <p>Yeni gün başladığında sistem yeniden aktif olur ve günlük ödül kazanım süreciniz baştan başlar.</p>
 
-<p></p>
-<p>Bir hesapta bulunan birden fazla karakter, online ödül sistemi kapsamında puan kazanabilir.</p>
-<p>Bu sayede yalnızca tek bir karaktere bağlı kalmadan, farklı karakterlerinizle geçirdiğiniz süre de ödüllendirilmiş olur.</p>
+
 <p>Ne kadar aktif olursanız, kazancınız da o kadar artar.</p>
 <p>Nimloth dünyasında geçirdiğiniz her saat, sizi ödüllere ve sıralamada daha üst basamaklara taşır ⏳</p>
