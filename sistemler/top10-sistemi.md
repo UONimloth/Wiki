@@ -43,3 +43,8 @@
 <p><strong style="color: #410000;">⏳ Online</strong></p>
 <p>Bu sekmede, en fazla <a href="https://uo-nimloth.net/wiki/sistemler/online-odul-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Online ödül puanı</a> biriktiren oyuncular listelenir.</p>
 <p>Düzenli aktiflik gösteren ve Nimloth dünyasında en çok vakit geçiren oyuncular burada üst sıralarda yer alır.</p>
+
+<h2>Rekabet ve Prestij</h2>
+<p>Top 10 Sistemi yalnızca bir sıralama ekranı değildir; aynı zamanda sunucudaki başarılarınızın görünür hâle geldiği prestij alanıdır.</p>
+<p>Hangi alanda uzmanlaşırsanız uzmanlaşın, gösterdiğiniz performans sizi sıralamada yukarı taşıyabilir.</p>
+<p>Yeriniz hazır; şimdi hangi kategoride zirveye çıkacağınıza karar verme zamanı.</p>
