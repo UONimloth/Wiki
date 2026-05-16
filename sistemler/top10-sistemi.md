@@ -20,9 +20,9 @@
 <p>Bu sayede sistem, yalnızca yüksek değerli rakiplere karşı elde edilen başarıları ödüllendirir.</p>
 
 <p><strong style="color: #410000;">🏰 Guild</strong></p>
-<p>Guild sıralaması, <a href="https://uo-nimloth.net/wiki/sistemler/guildwars" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Guildwars Sistemi</a> üzerinden kazanılan puanlara göre belirlenir.</p>
+<p>Guild sıralaması, <a href="https://uo-nimloth.net/wiki/sistemler/guildwars" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Guildwars sistemi</a> üzerinden kazanılan puanlara göre belirlenir.</p>
 <p>Esyria hâkimiyeti ve şehir kontrolü üzerinden elde edilen guild puanları burada değerlendirilir ve sunucunun en güçlü guild’leri sıralanır.</p>
 
 <p><strong style="color: #410000;">🏆 Başarımlar</strong></p>
-<p>Bu sekmede, <a href="https://uo-nimloth.net/wiki/sistemler/achievement-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Achievement Sisteminde</a> en fazla ilerleme kaydeden oyuncular yer alır.</p>
+<p>Bu sekmede, <a href="https://uo-nimloth.net/wiki/sistemler/achievement-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Achievement sisteminde</a> en fazla ilerleme kaydeden oyuncular yer alır.</p>
 <p>Tamamlanan başarımlar ve kazanılan achievement puanları doğrultusunda sıralama oluşturulur.</p>
