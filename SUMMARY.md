@@ -3,8 +3,8 @@
 ## Sistemler
 
 * [Sistemler](sistemler/README.md)
-  * [Online Ödül Sistemi](sistemler/online-odul-sistemi.md)
   * [Top10 Sistemi](sistemler/top10-sistemi.md)
+  * [Online Ödül Sistemi](sistemler/online-odul-sistemi.md)
   * [Power Hour](sistemler/power-hour.md)
   * [Runebook Link](sistemler/runebook-link.md)
   * [War Zone](sistemler/war-zone.md)
