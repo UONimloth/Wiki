@@ -1,5 +1,10 @@
 # Top10 Sistemi
 
+<div style="text-align:center;">
+  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/x9dWmT7TCZZuf7gNgTJrD2oIXYqPsfwGn8JTTGBO.png" 
+       alt="Nimloth Logo">
+</div>
+<p>
 <p>Nimloth dünyasında gösterdiğiniz başarılar yalnızca sizinle sınırlı kalmaz. Top 10 Sistemi, farklı alanlardaki performansınızı sunucu genelinde takip etmenizi sağlayan özel bir sıralama sistemidir.</p>
 <p>Bu sistem sayesinde hem kendi ilerlemenizi görebilir hem de Sosaria’nın en başarılı oyuncuları ve guild’leri arasındaki rekabeti anlık olarak takip edebilirsiniz.</p>
 <p>Her kategori, farklı bir uzmanlık alanını temsil eder ve oyunculara kendi oyun tarzlarında öne çıkma fırsatı sunar.</p>
