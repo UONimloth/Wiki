@@ -11,7 +11,7 @@
 <h2>Kategoriler</h2>
 <p>Toplamda 6 farklı kategori bulunmaktadır.</p>
 
-<h3>⚔️ Öldürme</h3>
+<h3>Öldürme</h3>
 <p>Bu sekmede, sunucuda en başarılı PvP performansını gösteren oyuncular listelenir.</p>
 <p>Buradaki sıralama yalnızca toplam öldürme sayısına göre belirlenmez.</p>
 <p>Belirli bir fame seviyesinin üzerindeki oyunculardan kazanılan puanlar dikkate alınır.</p>
