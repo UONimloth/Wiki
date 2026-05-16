@@ -30,3 +30,11 @@
 <p><strong style="color: #410000;">🎯 Etkinlik</strong></p>
 <p>Etkinlik kategorisinde, sunucudaki etkinliklere katılım sağlayan ve başarılı sonuçlar elde eden oyuncular listelenir.</p>
 <p>Katılım ve etkinlik kazanımları bu sıralamayı doğrudan etkiler.</p>
+
+<p><strong style="color: #410000;">☠️ Korsanlık</strong></p>
+<p>Denizlerde en çok başarı elde eden korsanlar bu listede yer alır.</p>
+<p>Sıralama, batırılan gemi sayısına göre belirlenir ve deniz ticaret yollarının en tehlikeli isimlerini ortaya çıkarır.</p>
+
+<p><strong style="color: #410000;">⏳ Online</strong></p>
+<p>Bu sekmede, en fazla <a href="https://uo-nimloth.net/wiki/sistemler/online-odul-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Online ödül puanı</a> biriktiren oyuncular listelenir.</p>
+<p>Düzenli aktiflik gösteren ve Nimloth dünyasında en çok vakit geçiren oyuncular burada üst sıralarda yer alır.</p>
