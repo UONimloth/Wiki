@@ -26,3 +26,7 @@
 <p><strong style="color: #410000;">🏆 Başarımlar</strong></p>
 <p>Bu sekmede, <a href="https://uo-nimloth.net/wiki/sistemler/achievement-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Achievement sisteminde</a> en fazla ilerleme kaydeden oyuncular yer alır.</p>
 <p>Tamamlanan başarımlar ve kazanılan achievement puanları doğrultusunda sıralama oluşturulur.</p>
+
+<p><strong style="color: #410000;">🎯 Etkinlik</strong></p>
+<p>Etkinlik kategorisinde, sunucudaki etkinliklere katılım sağlayan ve başarılı sonuçlar elde eden oyuncular listelenir.</p>
+<p>Katılım ve etkinlik kazanımları bu sıralamayı doğrudan etkiler.</p>
