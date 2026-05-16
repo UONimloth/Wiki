@@ -8,6 +8,8 @@
 <p>Oyun içerisinde <strong style="color: #410000;">.top10</strong> komutunu kullanarak Top 10 menüsünü açabilirsiniz.</p>
 <p>Bu menü üzerinden farklı kategorilerdeki sıralamaları görüntüleyebilir, oyuncuların ve guild’lerin mevcut başarı durumlarını inceleyebilirsiniz.</p>
 
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/xVIcXSyCJ52cMXPUJaz1GDGK3jHP69LUvCvAf2s6.png)
+
 <h2>Kategoriler</h2>
 <p>Toplamda 6 farklı kategori bulunmaktadır.</p>
 
@@ -16,3 +18,7 @@
 <p>Buradaki sıralama yalnızca <strong style="color: #410000;">toplam öldürme sayısına göre belirlenmez.</strong></p>
 <p>Belirli bir fame seviyesinin üzerindeki oyunculardan kazanılan puanlar dikkate alınır.</p>
 <p>Bu sayede sistem, yalnızca yüksek değerli rakiplere karşı elde edilen başarıları ödüllendirir.</p>
+
+<p><strong style="color: #410000;">🏰 Guild</strong></p>
+<p>Guild sıralaması, <a href="https://uo-nimloth.net/wiki/sistemler/guildwars" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Guildwars Sistemi</a> üzerinden kazanılan puanlara göre belirlenir.</p>
+<p>Esyria hâkimiyeti ve şehir kontrolü üzerinden elde edilen guild puanları burada değerlendirilir ve sunucunun en güçlü guild’leri sıralanır.</p>
