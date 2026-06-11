@@ -170,15 +170,3 @@
   * [Medusa](yaratiklar/medusa.md)
   * [Primeval Lich](yaratiklar/primeval-lich.md)
   * [Golem](yaratiklar/golem.md)
-
-## Sistemler
-
-## Eşyalar
-
-## Yapılar
-
-## Yetenekler
-
-## Binekler
-
-## Yaratıklar
