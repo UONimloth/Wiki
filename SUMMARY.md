@@ -1,7 +1,6 @@
-# Summary
+# Table of contents
 
-## Sistemler
-
+* [README](README.md)
 * [Sistemler](sistemler/README.md)
   * [Top10 Sistemi](sistemler/top10-sistemi.md)
   * [Online Ödül Sistemi](sistemler/online-odul-sistemi.md)
@@ -46,80 +45,71 @@
   * [Rare Dye Sistemi](sistemler/rare-dye-sistemi.md)
   * [Tree Grove Sistemi](sistemler/tree-grove-sistemi.md)
   * [Eşya Transfer Sistemi](sistemler/esya-transfer-sistemi.md)
-
-## Eşyalar
-
 * [Eşyalar](esyalar/README.md)
   * [Silahlar](esyalar/silahlar.md)
   * [Gemstonelar](esyalar/gemstonelar.md)
-  * [Takılar](takilar/README.md)
-    * [Bracelet of Endurance](takilar/bracelet-of-endurance.md)
-    * [Bracelet of Clarity](takilar/bracelet-of-clarity.md)
-    * [Necklace of Spellchant](takilar/necklace-of-spellchant.md)
-    * [Night Eye](takilar/night-eye.md)
-  * [İksirler](iksirler/README.md)
-    * [Salve Potion](iksirler/salve-potion.md)
-    * [Vaccine Potion](iksirler/vaccine-potion.md)
-  * [Robelar](robelar/README.md)
-    * [Wizard Robe](robelar/wizard-robe.md)
-    * [Faster Casting Robe](robelar/faster-casting-robe.md)
-    * [Magical Robe](robelar/magical-robe.md)
-  * [Üretim&Toplayıcı](uretimtoplayici/README.md)
-    * [Watering Can](uretimtoplayici/watering-can.md)
-    * [Oak Fishing Pole](uretimtoplayici/oak-fishing-pole.md)
-    * [Yew Fishing Pole](uretimtoplayici/yew-fishing-pole.md)
-    * [Gatherer's Apron](uretimtoplayici/gatherers-apron.md)
-    * [Silver Hatchet](uretimtoplayici/silver-hatchet.md)
-    * [Gold Hatchet](uretimtoplayici/gold-hatchet.md)
-    * [Gold Sickle](uretimtoplayici/gold-sickle.md)
-    * [Silver Sickle](uretimtoplayici/silver-sickle.md)
-    * [Gold Pickaxe](uretimtoplayici/gold-pickaxe.md)
-    * [Silver Pickaxe](uretimtoplayici/silver-pickaxe.md)
-  * [Zırhlar](zirhlar/README.md)
-    * [Blackrock Platemail](zirhlar/blackrock-platemail.md)
-    * [Bloodrock Platemail](zirhlar/bloodrock-platemail.md)
-    * [Valorite Platemail](zirhlar/valorite-platemail.md)
-    * [Mytheril Platemail](zirhlar/mytheril-platemail.md)
-    * [Verite Platemail](zirhlar/verite-platemail.md)
-    * [Agapite Platemail](zirhlar/agapite-platemail.md)
-    * [Shadow Platemail](zirhlar/shadow-platemail.md)
-    * [Gold Platemail](zirhlar/gold-platemail.md)
-    * [Silver Platemail](zirhlar/silver-platemail.md)
-    * [Bronze Platemail](zirhlar/bronze-platemail.md)
-    * [Copper Platemail](zirhlar/copper-platemail.md)
-    * [Dull Copper Platemail](zirhlar/dull-copper-platemail.md)
-    * [Nordomir Leather](zirhlar/nordomir-leather.md)
-    * [Dragonic Studded](zirhlar/dragonic-studded.md)
-    * [Magical Studded](zirhlar/magical-studded.md)
-  * [Cannonlar](cannonlar/README.md)
-    * [Light Cannon](cannonlar/light-cannon.md)
-    * [Normal Cannon](cannonlar/normal-cannon.md)
-    * [Heavy Cannon](cannonlar/heavy-cannon.md)
-  * [Diğer Eşyalar](diger-esyalar/README.md)
-    * [Wizard Crystal](diger-esyalar/wizard-crystal.md)
-    * [Wizard Cloth](diger-esyalar/wizard-cloth.md)
-    * [Magic Cloth](diger-esyalar/magic-cloth.md)
-    * [Magic Crystal](diger-esyalar/magic-crystal.md)
-    * [Roll of String](diger-esyalar/roll-of-string.md)
-    * [Beeswax](diger-esyalar/beeswax.md)
-    * [Runebook Linker](diger-esyalar/runebook-linker.md)
-    * [Silica Crystal](diger-esyalar/silica-crystal.md)
-    * [Virtue Stone](diger-esyalar/virtue-stone.md)
-    * [Armor Bundler](diger-esyalar/armor-bundler.md)
-    * [Yew Lute](diger-esyalar/yew-lute.md)
-    * [Item Storage](diger-esyalar/item-storage.md)
-    * [Oil Cloth](diger-esyalar/oil-cloth.md)
-    * [Blueprint Combiner](diger-esyalar/blueprint-combiner.md)
-    * [Weapon Combiner](diger-esyalar/weapon-combiner.md)
-
-## Yapılar
-
+  * [Takılar](esyalar/takilar/README.md)
+    * [Bracelet of Endurance](esyalar/takilar/bracelet-of-endurance.md)
+    * [Bracelet of Clarity](esyalar/takilar/bracelet-of-clarity.md)
+    * [Necklace of Spellchant](esyalar/takilar/necklace-of-spellchant.md)
+    * [Night Eye](esyalar/takilar/night-eye.md)
+  * [İksirler](esyalar/iksirler/README.md)
+    * [Salve Potion](esyalar/iksirler/salve-potion.md)
+    * [Vaccine Potion](esyalar/iksirler/vaccine-potion.md)
+  * [Robelar](esyalar/robelar/README.md)
+    * [Wizard Robe](esyalar/robelar/wizard-robe.md)
+    * [Faster Casting Robe](esyalar/robelar/faster-casting-robe.md)
+    * [Magical Robe](esyalar/robelar/magical-robe.md)
+  * [Üretim\&Toplayıcı](esyalar/uretimtoplayici/README.md)
+    * [Watering Can](esyalar/uretimtoplayici/watering-can.md)
+    * [Oak Fishing Pole](esyalar/uretimtoplayici/oak-fishing-pole.md)
+    * [Yew Fishing Pole](esyalar/uretimtoplayici/yew-fishing-pole.md)
+    * [Gatherer's Apron](esyalar/uretimtoplayici/gatherers-apron.md)
+    * [Silver Hatchet](esyalar/uretimtoplayici/silver-hatchet.md)
+    * [Gold Hatchet](esyalar/uretimtoplayici/gold-hatchet.md)
+    * [Gold Sickle](esyalar/uretimtoplayici/gold-sickle.md)
+    * [Silver Sickle](esyalar/uretimtoplayici/silver-sickle.md)
+    * [Gold Pickaxe](esyalar/uretimtoplayici/gold-pickaxe.md)
+    * [Silver Pickaxe](esyalar/uretimtoplayici/silver-pickaxe.md)
+  * [Zırhlar](esyalar/zirhlar/README.md)
+    * [Blackrock Platemail](esyalar/zirhlar/blackrock-platemail.md)
+    * [Bloodrock Platemail](esyalar/zirhlar/bloodrock-platemail.md)
+    * [Valorite Platemail](esyalar/zirhlar/valorite-platemail.md)
+    * [Mytheril Platemail](esyalar/zirhlar/mytheril-platemail.md)
+    * [Verite Platemail](esyalar/zirhlar/verite-platemail.md)
+    * [Agapite Platemail](esyalar/zirhlar/agapite-platemail.md)
+    * [Shadow Platemail](esyalar/zirhlar/shadow-platemail.md)
+    * [Gold Platemail](esyalar/zirhlar/gold-platemail.md)
+    * [Silver Platemail](esyalar/zirhlar/silver-platemail.md)
+    * [Bronze Platemail](esyalar/zirhlar/bronze-platemail.md)
+    * [Copper Platemail](esyalar/zirhlar/copper-platemail.md)
+    * [Dull Copper Platemail](esyalar/zirhlar/dull-copper-platemail.md)
+    * [Nordomir Leather](esyalar/zirhlar/nordomir-leather.md)
+    * [Dragonic Studded](esyalar/zirhlar/dragonic-studded.md)
+    * [Magical Studded](esyalar/zirhlar/magical-studded.md)
+  * [Cannonlar](esyalar/cannonlar/README.md)
+    * [Light Cannon](esyalar/cannonlar/light-cannon.md)
+    * [Normal Cannon](esyalar/cannonlar/normal-cannon.md)
+    * [Heavy Cannon](esyalar/cannonlar/heavy-cannon.md)
+  * [Diğer Eşyalar](esyalar/diger-esyalar/README.md)
+    * [Wizard Crystal](esyalar/diger-esyalar/wizard-crystal.md)
+    * [Wizard Cloth](esyalar/diger-esyalar/wizard-cloth.md)
+    * [Magic Cloth](esyalar/diger-esyalar/magic-cloth.md)
+    * [Magic Crystal](esyalar/diger-esyalar/magic-crystal.md)
+    * [Roll of String](esyalar/diger-esyalar/roll-of-string.md)
+    * [Beeswax](esyalar/diger-esyalar/beeswax.md)
+    * [Runebook Linker](esyalar/diger-esyalar/runebook-linker.md)
+    * [Silica Crystal](esyalar/diger-esyalar/silica-crystal.md)
+    * [Virtue Stone](esyalar/diger-esyalar/virtue-stone.md)
+    * [Armor Bundler](esyalar/diger-esyalar/armor-bundler.md)
+    * [Yew Lute](esyalar/diger-esyalar/yew-lute.md)
+    * [Item Storage](esyalar/diger-esyalar/item-storage.md)
+    * [Oil Cloth](esyalar/diger-esyalar/oil-cloth.md)
+    * [Blueprint Combiner](esyalar/diger-esyalar/blueprint-combiner.md)
+    * [Weapon Combiner](esyalar/diger-esyalar/weapon-combiner.md)
 * [Yapılar](yapilar/README.md)
-  * [Gemiler](gemiler/README.md)
-  * [Evler](evler/README.md)
-
-## Yetenekler
-
+  * [Gemiler](yapilar/gemiler.md)
+  * [Evler](yapilar/evler.md)
 * [Yetenekler](yetenekler/README.md)
   * [Alchemy](yetenekler/alchemy.md)
   * [Anatomy](yetenekler/anatomy.md)
@@ -142,9 +132,6 @@
   * [Resisting Spells](yetenekler/resisting-spells.md)
   * [Sailormanship](yetenekler/sailormanship.md)
   * [Tracking](yetenekler/tracking.md)
-
-## Binekler
-
 * [Binekler](binekler/README.md)
   * [Horse](binekler/horse.md)
   * [Pack Binekler](binekler/pack-binekler.md)
@@ -165,9 +152,6 @@
   * [Wine Steed](binekler/wine-steed.md)
   * [Unicorn](binekler/unicorn.md)
   * [Nightmare](binekler/nightmare.md)
-
-## Yaratıklar
-
 * [Yaratıklar](yaratiklar/README.md)
   * [Crimson Dragon](yaratiklar/crimson-dragon.md)
   * [Exodus Demon](yaratiklar/exodus-demon.md)
@@ -186,3 +170,15 @@
   * [Medusa](yaratiklar/medusa.md)
   * [Primeval Lich](yaratiklar/primeval-lich.md)
   * [Golem](yaratiklar/golem.md)
+
+## Sistemler
+
+## Eşyalar
+
+## Yapılar
+
+## Yetenekler
+
+## Binekler
+
+## Yaratıklar
