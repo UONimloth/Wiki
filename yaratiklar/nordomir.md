@@ -16,4 +16,4 @@
 | --------------------- | ----------- |
 | Faster Casting Scroll | %33         |
 | Mage Robe Malzemesi   | %25         |
-| +15 Silah             | %25         |
+| +12 Silah             | %25         |
