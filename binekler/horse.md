@@ -1,6 +1,8 @@
 # Horse
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/19u1kzLxEEZfyNauP6oOr8J2MJZDnPbkxtvvYdWe.png)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### Stat ve Yetenekler
 

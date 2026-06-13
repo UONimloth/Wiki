@@ -1,6 +1,6 @@
 # Llama
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lgBrYfYdPaXuSrIG12Ib2dnxbyN90aTsNULnKKve.png)
+<h3 align="center"><img src="../.gitbook/assets/image.png" alt=""></h3>
 
 ### Stat ve Yetenekler
 
