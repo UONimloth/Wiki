@@ -14,7 +14,7 @@
 
 | Gold                  | 10000-14000 |
 | --------------------- | ----------- |
-| Mage Robe Malzemesi   | %33         |
 | Dragon Hide           | %33         |
-| Faster Casting Scroll | %25         |
+| Faster Casting Scroll | %33         |
+| Mage Robe Malzemesi   | %25         |
 | +12 Silah             | %25         |

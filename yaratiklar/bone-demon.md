@@ -14,6 +14,6 @@
 
 | Gold                  | 7000-10000 |
 | --------------------- | ---------- |
+| Faster Casting Scroll | %33        |
 | Mage Robe Malzemesi   | %25        |
-| Faster Casting Scroll | %25        |
 | +12 Silah             | %25        |
