@@ -172,3 +172,4 @@
   * [Golem](yaratiklar/golem.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [12.06.2026 Güncellemeleri](guncelleme-notlari/12.06.2026-guncellemeleri.md)
+  * [08.06.2026 Güncellemeleri](guncelleme-notlari/08.06.2026-guncellemeleri.md)
