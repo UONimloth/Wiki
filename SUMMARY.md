@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Genel Bilgi](README.md)
 * [Sistemler](sistemler/README.md)
   * [Top10 Sistemi](sistemler/top10-sistemi.md)
   * [Online Ödül Sistemi](sistemler/online-odul-sistemi.md)
@@ -170,4 +170,5 @@
   * [Medusa](yaratiklar/medusa.md)
   * [Primeval Lich](yaratiklar/primeval-lich.md)
   * [Golem](yaratiklar/golem.md)
-* [Changelogs](changelogs.md)
+* [Güncelleme Notları](guncelleme-notlari/README.md)
+  * [12.06.2026 Güncellemeleri](guncelleme-notlari/12.06.2026-guncellemeleri.md)
