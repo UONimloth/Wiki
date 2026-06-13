@@ -2,7 +2,7 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/v12ctupN3FoEA767bcI0oSc3uUUkEiPKuNcdcaIY.png)
 
-\<h2>**Genel Bilgi**\<h2>
+\<h2>**Genel Bilgi**\</h2>
 
 | STR                   | 1675-1725             |
 | --------------------- | --------------------- |
@@ -12,7 +12,7 @@
 
 
 
-\<h2>**Loot Bilgisi**\<h2>
+\<h2>**Loot Bilgisi**\</h2>
 
 | STR                   | 1675-1725             |
 | --------------------- | --------------------- |
