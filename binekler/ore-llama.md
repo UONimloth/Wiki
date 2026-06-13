@@ -1,6 +1,6 @@
 # Ore Llama
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wUfDF5SckyPNm3CiJP8IBK0i1ZqBJHloyE4NBAmx.png)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Stat ve Yetenekler
 
