@@ -9,6 +9,7 @@
 | Achievement Rakamları | 10-100-2000          |
 | Achievement Title     | Terror of the Exodus |
 | Poison Resist         | Var                  |
+| Armor                 | 80                   |
 
 ### **Loot Bilgisi**
 

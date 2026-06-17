@@ -9,6 +9,7 @@
 | Achievement Rakamları | 25-250-5000     |
 | Achievement Title     | Archlich's Bane |
 | Poison Resist         | Var             |
+| Armor                 | 70              |
 
 ### **Loot Bilgisi**
 

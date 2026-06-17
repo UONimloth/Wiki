@@ -9,6 +9,7 @@
 | Achievement Rakamları | 25-250-5000           |
 | Achievement Title     | Oceanic Tyrant Slayer |
 | Poison Resist         | Var                   |
+| Armor                 | 65                    |
 
 ### **Loot Bilgisi**
 

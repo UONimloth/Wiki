@@ -9,6 +9,7 @@
 | Achievement Rakamları | 10-100-2000            |
 | Achievement Title     | Ender of Eternal Night |
 | Poison Resist         | Var                    |
+| Armor                 | 90                     |
 
 ### **Loot Bilgisi**
 

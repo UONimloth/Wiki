@@ -9,6 +9,7 @@
 | Achievement Rakamları | 10-100-2000          |
 | Achievement Title     | Gleaming Wyrm Slayer |
 | Poison Resist         | Var                  |
+| Armor                 | 90                   |
 
 ### **Loot Bilgisi**
 

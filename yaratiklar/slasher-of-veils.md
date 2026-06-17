@@ -9,6 +9,7 @@
 | Achievement Rakamları | 25-250-5000              |
 | Achievement Title     | Dimensional Terror's End |
 | Poison Resist         | Var                      |
+| Armor                 | 65                       |
 
 ### **Loot Bilgisi**
 
