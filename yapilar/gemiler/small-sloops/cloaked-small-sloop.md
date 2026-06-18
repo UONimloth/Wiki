@@ -1,8 +1,8 @@
-# Paintable Small Ship
+# Cloaked Small Sloop
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-### **Yapımı İçin Gerekenler**
+### Yapımı İçin Gerekenler&#xD;
 
 | Woodstone        | 5     |
 | ---------------- | ----- |
@@ -14,11 +14,11 @@
 
 ### Gemi Özellikleri
 
-| Health                      | 100         |
+| Health                      | 75          |
 | --------------------------- | ----------- |
 | Eşya Taşıma Kapasitesi      | 5000        |
 | Kurulabilecek Cannon Sayısı | 1           |
-| Bonus Tipi                  | Boost       |
-| Bonus Süresi                | 3 Saniye    |
-| Boya Durumu                 | Boyanabilir |
+| Bonus Tipi                  | Görünmezlik |
+| Bonus Süresi                | 300 Saniye  |
+| Boya Durumu                 | Boyanamaz   |
 | Blueprint Gereksinimi       | Var         |

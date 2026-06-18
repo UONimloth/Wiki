@@ -1,8 +1,8 @@
-# Paintable Small Dragon Ship
+# Cloaked Small Swan Sloop
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-### **Yapımı İçin Gerekenler**
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 6     |
 | ---------------- | ----- |
@@ -14,11 +14,11 @@
 
 ### Gemi Özellikleri
 
-| Health                      | 110         |
+| Health                      | 85          |
 | --------------------------- | ----------- |
 | Eşya Taşıma Kapasitesi      | 5500        |
 | Kurulabilecek Cannon Sayısı | 1           |
-| Bonus Tipi                  | Boost       |
-| Bonus Süresi                | 3 Saniye    |
-| Boya Durumu                 | Boyanabilir |
+| Bonus Tipi                  | Görünmezlik |
+| Bonus Süresi                | 300 Saniye  |
+| Boya Durumu                 | Boyanamaz   |
 | Blueprint Gereksinimi       | Var         |

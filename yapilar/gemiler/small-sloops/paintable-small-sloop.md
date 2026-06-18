@@ -1,12 +1,12 @@
-# Paintable Small Dragon Ship
+# Paintable Small Sloop
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### **Yapımı İçin Gerekenler**
 
-| Woodstone        | 6     |
+| Woodstone        | 5     |
 | ---------------- | ----- |
-| Nails            | 6     |
+| Nails            | 5     |
 | Copper Wire      | 1     |
 | Carpentry        | 100.0 |
 | Tinkering        | 100.0 |
@@ -14,9 +14,9 @@
 
 ### Gemi Özellikleri
 
-| Health                      | 110         |
+| Health                      | 100         |
 | --------------------------- | ----------- |
-| Eşya Taşıma Kapasitesi      | 5500        |
+| Eşya Taşıma Kapasitesi      | 5000        |
 | Kurulabilecek Cannon Sayısı | 1           |
 | Bonus Tipi                  | Boost       |
 | Bonus Süresi                | 3 Saniye    |

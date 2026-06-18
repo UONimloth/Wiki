@@ -1,6 +1,6 @@
-# Paintable Small Dragon Ship
+# Paintable Small Dragon Sloop
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### **Yapımı İçin Gerekenler**
 
