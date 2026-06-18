@@ -1,12 +1,12 @@
-# Small Ship
+# Small Swan Ship
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x010A.png" alt=""><figcaption></figcaption></figure>
 
-### **Yapımı İçin Gerekenler**
+### Yapımı İçin Gerekenler&#xD;
 
-| Woodstone        | 5     |
+| Woodstone        | 6     |
 | ---------------- | ----- |
-| Nails            | 5     |
+| Nails            | 6     |
 | Copper Wire      | 1     |
 | Carpentry        | 100.0 |
 | Tinkering        | 100.0 |
@@ -14,9 +14,9 @@
 
 ### Gemi Özellikleri
 
-| Health                      | 100       |
+| Health                      | 110       |
 | --------------------------- | --------- |
-| Eşya Taşıma Kapasitesi      | 5000      |
+| Eşya Taşıma Kapasitesi      | 5500      |
 | Kurulabilecek Cannon Sayısı | 1         |
 | Bonus Tipi                  | Boost     |
 | Bonus Süresi                | 3 Saniye  |
