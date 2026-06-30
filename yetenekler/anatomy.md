@@ -6,7 +6,7 @@ Anatomy, bir savaşçının hem bedeni hem de düşmanı tanıma bilgisidir. Bu 
 
 Kendini ya da bir başkasını iyileştirirken, Anatomy bilgine güvenirsin. Bu yetenek ne kadar yüksekse, bandajların o kadar etkili olur ve daha fazla can yenilersin.
 
-Ayrıca, **birini bandajla diriltebilmek için&#x20;**<mark style="color:red;">**Healing yeteneğinin 80 veya üzeri olması gerekir**</mark>**.**
+Ayrıca, <mark style="color:red;">**birini bandajla diriltebilmek için Healing yeteneğinin 80 veya üzeri olması gerekir**</mark>**.**
 
 ## Savaşta Kullanımı
 

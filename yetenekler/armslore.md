@@ -36,7 +36,7 @@ Armslore yeteneği yalnızca savaşta değil, bilgi edinme aracı olarak da kull
 
 Bu yeteneği seçtikten sonra bir silah veya zırh üzerine tıkladığınızda, seçilen eşyanın türüne göre detaylı bir bilgi ekranı açılır.
 
-**Silah seçildiğinde görüntülenen bilgiler:**
+#### **Silah seçildiğinde görüntülenen bilgiler:**
 
 • Silahın hasar durumu
 
@@ -62,7 +62,7 @@ Bu yeteneği seçtikten sonra bir silah veya zırh üzerine tıkladığınızda,
 
 <mark style="color:red;">**Not: Silahların verdiği hasar, hedefin zırh değerine, Reactive Armor büyüsünün etkisine ve Parrying becerisine göre farklılık gösterebilir. Bu nedenle her vuruşta oluşan hasar miktarı sabit değildir.**</mark>
 
-**Zırh seçildiğinde görüntülenen bilgiler:**
+#### **Zırh seçildiğinde görüntülenen bilgiler:**
 
 • Hasar durumu
 
