@@ -4,7 +4,7 @@ Carpentry, zanaat yetenekleri arasında en kapsamlı üretim dallarından biridi
 
 Hem kendi evinizi dekore etmek hem de diğer oyuncuların ihtiyaç duyduğu eşyaları üretmek için vazgeçilmez zanaat yeteneklerinden biridir.
 
-### Kullanım Alanları
+## Kullanım Alanları
 
 Carpentry yeteneğiyle aşağıdaki kategorilerde çok sayıda eşya üretebilirsiniz:
 
@@ -21,7 +21,7 @@ Bunların yanı sıra oyun içerisinde kullanılan birçok farklı ahşap eşya 
 
 Farklı log türleri kullanarak daha kaliteli ve estetik ürünler üretebilir, ağaç ve Tree Grove'lardan elde edilen özel odunlarla daha değerli eşyalar üretebilirsiniz.
 
-### Üretim Süreci
+## Üretim Süreci
 
 Üretim yapabilmek için bir <mark style="color:red;">**Carpentry Toolcase**</mark> eşyasına ihtiyaç vardır.
 
@@ -35,13 +35,13 @@ Toolcase'e çift tıkladığınızda üretim menüsü açılır. Bu menü üzeri
 
 <figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
-### Yetenek Gelişimi
+## Yetenek Gelişimi
 
 Carpentry, <mark style="color:red;">**orta zorlukta**</mark> gelişen bir üretim yeteneğidir. Çeşitli ahşap eşyalar üreterek yetenek deneyimi kazanabilir ve daha gelişmiş tariflerin kilidini açabilirsiniz.
 
 Yetenek seviyeniz 100'e ulaştığında, şehirlerde bulunan Carpenter Vendor'lardan Craft görevleri alabilirsiniz. Tamamladığınız görevler sayesinde [Craft Mastery Sistemi](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi yükseltebilir ve çeşitli avantajların kilidini açabilirsiniz.
 
-### Nimloth'ta Carpentry'nin Önemi
+## Nimloth'ta Carpentry'nin Önemi
 
 Nimloth dünyasında yalnızca savaş meydanları değil, şehirler ve evler de usta marangozların emeğiyle şekillenir.
 

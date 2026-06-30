@@ -243,6 +243,7 @@
   * [Carpentry](yetenekler/carpentry.md)
   * [Cartography](yetenekler/cartography.md)
   * [Cooking](yetenekler/cooking.md)
+  * [Detecting Hidden](yetenekler/detecting-hidden.md)
   * [Discordance](yetenekler/discordance.md)
   * [Evaluating Intelligence](yetenekler/evaluating-intelligence.md)
   * [Farming](yetenekler/farming.md)
