@@ -48,8 +48,8 @@ Nightsight Potion
 
 Bleed Potion
 
-[Salve Potion](https://nimloth-uo.gitbook.io/wiki/sistemler/salve-sistemi)&#x20;
+[Salve Potion](https://nimloth-uo.gitbook.io/wiki/esyalar/iksirler/salve-potion)&#x20;
 
-Vaccine Potion
+[Vaccine Potion](https://nimloth-uo.gitbook.io/wiki/esyalar/iksirler/vaccine-potion) &#x20;
 
 <figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
