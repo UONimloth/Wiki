@@ -25,7 +25,7 @@ Farklı log türleri kullanarak daha kaliteli ve estetik ürünler üretebilir, 
 
 Üretim yapabilmek için bir <mark style="color:red;">**Carpentry Toolcase**</mark> eşyasına ihtiyaç vardır.
 
-Bu eşyayı Carpenter Vendor'lardan <mark style="color:red;">**1840 Gp**</mark> karşılığında satın alabilirsiniz.
+Bu eşyayı Carpenter Vendor'lardan <mark style="color:red;">**1840 gp**</mark> karşılığında satın alabilirsiniz.
 
 Toolcase'e çift tıkladığınızda üretim menüsü açılır. Bu menü üzerinden üretmek istediğiniz eşyayı seçebilir, gerekli malzemeleri görüntüleyebilir ve üretime başlayabilirsiniz.
 

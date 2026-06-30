@@ -242,6 +242,7 @@
   * [Camping](yetenekler/camping.md)
   * [Carpentry](yetenekler/carpentry.md)
   * [Cartography](yetenekler/cartography.md)
+  * [Cooking](yetenekler/cooking.md)
   * [Discordance](yetenekler/discordance.md)
   * [Evaluating Intelligence](yetenekler/evaluating-intelligence.md)
   * [Farming](yetenekler/farming.md)
