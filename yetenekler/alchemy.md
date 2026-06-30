@@ -6,7 +6,7 @@ Bu yetenek, savaşta hayatta kalmayı kolaylaştıran temel iksirlerden, özel e
 
 İksir üretebilmek için öncelikle bir Mortar and Pestle eşyasına sahip olman gerekir.
 
-Bu eşya, şehirlerdeki Alchemist Vendor’lardan **1,840 gp** karşılığında satın alınabilir.
+Bu eşya, şehirlerdeki Alchemist Vendor’lardan <mark style="color:red;">**1,840**</mark>**&#x20;gp** karşılığında satın alınabilir.
 
 Mortar and Pestle’a çift tıkladığında, karşına Alchemy Üretim Menüsü çıkar.
 

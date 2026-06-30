@@ -1,12 +1,12 @@
 # Anatomy
 
-<mark style="color:$info;">Anatomy, bir savaşçının hem bedeni hem de düşmanı tanıma bilgisidir. Bu yetenekte ustalaştıkça ölümcül vuruşların ve etkili tedavilerin sırrını keşfedersin.</mark>
+Anatomy, bir savaşçının hem bedeni hem de düşmanı tanıma bilgisidir. Bu yetenekte ustalaştıkça ölümcül vuruşların ve etkili tedavilerin sırrını keşfedersin.
 
 ## Bandaj Kullanımı
 
 Kendini ya da bir başkasını iyileştirirken, Anatomy bilgine güvenirsin. Bu yetenek ne kadar yüksekse, bandajların o kadar etkili olur ve daha fazla can yenilersin.
 
-Ayrıca, **birini bandajla diriltebilmek için&#x20;**<mark style="color:green;">**Healing yeteneğinin 80 veya üzeri olması gerekir**</mark>**.**
+Ayrıca, **birini bandajla diriltebilmek için&#x20;**<mark style="color:red;">**Healing yeteneğinin 80 veya üzeri olması gerekir**</mark>**.**
 
 ## Savaşta Kullanımı
 
