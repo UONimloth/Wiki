@@ -30,7 +30,7 @@ Bu nedenle, iki yeteneğin birlikte geliştirilmesi, usta bir ehlileştirici olm
 
 ## Evcilleştirmenin Ardından
 
-Yeni ehlileştirilen hayvanlar yabanda uzun süre aç kaldıkları için, ilk anda **tokluk seviyeleri düşük olacaktır.**
+Yeni ehlileştirilen hayvanlar yabanda uzun süre aç kaldıkları için, ilk anda <mark style="color:red;">**tokluk seviyeleri düşük olacaktır**</mark>**.**
 
 Onları sadık bir dost haline getirmek istiyorsanız, evcilleştirdikten sonra doyurmayı unutmayın!
 
