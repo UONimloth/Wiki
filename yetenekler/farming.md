@@ -206,11 +206,11 @@ Farklı kalite seviyelerinde sickle’lar bulunur:
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/d6RdWeuwiXsT9GO4V1XJrX3a6n4IRVNnC7Ut3AiU.png)
 
-<mark style="color:red;">**Silver Sickle**</mark>**:** Hasat sırasında ek mamül **(%5-10)** kazandırır.
+<mark style="color:red;">**Silver Sickle**</mark>**:** Hasat sırasında ek mamül **(**<mark style="color:red;">**%5-10**</mark>**)** kazandırır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZiXPztdzf4gb7F9WFkUkOYhQ9BzE4eaebMF2fMj6.png)
 
-<mark style="color:red;">**Gold Sickle**</mark>**:** En yüksek verimi sunar, daha fazla ek mamül **(%10-20)** elde etmenizi sağlar.
+<mark style="color:red;">**Gold Sickle**</mark>**:** En yüksek verimi sunar, daha fazla ek mamül **(**<mark style="color:red;">**%10-20**</mark>**)** elde etmenizi sağlar.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Iq06sLp0npuodtTZHe43xCMjd3WhoTE5ZO7onI8D.png)
 
