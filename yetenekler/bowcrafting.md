@@ -44,7 +44,9 @@ Toolcase’e çift tıkladığınızda üretim menüsü açılır. Bu menü üze
 
 Bowcrafting, <mark style="color:red;">**orta zorlukta**</mark> gelişen bir üretim yeteneğidir. Yetenek deneyimi kazanmak için en kolay yöntem Rolling Pin üretmektir.
 
-Yetenek seviyeniz yükseldikçe Superior ve Exceptional kalitede bowların yanı sıra Elven ve Yew Bow üretimi de yapabilirsiniz
+Yetenek seviyesi 100’e ulaştıktan sonra, şehirlerdeki Bowcrafter Vendorlar aracılığıyla çeşitli craft görevleri alınabilir.
+
+Bu görevleri tamamladıkça, [Craft Mastery Sistemi](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilirsiniz.
 
 ## Nimloth’ta Bowcrafting’in Önemi
 

@@ -239,6 +239,8 @@
   * [Begging](yetenekler/begging.md)
   * [Blacksmithy](yetenekler/blacksmithy.md)
   * [Bowcrafting](yetenekler/bowcrafting.md)
+  * [Camping](yetenekler/camping.md)
+  * [Carpentry](yetenekler/carpentry.md)
   * [Cartography](yetenekler/cartography.md)
   * [Discordance](yetenekler/discordance.md)
   * [Evaluating Intelligence](yetenekler/evaluating-intelligence.md)

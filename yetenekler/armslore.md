@@ -20,7 +20,7 @@ Bu gereksinimleri karşılamayan oyuncular, zehri silaha uygulayamazlar.
 
 ## Disarm Bonusu
 
-Armslore, Disarm (silahsız bırakma) bonusunun aktifleşmesinde de önemli bir rol oynar. Disarm bonusunu kullanabilmek için oyuncunun <mark style="color:red;">**80.0 Armslore ve 80.0 Wrestling**</mark> seviyesine sahip olması gerekir.
+Armslore, Disarm (silahsız bırakma) bonusunun aktifleşmesinde de önemli bir rol oynar. Disarm bonusunu kullanabilmek için <mark style="color:red;">**80.0 Armslore ve 80.0 Wrestling**</mark> seviyesine sahip olmanız gerekir.
 
 Bu iki yetenek birlikte çalışarak rakibi kısa süreliğine savunmasız hale getirme şansını artırır.
 

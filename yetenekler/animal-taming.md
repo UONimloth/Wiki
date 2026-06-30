@@ -8,17 +8,17 @@ Bu yetenek, Animal Lore ile birlikte çalışarak evcilleştirme sürecini daha 
 
 ## Evcilleştirme Yöntemi
 
-Bu yeteneği kullanabilmek için oyuncuların bir Taming Staff’a sahip olmaları gerekir.
+Bu yeteneği kullanabilmek için bir Taming Staff’a sahip olmanız gerekir.
 
 Evcilleştirme işlemi iki şekilde yapılabilir:
 
-• Animal Taming yeteneğini seçip evcilleştirmek istedikleri canlıya tıklayarak
+• Animal Taming yeteneğini seçip evcilleştirmek istediğiniz canlıya tıklayarak
 
 • Taming Staff’a çift tıklayıp hedef canlıyı seçerek
 
 ## Yetenek Gelişimi
 
-Animal Taming, Britanniya topraklarında bulunan çeşitli hayvan ve binekleri evcilleştirerek geliştirilebilir.
+Animal Taming, Britannia topraklarında bulunan çeşitli hayvan ve binekleri evcilleştirerek geliştirilebilir.
 
 Ancak unutmayın: bu yetenek, <mark style="color:red;">**ustalaşması en zor becerilerden biridir**</mark>**.**
 

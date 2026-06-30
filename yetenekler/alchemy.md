@@ -4,11 +4,11 @@ Alchemy, oyuncuların çeşitli bitkisel ve büyüsel bileşenleri karıştırar
 
 Bu yetenek, savaşta hayatta kalmayı kolaylaştıran temel iksirlerden, özel etkiler yaratan gelişmiş karışımlara kadar geniş bir yelpazede üretim imkânı sunar.
 
-İksir üretebilmek için öncelikle bir Mortar and Pestle eşyasına sahip olman gerekir.
+İksir üretebilmek için öncelikle bir Mortar and Pestle eşyasına sahip olmanız gerekmektedir.
 
-Bu eşya, şehirlerdeki Alchemist Vendor’lardan <mark style="color:red;">**1,840 gp**</mark> karşılığında satın alınabilir.
+Bu eşyayı, şehirlerdeki Alchemist Vendor’lardan <mark style="color:red;">**1,840 gp**</mark> karşılığında satın alabilirsiniz.
 
-Mortar and Pestle’a çift tıkladığında, karşına Alchemy Üretim Menüsü çıkar.
+Mortar and Pestle’a çift tıkladığında, karşınıza Alchemy Üretim Menüsü çıkar.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/d7iAn1c0yjlqlyrg05EQEb0gLKEaMeJcDLPTpZ5f.png)
 
@@ -34,7 +34,7 @@ Others
 
 Her sekmede o kategoriye ait iksirlerin listesi yer alır.
 
-Oyuncular diledikleri iksiri seçerek, iksirin üretimi için gereken malzemeleri görüntüleyebilirler.
+Dilediğiniz iksiri seçerek, iksirin üretimi için gereken malzemeleri görüntüleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/3kGC9UDKUGOJ0TNZJj1zUAwzaL74UFNWZ2RlUHWI.png)
 
