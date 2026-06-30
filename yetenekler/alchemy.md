@@ -1,38 +1,55 @@
 # Alchemy
 
-<p>Alchemy, oyuncuların çeşitli bitkisel ve büyüsel bileşenleri karıştırarak güçlü iksirler üretmesini sağlayan bir üretim yeteneğidir.</p>
-<p>Bu yetenek, savaşta hayatta kalmayı kolaylaştıran temel iksirlerden, özel etkiler yaratan gelişmiş karışımlara kadar geniş bir yelpazede üretim imkânı sunar.</p>
+Alchemy, oyuncuların çeşitli bitkisel ve büyüsel bileşenleri karıştırarak güçlü iksirler üretmesini sağlayan bir üretim yeteneğidir.
 
-<p>İksir üretebilmek için öncelikle bir Mortar and Pestle eşyasına sahip olman gerekir.</p>
-<p>Bu eşya, şehirlerdeki Alchemist Vendor’lardan <strong style="color: #410000;">1,840 gp</strong> karşılığında satın alınabilir.</p>
-<p>Mortar and Pestle’a çift tıkladığında, karşına Alchemy Üretim Menüsü çıkar.</p>
+Bu yetenek, savaşta hayatta kalmayı kolaylaştıran temel iksirlerden, özel etkiler yaratan gelişmiş karışımlara kadar geniş bir yelpazede üretim imkânı sunar.
+
+İksir üretebilmek için öncelikle bir Mortar and Pestle eşyasına sahip olman gerekir.
+
+Bu eşya, şehirlerdeki Alchemist Vendor’lardan **1,840 gp** karşılığında satın alınabilir.
+
+Mortar and Pestle’a çift tıkladığında, karşına Alchemy Üretim Menüsü çıkar.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/d7iAn1c0yjlqlyrg05EQEb0gLKEaMeJcDLPTpZ5f.png)
 
-<h2>Alchemy Üretim Menüsü</h2>
+## Alchemy Üretim Menüsü
 
-<p>Üretim menüsünde farklı iksir türleri çeşitlerine göre sekmelere ayrılmıştır.</p>
-<p>Toplamda 7 sekme bulunur:</p>
-<p>Heal</p>
-<p>Cure</p>
-<p>Refresh</p>
-<p>Strength</p>
-<p>Agility</p>
-<p>Poison</p>
-<p>Others</p>
-<p>Her sekmede o kategoriye ait iksirlerin listesi yer alır.</p>
-<p>Oyuncular diledikleri iksiri seçerek, iksirin üretimi için gereken malzemeleri görüntüleyebilirler.</p>
+Üretim menüsünde farklı iksir türleri çeşitlerine göre sekmelere ayrılmıştır.
+
+Toplamda 7 sekme bulunur:
+
+Heal
+
+Cure
+
+Refresh
+
+Strength
+
+Agility
+
+Poison
+
+Others
+
+Her sekmede o kategoriye ait iksirlerin listesi yer alır.
+
+Oyuncular diledikleri iksiri seçerek, iksirin üretimi için gereken malzemeleri görüntüleyebilirler.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/3kGC9UDKUGOJ0TNZJj1zUAwzaL74UFNWZ2RlUHWI.png)
 
-<h2>Others Sekmesi</h2>
-<p>Others sekmesi, standart iksirlerin dışında kalan özel karışımların üretimi için kullanılır.</p>
-<p>Bu sekmede aşağıdaki özel iksirler bulunur:</p>
+## Others Sekmesi
 
-<p>Nightsight Potion</p>
-<p>Bleed Potion</p>
-<p>Heal Salve Potion</p>
-<p>Cure Salve Potion</p>
-<p>Vaccine Potion</p>
+Others sekmesi, standart iksirlerin dışında kalan özel karışımların üretimi için kullanılır.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/tZYabfkiwigTw0dNqF5P9zAE5XJGaLyGxQJgzw91.png)
+Bu sekmede aşağıdaki özel iksirler bulunur:
+
+Nightsight Potion
+
+Bleed Potion
+
+[Salve Potion](https://nimloth-uo.gitbook.io/wiki/sistemler/salve-sistemi)&#x20;
+
+Vaccine Potion
+
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
