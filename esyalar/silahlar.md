@@ -11,14 +11,14 @@
 | Bow                        | 8,12      | 36  | 2,10  | Çift El  | Perfect Shot |
 | Crossbow                   | 10,14     | 30  | 2,10  | Çift El  | Dismount     |
 | Heavy Crossbow             | 12,16     | 26  | 2,8   | Çift El  | Dismount     |
-| Elven Bow                  | 12,16     | 50  | 2,12  | Çift El  | Perfect Shot |
+| Elven Bow                  | 14,18     | 50  | 2,12  | Çift El  | Perfect Shot |
 | Exceptional Bow            | 10,14     | 36  | 2,10  | Çift El  | Perfect Shot |
 | Exceptional Crossbow       | 12,16     | 30  | 2,1   | Çift El  | Dismount     |
 | Exceptional Heavy Crossbow | 14,18     | 26  | 2,8   | Çift El  | Dismount     |
 | Superior Bow               | 9,13      | 36  | 2,10  | Çift El  | Perfect Shot |
 | Superior Crossbow          | 11,15     | 30  | 2,10  | Çift El  | Dismount     |
 | Superior Heavy Crossbow    | 13,17     | 26  | 2,8   | Çift El  | Dismount     |
-| Yew Bow                    | 14,18     | 50  | 2,15  | Çift El  | Perfect Shot |
+| Yew Bow                    | 16,20     | 50  | 2,15  | Çift El  | Perfect Shot |
 
 ## Fencing
 
@@ -67,7 +67,7 @@ Avcılık, PvM görevleri, boss mücadeleleri ve open-world farm alanlarında y�
 
 Yew Bow kullanımında Tactics yetenek seviyenize göre aktifleşebilen Perfect Shot bonusu bulunmaktadır.
 
-Bu bonus devreye girdiğinde, verdiğiniz hasar normal hasarın **3 katına** çıkar. Hunter Mastery 20. seviyeyi tamamladığınızda Perfect Shot hasarı **4 katına** çıkmaktadır.
+Bu bonus devreye girdiğinde, verdiğiniz hasar normal hasarın <mark style="color:red;">**3 katına**</mark> çıkar. Hunter Mastery 20. seviyeyi tamamladığınızda Perfect Shot hasarı <mark style="color:red;">**4 katına**</mark> çıkmaktadır.
 
 Bu özellik, özellikle yüksek dirençli yaratıklar üzerinde ciddi bir tehdit oluşturur ve kritik mücadelelerde büyük avantaj sağlar.
 
