@@ -10,16 +10,6 @@ Archery yeteneği, [**Archery**](https://nimloth-uo.gitbook.io/wiki/esyalar/sila
 
 Bu yetenek, uzaktan hasar vermeyi tercih eden oyuncular için temel savaş becerilerinden biridir.
 
-Archery yeteneğiyle kullanılabilen tüm silahları, temel özelliklerini ve istatistiklerini **Silahlar** sayfasından inceleyebilirsiniz.
-
-## Perfect Shot
-
-Archery yeteneğine sahip tüm yay ve arbaletlerde [<mark style="color:red;">**Perfect Shot**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#perfect-shot-mekanigi) isimli özel bir bonus bulunur.
-
-Bu bonusun aktif olabilmesi için Archery yeteneğinizin en az <mark style="color:red;">**98.0**</mark> seviyesinde olması gerekir.
-
-Perfect Shot gerçekleştiğinde saldırınız ilave hasar verir. Ayrıca <mark style="color:red;">**Tactics**</mark> yeteneğiniz yükseldikçe Perfect Shot'ın tetiklenme ihtimali de artar.
-
 ### Yetenek Gelişimi
 
 Archery, gelişimi kolay olan savaş yeteneklerinden biridir. Yay veya arbalet kullanarak yaratıklara ya da rakiplere başarılı saldırılar gerçekleştirdikçe yetenek deneyimi kazanabilir ve skill seviyenizi artırabilirsiniz.
