@@ -6,7 +6,7 @@ Bu yetenek, özellikle grup savaşlarında veya güçlü yaratıklara karşı ta
 
 ## Yetenek Mekaniği
 
-Discordance, oyuncunun yetenek seviyesi ile orantılı olarak hedef yaratığın tüm <mark style="color:red;">**Strength**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Dexterity**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Intelligence**</mark> <mark style="color:red;"></mark><mark style="color:red;">ve</mark> <mark style="color:red;"></mark><mark style="color:red;">**Skill**</mark> <mark style="color:red;"></mark><mark style="color:red;">değerlerini azaltır.</mark>
+Discordance, oyuncunun yetenek seviyesi ile orantılı olarak hedef yaratığın tüm <mark style="color:red;">**Strength**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Dexterity**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Intelligence**</mark> ve <mark style="color:red;">**Skill**</mark> değerlerini azaltır.
 
 Yetenek seviyesi arttıkça etkisi de güçlenir:
 
@@ -32,7 +32,7 @@ Yetenek seviyesi arttıkça etkisi de güçlenir:
 * Stat ve Skill azaltma oranı <mark style="color:red;">**%30'a kadar**</mark> yükselir.
 * Hedef yaratığın <mark style="color:red;">**Armor**</mark> değeri tamamen sıfırlanır.
 
-Armor değerinin sıfırlanması, yaratığın her aldığı fiziksel saldırıda daha fazla hasar almasını sağlar. Örneğin 90 Armor değerine sahip bir Crimson **Dragon** üzerinde Discordance kullanıldığında, normalde engelleyeceği yaklaşık <mark style="color:red;">**9 hasarı**</mark> artık engelleyemez. Bu da yaratığa yapılan her fiziksel saldırının yaklaşık <mark style="color:red;">**9 ek hasar**</mark> vermesi anlamına gelir.
+Armor değerinin sıfırlanması, yaratığın her aldığı fiziksel saldırıda daha fazla hasar almasını sağlar. Örneğin 90 Armor değerine sahip bir Crimson Dragon üzerinde Discordance kullanıldığında, normalde engelleyeceği yaklaşık <mark style="color:red;">**9 hasarı**</mark> artık engelleyemez. Bu da yaratığa yapılan her fiziksel saldırının yaklaşık <mark style="color:red;">**9 ek hasar**</mark> vermesi anlamına gelir.
 
 ## Yetenek Gelişimi
 

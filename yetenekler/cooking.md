@@ -12,6 +12,6 @@ Balık pişirebilmek için bir <mark style="color:red;">**ocak**</mark> veya her
 
 Çiğ balığa çift tıkladığınızda, uygun bir ateş kaynağının yakınındaysanız balık pişirme işlemi gerçekleştirilir.
 
-Daha pratik bir yöntem tercih eden oyuncular ise **Fisher Vendor'**&#x6C;ardan satın alabilecekleri <mark style="color:red;">**Frying Pan**</mark> eşyasını kullanabilirler.
+Daha pratik bir yöntem tercih eden oyuncular ise <mark style="color:red;">**Fisher Vendor**</mark>**'**&#x6C;ardan satın alabilecekleri <mark style="color:red;">**Frying Pan**</mark> eşyasını kullanabilirler.
 
 Frying Pan sayesinde envanterinizde bulunan balıkları toplu olarak pişirebilir ve işlemi çok daha hızlı tamamlayabilirsiniz.
