@@ -6,7 +6,7 @@ Fencing seviyeniz arttıkça bu silahlarla isabet oranınız yükselir ve savaş
 
 ## Kullanım Alanları
 
-Fencing yeteneği, **Fencing** kategorisindeki tüm silahları kullanırken aktif olarak çalışır.
+Fencing yeteneği, [**Fencing**](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar) kategorisindeki tüm silahları kullanırken aktif olarak çalışır.
 
 Bu yetenek, hem tek hedefe karşı yüksek verimlilik sunan silahlarda hem de farklı oyun tarzlarına hitap eden mızrak türlerinde önemli rol oynar.
 
@@ -15,7 +15,3 @@ Bu yetenek, hem tek hedefe karşı yüksek verimlilik sunan silahlarda hem de fa
 Fencing, gelişimi kolay olan savaş yeteneklerinden biridir. Fencing silahlarıyla yaratıklara veya rakiplere başarılı saldırılar gerçekleştirdikçe yetenek deneyimi kazanabilir ve skill seviyenizi artırabilirsiniz.
 
 Yetenek seviyeniz yükseldikçe saldırılarınız daha isabetli hale gelir ve silahlarınızın potansiyelinden tam anlamıyla faydalanabilirsiniz.
-
-## Kullanılabilir Silahlar
-
-**Fencing yeteneğiyle kullanılabilen tüm silahları, temel özelliklerini ve istatistiklerini** [**Silahlar** ](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar)**sayfasından inceleyebilirsiniz.**
