@@ -22,13 +22,7 @@
 
 ## Fencing
 
-| Silah Adı   | Baz Hasar | Hız | Range     | Kullanım | Bonuslar     |
-| ----------- | --------- | --- | --------- | -------- | ------------ |
-| Kryss       | 8,12      | 44  | Tek Kare  | Tek El   | Armor Ignore |
-| PitchFork   | 12,16     | 28  | Çift Kare | Çift El  | Paradarbe    |
-| Short Spear | 11,15     | 30  | Çift Kare | Çift El  | Paradarbe    |
-| Spear       | 13,17     | 26  | Çift Kare | Çift El  | Paradarbe    |
-| War Fork    | 11,15     | 32  | Tek Kare  | Tek El   | Armor Ignore |
+<table data-search="true"><thead><tr><th>Silah Adı</th><th>Baz Hasar</th><th>Hız</th><th>Range</th><th>Kullanım</th><th>Bonuslar</th></tr></thead><tbody><tr><td>Kryss</td><td>8,12</td><td>44</td><td>Tek Kare</td><td>Tek El</td><td>Armor Ignore</td></tr><tr><td>PitchFork</td><td>12,16</td><td>28</td><td>Çift Kare</td><td>Çift El</td><td>Paradarbe</td></tr><tr><td>Short Spear</td><td>11,15</td><td>30</td><td>Çift Kare</td><td>Çift El</td><td>Paradarbe</td></tr><tr><td>Spear</td><td>13,17</td><td>26</td><td>Çift Kare</td><td>Çift El</td><td>Paradarbe</td></tr><tr><td>War Fork</td><td>11,15</td><td>32</td><td>Tek Kare</td><td>Tek El</td><td>Armor Ignore</td></tr></tbody></table>
 
 ## Mace Fighting
 
