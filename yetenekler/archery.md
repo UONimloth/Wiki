@@ -6,7 +6,7 @@ Archery seviyeniz arttıkça bu silahlarla isabet oranınız yükselir ve savaş
 
 ## Kullanım Alanları
 
-Archery yeteneği, [**Archery**](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#archery) kategorisindeki tüm yay ve arbaletleri kullanırken aktif olarak çalışır.
+Archery yeteneği, [<mark style="color:red;">**Archery**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#archery) kategorisindeki tüm yay ve arbaletleri kullanırken aktif olarak çalışır.
 
 Bu yetenek, uzaktan hasar vermeyi tercih eden oyuncular için temel savaş becerilerinden biridir.
 

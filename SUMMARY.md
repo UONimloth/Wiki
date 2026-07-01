@@ -71,6 +71,7 @@
     * [Silver Sickle](esyalar/uretimtoplayici/silver-sickle.md)
     * [Gold Pickaxe](esyalar/uretimtoplayici/gold-pickaxe.md)
     * [Silver Pickaxe](esyalar/uretimtoplayici/silver-pickaxe.md)
+    * [Frying Pan](esyalar/uretimtoplayici/frying-pan.md)
   * [Zırhlar](esyalar/zirhlar/README.md)
     * [Blackrock Platemail](esyalar/zirhlar/blackrock-platemail.md)
     * [Bloodrock Platemail](esyalar/zirhlar/bloodrock-platemail.md)

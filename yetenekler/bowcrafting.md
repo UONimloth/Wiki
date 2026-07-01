@@ -24,7 +24,7 @@ Ayrıca, özel kullanımlara hitap eden iki efsanevi yay da yalnızca bu yetenek
 
 Bu yaylar, farklı board türleri ve materyaller kullanılarak üretilebilir.
 
-Ağaçlardan ve [Tree Grove](https://nimloth-uo.gitbook.io/wiki/sistemler/tree-grove-sistemi) lardan elde edilen odunlar, daha kaliteli ve dayanıklı yayların ortaya çıkmasını sağlar.
+Ağaçlardan ve [<mark style="color:red;">Tree Grove</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/tree-grove-sistemi) lardan elde edilen odunlar, daha kaliteli ve dayanıklı yayların ortaya çıkmasını sağlar.
 
 ## Üretim Süreci
 
@@ -46,7 +46,7 @@ Bowcrafting, <mark style="color:red;">**orta zorlukta**</mark> gelişen bir üre
 
 Yetenek seviyesi 100’e ulaştıktan sonra, şehirlerdeki Bowcrafter Vendorlar aracılığıyla çeşitli craft görevleri alınabilir.
 
-Bu görevleri tamamladıkça, [Craft Mastery Sistemi](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilirsiniz.
+Bu görevleri tamamladıkça, [<mark style="color:red;">Craft Mastery Sistemi</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilirsiniz.
 
 ## Nimloth’ta Bowcrafting’in Önemi
 

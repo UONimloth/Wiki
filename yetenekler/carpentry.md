@@ -39,7 +39,7 @@ Toolcase'e çift tıkladığınızda üretim menüsü açılır. Bu menü üzeri
 
 Carpentry, <mark style="color:red;">**orta zorlukta**</mark> gelişen bir üretim yeteneğidir. Çeşitli ahşap eşyalar üreterek yetenek deneyimi kazanabilir ve daha gelişmiş tariflerin kilidini açabilirsiniz.
 
-Yetenek seviyeniz 100'e ulaştığında, şehirlerde bulunan Carpenter Vendor'lardan Craft görevleri alabilirsiniz. Tamamladığınız görevler sayesinde [Craft Mastery Sistemi](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi yükseltebilir ve çeşitli avantajların kilidini açabilirsiniz.
+Yetenek seviyeniz 100'e ulaştığında, şehirlerde bulunan Carpenter Vendor'lardan Craft görevleri alabilirsiniz. Tamamladığınız görevler sayesinde [<mark style="color:red;">Craft Mastery Sistemi</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi yükseltebilir ve çeşitli avantajların kilidini açabilirsiniz.
 
 ## Nimloth'ta Carpentry'nin Önemi
 
