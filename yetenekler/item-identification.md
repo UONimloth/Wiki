@@ -1,10 +1,10 @@
 # Item Identification
 
-Item Identification, büyülü eşyaların özelliklerini analiz etmenizi sağlayan yardımcı yetenektir. Bu yetenek sayesinde bir silahın sahip olduğu **Magical** seviyesini kolayca öğrenebilirsiniz.
+Item Identification, büyülü eşyaların özelliklerini analiz etmenizi sağlayan yardımcı yetenektir. Bu yetenek sayesinde bir silahın sahip olduğu Magical seviyesini kolayca öğrenebilirsiniz.
 
 ## Kullanım Şekli
 
-Item Identification yeteneğini bir **silah** üzerinde kullandığınızda, silahın <mark style="color:red;">**Magical**</mark> seviyesi görüntülenir.
+Item Identification yeteneğini bir silah üzerinde kullandığınızda, silahın <mark style="color:red;">**Magical**</mark> seviyesi görüntülenir.
 
 Ayrıca, başarılı kullanım sonrasında silahın ismi, sahip olduğu Magical seviyesine göre farklı bir renkte görüntülenir. Bu sayede eşyaların kalitesini envanterinizde veya ticaret sırasında kolayca ayırt edebilirsiniz.
 

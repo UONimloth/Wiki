@@ -12,7 +12,7 @@ Yetenek seviyeniz ve Gatherer Mastery ilerlemeniz arttıkça, daha özel balık 
 
 ## Special Fish
 
-[<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi) **Seviye 2**'yi tamamladığınızda [<mark style="color:red;">**Special Fish**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi#special-fish) yakalamaya başlayabilirsiniz.
+[<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi) <mark style="color:red;">**Seviye 2**</mark>'yi tamamladığınızda [<mark style="color:red;">**Special Fish**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi#special-fish) yakalamaya başlayabilirsiniz.
 
 Special Fish yakalamak için özel bir oltaya ihtiyacınız yoktur. Standart Fishing Pole ile de bu balıkları yakalayabilirsiniz.
 
@@ -28,7 +28,7 @@ Bu oltalar sayesinde [<mark style="color:red;">**Exotic Fish**</mark>](https://n
 
 ## SoS Bottle
 
-Denizlerde bulunan **SoS Bottle**'lar yalnızca <mark style="color:red;">**Fishing Net**</mark> kullanılarak elde edilebilir.
+Denizlerde bulunan <mark style="color:red;">**SoS Bottle**</mark>'lar yalnızca <mark style="color:red;">**Fishing Net**</mark> kullanılarak elde edilebilir.
 
 Ağ kullanabilmek için <mark style="color:red;">**Fishing**</mark> yeteneğinizin en az <mark style="color:red;">**90.0**</mark> seviyesinde olması gerekmektedir.
 

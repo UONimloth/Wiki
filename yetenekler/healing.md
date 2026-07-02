@@ -1,6 +1,6 @@
 # Healing
 
-Healing, bandaj kullanarak kendinizi veya diğer oyuncuları iyileştirmenizi sağlayan destek yeteneğidir. Savaş sırasında hayatta kalmanın en önemli yollarından biri olan bu yetenek, **Anatomy** ile birlikte çalışarak tedavi gücünüzü artırır.
+Healing, bandaj kullanarak kendinizi veya diğer oyuncuları iyileştirmenizi sağlayan destek yeteneğidir. Savaş sırasında hayatta kalmanın en önemli yollarından biri olan bu yetenek, Anatomy ile birlikte çalışarak tedavi gücünüzü artırır.
 
 ## Bandaj Kullanımı
 
@@ -12,10 +12,10 @@ Bandajların iyileştirme miktarı, <mark style="color:red;">**Healing**</mark> 
 
 Healing yeteneği yalnızca can yenilemek için kullanılmaz.
 
-* <mark style="color:red;">**70.0 Healing**</mark> seviyesine ulaştığınızda bandaj kullanarak **zehir tedavisi** uygulayabilirsiniz.
-* <mark style="color:red;">**80.0 Healing**</mark> seviyesine ulaştığınızda ise bandaj kullanarak **ölü oyuncuları diriltebilirsiniz**.
+* <mark style="color:red;">**70.0 Healing**</mark> seviyesine ulaştığınızda bandaj kullanarak <mark style="color:red;">**zehir tedavisi**</mark> uygulayabilirsiniz.
+* <mark style="color:red;">**80.0 Healing**</mark> seviyesine ulaştığınızda ise bandaj kullanarak <mark style="color:red;">**ölü oyuncuları diriltebilirsiniz**</mark>.
 
-Diriltme işleminin gerçekleştirilebilmesi için **Anatomy** yeteneğinizin de yeterli seviyede olması gerekmektedir.
+Diriltme işleminin gerçekleştirilebilmesi için <mark style="color:red;">**Anatomy**</mark> yeteneğinizin de yeterli seviyede olması gerekmektedir.
 
 ## Yetenek Gelişimi
 
