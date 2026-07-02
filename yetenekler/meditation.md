@@ -14,6 +14,8 @@ Düşük seviyelerde transa geçmek daha zor ve verimsizken, yüksek seviyelerde
 
 ## Meditation Seviyesine Göre Etkiler
 
+**Meditation yetenek seviyeniz transa geçiş sürenizi ve transa geçtikten sonra dolduracağınız mana miktarını doğrudan etkilemektedir.**
+
 ### **0 – 25 arası**
 
 Transa geçiş zordur ve başarısız olma ihtimali bulunmaktadır Trans durumu kolayca bozulabilir Her tick’te 1 mana yenilenir
