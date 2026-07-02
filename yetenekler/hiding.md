@@ -15,11 +15,11 @@ Koşullar sağlandığında yeteneği kullanarak bulunduğunuz noktada gizlenebi
 
 ## Stealth ile Etkileşimi
 
-Hiding ve **Stealth** yetenekleri birbiriyle uyumlu şekilde çalışmaktadır.
+Hiding ve Stealth yetenekleri birbiriyle uyumlu şekilde çalışmaktadır.
 
-Hiding yalnızca oyuncunun gizlenmesini sağlarken, **Stealth** gizliyken hareket edebilmenizi sağlar.
+Hiding yalnızca oyuncunun gizlenmesini sağlarken, Stealth gizliyken hareket edebilmenizi sağlar.
 
-Ancak **Stealth** yeteneğine sahipseniz gizlenmek için ayrıca Hiding kullanmanıza gerek yoktur. Stealth, tek başına hem gizlenmenizi hem de gizli şekilde hareket etmenizi sağlar.
+Ancak Stealth yeteneğine sahipseniz gizlenmek için ayrıca Hiding kullanmanıza gerek yoktur. Stealth, tek başına hem gizlenmenizi hem de gizli şekilde hareket etmenizi sağlar.
 
 ## Yetenek Gelişimi
 
