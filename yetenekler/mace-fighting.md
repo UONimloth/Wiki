@@ -6,7 +6,7 @@ Mace Fighting seviyeniz arttıkça bu silahlarla isabet oranınız yükselir ve 
 
 ## Kullanım Alanları
 
-Mace Fighting yeteneği, [**Mace Fighting**](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#mace-fighting) kategorisindeki tüm silahları kullanırken aktif olarak çalışır.
+Mace Fighting yeteneği, [<mark style="color:red;">**Mace Fighting**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#mace-fighting) kategorisindeki tüm silahları kullanırken aktif olarak çalışır.
 
 Bu yetenek, yüksek hasar odaklı bir oyun tarzını benimseyen oyuncular için güçlü bir seçenektir.
 

@@ -12,5 +12,6 @@ Her iki sandık türünü de açabilmek için en az <mark style="color:red;">**9
 
 Lockpicking, orta zorlukta gelişen bir yardımcı yetenektir.
 
-Şehirlerdeki bankalarda bulunan <mark style="color:red;">**Training Chest**</mark>'leri kullanarak güvenli bir şekilde yeteneklerinizi geliştirebilirsiniz.\
-![](<../.gitbook/assets/image (119).png>)
+Şehirlerdeki bankalarda bulunan <mark style="color:red;">**Training Chest**</mark>'leri kullanarak güvenli bir şekilde yeteneklerinizi geliştirebilirsiniz.<br>
+
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
