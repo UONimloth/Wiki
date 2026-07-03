@@ -20,6 +20,12 @@ Standart Hatchet'a göre daha dayanıklıdır ve odun toplarken <mark style="col
 
 Silver Hatchet'tan daha dayanıklıdır ve odun toplarken <mark style="color:red;">**%50 şansla iki kat malzeme**</mark> elde etmenizi sağlar.
 
+### Tree Grove Sistemi
+
+Normal odunculuğun yanı sıra, haritada belli bölgelerde bulunan [<mark style="color:red;">**Tree Grove**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/tree-grove)'leri de kesebilirsiniz.
+
+Tree Grove'lar, Yew ve Oak log elde etmenizi sağlayan özel bir ağaçlık noktalardır.
+
 ## Savaşta Kullanımı
 
 Lumberjacking yalnızca gathering yeteneği değildir.
