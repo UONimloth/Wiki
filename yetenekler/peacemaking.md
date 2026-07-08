@@ -1,31 +1,36 @@
 # Peacemaking
 
-<p>Peacemaking, çevrenizdeki saldırgan hayvanları sakinleştirmenizi sağlayan destek odaklı bir yetenektir.</p>
-<p>Bu yetenek sayesinde, doğada karşılaştığınız sinirli ve kontrolsüz yaratıkları geçici olarak etkisiz hâle getirerek daha güvenli hareket edebilirsiniz.</p>
+Peacemaking, vahşi hayvanları geçici olarak sakinleştirmenizi sağlayan destek yeteneğidir. Bu sayede saldırgan yaratıkları etkisiz hale getirerek tehlikeli bölgelerde daha güvenli hareket edebilirsiniz.
 
-<p>Peacemaking yeteneğini kullanabilmek için çantanızda mutlaka bir <strong style="color: #410000;">Lute</strong> bulunması gerekir.</p>
-<p>Lute eşyasını <strong style="color: #410000;">Carpenter</strong> yeteneği ile üretebilir veya şehirlerdeki <strong style="color: #410000;">Carpenter Vendor</strong>’lardan satın alabilirsiniz.</p>
+## Kullanım Şekli
 
-<p>Bu yetenek yalnızca <strong style="color: #410000;">vahşi hayvanlar</strong> üzerinde kullanılabilir.</p>
-<p>Evcilleştirilmiş hayvanlar veya oyunculara ait binekler üzerinde Peacemaking kullanmanız mümkün değildir.</p>
+Peacemaking yeteneğini kullanabilmek için çantanızda bir <mark style="color:red;">**Lute**</mark> bulunması gerekmektedir.
 
-<p>Peacemaking, aynı anda yalnızca <strong style="color: #410000;">tek bir hayvan</strong> üzerinde etkilidir ve herhangi bir alan (AoE) etkisi bulunmaz.</p>
-<p>Yeteneği kullandığınızda, hedef aldığınız hayvan sakinleşir ve size veya çevresine saldırmaz.</p>
+Lute'u <mark style="color:red;">**Carpentry**</mark> yeteneği ile üretebilir veya <mark style="color:red;">**Carpenter Vendor**</mark>'lardan satın alabilirsiniz.
 
-<p>Hayvanı sakinleştirme ihtimali, Peacemaking yetenek seviyenizle doğru orantılı olarak artar.</p>
-<p>Yetenek seviyeniz yükseldikçe hem başarılı olma şansınız artar hem de hayvanın sakin kalma süresi uzar.</p>
+Peacemaking, yalnızca <mark style="color:red;">**vahşi hayvanlar**</mark> üzerinde kullanılabilir. Başka oyunculara ait evcilleştirilmiş hayvanlar ve binekler bu yetenekten etkilenmez.
 
-<p>Peacemaking kullanımı sırasında, yeteneğin sonucuna göre hedef hayvan üzerinde bilgilendirici bir yazı görüntülenir.</p>
-<p>Yetenek <strong style="color: #410000;">başarılı</strong> olursa, hayvanın üzerinde <strong style="color: #410000;">“Sakinleşir”</strong> yazısı belirir.</p>
+## Yetenek Mekaniği
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/JT7shTTzizElAv6yCxgsTcs8m2TJfkeeTcvpSRib.png)
+Peacemaking aynı anda yalnızca <mark style="color:red;">**tek bir hedef**</mark> üzerinde etkilidir ve alan etkisine (AoE) sahip değildir.
 
-<p>Yetenek <strong style="color: #410000;">başarısız</strong> olursa, hayvanın üzerinde <strong style="color: #410000;">“Umursamaz”</strong> yazısı görüntülenir.</p>
+Yetenek başarılı olduğunda hedef hayvan geçici bir süre sakinleşir ve saldırgan davranışlarını durdurur.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/KHbjkmdyHb9MgRgJee3XPmSxlQPxnGk2sp1qJrYh.png)
+Peacemaking seviyeniz yükseldikçe:
 
-<p>Peacemaking kullanımı, sonucu ne olursa olsun yetenek gelişimine katkı sağlar.</p>
-<p>Ancak yeteneğin <strong style="color: #410000;">başarılı</strong> olması durumunda, Peacemaking gelişim şansınız daha yüksek olur.</p>
+* Yeteneğin başarılı olma ihtimali artar.
+* Hedefin sakin kalma süresi uzar.
 
-<p>Sakinleştirilmiş bir yaratık, etkisi devam ettiği sürece tekrar sakinleştirilemez.</p>
-<p>Bu nedenle Peacemaking’i doğru hedef, doğru zaman ve doğru yetenek seviyesiyle kullanmanız büyük önem taşır.</p>
+Başarılı kullanım sonrasında hedef üzerinde <mark style="color:$success;">**"Sakinleşir"**</mark>, başarısız kullanımda ise <mark style="color:$danger;">**"Umursamaz"**</mark> ibaresi görüntülenir.
+
+Sakinleştirilmiş bir hedef, etki süresi boyunca yeniden Peacemaking etkisi altına alınamaz.
+
+<figure><img src="../.gitbook/assets/peacemaking 1.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/peacemaking 2.gif" alt=""><figcaption></figcaption></figure>
+
+### Yetenek Gelişimi
+
+Peacemaking, kullanıldıkça gelişen bir destek yeteneğidir.
+
+Yetenek başarılı olsun veya olmasın skill kazanma şansı bulunur. Ancak başarılı kullanımlar, yetenek gelişimi açısından daha yüksek bir avantaj sağlar.
