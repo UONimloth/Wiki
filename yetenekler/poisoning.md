@@ -30,7 +30,7 @@ Silahlara uygulanabilecek zehirler için gereken minimum Poisoning seviyeleri a�
 
 ## Arms Lore Gereksinimi
 
-Yüksek seviyeli büyülü silahlara zehir uygulayabilmek için belirli bir **Arms Lore** seviyesine de sahip olmanız gerekir.
+Yüksek seviyeli büyülü silahlara zehir uygulayabilmek için belirli bir <mark style="color:red;">**Arms Lore**</mark> seviyesine de sahip olmanız gerekir.
 
 * <mark style="color:red;">**+6 Magical**</mark> → 20.0 Arms Lore
 * <mark style="color:red;">**+9 Magical**</mark> → 40.0 Arms Lore
