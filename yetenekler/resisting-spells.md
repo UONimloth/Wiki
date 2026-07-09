@@ -1,19 +1,29 @@
 # Resisting Spells
 
-<p>Resisting Spells, büyülerin yıkıcı etkilerine karşı koyabilme gücünüzü temsil eder. Bu yetenek, savaş alanında sizi sıradan bir savaşçı olmaktan çıkarıp, büyü karşısında dimdik duran bir kahramana dönüştürür.</p>
+Resisting Spells, büyülerden alacağınız hasarı azaltan savunma yeteneğidir. Özellikle büyü kullanan rakiplere karşı hem PvP hem de PvM'de önemli bir avantaj sağlar.
 
-<p>Resisting Spells seviyeniz arttıkça, üzerinize gelen büyülerden alacağınız hasar azalır. Hasar azaltımı şu formüle göre hesaplanır:</p>
+## Büyü Direnci
 
-<p>Alınan Hasar = Gelen Hasar - %(Resisting Spells / 40)</p>
+Resisting Spells seviyeniz arttıkça, üzerinize gelen büyülerden alacağınız hasar azalır.
 
-<p>1000 Resisting Spells becerisine sahip bir oyuncu <strong style="color: #410000;">%25 oranında</strong> büyü hasarını azaltır.
+Büyü hasarının azaltılması aşağıdaki formüle göre hesaplanmaktadır:
 
-<p>800 beceriye sahip bir oyuncu ise <strong style="color: #410000;">%20 oranında</strong> oranında büyü hasarını azaltır.
+<mark style="color:red;">**Alınan Hasar = Gelen Hasar - %(Resisting Spells / 40)**</mark>
 
-<p>Ama hepsi bu kadar değil!</p>
-<p>Yüksek seviyeli bir büyü direncine sahipseniz, bazı büyülerden hiç etkilenmeme şansınız da vardır.</p>
+Bu sayede yetenek seviyeniz yükseldikçe büyülere karşı daha dayanıklı hale gelirsiniz.
 
-<p>Resisting Spells yeteneğiniz <strong style="color: #410000;">60.0 ve üzerinde ise</strong>, yetenek seviyenize göre değişecek şekilde büyülerden etkilenmezsiniz</p>
+## Büyülere Direnme
 
-<p>Bu bonus aktif olduğunda üzerinizde * Etkilenmez * yazısı belirir.</p>
+Resisting Spells yeteneğiniz <mark style="color:red;">**60.0**</mark> veya üzerindeyse, yetenek seviyenize bağlı olarak bazı büyülere tamamen direnme şansı kazanırsınız.
 
+Bu bonus gerçekleştiğinde büyü sizi etkilemez ve karakterinizin üzerinde <mark style="color:green;">\* Etkilenmez \*</mark> ibaresi görüntülenir.
+
+<figure><img src="../.gitbook/assets/resist.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+### Yetenek Gelişimi
+
+Resisting Spells, kolay zorlukta gelişen bir savunma yeteneğidir. Büyülere maruz kaldıkça yetenek deneyimi kazanabilir ve Resisting Spells seviyenizi artırabilirsiniz.
