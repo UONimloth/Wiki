@@ -80,7 +80,7 @@ Ancak dikkat edin: Eğer taranan gemi <mark style="color:red;">**Cloak bonusunu 
 
 Sailorman’s Spyglass’ı üretmek için 1 Glass ve 40 Shadow Ingot gerekir.
 
-Bu eşyanın blueprint’i, Blacksmith Craft görevlerinden rastgele ödül olarak elde edilebilir.
+Bu eşyanın blueprint’i, [<mark style="color:red;">Blacksmith Craft görevlerinden</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) rastgele ödül olarak elde edilebilir.
 
 Ayrıca <mark style="color:red;">**Shipwright Vendorlarından**</mark> satın alınabilir.
 
