@@ -64,13 +64,13 @@ Sailorman’s Spyglass, bu amaca hizmet eden özel bir navigasyon aracıdır.
 
 Bu eşya sayesinde çevrenizdeki korsan gemilerini ve diğer oyuncuların gemilerini tespit edebilirsiniz.
 
-Kullanabilmek için **100 Sailormanship** yeteneğine sahip olmanız gerekir.
+Kullanabilmek için <mark style="color:red;">**100 Sailormanship**</mark> yeteneğine sahip olmanız gerekir.
 
-Kullanıldığında **200 karelik** bir alanı tarar ve görünür durumdaki gemilerin konumlarını ve size olan uzaklıklarını ekranda gösterir.
+Kullanıldığında <mark style="color:red;">**200 karelik**</mark> bir alanı tarar ve görünür durumdaki gemilerin konumlarını ve size olan uzaklıklarını ekranda gösterir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Xaol8Jk4ildrQmHaNefHI7ZdEZTCa9viCewBfohL.png)
 
-Ancak dikkat edin: Eğer taranan gemi **Cloak bonusunu aktif olarak kullanıyorsa, bu gemi Sailor’s Spyglass tarafından tespit edilemez.**
+Ancak dikkat edin: Eğer taranan gemi <mark style="color:red;">**Cloak bonusunu aktif olarak kullanıyorsa, bu gemi Sailor’s Spyglass tarafından tespit edilemez.**</mark>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/AcGZIuhm4qCZQ5BMkRIx7Xek0dIbbWQ8xGpAaQNP.png)
 
