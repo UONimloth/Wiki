@@ -271,6 +271,7 @@
   * [Sailormanship](yetenekler/sailormanship.md)
   * [Swordsmanship](yetenekler/swordsmanship.md)
   * [Tracking](yetenekler/tracking.md)
+  * [Snooping](yetenekler/snooping.md)
 * [Binekler](binekler/README.md)
   * [Horse](binekler/horse.md)
   * [Pack Binekler](binekler/pack-binekler.md)
