@@ -6,7 +6,7 @@ Swordsmanship seviyeniz arttıkça bu silahlarla isabet oranınız yükselir ve 
 
 ## Kullanım Alanları
 
-Swordsmanship yeteneği, [**Swordsmanship**](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#swordsmanship) kategorisindeki tüm silahları kullanırken aktif olarak çalışır.
+Swordsmanship yeteneği, [<mark style="color:red;">**Swordsmanship**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#swordsmanship) kategorisindeki tüm silahları kullanırken aktif olarak çalışır.
 
 Bu yetenek, hızlı saldırılar ile yüksek hasar arasında dengeli bir oyun tarzı sunarak hem yeni başlayan hem de deneyimli oyuncular için güçlü bir seçenektir.
 
