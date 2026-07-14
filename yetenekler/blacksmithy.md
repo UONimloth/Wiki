@@ -40,9 +40,9 @@ Buradan istediğiniz eşyayı seçerek gerekli malzeme miktarlarını görüntü
 
 Blacksmithy yeteneği, <mark style="color:red;">**orta zorlukta**</mark> gelişen bir beceridir. Yetenek deneyimi kazanmak için çeşitli eşyalar üretmeniz gerekir.
 
-Yetenek seviyesi 100’e ulaştıktan sonra, şehirlerdeki Blacksmith Vendorlar aracılığıyla çeşitli craft görevleri alınabilir.
+Yetenek seviyesi 100’e ulaştıktan sonra, şehirlerdeki Blacksmith Vendorlar aracılığıyla çeşitli [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) alınabilir.
 
-Bu görevleri tamamladıkça, [Craft Mastery Sistemi](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilir ve çeşitli özelliklerin kilidini açabilirsiniz.
+Bu görevleri tamamladıkça, [<mark style="color:red;">Craft Mastery Sistemi</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilir ve çeşitli özelliklerin kilidini açabilirsiniz.
 
 ## Tamir İşlemleri
 
