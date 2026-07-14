@@ -42,11 +42,11 @@ Blacksmithy yeteneği, <mark style="color:red;">**orta zorlukta**</mark> gelişe
 
 Yetenek seviyesi 100’e ulaştıktan sonra, şehirlerdeki Blacksmith Vendorlar aracılığıyla çeşitli [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) alınabilir.
 
-Bu görevleri tamamladıkça, [<mark style="color:red;">Craft Mastery Sistemi</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilir ve çeşitli özelliklerin kilidini açabilirsiniz.
+Bu görevleri tamamladıkça, [<mark style="color:red;">**Craft Mastery Sistemi**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilir ve çeşitli özelliklerin kilidini açabilirsiniz.
 
 ## Tamir İşlemleri
 
-Blacksmithy yeteneği, yalnızca üretimle sınırlı değildir. Aynı zamanda metal zırh ve Magical silahların tamir edilmesinde aktif rol oynar. Eşya Tamir sisteminin detaylarına [buradan](https://nimloth-uo.gitbook.io/wiki/sistemler/esya-tamir-sistemi) ulaşabilirsiniz
+Blacksmithy yeteneği, yalnızca üretimle sınırlı değildir. Aynı zamanda metal zırh ve Magical silahların tamir edilmesinde aktif rol oynar. Eşya Tamir sisteminin detaylarına [<mark style="color:red;">**buradan**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/esya-tamir-sistemi) ulaşabilirsiniz
 
 ## Nimloth’ta Zanaatın Önemi
 

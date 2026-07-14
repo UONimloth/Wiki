@@ -46,7 +46,7 @@ Bowcrafting, <mark style="color:red;">**orta zorlukta**</mark> gelişen bir üre
 
 Yetenek seviyesi 100’e ulaştıktan sonra, şehirlerdeki Bowcrafter Vendorlar aracılığıyla çeşitli [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) alınabilir.
 
-Bu görevleri tamamladıkça, [<mark style="color:red;">Craft Mastery Sistemi</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilirsiniz.
+Bu görevleri tamamladıkça, [<mark style="color:red;">**Craft Mastery Sistemi**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) üzerinden ustalık seviyenizi artırabilirsiniz.
 
 ## Nimloth’ta Bowcrafting’in Önemi
 
