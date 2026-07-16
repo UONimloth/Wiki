@@ -1,43 +1,49 @@
 # Tracking
 
-<p>Tracking, Nimloth dünyasında iz sürme sanatını temsil eder.</p>
-<p>Bu yetenek sayesinde çevrenizdeki canlıların hareketlerini hissedebilir, onları uzaktan takip edebilir ve avınızı asla gözden kaçırmazsınız.</p>
+Tracking, çevrenizde bulunan canlıların izini sürmenizi sağlayan yardımcı yetenektir. Bu sayede belirli türdeki yaratıkları veya oyuncuları tespit edebilir, bulundukları yönü öğrenerek hedefinizi kolayca takip edebilirsiniz.
 
-<p>Tracking yeteneğini kullandığınızda karşınıza bir seçim ekranı gelir.</p>
-<p>Bu ekranda 4 farklı tür canlı bulunmaktadır. İzini sürmek istediğinizi canlıyı seçip o türdeki canlıların izini sürmeye başlayabilirsiniz</p>
+## Kullanım Şekli
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/OK5AaPmCF3H76VU1tpuxhgrAw0HHoMuXHleGbKL8.png)
-<p>Seçiminizi yaptıktan sonra karakteriniz etrafı taramaya başlar. Eğer çevrede seçtiğiniz türe ait bir canlı varsa, sistem size o canlının adını ve yaklaşık uzaklığını gösterir.</p>
+Tracking yeteneğini kullandığınızda karşınıza bir seçim ekranı gelir.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/vJS44NZJ0LVK0ZdrV0f9MUhaM9XaphUpizcLGzOg.png)
+Bu ekrandan izini sürmek istediğiniz canlı türünü seçebilirsiniz. Seçiminizin ardından karakteriniz çevreyi taramaya başlar.
 
-<h2>Tarama Alanı</h2>
+Çevrede seçtiğiniz türe ait bir hedef bulunuyorsa, sistem size hedefin adını ve yaklaşık uzaklığını gösterir.
 
-<p>İz arama mesafeniz, Tracking yeteneğinizin seviyesine göre değişir.</p>
-<p>Tarama menzili, yeteneğinizin %30’u kadar bir alana yayılır.</p>
+<figure><img src="../.gitbook/assets/track 1.gif" alt=""><figcaption></figcaption></figure>
 
-<p>Örneğin 100 Tracking becerisine sahipseniz, çevrenizde <strong style="color: #410000;">30 karelik</strong> bir alan tararsınız.</p>
+## Tarama Mesafesi
 
-<h2>Quest Arrow (Yön Göstergesi)</h2>
+Tracking yeteneğinin tarama mesafesi, skill seviyeniz ile doğru orantılıdır.
 
-<p>Bir canlıyı seçtiğinizde, sistem size o canlının bulunduğu yönü gösteren bir quest arrow işareti çıkarır.</p>
-<p>Bu işaretin görünme süresi, Tracking yeteneğinizle doğru orantılıdır.</p>
+Tarama menzili, Tracking seviyenizin yaklaşık <mark style="color:red;">**%30'u**</mark> kadar hesaplanır. Yetenek seviyeniz arttıkça daha geniş bir alanı tarayabilir ve daha uzaktaki hedefleri tespit edebilirsiniz.
 
-<p>Örneğin 1000 Tracking becerisine sahip bir oyuncu, hedefin yönünü 5 saniye boyunca görebilir.</p>
+Ayrıca çeşitli [<mark style="color:red;">**Tamer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/tamer-mastery-sistemi#oduller) seviyeleri, tarama mesafenizi artırır:
 
-<h2>Tracker’s Spyglass</h2>
+* <mark style="color:red;">**Tamer Mastery Seviye 2**</mark> tamamlandığında, tarama mesafenize <mark style="color:red;">**+10 kare**</mark> eklenir.
+* <mark style="color:red;">**Tamer Mastery Seviye 14**</mark> tamamlandığında ise çantanızda <mark style="color:red;">**Tracker's Spyglass**</mark> bulunduğu sürece tarama mesafenize <mark style="color:red;">**+30 kare**</mark> eklenir.
 
-<p>Tracker’s Spyglass, iz sürücüler için özel olarak tasarlanmış bir araçtır.</p>
-<p>Bu eşya, hem tarama mesafenizi hem de yön göstergesinin etkin süresini artırır.</p>
+Bu bonuslar sayesinde usta iz sürücüler, hedeflerini çok daha uzak mesafelerden tespit edebilirler.
 
-<p>İz sürme esnasında eğer çantanızda bir Tracker's Spyglass varsa, tarayacağınız alana +30 kare ekler</p>
-<p>Örneğin 100 Tracking için 30 karelik menzil, Spyglass kullanıldığında 60 kareye çıkar.</p>
+## Quest Arrow
 
-<p>Bunun yanı sıra bulunan hedeflerde quest arrow süresini 2-3 saniye kadar uzatır.</p>
+Bir hedef bulunduğunda, karakterinizin ekranında hedefin bulunduğu yönü gösteren bir <mark style="color:red;">**Quest Arrow**</mark> görüntülenir.
 
-<p>Tracker’s Spyglass’ı, diğer oyunculardan veya Provis Vendor’lardan 57.500 gp karşılığında satın alabilirsiniz.</p>
+Quest Arrow'un ekranda kalma süresi de Tracking seviyeniz arttıkça uzar ve hedefinizi daha kolay takip etmenizi sağlar.
 
-<p>Bu eşyanın üretimi için 40 Agapite Ingot ve 1 Sand gereklidir.</p>
+## Tracker’s Spyglass
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ogW0o4PmiCzW0ndH6AdSGtI1st1nwC1t3fTku1c7.png)
-<p>Tracking yeteneğinle hedefini bul, Spyglass’ını kullan ve Nimloth’un en usta iz sürücüsü ol!</p>
+
+<mark style="color:red;">**Tracker's Spyglass**</mark>, Tracking yeteneğini güçlendiren özel bir ekipmandır.
+
+Bu eşyanın sağladığı tarama mesafesi bonusundan yararlanabilmek için <mark style="color:red;">**Tamer Mastery Seviye 14**</mark>'ü tamamlamış olmanız gerekmektedir.
+
+Gerekli Mastery seviyesine ulaştığınızda, çantanızda bir Tracker's Spyglass bulunduğu sürece:
+
+* Tracking tarama mesafeniz <mark style="color:red;">**30 kare**</mark> artar.
+* Quest Arrow'un görüntülenme süresi birkaç saniye uzar.
+
+Bu sayede hedeflerinizi çok daha uzak mesafelerden tespit edebilir ve takip etmeniz kolaylaşır.
+
+Tracker's Spyglass'ı diğer oyunculardan temin edebilir veya <mark style="color:red;">**Provisioner Vendor**</mark>'lardan satın alabilirsiniz.
