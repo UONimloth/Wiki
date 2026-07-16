@@ -33,7 +33,7 @@ Quest Arrow'un ekranda kalma süresi de Tracking seviyeniz arttıkça uzar ve he
 
 ## Tracker’s Spyglass
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ogW0o4PmiCzW0ndH6AdSGtI1st1nwC1t3fTku1c7.png)
+<figure><img src="/broken/files/RH6pxI9EB5xPTLbRuSRG" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Tracker's Spyglass**</mark>, Tracking yeteneğini güçlendiren özel bir ekipmandır.
 
