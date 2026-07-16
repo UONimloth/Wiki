@@ -104,9 +104,9 @@ Hamle miktarlarına göre çözüm kombinasyonları şu şekildedir;
 
 ### **Kombinasyon 1**
 
-<figure><img src="../.gitbook/assets/removetrap1.gif" alt=""><figcaption></figcaption></figure>
-
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gD4LKVzK4XrDUxdFmxf3qmhw8v7VpyQNsLWw9doQ.png)
+
+<figure><img src="../.gitbook/assets/removetrap1.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Kombinasyon 2**
 
