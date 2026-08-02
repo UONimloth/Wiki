@@ -6,7 +6,7 @@
 
 <figure><img src="../../../.gitbook/assets/Multi 0x00BA_Z013.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler
+### **Yapımı İçin Gerekenler**
 
 | Woodstone        | 25    |
 | ---------------- | ----- |

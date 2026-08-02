@@ -6,7 +6,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler
+### **Yapımı İçin Gerekenler**
 
 | Woodstone        | 50    |
 | ---------------- | ----- |

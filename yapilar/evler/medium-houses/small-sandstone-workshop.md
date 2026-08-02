@@ -8,7 +8,7 @@
 
 <figure><img src="../../../.gitbook/assets/Multi 0x00A3_Z023.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler
+### **Yapımı İçin Gerekenler**
 
 | Woodstone        | 50    |
 | ---------------- | ----- |
