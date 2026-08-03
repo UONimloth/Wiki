@@ -2,32 +2,44 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/qzJO52NN2jF9jFng1DxHd9aAGFPnpTUg8DsBpwPR.png)
 
-<p>Salve Potion, bandajlarınızı güçlendirerek iyileştirme sürecinizi daha etkili hale getirmenizi sağlayan özel bir iksirdir.</p>
-<p><a href="https://uo-nimloth.net/wiki/sistemler/salve-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Salve Sistemi</a> sayesinde, standart bandajların ötesine geçerek daha güçlü bir destek elde edebilirsiniz.</p>
-<p>Salve etkisini kullanabilmek için öncelikle Salve Potion üretmeniz gerekmektedir.</p>
+Salve Potion, bandajlarınızı güçlendirerek iyileştirme sürecinizi daha etkili hale getirmenizi sağlayan özel bir iksirdir.
 
-<h2>Üretim</h2>
-<p>Salve Potion, Alchemy yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:</p>
-<p>• 10 adet Ginseng</p>
-<p>• 10 adet Garlic</p>
-<p>• 1 adet Full Salve Jar</p>
-<p>• 98.1 Alchemy yeteneği gerekmektedir</p>
-<p>Ayrıca üretim için bir Blueprint zorunludur.</p>
+[<mark style="color:red;">**Salve Sistemi**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/salve-sistemi) sayesinde, standart bandajların ötesine geçerek daha güçlü bir destek elde edebilirsiniz.
 
-<h2>Blueprint Elde Etme</h2>
-<p>Salve Potion üretimi için gereken Blueprint; <a href="https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Blueprint Trader</a> vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.</p> 
+Salve etkisini kullanabilmek için öncelikle Salve Potion üretmeniz gerekmektedir.
 
-<h2>Salve Potion Kullanımı</h2>
-<p>Salve Potion üzerine tek tıklandığında, iksirin doluluk oranını görebilirsiniz.</p>
-<p>Çift takladığınızda ise bir hedef seçme penceresi çıkar ve bandaj seçmeleniz istenir.</p>
-<p>Bu işlem sırasında sistem, söz konusu Salve Potion’ın maksimum kaç adet bandaja uygulanabileceğini de gösterir.</p>
+## Üretim
+
+Salve Potion, Alchemy yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+
+• 10 adet Ginseng
+
+• 10 adet Garlic
+
+• 1 adet Full Salve Jar
+
+• 98.1 Alchemy yeteneği gerekmektedir
+
+Ayrıca üretim için bir Blueprint zorunludur.
+
+## Blueprint Elde Etme
+
+Salve Potion üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-trader) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
+
+## Salve Potion Kullanımı
+
+Salve Potion üzerine tek tıklandığında, iksirin doluluk oranını görebilirsiniz.
+
+Çift takladığınızda ise bir hedef seçme penceresi çıkar ve bandaj seçmeleniz istenir.
+
+Bu işlem sırasında sistem, söz konusu Salve Potion’ın maksimum kaç adet bandaja uygulanabileceğini de gösterir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/sxTrSpuzz74HyTdkIWnWR767YaMPEvhpnZ9ZYn1w.png)
 
-<p>• %100 doluluk oranına sahip bir Salve Potion ile toplam 20 adet bandaj salve’lenebilir.</p>
+• %100 doluluk oranına sahip bir Salve Potion ile toplam 20 adet bandaj salve’lenebilir.
 
-<p>• Doluluk oranı azaldıkça aynı oranda salve kullanabileceğiniz bandaj sayısı da düşer.</p>
+• Doluluk oranı azaldıkça aynı oranda salve kullanabileceğiniz bandaj sayısı da düşer.
 
-<p>Salve uygulama işlemi başarıyla tamamlandığında oyuncunun bandajları Salve etkili hale gelir ve geliştirilmiş iyileştirme süreci başlamış olur.</p>
+Salve uygulama işlemi başarıyla tamamlandığında oyuncunun bandajları Salve etkili hale gelir ve geliştirilmiş iyileştirme süreci başlamış olur.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/oeUIXBzSdYNWZDfAytrDHWed0Lp1MDKPWP6x27DB.png)
