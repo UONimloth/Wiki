@@ -85,7 +85,7 @@ Yew Bow, <mark style="color:red;">**Bowcrafting**</mark> yeteneğine sahip karak
 
 Ayrıca üretim için bir Blueprint zorunludur.
 
-Bu Blueprint, [**Craft Mastery**](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) Sistemi’nin 2. seviyesi tamamlandığında elde edilmektedir.
+Bu Blueprint, [<mark style="color:red;">**Craft Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) Sistemi’nin 2. seviyesi tamamlandığında elde edilmektedir.
 
 ### Dayanıklılık & Eskime
 
