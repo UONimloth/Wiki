@@ -2,38 +2,60 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SaRj9qQf38CoRu0OiegN2jldtUORBJ5blIhLMdkT.png)
 
-<p>Gemstone’lar, Nimloth dünyasında çeşitli özel üretimlerde kullanılan değerli taşlardır.</p>
-<p>Özellikle ileri seviye craft tariflerinde önemli bir yere sahip olan bu taşlar, üretim sürecinin vazgeçilmez bileşenlerinden biridir.</p>
-<p>Madencilik yapan oyuncular için oldukça değerli olan Gemstone’lar, doğru işlendiğinde güçlü ve özel eşyaların üretiminde kullanılabilir.</p>
+Gemstone’lar, Nimloth dünyasında çeşitli özel üretimlerde kullanılan değerli taşlardır.
 
-<h2>Mevcut Gemstone Türleri</h2>
-<p>Nimloth dünyasında toplam 9 farklı Gemstone bulunmaktadır:</p>
-<p>• Sapphire</p>
-<p>• Star Sapphire</p>
-<p>• Amber</p>
-<p>• Ruby</p>
-<p>• Citrine</p>
-<p>• Tourmaline</p>
-<p>• Amethyst</p>
-<p>• Emerald</p>
-<p>• Diamond</p>
-<p>Her bir taş, farklı üretim tariflerinde kullanılmakta ve kendi değerine göre önem taşımaktadır.</p>
+Özellikle ileri seviye craft tariflerinde önemli bir yere sahip olan bu taşlar, üretim sürecinin vazgeçilmez bileşenlerinden biridir.
 
-<h2>Nasıl Elde Edilir?</h2>
-<p>Gemstone’lar, maden cevherlerinden(Mining Vein) yalnızca <a href="https://uo-nimloth.net/wiki/uretimtoplayici/gold-pickaxe" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gold Pickaxe</a> kullanılarak elde edilebilir.</p>
-<p>Mining sırasında belirli bir şansla bulunan bu taşlar, ilk elde edildiklerinde Uncut (işlenmemiş) halde bulunurlar. Bu nedenle doğrudan üretimde kullanılamazlar.</p>
+Madencilik yapan oyuncular için oldukça değerli olan Gemstone’lar, doğru işlendiğinde güçlü ve özel eşyaların üretiminde kullanılabilir.
 
-<h2>Gem Kesme İşlemi</h2>
-<p>Gemstone’ları üretimlerde kullanabilmek için önce kesilerek işlenmeleri gerekir.</p>
-<p>Bu işlem, Jeweler vendorlarının yakınlarında bulunan Gemcutting Table aracılığıyla yapılır.</p>
-<p>Gemcutting Table’ı kullanabilmek için <a href="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ohf6ga2HgHJo7fonwYZA7ZgGOCv6atclYSocZ2Xj.png" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Craft Mastery</a> seviyenizin 25 olması gerekmektedir.</p>
-<p>Yeterli seviyeye ulaştığınızda, işlenmemiş taşlarınızı keserek üretime hazır hâle getirebilirsiniz.</p>
+## Mevcut Gemstone Türleri
+
+Nimloth dünyasında toplam 9 farklı Gemstone bulunmaktadır:
+
+• Sapphire
+
+• Star Sapphire
+
+• Amber
+
+• Ruby
+
+• Citrine
+
+• Tourmaline
+
+• Amethyst
+
+• Emerald
+
+• Diamond
+
+Her bir taş, farklı üretim tariflerinde kullanılmakta ve kendi değerine göre önem taşımaktadır.
+
+## Nasıl Elde Edilir?
+
+Gemstone’lar, maden cevherlerinden([<mark style="color:red;">Mining Vein</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/mining-vein)) yalnızca [<mark style="color:red;">Gold Pickaxe</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-pickaxe) kullanılarak elde edilebilir.
+
+Mining sırasında belirli bir şansla bulunan bu taşlar, ilk elde edildiklerinde Uncut (işlenmemiş) halde bulunurlar. Bu nedenle doğrudan üretimde kullanılamazlar.
+
+## Gem Kesme İşlemi
+
+Gemstone’ları üretimlerde kullanabilmek için önce kesilerek işlenmeleri gerekir.
+
+Bu işlem, Jeweler vendorlarının yakınlarında bulunan Gemcutting Table aracılığıyla yapılır.
+
+Gemcutting Table’ı kullanabilmek için [<mark style="color:red;">Craft Mastery</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) seviyenizin 25 olması gerekmektedir.
+
+Yeterli seviyeye ulaştığınızda, işlenmemiş taşlarınızı keserek üretime hazır hâle getirebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/cyGrplcUwvHngW5NihJoXAhLBHHDhwZSg7inaild.png)
 
-<h2>Kullanım Alanları</h2>
-<p>Kesilmiş Gemstone’lar, çeşitli özel eşya üretiminde kullanılmaktadır.</p>
-<p>Özellikle çeşitli takıların üretimi için gereken bu taşlar, nadir bulunmaları sebebiyle oldukça değerlidir.</p>
+## Kullanım Alanları
 
-<p>Madencilik sırasında bulduğunuz her taş, sizi daha değerli üretimlere bir adım daha yaklaştırır.</p>
-<p>Cevher damarlarını keşfedin, taşlarınızı işleyin ve ustalığınızı değerli madenlerle güçlendirin 💎</p>
+Kesilmiş Gemstone’lar, çeşitli özel eşya üretiminde kullanılmaktadır.
+
+Özellikle çeşitli [<mark style="color:red;">takıların</mark> ](https://nimloth-uo.gitbook.io/wiki/esyalar/takilar)üretimi için gereken bu taşlar, nadir bulunmaları sebebiyle oldukça değerlidir.
+
+Madencilik sırasında bulduğunuz her taş, sizi daha değerli üretimlere bir adım daha yaklaştırır.
+
+Cevher damarlarını keşfedin, taşlarınızı işleyin ve ustalığınızı değerli madenlerle güçlendirin 💎
