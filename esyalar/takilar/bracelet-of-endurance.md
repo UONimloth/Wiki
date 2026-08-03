@@ -18,7 +18,7 @@ Bracelet of Endurance, Tinkering yeteneğine sahip oyuncular tarafından üretil
 
 • 5 Verite Ingot
 
-• 1 [<mark style="color:red;">Cut Amber</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
+• 1 [<mark style="color:red;">**Cut Amber**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
 • 99.0 Tinkering
 
@@ -28,4 +28,4 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Bracelet of Endurance üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">Craft görevleri</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Bracelet of Endurance üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.

@@ -8,7 +8,7 @@ Tüm oyuncular tarafından kullanılabilen bu eşya, takılı olduğu sürece ka
 
 Özellikle uzun süreli büyü kullanımı gerektiren durumlarda veya mana yönetimini daha rahat hale getirmek isteyen oyuncular için faydalı bir destek sunar.
 
-Bracelet of Clarity kullanım sürecinde zamanla eskir. Kullanım sonrasında <mark style="color:red;">dayanıklılığı azalır ve kırılarak yok olur</mark>. Bu nedenle düzenli kullanımda yeniden üretilmesi gerekebilir.
+Bracelet of Clarity kullanım sürecinde zamanla eskir. Kullanım sonrasında <mark style="color:red;">**dayanıklılığı azalır ve kırılarak yok olur**</mark>. Bu nedenle düzenli kullanımda yeniden üretilmesi gerekebilir.
 
 ## Üretim
 
@@ -18,7 +18,7 @@ Bracelet of Clarity, Tinkering yeteneğine sahip oyuncular tarafından üretileb
 
 • 5 Valorite Ingot
 
-• 1 [<mark style="color:red;">Cut Sapphire</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
+• 1 [<mark style="color:red;">**Cut Sapphire**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
 • 99.0 Tinkering
 
@@ -28,4 +28,4 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Bracelet of Clarity üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">Craft görevleri</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Bracelet of Clarity üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.

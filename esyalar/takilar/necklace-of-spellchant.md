@@ -8,7 +8,7 @@ Bu eşya yalnızca <mark style="color:red;">**Pure Mage**</mark> karakterler tar
 
 Bu özellik tamamen görsel ve atmosferik bir deneyim sunmak amacıyla tasarlanmıştır. Büyülerin gücü, süresi veya oyun dengesi üzerinde herhangi bir etkisi bulunmaz.
 
-Necklace of Spellchant, kullanım sürecinde zamanla eskir. Kullanım sonrasında <mark style="color:red;">dayanıklılığı azalır ve kırılarak yok olur</mark>. Bu nedenle düzenli kullanımda yeniden üretilmesi gerekebilir.
+Necklace of Spellchant, kullanım sürecinde zamanla eskir. Kullanım sonrasında <mark style="color:red;">**dayanıklılığı azalır ve kırılarak yok olur**</mark>. Bu nedenle düzenli kullanımda yeniden üretilmesi gerekebilir.
 
 ## Üretim
 
@@ -18,7 +18,7 @@ Necklace of Spellchant, Tinkering yeteneğine sahip oyuncular tarafından üreti
 
 • 5 Valorite Ingot
 
-• 1 [<mark style="color:red;">Cut Amethyst</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
+• 1 [<mark style="color:red;">**Cut Amethyst**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
 • 99.0 Tinkering
 
@@ -28,4 +28,4 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Necklace of Spellchant üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">Craft görevleri</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Necklace of Spellchant üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
