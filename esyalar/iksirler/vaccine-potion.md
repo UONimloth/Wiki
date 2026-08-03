@@ -2,11 +2,11 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/sWwRqVxIxwsRyJDubvjyL96XvHfdQDWL44cbQSO5.png)
 
-Vaccine Potion, [<mark style="color:red;">**Farming**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/farming) yeteneği ile yetiştirdiğiniz bitkileri hastalıklara karşı korumanızı sağlayan önemli bir yardımcı eşyadır.
+Vaccine Potion, [<mark style="color:red;">**Farming**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/farming) yeteneği ile yetiştirdiğiniz bitkileri ve arı kovanlarını hastalıklara karşı korumanızı sağlayan önemli bir yardımcı eşyadır.
 
-Bitkiler, büyüme süreçleri boyunca belirli bir şansla hastalanabilir.
+Bitki ve kovanlar, büyüme süreçleri boyunca belirli bir şansla hastalanabilir.
 
-Hastalığa yakalanan bitkiler olgunlaşmaya devam eder; ancak hasat edildiğinde elde edeceğiniz ürün miktarı <mark style="color:red;">**%25 daha düşük**</mark> olur.
+Hastalığa yakalanan bitki ve kovanlar olgunlaşmaya devam eder; ancak hasat edildiğinde elde edeceğiniz ürün miktarı <mark style="color:red;">**%25 daha düşük**</mark> olur.
 
 Bu kaybın önüne geçmek için Vaccine Potion kullanabilirsiniz.
 
