@@ -28,7 +28,7 @@ Wizard Robe, giyen oyuncuya 7 armor sağlamaktadır
 
 Wizard Robe, Tailoring yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
 
-• <mark style="color:red;">**4**</mark>  [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
+• <mark style="color:red;">**2**</mark>  [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
 
 • <mark style="color:red;">**4**</mark> [<mark style="color:red;">**Wizard Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-cloth)
 
@@ -44,6 +44,6 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Bracelet of Endurance üretimi için gereken Blueprint; Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Wizard Robe üretimi için gereken Blueprint; Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
 
 Büyücülerin kimliğini ve güç dengesini yansıtan Wizard Robe, hem ışığın hem de karanlığın temsilcileri için farklı bir biçimde hayat bulur.

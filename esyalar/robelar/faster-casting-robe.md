@@ -1,170 +1,121 @@
 # Faster Casting Robe
 
-<p>Faster Casting Robe, yalnızca büyücülerin giyebildiği özel bir kıyafettir.</p>
-<p>Saf büyü gücünü temsil eden bu robe, büyücülerin ruhuna uyum sağlar ve onların enerjisine göre şekillenir.</p>
-<p>Bu robe'u giyebilmek için Magery ve Evaluating Intelligence yetenekleriniz en az <strong style="color: #410000;">98.1</strong> olmalıdır</p>
-<p><strong style="color: #410000;">Savaş yeteneği olan karakterler tarafından giyilemez</strong></p>
+Faster Casting Robe, yalnızca büyücülerin giyebildiği özel bir kıyafettir.
+
+Saf büyü gücünü temsil eden bu robe, büyücülerin ruhuna uyum sağlar ve onların enerjisine göre şekillenir.
+
+Bu robe'u giyebilmek için Magery ve Evaluating Intelligence yetenekleriniz en az <mark style="color:red;">**98.1**</mark> olmalıdır
+
+<mark style="color:red;">**Savaş yeteneği olan karakterler tarafından giyilemez**</mark>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/TJrWqaEBqBaMyzRJQi4UsxbwUGW5XQdnKaMU9Kqg.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/jFomKIRFPj3zXjCEYFYIQq8nW0a93fnvW1xBYK1l.png)
 
-<p>Bu robe’un temel işlevi, büyülerin <strong style="color: #410000;">cast sürelerini ve freeze (donma)</strong> sürelerini azaltmaktır.</p>
-<p>Böylece büyücü, savaşlarda daha hızlı tepki verebilir ve büyülerini çok daha seri şekilde ardı ardına kullanabilir.</p>
+Bu robe’un temel işlevi, büyülerin <mark style="color:red;">**cast sürelerini ve freeze (donma)**</mark> sürelerini azaltmaktır.
 
-<p>Faster Casting Robe ilk üretildiğinde herhangi bir özelliğe sahip değildir.</p>
-<p>Gerçek gücünü, yaratıklardan düşen <strong style="color: #410000;">Faster Casting Scroll’lar</strong> ile kazanır.</p>
-<p>Bu scroll’lar robe’a eklendiğinde, robe’a eklenen her büyü için hem cast süresi hem de freeze süresi azaltılır.</p>
+Böylece büyücü, savaşlarda daha hızlı tepki verebilir ve büyülerini çok daha seri şekilde ardı ardına kullanabilir.
 
-<p>Toplamda <strong style="color: #410000;">12 farklı büyü</strong> robe’a eklenebilir, ancak bir robe üzerinde aynı anda <strong style="color: #410000;">en fazla 3 büyü</strong> aktif olabilir.</p>
-<p>Büyücü, stratejisine göre hangi büyülerin süresini kısaltmak istiyorsa o büyülere ait scroll’ları robe’una entegre edebilir.</p>
+Faster Casting Robe, giyen oyuncuya 7 armor sağlamaktadır
 
-<h2>Büyülerin Eklenmesi ve Çıkarılması</h2>
-<p>Faster Casting Robe, büyülerin süresini azaltma gücünü Faster Casting Scroll adı verilen özel parşömenlerden alır.</p>
+## Üretim
 
-<p>Faster Casting Scroll’a tek tıkladığınızda, bu parşömenin hangi büyüye ait olduğunu görebilirsiniz.</p>
-<p>Çift tıklandığında ise oyuncuya büyünün hangi robe’a ekleneceği sorulur. Uygun bir Faster Casting Robe seçildikten sonra, o büyü robe’a eklenir.</p>
+Wizard Robe, Tailoring yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/dYAOvmKQv59g1AFhkS8v24uCVr78noee0y7GDFuT.png)
+• <mark style="color:red;">**2**</mark>  [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal)
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/HsA8C0HXDWmNxpzjYV50ZtJMLCuIFxmVktRtKPPj.png)
+• <mark style="color:red;">**4**</mark> [<mark style="color:red;">**Magic Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal)
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gJffUtgYRSvEW5l6DDKt4HbzI9v6GaQvrZKrHL6S.png)
-<p>Aynı büyü Robe’a tekrar eklenemez, ancak oyuncu farklı büyülerle toplamda en fazla 3 büyü ekleyebilir.</p>
+• 40 Cloth
 
-<p>Oyuncu kendi robe’una tıkladığında, robe’a eklenen büyülerin listesini görebilir.</p>
+• 60 Dragon Blood
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/h4jNnzlTFgaa8XDxPZq678p7aoJWt51eUe2ar927.png)
+• 98.0 Tailoring
 
-<p>Diğer oyuncular ise robe’a baktıklarında bu büyüleri göremezler. Böylece büyücünün taktiksel hazırlığı gizli kalır.</p>
+• 25 Craft Mastery XP gerekmektedir.
 
-<h1>Spell Eraser Pen</h1>
-<p>Büyülerin robe’dan kaldırılması için Spell Eraser Pen adı verilen özel bir eşya kullanılır.</p>
-<p>Bu eşyayı Mage vendorlardan <strong style="color: #410000;">50.600</strong> altın karşılığında satın alabilirsiniz</p>
-<p>Bu eşya, robe’a eklenmiş büyüleri tek tek silebilir ve toplamda 5 şarj içerir. Şarjlar tükendiğinde, kalem işlevini yitirir.</p>
+Ayrıca üretim için bir Blueprint zorunludur.
+
+## Blueprint Elde Etme
+
+Faster Casting Robe üretimi için gereken Blueprint; Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+
+Büyücülerin kimliğini ve güç dengesini yansıtan Wizard Robe, hem ışığın hem de karanlığın temsilcileri için farklı bir biçimde hayat bulur.
+
+## Robe Özellikleri
+
+Faster Casting Robe ilk üretildiğinde herhangi bir özelliğe sahip değildir.
+
+Gerçek gücünü, yaratıklardan düşen <mark style="color:red;">**Faster Casting Scroll’lar**</mark> ile kazanır.
+
+Bu scroll’lar robe’a eklendiğinde, robe’a eklenen her büyü için hem cast süresi hem de freeze süresi azaltılır.
+
+Toplamda <mark style="color:red;">**14 farklı büyü**</mark> robe’a eklenebilir, ancak bir robe üzerinde aynı anda <mark style="color:red;">**en fazla 3 büyü**</mark> aktif olabilir.
+
+Büyücü, stratejisine göre hangi büyülerin süresini kısaltmak istiyorsa o büyülere ait scroll’ları robe’una entegre edebilir.
+
+## Büyülerin Eklenmesi ve Çıkarılması
+
+Faster Casting Robe, büyülerin süresini azaltma gücünü Fastener Scroll adı verilen özel parşömenlerden alır.
+
+Fastener Scroll’a tek tıkladığınızda, bu parşömenin hangi büyüye ait olduğunu görebilirsiniz.\
+Saldırı büyülerine ait scroll'lar kırmızı, defans büyülerine ait scroll'lar ise yeşil renktedir.
+
+Çift tıklandığında ise oyuncuya büyünün hangi robe’a ekleneceği sorulur. Uygun bir Faster Casting Robe seçildikten sonra, o büyü robe’a eklenir.
+
+<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/faster.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+Aynı büyü Robe’a tekrar eklenemez, ancak oyuncu farklı büyülerle toplamda en fazla 3 büyü ekleyebilir.
+
+Oyuncu kendi robe’una tıkladığında, robe’a eklenen büyülerin listesini görebilir.
+
+<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+
+Diğer oyuncular ise robe’a baktıklarında bu büyüleri göremezler. Böylece büyücünün taktiksel hazırlığı gizli kalır.
+
+## Spell Eraser Pen
+
+Büyülerin robe’dan kaldırılması için Spell Eraser Pen adı verilen özel bir eşya kullanılır.
+
+Bu eşyayı Mage vendorlardan <mark style="color:red;">**60.000**</mark> altın karşılığında satın alabilirsiniz
+
+Bu eşya, robe’a eklenmiş büyüleri tek tek silebilir ve toplamda 5 şarj içerir. Şarjlar tükendiğinde, kalem işlevini yitirir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/OcmCULcmT5R30dvqj11eEf18cgbtD73uhoziKq84.png)
 
-<p>Kaleme çift tıkladığında, ekranda “Büyüyü çıkartmak istediğiniz robe’u seçin” uyarısı belirir.</p>
+Kaleme çift tıkladığında, ekranda “Büyüyü çıkartmak istediğiniz robe’u seçin” uyarısı belirir.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/BDh7kSxJEDtJYEPFchnVwMYSmkUjwPzGOe1aO4dt.png)
+Uygun robe’u seçtiğinde bir dialog ekranı açılır ve bu ekranda robe üzerinde kayıtlı olan tüm büyüler listelenir.
 
-<p>Uygun robe’u seçtiğinde bir dialog ekranı açılır ve bu ekranda robe üzerinde kayıtlı olan tüm büyüler listelenir.</p>
+Her büyünün sol tarafında bir **“X”** butonu bulunur.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/1rwh3UeYKL1g3qIJUm3e34y5uhVj58xHMPg2tD6m.png)
+Bu butona bastığınızda, büyüyü silmek istediğine dair bir onay ekranı açılır.
 
-<p>Her büyünün sol tarafında bir <strong style="color: #410000;">“X”</strong> butonu bulunur.</p>
-<p>Bu butona bastığınızda, büyüyü silmek istediğine dair bir onay ekranı açılır.</p>
+İşlem onaylandığında seçilen büyü robe’dan kalıcı olarak silinir.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZtbnDSbsj41xpg4hd20u2rYwMfWmApzZ8TlTyon1.png)
+<figure><img src="../../.gitbook/assets/faster 2.gif" alt=""><figcaption></figcaption></figure>
 
-<p>İşlem onaylandığında seçilen büyü robe’dan kalıcı olarak silinir.</p>
-<p><strong style="color: #410000;">Bu işlemin geri dönüşü yoktur.</strong></p>
+<mark style="color:red;">**Bu işlemin geri dönüşü yoktur.**</mark>
 
-<h1>Büyüler ve Etkileri</h1>
-<table style="border-collapse: collapse; width: 100%; max-width: 600px; font-size: 14px;">
-  <tr style="background-color: #A09884;">
-    <th style="border: 1px solid #410000; color: #410000; padding: 8px; text-align: left;">Büyü</th>
-    <th style="border: 1px solid #410000; color: #410000; padding: 8px; text-align: left;">Cast Süresi</th>
-    <th style="border: 1px solid #410000; color: #410000; padding: 8px; text-align: left;">Freeze Süresi</th>
-    <th style="border: 1px solid #410000; color: #410000; padding: 8px; text-align: left;">Faster Cast Süresi</th>
-    <th style="border: 1px solid #410000; color: #410000; padding: 8px; text-align: left;">Faster Freeze Süresi</th>
-  </tr>
-  <tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Bless</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.2 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.3 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.1 Saniye</td>
-  </tr>
+## Büyüler ve Etkileri
 
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Greater Heal</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.2 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.1 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.8 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Dispel Field</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.2 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.1 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.8 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Magic Reflection</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.2 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.1 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.8 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Invisibility</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.6 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.1 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Resurrection</td>
-    <td style="border: 1px solid #410000; padding: 8px;">4.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">4.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.8 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.3 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Fireball</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.7 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.4 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.2 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Lightning</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.3 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">1.7 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Mind Blast</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.6 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.6 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.2 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Paralyze</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.6 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.6 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.2 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Energy Bolt</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.6 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">2.1 Saniye</td>
-  </tr>
-
-<tr style="background-color: #A9A08B;">
-    <td style="border: 1px solid #410000; padding: 8px;">Flame Strike</td>
-    <td style="border: 1px solid #410000; padding: 8px;">4.0 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.5 Saniye</td>
-    <td style="border: 1px solid #410000; padding: 8px;">3.0 Saniye</td>
-  </tr>
-
-</table>
-<p></p>
+| Büyü             | Cast Süresi | Freeze Süresi | Faster Cast Süresi | Faster Freeze Süresi |
+| ---------------- | ----------- | ------------- | ------------------ | -------------------- |
+| Cure             | 1.2 Saniye  | 1.2 Saniye    | 1.0 Saniye         | 1.0 Saniye           |
+| Bless            | 1.5 Saniye  | 1.2 Saniye    | 1.3 Saniye         | 1.1 Saniye           |
+| Greater Heal     | 2.5 Saniye  | 2.2 Saniye    | 2.0 Saniye         | 1.7 Saniye           |
+| Dispel           | 2.5 Saniye  | 2.2 Saniye    | 2.0 Saniye         | 1.7 Saniye           |
+| Dispel Field     | 2.5 Saniye  | 2.2 Saniye    | 2.0 Saniye         | 1.7 Saniye           |
+| Magic Reflection | 2.5 Saniye  | 2.2 Saniye    | 2.0 Saniye         | 1.7 Saniye           |
+| Resurrection     | 4.5 Saniye  | 4.0 Saniye    | 3.5 Saniye         | 3.0 Saniye           |
+| Fireball         | 1.7 Saniye  | 1.5 Saniye    | 1.4 Saniye         | 1.2 Saniye           |
+| Curse            | 2.3 Saniye  | 2.0 Saniye    | 2.0 Saniye         | 1.7 Saniye           |
+| Lightning        | 2.3 Saniye  | 2.0 Saniye    | 2.0 Saniye         | 1.7 Saniye           |
+| Mind Blast       | 3.0 Saniye  | 2.6 Saniye    | 2.6 Saniye         | 2.2 Saniye           |
+| Paralyze         | 3.0 Saniye  | 2.6 Saniye    | 2.6 Saniye         | 2.2 Saniye           |
+| Energy Bolt      | 3.0 Saniye  | 2.5 Saniye    | 2.6 Saniye         | 2.1 Saniye           |
+| Flame Strike     | 4.0 Saniye  | 3.5 Saniye    | 3.5 Saniye         | 3.0 Saniye           |
