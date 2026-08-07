@@ -24,7 +24,7 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Salve Potion üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-trader) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
+Salve Potion üretimi için gereken Blueprint'i [<mark style="color:red;">**Blueprint Trader**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-trader) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
 
 ## Salve Potion Kullanımı
 

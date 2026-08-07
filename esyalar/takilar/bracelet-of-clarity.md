@@ -28,4 +28,4 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Bracelet of Clarity üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Bracelet of Clarity üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.

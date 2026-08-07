@@ -30,4 +30,4 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Night Eye üretimi için gereken Blueprint; Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Night Eye üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.

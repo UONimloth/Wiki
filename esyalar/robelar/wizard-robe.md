@@ -44,6 +44,6 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Wizard Robe üretimi için gereken Blueprint; Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Wizard Robe üretimi için gereken Blueprint'i Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
 
 Büyücülerin kimliğini ve güç dengesini yansıtan Wizard Robe, hem ışığın hem de karanlığın temsilcileri için farklı bir biçimde hayat bulur.

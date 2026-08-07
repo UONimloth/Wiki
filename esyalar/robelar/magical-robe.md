@@ -40,7 +40,7 @@ Gereken değerler robe’un seviyesine göre artış gösterir.
 
 ## Özellikler
 
-Magical Robe’lar tıpkı zırh gibi **armor değeri** sağlar.
+Magical Robe’lar tıpkı zırh gibi <mark style="color:red;">**armor değeri**</mark> sağlar.
 
 Armor seviyesi robe’un türüne bağlı olarak değişir. Daha yüksek seviye robe’lar, daha fazla koruma sağlar.
 

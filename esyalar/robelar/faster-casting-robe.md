@@ -12,11 +12,11 @@ Bu robe'u giyebilmek için Magery ve Evaluating Intelligence yetenekleriniz en a
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/jFomKIRFPj3zXjCEYFYIQq8nW0a93fnvW1xBYK1l.png)
 
-Bu robe’un temel işlevi, büyülerin <mark style="color:red;">**cast sürelerini ve freeze (donma)**</mark> sürelerini azaltmaktır.
+Robe’un temel işlevi, büyülerin <mark style="color:red;">**cast sürelerini ve freeze (donma)**</mark> sürelerini azaltmaktır.
 
-Böylece büyücü, savaşlarda daha hızlı tepki verebilir ve büyülerini çok daha seri şekilde ardı ardına kullanabilir.
+Böylece savaşlarda daha hızlı tepki verebilir ve büyülerinizi çok daha seri şekilde ardı ardına kullanabilirsiniz.
 
-Faster Casting Robe, giyen oyuncuya 7 armor sağlamaktadır
+Faster Casting Robe, giyen oyuncuya 7 armor sağlamaktadır.
 
 ## Üretim
 
@@ -38,30 +38,28 @@ Ayrıca üretim için bir Blueprint zorunludur.
 
 ## Blueprint Elde Etme
 
-Faster Casting Robe üretimi için gereken Blueprint; Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
-
-Büyücülerin kimliğini ve güç dengesini yansıtan Wizard Robe, hem ışığın hem de karanlığın temsilcileri için farklı bir biçimde hayat bulur.
+Faster Casting Robe üretimi için gereken Blueprint'i Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
 
 ## Robe Özellikleri
 
 Faster Casting Robe ilk üretildiğinde herhangi bir özelliğe sahip değildir.
 
-Gerçek gücünü, yaratıklardan düşen <mark style="color:red;">**Faster Casting Scroll’lar**</mark> ile kazanır.
+Gerçek gücünü, yaratıklardan düşen <mark style="color:red;">**Fastener Scroll’lar**</mark> ile kazanır.
 
 Bu scroll’lar robe’a eklendiğinde, robe’a eklenen her büyü için hem cast süresi hem de freeze süresi azaltılır.
 
 Toplamda <mark style="color:red;">**14 farklı büyü**</mark> robe’a eklenebilir, ancak bir robe üzerinde aynı anda <mark style="color:red;">**en fazla 3 büyü**</mark> aktif olabilir.
 
-Büyücü, stratejisine göre hangi büyülerin süresini kısaltmak istiyorsa o büyülere ait scroll’ları robe’una entegre edebilir.
+Stratejinize göre hangi büyülerin süresini kısaltmak istiyorsanız o büyülere ait scroll’ları robe’una entegre edebilirsiniz.
 
 ## Büyülerin Eklenmesi ve Çıkarılması
 
-Faster Casting Robe, büyülerin süresini azaltma gücünü Fastener Scroll adı verilen özel parşömenlerden alır.
+Faster Casting Robe, büyülerin süresini azaltma gücünü <mark style="color:red;">**Fastener Scroll**</mark> adı verilen özel parşömenlerden alır.
 
 Fastener Scroll’a tek tıkladığınızda, bu parşömenin hangi büyüye ait olduğunu görebilirsiniz.\
 Saldırı büyülerine ait scroll'lar kırmızı, defans büyülerine ait scroll'lar ise yeşil renktedir.
 
-Çift tıklandığında ise oyuncuya büyünün hangi robe’a ekleneceği sorulur. Uygun bir Faster Casting Robe seçildikten sonra, o büyü robe’a eklenir.
+Çift tıklandığında ise büyünün hangi robe’a ekleneceği sorulur. Uygun bir Faster Casting Robe seçildikten sonra, o büyü robe’a eklenir.
 
 <figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,9 +67,9 @@ Saldırı büyülerine ait scroll'lar kırmızı, defans büyülerine ait scroll
 
 
 
-Aynı büyü Robe’a tekrar eklenemez, ancak oyuncu farklı büyülerle toplamda en fazla 3 büyü ekleyebilir.
+Aynı büyü Robe’a tekrar eklenemez, ancak farklı büyülerle toplamda en fazla 3 büyü ekleyebilirsiniz.
 
-Oyuncu kendi robe’una tıkladığında, robe’a eklenen büyülerin listesini görebilir.
+Kendi robe’unuza tıkladığındanızda, robe’a eklenen büyülerin listesini görebilirsiniz.
 
 <figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,17 +79,17 @@ Diğer oyuncular ise robe’a baktıklarında bu büyüleri göremezler. Böylec
 
 Büyülerin robe’dan kaldırılması için Spell Eraser Pen adı verilen özel bir eşya kullanılır.
 
-Bu eşyayı Mage vendorlardan <mark style="color:red;">**60.000**</mark> altın karşılığında satın alabilirsiniz
+Bu eşyayı Mage vendorlardan <mark style="color:red;">**60.000**</mark> altın karşılığında satın alabilirsiniz.
 
 Bu eşya, robe’a eklenmiş büyüleri tek tek silebilir ve toplamda 5 şarj içerir. Şarjlar tükendiğinde, kalem işlevini yitirir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/OcmCULcmT5R30dvqj11eEf18cgbtD73uhoziKq84.png)
 
-Kaleme çift tıkladığında, ekranda “Büyüyü çıkartmak istediğiniz robe’u seçin” uyarısı belirir.
+Kaleme çift tıkladığınızda, ekranda “Büyüyü çıkartmak istediğiniz robe’u seçin” uyarısı belirir.
 
-Uygun robe’u seçtiğinde bir dialog ekranı açılır ve bu ekranda robe üzerinde kayıtlı olan tüm büyüler listelenir.
+Uygun robe’u seçtiğinizde bir dialog ekranı açılır ve bu ekranda robe üzerinde kayıtlı olan tüm büyüler listelenir.
 
-Her büyünün sol tarafında bir **“X”** butonu bulunur.
+Her büyünün sol tarafında bir <mark style="color:red;">**“X”**</mark> butonu bulunur.
 
 Bu butona bastığınızda, büyüyü silmek istediğine dair bir onay ekranı açılır.
 
