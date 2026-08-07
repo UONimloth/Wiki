@@ -20,7 +20,7 @@ Salve Potion, Alchemy yeteneğine sahip oyuncular tarafından üretilebilmektedi
 
 • 98.1 Alchemy yeteneği gerekmektedir
 
-Ayrıca üretim için bir Blueprint zorunludur.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
 
 ## Blueprint Elde Etme
 

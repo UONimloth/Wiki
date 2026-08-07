@@ -24,7 +24,7 @@ Necklace of Spellchant, Tinkering yeteneğine sahip oyuncular tarafından üreti
 
 • 25 Craft Mastery XP gerekmektedir.
 
-Ayrıca üretim için bir Blueprint zorunludur.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
 
 ## Blueprint Elde Etme
 
