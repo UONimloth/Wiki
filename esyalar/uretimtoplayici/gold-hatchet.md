@@ -40,4 +40,4 @@ Gold Hatchet üretimi için gereken Blueprint; [<mark style="color:red;">**Bluep
 
 ## Kullanım & Gereksinimler
 
-Gold Hatchet kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi) seviyenizin 11 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
+Gold Hatchet kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 11 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
