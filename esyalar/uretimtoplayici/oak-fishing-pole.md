@@ -10,7 +10,7 @@ Bu özel olta ile balık tutarken, yakaladığınız balık miktarını artırma
 
 ## Özellikler
 
-• Balık tutulduğunda **%50 şansla 2 katı balık** elde edilebilirsiniz.
+• Balık tutulduğunda <mark style="color:red;">**%50 şansla 2 katı balık**</mark> elde edilebilirsiniz.
 
 • [<mark style="color:red;">Exotic Balıklar</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi#exotic-fish) bu olta ile yakalanabilir.
 
@@ -18,7 +18,7 @@ Bu özel olta ile balık tutarken, yakaladığınız balık miktarını artırma
 
 ## Kullanım & Gereksinimler
 
-Oak Fishing Pole kullanımı için [<mark style="color:red;">Gatherer Mastery</mark>](https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi) seviyenizin 7 olması gerekmektedir. Gather yeteneklerine ait vendordan görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
+Oak Fishing Pole kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi) seviyenizin 7 olması gerekmektedir. Gather yeteneklerine ait vendordan görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
 
 ## Üretim
 
@@ -32,8 +32,8 @@ Oak Fishing Pole, Carpentery yeteneğine sahip oyuncular tarafından üretilebil
 
 • 5 Craft Mastery XP gerekmektedir.
 
-Ayrıca üretim için bir [<mark style="color:red;">Blueprint</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)zorunludur.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)zorunludur.
 
 ## Blueprint Elde Etme
 
-Oak Fishing Pole üretimi için gereken Blueprint; [<mark style="color:red;">Blueprint Trader</mark>](https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
+Oak Fishing Pole üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
