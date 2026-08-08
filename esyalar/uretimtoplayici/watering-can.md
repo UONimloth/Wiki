@@ -64,7 +64,7 @@ Watering Can üretimi için gereken Blueprint'i Tinker vendorlardan alabileceği
 
 ## Kullanım Gereksinimleri
 
-Watering Can kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi) seviyenizin 24 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
+Watering Can kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 24 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
 
 Watering Can, farming sürecinizi hızlandırmak ve daha kontrollü bir üretim yapmak isteyen oyuncular için vazgeçilmez bir araçtır.
 
