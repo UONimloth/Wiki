@@ -12,7 +12,7 @@ Necklace of Spellchant, kullanım sürecinde zamanla eskir. Kullanım sonrasınd
 
 ## Üretim
 
-Necklace of Spellchant, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Necklace of Spellchant, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 5 Mytheril Ingot
 
@@ -22,7 +22,7 @@ Necklace of Spellchant, Tinkering yeteneğine sahip oyuncular tarafından üreti
 
 • 99.0 Tinkering
 
-• 25 Craft Mastery XP gerekmektedir.
+• 25 Craft Mastery XP
 
 Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
 

@@ -14,7 +14,7 @@ Taşıma kapasitenizi <mark style="color:red;">**+100**</mark> artırır
 
 ## Üretim
 
-Gatherer's Apron, Tailoring yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Gatherer's Apron, Tailoring yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 20 Dragon Hides
 
@@ -22,7 +22,7 @@ Gatherer's Apron, Tailoring yeteneğine sahip oyuncular tarafından üretilebilm
 
 • 98.0 Tailoring
 
-Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) zorunludur.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
 
 ## Blueprint Elde Etme
 

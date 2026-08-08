@@ -12,7 +12,7 @@ Bracelet of Endurance kullanım sürecinde zamanla eskir. Belirli kullanımlar s
 
 ## Üretim
 
-Bracelet of Endurance, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Bracelet of Endurance, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 5 Agapite Ingot
 
@@ -22,7 +22,7 @@ Bracelet of Endurance, Tinkering yeteneğine sahip oyuncular tarafından üretil
 
 • 99.0 Tinkering
 
-• 25 Craft Mastery XP gerekmektedir.
+• 25 Craft Mastery XP
 
 Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
 

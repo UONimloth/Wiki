@@ -12,7 +12,7 @@ Bracelet of Clarity kullanım sürecinde zamanla eskir. Kullanım sonrasında <m
 
 ## Üretim
 
-Bracelet of Clarity, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Bracelet of Clarity, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 5 Mytheril Ingot
 
@@ -22,7 +22,7 @@ Bracelet of Clarity, Tinkering yeteneğine sahip oyuncular tarafından üretileb
 
 • 99.0 Tinkering
 
-• 25 Craft Mastery XP gerekmektedir.
+• 25 Craft Mastery XP
 
 Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
 
