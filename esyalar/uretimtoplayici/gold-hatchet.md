@@ -36,7 +36,7 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 
 ## Blueprint Elde Etme
 
-Gold Hatchet üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
+Gold Hatchet üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-trader) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
 
 ## Kullanım & Gereksinimler
 
