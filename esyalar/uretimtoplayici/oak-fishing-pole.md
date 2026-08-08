@@ -12,13 +12,13 @@ Bu özel olta ile balık tutarken, yakaladığınız balık miktarını artırma
 
 • Balık tutulduğunda <mark style="color:red;">**%50 şansla 2 katı balık**</mark> elde edilebilirsiniz.
 
-• [<mark style="color:red;">Exotic Balıklar</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi#exotic-fish) bu olta ile yakalanabilir.
+• [<mark style="color:red;">**Exotic Balıklar**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi#exotic-fish) bu olta ile yakalanabilir.
 
 • 2 katı balık kazanma özelliği <mark style="color:red;">**Exotic balıklar için geçerli değildir**</mark>
 
 ## Kullanım & Gereksinimler
 
-Oak Fishing Pole kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi) seviyenizin 7 olması gerekmektedir. Gather yeteneklerine ait vendordan görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
+Oak Fishing Pole kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 7 olması gerekmektedir. Gather yeteneklerine ait vendordan görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
 
 ## Üretim
 
@@ -36,4 +36,4 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https
 
 ## Blueprint Elde Etme
 
-Oak Fishing Pole üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
+Oak Fishing Pole üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-trader) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
