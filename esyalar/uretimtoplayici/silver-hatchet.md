@@ -28,9 +28,9 @@ Silver Hatchet, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmek
 
 • 95 Tinkering
 
-• 6 Craft Mastery XP gerekmektedir.
+• 6 Craft Mastery XP
 
-Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
 
 ## Blueprint Elde Etme
 

@@ -1,32 +1,51 @@
 # Gold Sickle
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/B6lrS8yujn57eNeTPfBw8Xicp7M0jXvTRVAfmb4j.png)
-<p>Gold Sickle, Silver Sickle’ın daha gelişmiş bir versiyonu olup hem daha dayanıklı, hem de daha yüksek verimlilikle toplanabilir kaynak sağlamaktadır.</p>
-<p>Özellikle Rare Flower toplayan ve Farming ile uğraşan Gatherer’lar için en verimli araçlardan biridir.</p>
 
-<h2>Rare Flower Toplama</h2>
-<p>Gold Sickle ile Rare Flower topladığınızda şu avantajları elde edersiniz:</p>
-<p>Her çiçekten 4-6 adet ekstra yaprak elde edebilirsiniz</p>
-<p>Tohum düşme şansı, Silver Sickle’a göre daha yüksektir</p>
-<p>Bu sayede hem tohum, hem yaprak, hem de ekonomik açıdan daha kârlı bir toplama süreci yaşarsınız.</p>
+Gold Sickle, Silver Sickle’ın daha gelişmiş bir versiyonu olup hem daha dayanıklı, hem de daha yüksek verimlilikle toplanabilir kaynak sağlamaktadır.
 
-<h2>Farming Ürün Hasadı</h2>
-<p>Silver Sickle, Farming ürünlerinin hasadı sırasında da avantaj sağlar:</p>
-<p>• Toplanan ürünlerde tohum düşme ihtimali Silver Sickle'a göre daha yüksektir</p>
-<p>• Her hasatta <strong style="color: #410000;">%10 – %20</strong> arası ekstra mamül elde edebilirsiniz(ürün türüne bağlı olarak değişebilir)</p>
-<p>Bu sayede hem üretim zinciriniz güçlenir, hem de tarım odaklı karakterler için daha yüksek verimlilik sağlanır.</p>
+Özellikle Rare Flower toplayan ve Farming ile uğraşan Gatherer’lar için en verimli araçlardan biridir.
 
-<h2>Üretim</h2>
-<p>Gold Pickaxe, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:</p>
-<p>• 20 Iron Ingot</p>
-<p>• 10 Log</p>
-<p>• 20 Gold Ingot</p>
-<p>• 100 Tinkering</p>
-<p>• 10 Craft Mastery XP gerekmektedir.</p>
-<p>Ayrıca üretim için Blueprint zorunludur.</p>
+## Rare Flower Toplama
 
-<h2>Blueprint Elde Etme</h2>
-<p>Gold Sickle üretimi için gereken Blueprint; <a href="https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Blueprint Trader</a> vendorlarından 6 adet Blueprint karşılığında temin edilebilmektedir.</p> 
+Gold Sickle ile Rare Flower topladığınızda şu avantajları elde edersiniz:
 
-<h2>Kullanım & Gereksinimler</h2>
-<p>Gold Sickle kullanımı için <a href="https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer Mastery</a> seviyenizin 11 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.</p>
+Her çiçekten <mark style="color:red;">**4-6 adet**</mark> ekstra yaprak elde edebilirsiniz
+
+Tohum düşme şansı, Silver Sickle’a göre daha yüksektir
+
+Bu sayede hem tohum, hem yaprak, hem de ekonomik açıdan daha kârlı bir toplama süreci yaşarsınız.
+
+## Farming Ürün Hasadı
+
+Gold Sickle, Farming ürünlerinin hasadı sırasında da avantaj sağlar:
+
+• Toplanan ürünlerde tohum düşme ihtimali Silver Sickle'a göre daha yüksektir
+
+• Her hasatta <mark style="color:red;">**%10 – %20**</mark> arası ekstra mamül elde edebilirsiniz(ürün türüne bağlı olarak değişebilir)
+
+Bu sayede hem üretim zinciriniz güçlenir, hem de tarım odaklı karakterler için daha yüksek verimlilik sağlanır.
+
+## Üretim
+
+Gold Pickaxe, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
+
+• 20 Iron Ingot
+
+• 10 Log
+
+• 20 Gold Ingot
+
+• 100 Tinkering
+
+• 10 Craft Mastery XP
+
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
+
+## Blueprint Elde Etme
+
+Gold Sickle üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint Trader**</mark>](https://uo-nimloth.net/wiki/sistemler/blueprint-sistemi) vendorlarından 5 adet Blueprint karşılığında temin edilebilmektedir.
+
+## Kullanım & Gereksinimler
+
+Gold Sickle kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://uo-nimloth.net/wiki/sistemler/gatherer-mastery-sistemi) seviyenizin 11 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
