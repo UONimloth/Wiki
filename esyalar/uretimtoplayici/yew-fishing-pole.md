@@ -22,7 +22,7 @@ Yew Fishing Pole kullanımı için [<mark style="color:red;">**Gatherer Mastery*
 
 ## Üretim
 
-Yew Fishing Pole, Carpentery yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Yew Fishing Pole, Carpentery yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 15 Yew Log
 
@@ -30,9 +30,9 @@ Yew Fishing Pole, Carpentery yeteneğine sahip oyuncular tarafından üretilebil
 
 • 98.4 Carpentry
 
-• 5 Craft Mastery XP gerekmektedir.
+• 5 Craft Mastery XP
 
-Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)zorunludur.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) zorunludur.
 
 ## Blueprint Elde Etme
 

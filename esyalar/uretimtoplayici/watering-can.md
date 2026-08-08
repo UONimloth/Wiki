@@ -10,13 +10,13 @@ Water Tub’lardan farklı olarak, bu eşya <mark style="color:red;">**300 kulla
 
 ## Üretim
 
-Watering Can, Tinker yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Watering Can, Tinker yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 5 Iron Ingot
 
 • 10 Silver Ingot
 
-• 100 Tinkering yeteneği gerekmektedir.
+• 100 Tinkering
 
 Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
 

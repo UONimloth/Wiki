@@ -1,6 +1,6 @@
 # Magical Robe
 
-Nimloth dünyasında büyünün en saf haliyle işlenmiş özel kıyafetler bulunmaktadır: **Magical Robes**.
+Nimloth dünyasında büyünün en saf haliyle işlenmiş özel kıyafetler bulunmaktadır: <mark style="color:red;">**Magical Robes**</mark>.
 
 Bu robe’lar, büyü ile uğraşan karakterlerin giyebildiği, zırh işlevi gören mistik giysilerdir.
 

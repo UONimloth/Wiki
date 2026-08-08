@@ -10,7 +10,7 @@ Salve etkisini kullanabilmek için öncelikle Salve Potion üretmeniz gerekmekte
 
 ## Üretim
 
-Salve Potion, Alchemy yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Salve Potion, Alchemy yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 10 adet Ginseng
 
@@ -18,7 +18,7 @@ Salve Potion, Alchemy yeteneğine sahip oyuncular tarafından üretilebilmektedi
 
 • 1 adet Full Salve Jar
 
-• 98.1 Alchemy yeteneği gerekmektedir
+• 98.1 Alchemy
 
 Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
 

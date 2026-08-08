@@ -20,7 +20,7 @@ Faster Casting Robe, giyen oyuncuya 7 armor sağlamaktadır.
 
 ## Üretim
 
-Wizard Robe, Tailoring yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Wizard Robe, Tailoring yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • <mark style="color:red;">**2**</mark>  [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal)
 
@@ -32,7 +32,7 @@ Wizard Robe, Tailoring yeteneğine sahip oyuncular tarafından üretilebilmekted
 
 • 98.0 Tailoring
 
-• 25 Craft Mastery XP gerekmektedir.
+• 25 Craft Mastery XP
 
 Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
 

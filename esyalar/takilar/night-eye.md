@@ -14,7 +14,7 @@ Belirli bir kullanım sonrasında <mark style="color:red;">**dayanıklılığı 
 
 ## Üretim
 
-Night Eye, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için:
+Night Eye, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 5 Shadow Ingot
 
@@ -24,9 +24,9 @@ Night Eye, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir
 
 • 98.0 Tinkering
 
-• 25 Craft Mastery XP gerekmektedir.
+• 25 Craft Mastery XP
 
-Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
 
 ## Blueprint Elde Etme
 

@@ -12,11 +12,11 @@ Bu kaybın önüne geçmek için Vaccine Potion kullanabilirsiniz.
 
 ## Üretim
 
-Vaccine Potion, Alchemy yeteneği ile üretilebilmektedir. Üretim için:
+Vaccine Potion, Alchemy yeteneği ile üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
 • 6 adet Deadwood
 
-• 2 adet Daemon Bone gerekmektedir.
+• 2 adet Daemon Bone
 
 Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)gerekmektedir.
 
