@@ -6,7 +6,7 @@ Farming sürecinizi daha verimli ve pratik hâle getirmek ister misiniz?
 
 Watering Can, bitki ve ağaçlarınızı sularken size hız ve konfor sağlayan gelişmiş bir araçtır.
 
-Water Tub’lardan farklı olarak, bu eşya **300 kullanım** hakkına sahiptir ve özellikle yoğun Farming yapan oyuncular için büyük kolaylık sunar.
+Water Tub’lardan farklı olarak, bu eşya <mark style="color:red;">**300 kullanım**</mark> hakkına sahiptir ve özellikle yoğun Farming yapan oyuncular için büyük kolaylık sunar.
 
 ## Üretim
 

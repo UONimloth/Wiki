@@ -12,7 +12,7 @@ Bu özel olta ile balık tutarken, yakaladığınız balık miktarını artırma
 
 • Balık tutulduğunda <mark style="color:red;">**%50 şansla 2 katı balık**</mark> elde edilebilirsiniz.
 
-• [<mark style="color:red;">**Exotic Balıklar**</mark>](https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi) bu olta ile yakalanabilir.
+• [<mark style="color:red;">**Exotic Balıklar**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi#exotic-fish) bu olta ile yakalanabilir.
 
 • 2 katı balık kazanma özelliği <mark style="color:red;">**Exotic balıklar için geçerli değildir**</mark>
 
