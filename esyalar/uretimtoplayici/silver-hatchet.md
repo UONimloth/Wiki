@@ -12,7 +12,7 @@ Silver Hatchet ile yapılan odun kesme işlemleri çeşitli avantajlar bulunmakt
 
 • Kesilen ağaçtan <mark style="color:red;">**%25 şansla normalin 2 katı**</mark> miktarda odun elde edilme şansı
 
-• Tree Grove kesim işlemlerinde başarı şansı daha yüksektir ve **+1 adet Log** elde edersiniz
+• Tree Grove kesim işlemlerinde başarı şansı daha yüksektir ve <mark style="color:red;">**+1 adet Log**</mark> elde edersiniz
 
 Bu özellikler hem toplama sürecini hızlandırır, hem de kaynak getirisi açısından oyuncuya önemli avantaj sağlar.
 
@@ -34,7 +34,7 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark> ](https
 
 ## Blueprint Elde Etme
 
-Silver Pickaxe üretiminde kullanılan Blueprint; Tinker Vendorlarından alınan görevler aracılığıyla elde edilebilmektedir.
+Silver Hatchet üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
 
 ## Kullanım & Gereksinimler
 

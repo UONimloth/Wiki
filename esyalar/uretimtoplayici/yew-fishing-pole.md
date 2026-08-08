@@ -32,7 +32,7 @@ Yew Fishing Pole, Carpentery yeteneğine sahip oyuncular tarafından üretilebil
 
 • 5 Craft Mastery XP
 
-Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) zorunludur.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
 
 ## Blueprint Elde Etme
 
