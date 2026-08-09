@@ -1,6 +1,6 @@
 # Frying Pan
 
-<mark style="color:red;">**Frying Pan**</mark>, büyük miktarda balığı kısa sürede pişirmenizi sağlayan özel bir üretim aracıdır. Özellikle yüksek miktarda balık işleyen oyuncular için normal pişirme yöntemlerine göre çok daha hızlı bir kullanım sunar.
+Frying Pan, büyük miktarda balığı kısa sürede pişirmenizi sağlayan özel bir üretim aracıdır. Özellikle yüksek miktarda balık işleyen oyuncular için normal pişirme yöntemlerine göre çok daha hızlı bir kullanım sunar.
 
 Bu eşyayı Fisher Vendor üzerinden satın alabilir veya Craft karakterleriniz ile üretebilirsiniz.
 
