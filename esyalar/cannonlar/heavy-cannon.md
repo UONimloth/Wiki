@@ -28,7 +28,7 @@ Bu mesafe, Heavy Cannon’un en yüksek hasar potansiyeline ulaştığı alanı 
 
 Hedef, <mark style="color:red;">**efektif menzilin dışına çıktığında (13-16 kare)**</mark>, isabet gücü ve hasar düşüş göstermeye başlar.
 
-Bu durumda Heavy Cannon’un verdiği hasar **14 ile 16** arasına düşer ve atışlar daha sınırlı bir etki yaratır.
+Bu durumda Heavy Cannon’un verdiği hasar <mark style="color:red;">**14 ile 16**</mark> arasına düşer ve atışlar daha sınırlı bir etki yaratır.
 
 ## Atış Yönü ve Konumlandırma
 
