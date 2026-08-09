@@ -1,17 +1,19 @@
 # Wizard Crystal
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/EZGWog3GoPds4pxHa43ysOaTsNtXeRc2gxbJQHAU.png)
+<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
-<p>Wizard Crystal, büyü enerjisi ile şekillenmiş, özel ekipman üretimlerinde kullanılan değerli bir crafting malzemesidir.</p>
+Wizard Crystal, büyü enerjisi ile şekillenmiş, özel ekipman üretimlerinde kullanılan değerli bir crafting malzemesidir.
 
-<p><a href="https://uo-nimloth.net/wiki/robelar/wizard-robe" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Wizard Robe</a> üretiminde kullanılan temel bileşenlerden biridir. İçerisinde yoğunlaştırılmış büyüsel enerji barındıran bu kristal, gelişmiş büyü ekipmanlarının üretiminde önemli bir rol oynar.</p>
+[<mark style="color:red;">**Wizard Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/wizard-robe) üretiminde kullanılan temel bileşenlerden biridir. İçerisinde yoğunlaştırılmış büyüsel enerji barındıran bu kristal, gelişmiş büyü ekipmanlarının üretiminde önemli bir rol oynar.
 
-<h2>Nasıl Elde Edebilirsiniz?</h2>
+## Nasıl Elde Edebilirsiniz?
 
-<p>Wizard Crystal çeşitli oyun içi içeriklerden elde edilebilmektedir:</p>
+Wizard Crystal çeşitli oyun içi içeriklerden elde edilebilmektedir:
 
-<p>• +12 ve +15 seviyesindeki yaratıklardan düşebilir</p>
-<p>• Dungeon Chest ödüllerinden çıkabilir</p>
-<p>• Hazine sistemi üzerinden kazanabilirsiniz</p>
+• +12 ve +15 seviyesindeki yaratıklardan düşebilir
 
-<p>Nadir bulunması nedeniyle, büyü odaklı ekipman üretimi yapmak isteyen oyuncular için değerli bir kaynak niteliğindedir.</p>
+• Dungeon Chest ödüllerinden çıkabilir
+
+• Hazine sistemi üzerinden kazanabilirsiniz
+
+Nadir bulunması nedeniyle, büyü odaklı ekipman üretimi yapmak isteyen oyuncular için değerli bir kaynak niteliğindedir.
