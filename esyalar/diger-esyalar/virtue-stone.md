@@ -2,11 +2,11 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/X5rDdC5cR9mDB8tJShmhBT0LBMfvO8axMlUBLo9P.png)
 
-Virtue Stone, çeşitli sistemlerde kullanılan değerli bir materyaldir. Özellikle ekipman bakımı ve set birleştirme işlemlerinde önemli bir rol oynar.
+Virtue Stone, çeşitli sistemlerde kullanılan değerli bir materyaldir. Özellikle ekipman bakımı, set ve silah birleştirme işlemlerinde önemli bir rol oynar.
 
 ## Kullanım Alanları
 
-Virtue Stone, oyun içerisinde iki farklı sistemde kullanılmaktadır:
+Virtue Stone, oyun içerisinde üç farklı sistemde kullanılmaktadır:
 
 [<mark style="color:red;">**Magical Silah Tamiri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/esya-tamir-sistemi)
 
@@ -15,6 +15,10 @@ Virtue Stone, oyun içerisinde iki farklı sistemde kullanılmaktadır:
 [<mark style="color:red;">**Armor Bundler**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/armor-bundler)
 
 • Leather ve Platemail setlerinizi bundle haline getirirken, birleştirme işlemini tamamlayabilmek için 20 adet Virtue Stone gerekmektedir.
+
+[<mark style="color:red;">**Weapon Combiner**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/weapon-combiner)
+
+• 6 adet magical silahı Weapon Combiner ile birleştirerek +15 seviyesinde bir magical silah elde etme şansınızı deneyebilirsiniz. Birleştirme işlemini gerçekleştirmek için 20 adet Virtue Stone gerekmektedir.
 
 ## Virtue Stone Elde Etme
 

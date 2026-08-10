@@ -62,7 +62,7 @@ Dragonic, Invul ve Nordomir setleri için sistem oldukça basittir. Tüm gerekli
 
 Bu butona tıkladığınızda, oluşturduğunuz set tek bir eşya (bundle) haline getirilerek çantanıza eklenir.
 
-Ancak bundle oluşturabilmek için ayrıca 20 adet Virtue Stone gerekmektedir. Virtue Stone’ları, magical silahları eriterek elde edebilirsiniz.
+Ancak bundle oluşturabilmek için ayrıca 20 adet [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone) gerekmektedir. Virtue Stone’ları, magical silahları eriterek elde edebilirsiniz.
 
 <figure><img src="../../.gitbook/assets/bundler.gif" alt=""><figcaption></figcaption></figure>
 

@@ -38,6 +38,8 @@ Yanlış eklenen veya değiştirilmek istenen silahlar, resimlerinin yanındaki 
 
 Sonuç tamamen eklenen silahların seviyelerine göre belirlenen hesaplamaya bağlıdır.
 
+Silahları birleştirebilmek için ayrıca 20 adet [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone) gerekmektedir. Virtue Stone’ları, magical silahları eriterek elde edebilirsiniz.
+
 <figure><img src="../../.gitbook/assets/weapon combiner.gif" alt=""><figcaption></figcaption></figure>
 
 ## Ödül Havuzu
