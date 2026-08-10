@@ -40,7 +40,7 @@ Bu işlem Blueprintlerin geri dönüşümünü sağlar ve oyuncuların farklı �
 
 
 
-**Blueprintler Combiner ile elde edebileceğiniz Blueprintler şu şekildedir:**
+<mark style="color:red;">**Blueprintler Combiner ile elde edebileceğiniz Blueprintler şu şekildedir:**</mark>
 
 • Ter-Mur Candelabra
 
