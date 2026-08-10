@@ -1,62 +1,92 @@
 # Item Storage
 
-<p>Item Storage, eşyalarınızı tek bir yerde toplayarak düzenli şekilde saklamanızı ve depolama işlemlerini kolaylaştırmanızı sağlayan özel bir depolama sistemidir.</p>
+Item Storage, eşyalarınızı tek bir yerde toplayarak düzenli şekilde saklamanızı ve depolama işlemlerini kolaylaştırmanızı sağlayan özel bir depolama sistemidir.
 
-<p>Bu eşyayı Provisioner Vendor üzerinden <strong style="color: #410000;">149.500 gold</strong> karşılığında satın alabilirsiniz.</p>
+Bu eşyayı Provisioner Vendor üzerinden <mark style="color:red;">**149.500 gold**</mark> karşılığında satın alabilirsiniz.
 
-<h2>Kullanım</h2>
+## Kullanım
 
-<p>Satın aldıktan sonra bankadayken eşya üzerine çift tıklayarak Item Storage’ı karakterinize kaydedebilirsiniz.</p>
-<p>Kaydedildikten sonra bu eşya sadece size özel hale gelir; başka oyuncular tarafından kullanılamaz.</p>
+Satın aldıktan sonra bankadayken eşya üzerine çift tıklayarak Item Storage'ı karakterinize bağlayabilirsiniz.
+
+Bağlandıktan sonra Item Storage yalnızca size özel hale gelir ve başka oyuncular tarafından kullanılamaz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/cG2F1WshIDYzGo6cABAR1KASgtTjhmT2FVsBIm5I.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gaQattga2DzYTZqhd2cw1nxR5yzsG0zVR7k2vko1.png)
-<p><strong style="color: #410000;">Not: Item Storage yalnızca bankanın en üst gözünde bulunduğunda kullanılabilir.</strong></p>
 
-<p>Eşyaya çift tıkladığınızda karşınıza bir dialog açılır.</p>
-<p>Bu dialog içerisinde çeşitli depolama kategorileri bulunur.</p>
-<p>Şu an için sadece Reg kategorisi aktif durumdadır.</p>
-<p>Item Storage açıldığında varsayılan olarak Reg kategorisi görüntülenir ve bu ekranda depolama sisteminde bulunan toplam reg miktarını görebilirsiniz.</p>
+<mark style="color:red;">**Not: Item Storage yalnızca bankanızın en üst sırasında bulunduğunda kullanılabilir.**</mark>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/9pgQnR5V5heEkguush3yX5Ro4Rv0kizrdxTvCKWn.png)
+Eşyaya çift tıkladığınızda karşınıza bir dialog açılır.
 
-<h2>Store’a Eşya Ekleme</h2>
-<p>Item Storage içerisine eşya eklemek için iki farklı yöntem bulunmaktadır. Dialogda bulunan <strong style="color: #410000;">“Reg Ekle”</strong> butonuna tıkladığınızda bir hedef belirleme ekranı açılır.</p>
+Item Storage içerisinde toplam <mark style="color:red;">**11 farklı depolama kategorisi**</mark> bulunmaktadır. Bu kategoriler, farklı eşya türlerini ayrı ayrı saklamanıza ve yönetmenize olanak sağlar.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gTTsp10nibbRzTmodVDKZjDKQnuCGxWfyWvYV083.png)
+Seçtiğiniz kategoriye göre ekrandaki eşya listesi ve işlem butonları değişir. Örneğin <mark style="color:red;">**Reg**</mark> kategorisinde <mark style="color:red;">**“Reg Ekle”**</mark> ve <mark style="color:red;">**“Reg Çıkart”**</mark> butonları bulunurken, <mark style="color:red;">**Ingot**</mark> kategorisinde bu butonlar <mark style="color:red;">**“Ingot Ekle”**</mark> ve <mark style="color:red;">**“Ingot Çıkart”**</mark> olarak görüntülenir.
 
-<p>• Bu hedef ile <strong style="color: #410000;">çantanızdan veya bankanızdan herhangi bir reg seçtiğinizde</strong>, seçilen reg türü Item Storage’a eklenir.</p>
+<figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y3XjVa6suZulMcchfxLgytexBr9VeYfvSSJKv42u.png)
+## Item Storage’a Eşya Ekleme
 
-<p>• Bu hedef ile <strong style="color: #410000;">kendinizi hedef gösterdiğinizde</strong>, çantanızda ve bankanızda bulunan ilgili kategorideki tüm regler otomatik olarak Item Storage’a aktarılır. Bu işlem, toplu ekleme yapmak isteyen oyuncular için hızlı ve kolay bir yöntem sunar.</p>
+Item Storage içerisine eşya eklemek için iki farklı yöntem bulunmaktadır.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/EErBXKVp0HVCA3TvXIDn6VDyp7w3pvnVM0pOWUKl.png)
+Seçili kategoriye ait <mark style="color:red;">**“Ekle”**</mark> butonuna tıkladığınızda bir hedef belirleme ekranı açılır.
 
-<h2>Store’dan Eşya Çıkartma</h2>
+* Hedef ile <mark style="color:red;">**çantanızdan veya bankanızdan uygun bir eşya seçtiğinizde**</mark>, seçilen eşya türü Item Storage'a eklenir.
+* Hedef olarak <mark style="color:red;">**kendinizi seçtiğinizde**</mark>, çantanızda,bankanızda ve binmekte olduğunuz pet binekte bulunan <mark style="color:red;">**seçili kategoriye ait tüm uygun eşyalar**</mark> otomatik olarak Item Storage'a aktarılır.
 
-<p>Item Storage içerisinden eşya çıkartmak oldukça basit ve hızlıdır.</p>
-<p>Her bir eşyanın sağ tarafında bir seçim kutucuğu bulunur. Çıkartmak istediğiniz eşyaları bu kutucukları işaretleyerek seçebilirsiniz.</p>
+Örneğin <mark style="color:red;">**Reg**</mark> kategorisindeyken kendinizi hedeflerseniz, çantanızda ve bankanızda bulunan Reg'ler Item Storage'a aktarılır. <mark style="color:red;">**Ingot**</mark> kategorisindeyken aynı işlemi yaptığınızda ise yalnızca Ingot'lar depolanır.
 
-<p>Sağ altta bulunan miktar alanına çıkartmak istediğiniz sayıyı yazıp <strong style="color: #410000;">“Reg Çıkart”</strong> butonuna bastığınızda, seçtiğiniz her reg türünden belirtilen miktarda eşya çıkartılır.</p>
+Bu sayede her kategoride bulunan eşyaları tek tek seçmek yerine, ilgili kategorideki eşyaları tek işlemle Item Storage'a aktarabilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/XAr5BX1q2NjBRg9TRXtIxq0s2eSoqrhMZaOYPelu.png)
+<figure><img src="../../.gitbook/assets/storage 1.gif" alt=""><figcaption></figcaption></figure>
+
+## Item Storage’dan Eşya Çıkartma
+
+Item Storage içerisinden eşya çıkartmak oldukça basit ve hızlıdır.
+
+Her bir eşyanın sağ tarafında bir seçim kutucuğu bulunur. Çıkartmak istediğiniz eşyaları bu kutucukları işaretleyerek seçebilirsiniz.
+
+Ekranın alt kısmında bulunan miktar alanına çıkartmak istediğiniz sayıyı yazıp <mark style="color:red;">**“Çıkart”**</mark> butonuna bastığınızda, seçtiğiniz eşyaların her birinden belirtilen miktarda eşya çıkartılır.
+
+Çıkartma butonunun adı, seçili kategoriye göre otomatik olarak değişir. Örneğin Reg kategorisinde <mark style="color:red;">**“Reg Çıkart”**</mark>, Ingot kategorisinde ise <mark style="color:red;">**“Ingot Çıkart”**</mark> şeklinde görüntülenir.
+
+<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/WAnklhFMzMIFJLKZEmzNUhVJ7vgXl8kdNVqZIs67.png)
 
-<p>Ek olarak, ekranın alt kısmında yer alan <strong style="color: #410000;">“Tümünü Seç”</strong> butonuna basarak mevcut kategorideki tüm eşyaları hızlıca seçebilirsiniz.</p>
-<p>Bu özellik toplu işlem yapmak isteyen oyuncular için büyük kolaylık sağlar.</p>
+Ek olarak, ekranın alt kısmında yer alan <mark style="color:red;">**“Tümünü Seç”**</mark> butonuna basarak mevcut kategorideki tüm eşyaları hızlıca seçebilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/NltCFRmfnvgyV1X8h2pDiJDucQToIer2G4L0GwIU.png)
+Bu özellik toplu işlem yapmak isteyen oyuncular için büyük kolaylık sağlar.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/MspezcGh8yAsBXgrIe8f2dBCxjFKwQIn69TGvnLB.png)
+<figure><img src="../../.gitbook/assets/storage 2.gif" alt=""><figcaption></figcaption></figure>
 
-<h3>Önemli Not</h3>
-<p>Girilen miktar, seçilen eşyanın Item Storage içerisindeki stok miktarından fazla ise, sistem otomatik olarak eldeki maksimum miktar kadar eşya çıkartır. Yani, seçilen miktar bulunmuyorsa olan kadar çekilir.</p>
+#### Önemli Not
+
+Girilen miktar, seçilen eşyanın Item Storage içerisindeki stok miktarından fazla ise sistem otomatik olarak mevcut stok miktarı kadar eşya çıkartır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/nXkbVC4j6hizrIO9g4gg3W8Nes3eCYHypmV39hLT.png)
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Ev0ukHg7jfHJw0r7CT9kTox7CgvZAgR3iQwOzLyv.png)
+## Item Storage Ayarları
 
+Item Storage'ın sol üst kısmında bulunan <mark style="color:red;">**Ayarlar**</mark> butonu üzerinden eşya çıkartma seçeneklerini özelleştirebilirsiniz.
 
+<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+
+Ayarlar menüsünde öncelikle eşyaların nereye çıkartılacağını seçebilirsiniz:
+
+* <mark style="color:red;">**Çantaya Çıkart**</mark>**:** Eşyalar karakterinizin çantasına çıkartılır.
+* <mark style="color:red;">**Bankaya Çıkart**</mark>**:** Eşyalar karakterinizin bankasına çıkartılır.
+
+Varsayılan olarak <mark style="color:red;">**Çantaya Çıkart**</mark> seçeneği aktiftir.
+
+Ayrıca eşyaların seçilen konteyner içerisinde hangi bölgeye yerleştirileceğini de belirleyebilirsiniz:
+
+* <mark style="color:red;">**Sol Üste Çıkart**</mark>
+* <mark style="color:red;">**Sol Alta Çıkart**</mark>
+* <mark style="color:red;">**Sağ Üste Çıkart**</mark>
+* <mark style="color:red;">**Sağ Alta Çıkart**</mark>
+
+Varsayılan olarak <mark style="color:red;">**Sağ Alta Çıkart**</mark> seçeneği aktiftir.
+
+Bu ayarlar sayesinde Item Storage'dan çıkarttığınız eşyaların hem <mark style="color:red;">**hangi konteynere**</mark> gönderileceğini hem de <mark style="color:red;">**konteyner içerisindeki konumunu**</mark> belirleyebilirsiniz.
+
+<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
