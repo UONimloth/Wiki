@@ -1,15 +1,20 @@
 # Weapon Combiner
 
-<p>Weapon Combiner, oyuncuların ellerindeki fazla magical silahları kullanarak belirli bir şansla <strong style="color: #410000;">+15</strong> silahlar elde edebildikleri özel bir üretim eşyasıdır.</p>
-<p>Çalışma mantığı genel olarak Blueprint Combiner ile benzerlik gösterir, ancak bu sistem tamamen silah seviyeleri ve olasılık mekanikleri üzerine kuruludur.</p>
+Weapon Combiner, oyuncuların ellerindeki fazla magical silahları kullanarak belirli bir şansla <mark style="color:red;">**+15**</mark> silahlar elde edebildikleri özel bir üretim eşyasıdır.
+
+Çalışma mantığı genel olarak Blueprint Combiner ile benzerlik gösterir, ancak bu sistem tamamen silah seviyeleri ve olasılık mekanikleri üzerine kuruludur.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/8c9PuSgQUAEgeedn6bjmvohYqxv8wCYhI3szDdjE.png)
 
-<h2>Nasıl Çalışır?</h2>
-<p>Yeni bir +15 silah elde etmek için toplam 6 adet magical silah eklemeniz gerekmektedir.</p>
-<p>Dialogda bulunan <strong style="color: #410000;">"+"</strong> butonuna tıklayarak silahları tek tek ekleyebilir veya <strong style="color: #410000;">"Çantadan Al"</strong> butonuna basarak çantanızda bulunan tüm silahları otomatik olarak ekleyebilirsiniz.</p>
-<p>Eklenen her silah, kendi kalite seviyesine göre +15 silah üretim şansını artırır.</p>
-<p>Her silahın üretim şansı dialog üzerinden oyuncular tarafından görülebilir; böylece eklenen silahların toplam başarı oranı anlık olarak takip edilebilir.</p>
+## Nasıl Çalışır?
+
+Yeni bir +15 silah elde etmek için toplam 6 adet magical silah eklemeniz gerekmektedir.
+
+Dialogda bulunan <mark style="color:red;">**"+"**</mark> butonuna tıklayarak silahları tek tek ekleyebilir veya <mark style="color:red;">**"Çantadan Al"**</mark> butonuna basarak çantanızda bulunan tüm silahları otomatik olarak ekleyebilirsiniz.
+
+Eklenen her silah, kendi kalite seviyesine göre +15 silah üretim şansını artırır.
+
+Her silahın üretim şansı dialog üzerinden oyuncular tarafından görülebilir; böylece eklenen silahların toplam başarı oranı anlık olarak takip edilebilir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/WIbwTmxxGS0k6czWSEHBuwOgCsp5h5byKoEenfd2.png)
 
@@ -19,30 +24,54 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/XvKfNbub8STknqxLstMeXUsyWPUmHU6pwqOdu5Xi.png)
 
-<h2>Silah Çıkartma</h2>
-<p>Yanlış eklenen veya değiştirilmek istenen silahlar, resimlerinin yanındaki <strong style="color: #410000;">“X”</strong> butonu ile çıkartılabilir.</p>
+## Silah Çıkartma
 
-<h2>Birleştirme İşlemi</h2>
-<p>6 adet silah eklendikten sonra <strong style="color: #410000;">“Birleştir”</strong> butonuna tıklayarak, eklenen silahlara göre belirlenen toplam şans üzerinden oyuncuya rastgele bir +15 silah elde edebilirsiniz.</p>
-<p>Örneğin 6 adet <strong style="color: #410000;">+12 silah</strong> eklendiyse yaklaşık <strong style="color: #410000;">%80 başarı</strong> şansı oluşur.</p>
-<p>6 adet <strong style="color: #410000;">+15 silah</strong> eklendiyse  <strong style="color: #410000;">%100 başarı</strong> şansı oluşur.</p>
-<p>Sonuç tamamen eklenen silahların seviyelerine göre belirlenen hesaplamaya bağlıdır.</p>
+Yanlış eklenen veya değiştirilmek istenen silahlar, resimlerinin yanındaki <mark style="color:red;">**"X"**</mark> butonu ile çıkartılabilir.
 
-<h2>Ödül Havuzu</h2>
-<p>Birleştirme işlemi sonucunda düşebilecek toplam 15 farklı +15 silah bulunmaktadır.</p>
-<p>Silahlar şu şekildedir:</p>
-<p>• Katana</p>
-<p>• Halberd</p>
-<p>• Bardiche</p>
-<p>• Cutlass</p>
-<p>• Scimitar</p>
-<p>• Spear</p>
-<p>• Pitchfork</p>
-<p>• Short Spear</p>
-<p>• Kryss</p>
-<p>• War Fork</p>
-<p>• Black Staff</p>
-<p>• War Axe</p>
-<p>• Club</p>
-<p>• Maul</p>
-<p>• Mace</p>
+## Birleştirme İşlemi
+
+6 adet silah eklendikten sonra <mark style="color:red;">**"Birleştir"**</mark> butonuna tıklayarak, eklenen silahlara göre belirlenen toplam şans üzerinden oyuncuya rastgele bir +15 silah elde edebilirsiniz.
+
+Örneğin 6 adet <mark style="color:red;">**+12 silah**</mark> eklendiyse yaklaşık <mark style="color:red;">**%80 başarı şansı**</mark> oluşur.
+
+6 adet <mark style="color:red;">**+15 silah**</mark> eklendiyse <mark style="color:red;">**%100 başarı şansı**</mark> oluşur.
+
+Sonuç tamamen eklenen silahların seviyelerine göre belirlenen hesaplamaya bağlıdır.
+
+<figure><img src="../../.gitbook/assets/weapon combiner.gif" alt=""><figcaption></figcaption></figure>
+
+## Ödül Havuzu
+
+Birleştirme işlemi sonucunda düşebilecek toplam 15 farklı +15 silah bulunmaktadır.
+
+Silahlar şu şekildedir:
+
+• Katana
+
+• Halberd
+
+• Bardiche
+
+• Cutlass
+
+• Scimitar
+
+• Spear
+
+• Pitchfork
+
+• Short Spear
+
+• Kryss
+
+• War Fork
+
+• Black Staff
+
+• War Axe
+
+• Club
+
+• Maul
+
+• Mace
