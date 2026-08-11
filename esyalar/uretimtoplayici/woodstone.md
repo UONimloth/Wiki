@@ -13,8 +13,6 @@ Woodstone, Carpentry yeteneğine sahip oyuncular tarafından üretilebilmektedir
 * 20 Log
 * 2 Yew Log
 * 2 Oak Log
-* 1 Granite Stone
-
-Üretim için Blueprint gereksinimi bulunmamaktadır.
+* 1 [<mark style="color:red;">**Granite Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/granite-stone)
 
 Gerekli malzemeleri hazırladıktan sonra Carpentry üretim menüsü üzerinden Woodstone üretebilirsiniz.
