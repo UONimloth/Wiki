@@ -61,6 +61,8 @@
     * [Faster Casting Robe](esyalar/robelar/faster-casting-robe.md)
     * [Magical Robe](esyalar/robelar/magical-robe.md)
   * [Üretim\&Toplayıcı](esyalar/uretimtoplayici/README.md)
+    * [Granite Stone](esyalar/uretimtoplayici/granite-stone.md)
+    * [Woodstone](esyalar/uretimtoplayici/woodstone.md)
     * [Watering Can](esyalar/uretimtoplayici/watering-can.md)
     * [Oak Fishing Pole](esyalar/uretimtoplayici/oak-fishing-pole.md)
     * [Yew Fishing Pole](esyalar/uretimtoplayici/yew-fishing-pole.md)
