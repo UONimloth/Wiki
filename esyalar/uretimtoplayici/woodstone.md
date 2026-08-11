@@ -4,7 +4,7 @@ Woodstone, ev ve gemi yapımında kullanılan özel bir yapı malzemesidir. Ahş
 
 ## Kullanım Alanı
 
-Woodstone, <mark style="color:red;">**ev ve gemi yapımında**</mark> kullanılan özel bir üretim malzemesidir. Yapı inşa etmek isteyen oyuncuların ihtiyaç duyacağı malzemeler arasında yer alır.
+Woodstone, [<mark style="color:red;">**gemi ve ev üretiminde**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi) kullanılan özel bir üretim malzemesidir. Yapı inşa etmek isteyen oyuncuların ihtiyaç duyacağı malzemeler arasında yer alır.
 
 ## Üretim
 

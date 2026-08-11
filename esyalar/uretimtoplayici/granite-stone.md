@@ -4,7 +4,7 @@ Granite Stone, Nimloth dünyasında ev ve gemi yapımında kullanılan temel yap
 
 ## Kullanım Alanları
 
-Granite Stone başta <mark style="color:red;">**ev ve gemi yapımı**</mark> olmak üzere farklı üretim alanlarında kullanılmaktadır.
+Granite Stone başta [<mark style="color:red;">**gemi ve ev üretimi**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi) olmak üzere farklı üretim alanlarında kullanılmaktadır.
 
 Ayrıca <mark style="color:red;">**Masonry**</mark> yeteneği ile çeşitli <mark style="color:red;">**heykellerin (Sculpture)**</mark> üretiminde de Granite Stone kullanılabilir.
 
