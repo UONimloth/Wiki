@@ -61,6 +61,7 @@
     * [Faster Casting Robe](esyalar/robelar/faster-casting-robe.md)
     * [Magical Robe](esyalar/robelar/magical-robe.md)
   * [Üretim\&Toplayıcı](esyalar/uretimtoplayici/README.md)
+    * [Copper Wire](esyalar/uretimtoplayici/copper-wire.md)
     * [Granite Stone](esyalar/uretimtoplayici/granite-stone.md)
     * [Woodstone](esyalar/uretimtoplayici/woodstone.md)
     * [Watering Can](esyalar/uretimtoplayici/watering-can.md)
