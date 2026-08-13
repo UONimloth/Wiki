@@ -334,6 +334,7 @@
   * [Golem](yaratiklar/golem.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [Ağustos 2026](guncelleme-notlari/agustos-2026/README.md)
+    * [13.08.2026 Güncellemeleri](guncelleme-notlari/agustos-2026/13.08.2026-guncellemeleri.md)
     * [06.08.2026 Güncellemeleri](guncelleme-notlari/agustos-2026/06.08.2026-guncellemeleri.md)
     * [02.08.2026 Güncellemeleri](guncelleme-notlari/agustos-2026/02.08.2026-guncellemeleri.md)
   * [Temmuz 2026](guncelleme-notlari/temmuz-2026/README.md)
