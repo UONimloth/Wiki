@@ -112,35 +112,37 @@ Böylece oyuncular doğadan topladıkları bitkileri kendi elleriyle yetiştirip
 
 Doğadan toplanan yapraklar, usta ellerde benzersiz boyalara dönüşür.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/hn1UzhhizkHwUQQiVtm1ZF83VY5SZ9HLc5ZBqJ8g.png)
+<figure><img src="/broken/files/Ptv2JdRAxQw2mQBxMZY4" alt=""><figcaption></figcaption></figure>
 
 Nadir çiçeklerin özlerinden elde edilen bu yapraklar, doğru oranlarda karıştırıldığında Nimloth’un en saf renklerini ortaya çıkarır.
 
-Boyaların üretimi için öncelikle bir **Dye Creator Tool** gerekir.
+Boyaların üretimi için <mark style="color:red;">**Dye Creator Tool**</mark> veya tailor vendorlarda yer alan <mark style="color:red;">**Dye Cabinet**</mark>'ı kullanabilirsiniz.
 
-Bu araç, Provisioner Vendor tarafından 299.000 altın karşılığında satılmaktadır.
+Dye Creator Toolç, Provisioner Vendor tarafından 299.000 altın karşılığında satılmaktadır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/sNBer1A36tYnzW38u09oaoqtxD7aJ3liYWBf3Uub.png)
 
-Bu eşyayı satın aldıktan sonra çift tıklayarak üretim menüsünü açabilirler.
+<figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
-Karşınıza gelen ekranda 6 farklı Rare Dye tipi görüntülenir.
+Her iki eşyaya çift tıklayarak üretim menüsünü açabilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gDsZjLiLAwCPuchVhH2qPHR7lqQ44x724Nahftyg.png)
+Karşınıza gelen ekranda 8 farklı Rare Dye tipi görüntülenir.
+
+<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
 ## Cloth Dye
 
 İlk üretim türü Cloth Dye’dır.
 
-Bu boya türü, kumaş bazlı eşyalar üzerinde kullanılmak üzere tasarlanmıştır ve toplamda **21 farklı renk seçeneği** sunar.
+Bu boya türü, kumaş bazlı eşyalar üzerinde kullanılmak üzere tasarlanmıştır ve toplamda <mark style="color:red;">**25 farklı renk seçeneği**</mark> sunar.
 
-Bu renkler 3 ayrı seviyeye (Tier) ayrılmıştır:
+Bu renkler 4 ayrı seviyeye (Tier) ayrılmıştır:
 
-### Tier 3 – Temel Renkler
+### Tier 4 – Temel Renkler
 
 Klasik ve sade tonlardan oluşan bu seviye, üretime yeni başlayan oyuncular için idealdir.
 
-Üretimi için toplam **600 yaprak**, Dye Tub ve 80.0 Alchemy yeteneği gerektirir.
+Üretimi için toplam <mark style="color:red;">**600 yaprak**</mark>, Dye Tub ve 80.0 Alchemy yeteneği gerektirir.
 
 | Renk    | Gereken Yaprak                         |
 | ------- | -------------------------------------- |
@@ -152,29 +154,29 @@ Klasik ve sade tonlardan oluşan bu seviye, üretime yeni başlayan oyuncular i�
 | Yeşil   | 300 Bluebells , 300 Ragwort            |
 | Siyah   | 200 Bluebells , 200 Ragwort , 200 Rose |
 
-### Tier 2 – Doygun Renkler
+### Tier 3 – Doygun Renkler
 
 Daha derin ve doygun renklerden oluşur.
 
-Üretim mantığı Tier 3 renkler ile aynıdır, ancak **gereken toplam yaprak miktarı 1200** ve 90.0 Alchemy yeteneği istemektedir.
+Üretim mantığı Tier 3 renkler ile aynıdır, ancak <mark style="color:red;">**gereken toplam yaprak miktarı 1200**</mark> ve 90.0 Alchemy yeteneği istemektedir.
 
 Örneğin:
 
 Mor boya üretimi için 600 Bluebells + 600 Rose yaprağı gerekir.
 
-### Tier 1 – Zengin Tonlar
+### Tier 2 – Zengin Tonlar
 
 En parlak ve özel tonları içerir.
 
-Bu seviyede üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca **Blueprint** adı verilen özel bir plana da sahip olmaları gerekir.
+Bu seviyede üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) adı verilen özel bir plana da sahip olmaları gerekir.
 
-Blueprint’ler, [Hazine sisteminden](https://uo-nimloth.net/wiki/sistemler/hazine-sistemi) nadiren elde edilir.
+Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
 
-Tier 1 boyalar için toplam **2400 yaprak** ve 99.0 Alchemy yeteneği gerekmektedir.
+Tier 1 boyalar için toplam <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerekmektedir.
 
 Yaprak kombinasyonu mantığı Tier 3 ve Tier 2 ile aynıdır.
 
-**Blueprint olmadan Tier 1 boya üretimi mümkün değildir.**
+<mark style="color:red;">**Blueprint olmadan Tier 2 boya üretimi mümkün değildir.**</mark>
 
 ### Görsel Önizleme Menüsü
 
