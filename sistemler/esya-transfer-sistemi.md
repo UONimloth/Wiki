@@ -1,9 +1,5 @@
 # Eşya Transfer Sistemi
 
-```
-<iframe width="1337" height="752" src="https://www.youtube.com/embed/1Tt-jVv6lvk" title="UO:Nimloth Rare Dye Sistemi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-```
-
 Artık Nimloth dünyasında şehirlerdeki <mark style="color:red;">**Post Office**</mark> noktalarını kullanarak başka oyunculara veya hesabındaki diğer karakterlere kolayca eşya gönderebilirsin!
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/3KV5wdShr0gcnZFe4mFUf5uOsALwbR835iIvJFd1.png)
