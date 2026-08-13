@@ -66,9 +66,9 @@ Toprakla dost olanlar, bu nadir bitkiyi fark edip toplayabilirler.
 
 Nadir çiçeklerin toplanması, Nimloth’un doğasıyla birebir temas gerektiren bir süreçtir.
 
-Bu süreçte oyuncular, <mark style="color:red;">**Sickle**</mark> yardımıyla çiçeklerin yapraklarını dikkatlice toplayabilirler.
+Bu süreçte, <mark style="color:red;">**Sickle**</mark> yardımıyla çiçeklerin yapraklarını dikkatlice toplayabilirsiniz.
 
-Toplama işlemi için herhangi bir özel yetenek gerekmese de, kullanılan araçların kalitesi ve oyuncunun yetenek seviyesi verim üzerinde doğrudan etkilidir.
+Toplama işlemi için herhangi bir özel yetenek gerekmese de, kullanılan araçların kalitesi ve yetenek seviyeniz verim üzerinde doğrudan etkilidir.
 
 ### Sickle Kullanımı
 
@@ -88,7 +88,7 @@ Daha kaliteli bir Sickle, hem doğadan daha fazla ürün elde etmenizi hem de ç
 
 ### Farming Yeteneği Etkisi
 
-Toplama işlemi için [<mark style="color:red;">**Farming**</mark>](../yetenekler/farming.md) yeteneği zorunlu değildir, ancak bu yeteneğe sahip olan oyuncular doğadan daha fazla yaprak toplayabilir.
+Toplama işlemi için [<mark style="color:red;">**Farming**</mark>](../yetenekler/farming.md) yeteneği zorunlu değildir, ancak bu yeteneğe sahipseniz doğadan daha fazla yaprak toplayabilirsiniz.
 
 Ayrıca, Farming seviyesi arttıkça <mark style="color:red;">**tohum bulma olasılığı**</mark> da yükselir.
 
@@ -96,17 +96,17 @@ Yüksek Farming seviyesi, çiçeklerin yapısını daha iyi anlamayı ve toplama
 
 ### Tohum Düşürme ve Ekim Mekaniği
 
-Eğer bir oyuncunun [<mark style="color:red;">**Gatherer Mastery**</mark>](gatherer-mastery-sistemi.md) seviyesi 14'ün üzerindeyse, çiçek toplarken nadir bir şansla o çiçeğe ait tohum elde edebilir.
+Eğer [<mark style="color:red;">**Gatherer Mastery**</mark>](gatherer-mastery-sistemi.md) seviyesiniz 14'ün üzerindeyse, çiçek toplarken nadir bir şansla o çiçeğe ait tohum elde edebilirsiniz.
 
 Bu şans, aşağıdaki faktörlerle birlikte artar:
 
-• Oyuncunun Farming yeteneği seviyesi
+• Farming yeteneği seviyesiniz
 
 • Kullanılan Sickle’ın kalitesi (Silver veya Gold)
 
 Elde edilen tohumlar, Farming yeteneği kullanılarak ekilebilir.
 
-Böylece oyuncular doğadan topladıkları bitkileri kendi elleriyle yetiştirip, boya üretiminde sürdürülebilir bir kaynak oluşturabilirler.
+Böylece doğadan topladığınız bitkileri kendi ellerinizle yetiştirip, boya üretiminde sürdürülebilir bir kaynak oluşturabilirsiniz.
 
 ## Rare Dye Üretimi
 
@@ -142,7 +142,7 @@ Bu renkler 4 ayrı seviyeye (Tier) ayrılmıştır:
 
 Klasik ve sade tonlardan oluşan bu seviye, üretime yeni başlayan oyuncular için idealdir.
 
-Üretimi için toplam <mark style="color:red;">**600 yaprak**</mark>, Dye Tub ve 80.0 Alchemy yeteneği gerektirir.
+Üretimi için toplam <mark style="color:red;">**600 yaprak**</mark>, Dye Tub ve 80.0 Alchemy yeteneği gerekir.
 
 | Renk    | Gereken Yaprak                         |
 | ------- | -------------------------------------- |
@@ -168,7 +168,7 @@ Mor boya üretimi için 600 Bluebells + 600 Rose yaprağı gerekir.
 
 Daha parlak ve özel tonları içerir.
 
-Bu seviyede üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) adı verilen özel bir plana da sahip olmaları gerekir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) de gerekmektedir.
 
 Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
 
@@ -176,13 +176,11 @@ Tier 1 boyalar için toplam <mark style="color:red;">**2400 yaprak**</mark> ve 9
 
 Yaprak kombinasyonu mantığı Tier 3 ve Tier 2 ile aynıdır.
 
-<mark style="color:red;">**Blueprint olmadan Tier 2 boya üretimi mümkün değildir.**</mark>
-
 ### **Tier 1 -** Eşsiz Tonlar
 
 Rare Dye sisteminin en üst seviyesini temsil eder. Bu seviyede, diğer Tier seviyelerine kıyasla <mark style="color:red;">**daha özel, canlı ve nadir renk tonları**</mark> elde edebilirsiniz.
 
-Tier 1 boya üretmek isteyen oyuncuların yalnızca yaprak değil, aynı zamanda [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) adı verilen özel bir plana da sahip olmaları gerekir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) de gerekmektedir.
 
 Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
 
@@ -190,13 +188,11 @@ Tier 1 boya üretimi için toplam <mark style="color:red;">**4800 yaprak**</mark
 
 Yaprak kombinasyonu, Tier 2 ve Tier 3 boyalarda kullanılan sistemle benzer şekilde çalışır.
 
-<mark style="color:red;">**Blueprint olmadan Tier 1 boya üretimi mümkün değildir.**</mark>
-
 ### Görsel Önizleme Menüsü
 
 Cloth Dye menüsünü açtığınızda karşınıza bir karakter modeli çıkar.
 
-Karakter üzerinde seçilen renkler <mark style="color:red;">**gerçek zamanlı olarak gösterilir**</mark>, böylece oyuncular üretimden önce rengin kıyafet üzerindeki görünümünü görebilirler.
+Karakter üzerinde seçilen renkler <mark style="color:red;">**gerçek zamanlı olarak gösterilir**</mark>, böylece üretimden önce rengin kıyafet üzerindeki görünümünü görebilirsiniz.
 
 Bu önizleme ekranında:
 
@@ -206,13 +202,17 @@ Sağ ve sol ok butonları kullanılarak farklı kıyafet kombinasyonları arası
 
 İstediğiniz renk tonunu seçip, <mark style="color:red;">**“Boyayı Üret”**</mark> butonuna tıklayarak üretim işlemini başlatabilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/g8cyzYF6NO7Hx8OxrvZP9MgE1iJ8RpKZaSf0In7Q.png)
+<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/yQ6CCOnYH9i8aXYyFo7qlKaYajXdS8i1YgUDAJW5.png)
+<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/0yGT7SpKydlFzqj2j5k26BVzxiX6Nc7J0tKYzKT8.png)
+<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Q0gBWXhwjy7aLT0f3zsoNmwTl5pKaDfxcElynMdU.png)
+<figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/rare dye.gif" alt=""><figcaption></figcaption></figure>
 
 ## Leather Dye
 
