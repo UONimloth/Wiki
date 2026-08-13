@@ -1,7 +1,5 @@
 # Eşya Transfer Sistemi
 
-![Nimloth Logo](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/tM2DrlQjLULO1YAfnGYyNKxekyK1URrkSfrw7vHx.png)
-
 Artık Nimloth dünyasında şehirlerdeki <mark style="color:red;">**Post Office**</mark> noktalarını kullanarak başka oyunculara veya hesabındaki diğer karakterlere kolayca eşya gönderebilirsin!
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/3KV5wdShr0gcnZFe4mFUf5uOsALwbR835iIvJFd1.png)
@@ -14,7 +12,7 @@ Bir Post Office’e çift tıkladığınızda, karşına Eşya Transfer Menüsü
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/W7c6Kl8XqA6E8A3qE54MN0NCCgAX3Qfn7q8Ym3mT.png)
 
-<mark style="color:red;">**İlk üç yöntem tüm oyuncular için erişilebilirken, son iki yöntem sadece premium oyunculara özeldir.**</mark>
+İlk üç yöntem tüm oyuncular için erişilebilirken, son iki yöntem sadece [<mark style="color:red;">**premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) oyunculara özeldir.
 
 ## Hesap Numarası ile Gönder
 
