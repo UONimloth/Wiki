@@ -96,7 +96,7 @@ Yüksek Farming seviyesi, çiçeklerin yapısını daha iyi anlamayı ve toplama
 
 ### Tohum Düşürme ve Ekim Mekaniği
 
-Eğer bir oyuncunun [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi) seviyesi 14'ün üzerindeyse, çiçek toplarken nadir bir şansla o çiçeğe ait tohum elde edebilir.
+Eğer bir oyuncunun [<mark style="color:red;">**Gatherer Mastery**</mark>](gatherer-mastery-sistemi.md) seviyesi 14'ün üzerindeyse, çiçek toplarken nadir bir şansla o çiçeğe ait tohum elde edebilir.
 
 Bu şans, aşağıdaki faktörlerle birlikte artar:
 
