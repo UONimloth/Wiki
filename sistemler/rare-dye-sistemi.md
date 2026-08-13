@@ -112,13 +112,13 @@ Böylece oyuncular doğadan topladıkları bitkileri kendi elleriyle yetiştirip
 
 Doğadan toplanan yapraklar, usta ellerde benzersiz boyalara dönüşür.
 
-<figure><img src="/broken/files/Ptv2JdRAxQw2mQBxMZY4" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
 
 Nadir çiçeklerin özlerinden elde edilen bu yapraklar, doğru oranlarda karıştırıldığında Nimloth’un en saf renklerini ortaya çıkarır.
 
 Boyaların üretimi için <mark style="color:red;">**Dye Creator Tool**</mark> veya tailor vendorlarda yer alan <mark style="color:red;">**Dye Cabinet**</mark>'ı kullanabilirsiniz.
 
-Dye Creator Toolç, Provisioner Vendor tarafından 299.000 altın karşılığında satılmaktadır.
+Dye Creator Tool, Provisioner Vendor tarafından 299.000 altın karşılığında satılmaktadır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/sNBer1A36tYnzW38u09oaoqtxD7aJ3liYWBf3Uub.png)
 
@@ -126,7 +126,7 @@ Dye Creator Toolç, Provisioner Vendor tarafından 299.000 altın karşılığı
 
 Her iki eşyaya çift tıklayarak üretim menüsünü açabilirsiniz.
 
-Karşınıza gelen ekranda 8 farklı Rare Dye tipi görüntülenir.
+Karşınıza gelen ekranda <mark style="color:red;">**8 farklı**</mark> Rare Dye tipi görüntülenir.
 
 <figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
@@ -166,7 +166,7 @@ Mor boya üretimi için 600 Bluebells + 600 Rose yaprağı gerekir.
 
 ### Tier 2 – Zengin Tonlar
 
-En parlak ve özel tonları içerir.
+Daha parlak ve özel tonları içerir.
 
 Bu seviyede üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) adı verilen özel bir plana da sahip olmaları gerekir.
 
@@ -178,23 +178,33 @@ Yaprak kombinasyonu mantığı Tier 3 ve Tier 2 ile aynıdır.
 
 <mark style="color:red;">**Blueprint olmadan Tier 2 boya üretimi mümkün değildir.**</mark>
 
+### **Tier 1 -** Eşsiz Tonlar
+
+Rare Dye sisteminin en üst seviyesini temsil eder. Bu seviyede, diğer Tier seviyelerine kıyasla <mark style="color:red;">**daha özel, canlı ve nadir renk tonları**</mark> elde edebilirsiniz.
+
+Tier 1 boya üretmek isteyen oyuncuların yalnızca yaprak değil, aynı zamanda [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) adı verilen özel bir plana da sahip olmaları gerekir.
+
+Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
+
+Tier 1 boya üretimi için toplam <mark style="color:red;">**4800 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerekmektedir.
+
+Yaprak kombinasyonu, Tier 2 ve Tier 3 boyalarda kullanılan sistemle benzer şekilde çalışır.
+
+<mark style="color:red;">**Blueprint olmadan Tier 1 boya üretimi mümkün değildir.**</mark>
+
 ### Görsel Önizleme Menüsü
 
-Oyuncular Cloth Dye menüsünü açtıklarında karşılarına bir karakter modeli çıkar.
+Cloth Dye menüsünü açtığınızda karşınıza bir karakter modeli çıkar.
 
-Karakter üzerinde seçilen renkler **gerçek zamanlı olarak gösterilir**, böylece oyuncular üretimden önce rengin kıyafet üzerindeki görünümünü görebilirler.
+Karakter üzerinde seçilen renkler <mark style="color:red;">**gerçek zamanlı olarak gösterilir**</mark>, böylece oyuncular üretimden önce rengin kıyafet üzerindeki görünümünü görebilirler.
 
 Bu önizleme ekranında:
 
-**5 farklı şapka,**
+6 farklı şapka,6 farklı kıyafet ve 4 farklı bot seçeneği bulunur.
 
-**5 farklı kıyafet,**
+Sağ ve sol ok butonları kullanılarak farklı kıyafet kombinasyonları arasında geçiş yapabilirsiniz.
 
-**4 farklı bot** seçeneği bulunur.
-
-Sağ ve sol ok butonları kullanılarak farklı kıyafet kombinasyonları arasında geçiş yapılabilir.
-
-Oyuncu istediği renk tonunu seçip, “Boyayı Üret” butonuna tıklayarak üretim işlemini başlatır.
+İstediğiniz renk tonunu seçip, <mark style="color:red;">**“Boyayı Üret”**</mark> butonuna tıklayarak üretim işlemini başlatabilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/g8cyzYF6NO7Hx8OxrvZP9MgE1iJ8RpKZaSf0In7Q.png)
 
