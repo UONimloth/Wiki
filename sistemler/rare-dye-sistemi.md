@@ -134,11 +134,9 @@ Karşınıza gelen ekranda <mark style="color:red;">**8 farklı**</mark> Rare Dy
 
 İlk üretim türü Cloth Dye’dır.
 
-Bu boya türü, kumaş bazlı eşyalar üzerinde kullanılmak üzere tasarlanmıştır ve toplamda <mark style="color:red;">**25 farklı renk seçeneği**</mark> sunar.
+Bu boya türü, kumaş bazlı eşyalar üzerinde kullanılmak üzere tasarlanmıştır ve toplamda <mark style="color:red;">**25 farklı renk**</mark> seçeneği sunar.
 
 Üretilen Cloth Dye'lar <mark style="color:red;">**10 şarja**</mark> sahiptir.
-
-Bu renkler 4 ayrı seviyeye (Tier) ayrılmıştır:
 
 ### Tier 4 – Temel Renkler
 
@@ -220,9 +218,9 @@ Sağ ve sol ok butonları kullanılarak farklı kıyafet kombinasyonları arası
 
 Leather Dye’lar da toplamda <mark style="color:red;">**21 farklı renkten**</mark> oluşur. Üretim mantığı, gerekli malzeme türleri ve miktarları bakımından birebir aynı şekilde çalışır.
 
-Üretilen Leather Dye'lar <mark style="color:red;">**20 şarja**</mark> sahiptir.
-
 Ancak bu boyalar yalnızca deri türü eşyalar üzerinde kullanılabilir.
+
+Üretilen Leather Dye'lar <mark style="color:red;">**20 şarja**</mark> sahiptir.
 
 ### Tier 4 – Temel Renkler
 
@@ -392,6 +390,16 @@ House Dye, oyuncuların sahip oldukları evleri kişisel zevklerine göre renkle
 
 Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların farklı oranlarda karıştırılmasıyla üretilir.
 
+Üretilen House Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
+
+### Tier 4 – Temel Renkler
+
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+
+### Tier 3 – Doygun Renkler
+
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
 Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
@@ -400,20 +408,22 @@ Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="
 
 House Dye menüsünde oyuncular, 6 farklı ev modelinden birini seçebilir.
 
-Seçilen ev tipi ve boya rengi birleştirilerek, boyanın ev üzerinde nasıl duracağı doğrudan görüntülenebilir.
+Seçilen ev tipi ve boya rengi birleştirilerek, boyanın ev üzerinde nasıl duracağı doğrudan görüntüleyebilirsiniz.
 
-Bu önizleme sayesinde üretim veya uygulama yapmadan önce istedikleri rengin ev tasarımına nasıl uyum sağladığını kolayca değerlendirebilirsiniz.
+Bu önizleme sayesinde üretim veya uygulama yapmadan önce istediğiniz rengin ev tasarımına nasıl uyum sağladığını kolayca değerlendirebilirsiniz.
 
 <mark style="color:red;">**Not: Görseller temsilidir, oyun içerisinde ufak değişiklikler gösterebilir**</mark>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/EVaBwwvl3fi3RodfKka5YKhBCxdtiEXYUHf2CAOW.png)
+<figure><img src="../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/0eFtCnzTW7pfOXRw34TNcwrriB9mHuTVopVejyAC.png)
+<figure><img src="../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/R8Zbg3ReB0YeZIsaFh3FkXfDFVKVKdtZYC0kCg2E.png)
+<figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/house dye.gif" alt=""><figcaption></figcaption></figure>
 
 ### Ev Üzerinden Uygulama
 
-Ev sistemindeki **Ayarlar** sekmesinde bulunan **Boyalar** butonu aracılığıyla, sahip olunan boyalar doğrudan uygulanabilir.
+Ev sistemindeki <mark style="color:red;">**Ayarlar**</mark> sekmesinde bulunan [<mark style="color:red;">Boyalar</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/ev-sistemi#boyalar-sekmesi) butonu aracılığıyla, sahip olunan boyalar doğrudan uygulanabilir.
 
-Bu menü üzerinden oyuncular hem mevcut renkleri ev üzerinde önizleyebilir, hem de beğendikleri rengi tek tıklamayla evlerine uygulayabilirler.
+Bu menü üzerinden hem mevcut renkleri ev üzerinde önizleyebilir, hem de beğendiğiniz rengi tek tıklamayla evinize uygulayabilirsiniz.
