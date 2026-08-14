@@ -136,6 +136,8 @@ Karşınıza gelen ekranda <mark style="color:red;">**8 farklı**</mark> Rare Dy
 
 Bu boya türü, kumaş bazlı eşyalar üzerinde kullanılmak üzere tasarlanmıştır ve toplamda <mark style="color:red;">**25 farklı renk seçeneği**</mark> sunar.
 
+Üretilen Cloth Dye'lar <mark style="color:red;">**10 şarja**</mark> sahiptir.
+
 Bu renkler 4 ayrı seviyeye (Tier) ayrılmıştır:
 
 ### Tier 4 – Temel Renkler
@@ -180,9 +182,9 @@ Yaprak kombinasyonu mantığı Tier 3 ve Tier 2 ile aynıdır.
 
 Rare Dye sisteminin en üst seviyesini temsil eder. Bu seviyede, diğer Tier seviyelerine kıyasla <mark style="color:red;">**daha özel, canlı ve nadir renk tonları**</mark> elde edebilirsiniz.
 
-Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) de gerekmektedir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
+Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) nadiren elde edilir.
 
 Tier 1 boya üretimi için toplam <mark style="color:red;">**4800 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerekmektedir.
 
@@ -218,6 +220,8 @@ Sağ ve sol ok butonları kullanılarak farklı kıyafet kombinasyonları arası
 
 Leather Dye’lar da toplamda <mark style="color:red;">**21 farklı renkten**</mark> oluşur. Üretim mantığı, gerekli malzeme türleri ve miktarları bakımından birebir aynı şekilde çalışır.
 
+Üretilen Leather Dye'lar <mark style="color:red;">**20 şarja**</mark> sahiptir.
+
 Ancak bu boyalar yalnızca deri türü eşyalar üzerinde kullanılabilir.
 
 ### Tier 4 – Temel Renkler
@@ -226,7 +230,7 @@ Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200**</mark>**&#x20;yaprak** ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
 
 ### Tier 2 – Zengin Tonlar
 
@@ -266,6 +270,8 @@ Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur 
 
 Boyalar yalnızca Furniture (mobilya) türündeki eşyalar üzerinde kullanılabilir.
 
+Üretilen Furniture Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
+
 ### Tier 4 – Temel Renkler
 
 Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
@@ -274,25 +280,27 @@ Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 
 
 Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
 
-Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) de gerekmektedir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
+Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
 
-### Görsel Önizleme Menüsü
+### Görsel Önizleme ve Üretim
 
-Furniture Dye sisteminde, renkleri üretmeden önce bu renklerin mobilyalar üzerinde nasıl görüneceğini test edebilirlersiniz.
+Furniture Dye sisteminde, renkleri üretmeden önce bu renklerin mobilyalar üzerinde nasıl görüneceğini test edebilirsiniz.
 
 Bu menüde toplam 5 farklı mobilya modeli yer alır.
 
-Bu modellerden birini seçerek ilgili rengi uygular ve boyamanın eşyada nasıl bir ton ve doku oluşturduğunu doğrudan görebilirlersiniz.
+Bu modellerden birini seçerek ilgili rengi uygular ve boyamanın eşyada nasıl bir ton ve doku oluşturduğunu doğrudan görebilirsiniz.
 
-Bu sayede üretim veya uygulama yapmadan önce hangi rengin hangi mobilyada daha iyi durduğunu kolayca belirleyebilirlersiniz.
+Bu sayede üretim veya uygulama yapmadan önce hangi rengin hangi mobilyada daha iyi durduğunu kolayca belirleyebilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/TGrMKJe1mU8azZlQ9uicAqLUllmbNJLlpvo0JGGq.png)
+<figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/7U3cyi2Sy2BXwTlTWiugRI7RimE6qFdF9lTsf06N.png)
+<figure><img src="../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/4loiukRAbsA50cIEer3PluI897Q22BMlRNoCaXHe.png)
+<figure><img src="../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/furniture dye.gif" alt=""><figcaption></figcaption></figure>
 
 ## Golem Dye
 
@@ -300,25 +308,29 @@ Golem Dye, oyuncuların kendi ürettikleri mekanik golemleri kişiselleştirmele
 
 Bu boyalar yalnızca oyuncu yapımı golemler üzerinde kullanılabilir; diğer yaratık veya mekanik varlıklar üzerinde etkili değildir.
 
-Toplamda **14 farklı** renk seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların özel kombinasyonlarıyla üretilir.
+Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların özel kombinasyonlarıyla üretilir.
 
-**Tier 3 boyalar**, klasik ve sade tonlardan oluşur, üretimi için **600 yaprak** ve 80.0 Alchemy yeteneği gerektirir.
+Üretilen Golem Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
 
-**Tier 2 boyalar**, daha derin ve doygun renklerden oluşur, üretimi için **1200 yaprak** ve 90.0 Alchemy yeteneği gerektirir.
+### Tier 4 – Temel Renkler
 
-Üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca **Blueprint** adı verilen özel bir plana da sahip olmaları gerekir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
 
-Üretim için gereken blueprint’ler, [Dungeon Chest](https://uo-nimloth.net/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
+### Tier 3 – Doygun Renkler
 
-**Not: Üretilen Golem Dye tek kullanımlıktır.**
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
+
+Blueprint'ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) nadiren elde edilir.
 
 ### Görsel Önizleme Menüsü
 
-Golem Dye menüsünde oyuncular, 14 farklı rengi önizleyebilir.
+Golem Dye menüsünde, 14 farklı rengi önizleyebilirsiniz.
 
-Renklerden birine tıkladıklarında, seçilen boya golemin modeline anlık olarak uygulanır ve rengin yüzey üzerindeki etkisi gösterilir.
+Renklerden birine tıkladığınızda, seçilen boya golemin modeline anlık olarak uygulanır ve rengin yüzey üzerindeki etkisi gösterilir.
 
-Bu sistem sayesinde oyuncular, üretim veya uygulama yapmadan önce istedikleri rengi doğrudan kendi golemleri üzerinde nasıl duracağını görebilirler.
+Bu sayede üretim veya uygulama yapmadan önce istediğiniz rengin golem üzerinde nasıl duracağını görüntüleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/5TE0kYQjuzGg7BWXGOAyEFgjZmPnk9mA3Mn5ibsF.png)
 
