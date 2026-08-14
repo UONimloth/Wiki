@@ -80,15 +80,15 @@ Ancak kullanılan Sickle’ın kalitesi, hem toplanan yaprak miktarını hem de 
 
 <mark style="color:red;">**Sickle**</mark>**:** Standart toplama verimi sağlar.
 
-[<mark style="color:red;">**Silver Sickle**</mark>](../esyalar/uretimtoplayici/silver-sickle.md)**:** Toplanan yaprak miktarında 3-4 artış sağlar. Düşük bir oranda tohum düşme şansını artırır.
+[<mark style="color:red;">**Silver Sickle**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/silver-sickle)**:** Toplanan yaprak miktarında 3-4 artış sağlar. Düşük bir oranda tohum düşme şansını artırır.
 
-[<mark style="color:red;">**Gold Sickle**</mark>](../esyalar/uretimtoplayici/gold-sickle.md)**:** Toplanan yaprak miktarında 4-6 artış sağlar. Yüksek bir oranda tohum düşme şansını artırır.
+[<mark style="color:red;">**Gold Sickle**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-sickle)**:** Toplanan yaprak miktarında 4-6 artış sağlar. Yüksek bir oranda tohum düşme şansını artırır.
 
 Daha kaliteli bir Sickle, hem doğadan daha fazla ürün elde etmenizi hem de çiçeklerin yaşam döngüsüne dokunmanızı sağlar.
 
 ### Farming Yeteneği Etkisi
 
-Toplama işlemi için [<mark style="color:red;">**Farming**</mark>](../yetenekler/farming.md) yeteneği zorunlu değildir, ancak bu yeteneğe sahipseniz doğadan daha fazla yaprak toplayabilirsiniz.
+Toplama işlemi için [<mark style="color:red;">**Farming**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/farming) yeteneği zorunlu değildir, ancak bu yeteneğe sahipseniz doğadan daha fazla yaprak toplayabilirsiniz.
 
 Ayrıca, Farming seviyesi arttıkça <mark style="color:red;">**tohum bulma olasılığı**</mark> da yükselir.
 
@@ -96,7 +96,7 @@ Yüksek Farming seviyesi, çiçeklerin yapısını daha iyi anlamayı ve toplama
 
 ### Tohum Düşürme ve Ekim Mekaniği
 
-Eğer [<mark style="color:red;">**Gatherer Mastery**</mark>](gatherer-mastery-sistemi.md) seviyesiniz 14'ün üzerindeyse, çiçek toplarken nadir bir şansla o çiçeğe ait tohum elde edebilirsiniz.
+Eğer [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi) seviyesiniz 14'ün üzerindeyse, çiçek toplarken nadir bir şansla o çiçeğe ait tohum elde edebilirsiniz.
 
 Bu şans, aşağıdaki faktörlerle birlikte artar:
 
@@ -168,9 +168,9 @@ Mor boya üretimi için 600 Bluebells + 600 Rose yaprağı gerekir.
 
 Daha parlak ve özel tonları içerir.
 
-Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) de gerekmektedir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
+Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) nadiren elde edilir.
 
 Tier 1 boyalar için toplam <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerekmektedir.
 
@@ -216,19 +216,17 @@ Sağ ve sol ok butonları kullanılarak farklı kıyafet kombinasyonları arası
 
 ## Leather Dye
 
-Tıpkı Cloth Dye sisteminde olduğu gibi, Leather Dye’lar da toplamda **21 farklı renkten** oluşur. Üretim mantığı, gerekli malzeme türleri ve miktarları bakımından birebir aynı şekilde çalışır.
+Leather Dye’lar da toplamda <mark style="color:red;">**21 farklı renkten**</mark> oluşur. Üretim mantığı, gerekli malzeme türleri ve miktarları bakımından birebir aynı şekilde çalışır.
 
 Ancak bu boyalar yalnızca deri türü eşyalar üzerinde kullanılabilir.
 
-**Nordomir ve Dragonic gibi özel materyallerden üretilen zırhlar boyanamaz.**
-
 ### Tier 3 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için **600 yaprak** ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
 
 ### Tier 2 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için **1200 yaprak** ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200**</mark>**&#x20;yaprak** ve 90.0 Alchemy yeteneği gerektirir.
 
 ### Tier 1 – Zengin Tonlar
 
