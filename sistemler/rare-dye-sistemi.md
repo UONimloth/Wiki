@@ -284,7 +284,7 @@ Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;"
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
+Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) elde edilir.
 
 ### Görsel Önizleme ve Üretim
 
@@ -338,11 +338,13 @@ Bu sayede üretim veya uygulama yapmadan önce istediğiniz rengin golem üzerin
 
 İstediğiniz renk tonunu seçip, <mark style="color:red;">**“Boyayı Üret”**</mark> butonuna tıklayarak üretim işlemini başlatabilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/5TE0kYQjuzGg7BWXGOAyEFgjZmPnk9mA3Mn5ibsF.png)
+<figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lehap5f22d0irIOpxExRMqZmAFt1OdKpTFRnPOi4.png)
+<figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/DSp7mXy4qbtWqUtysVVojOM6KJKLYcxttS2T5NdK.png)
+<figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/golem dye.gif" alt=""><figcaption></figcaption></figure>
 
 ## Ship Dye
 
@@ -352,55 +354,57 @@ Bu boyalar yalnızca <mark style="color:red;">**Paintable(Boyanabilir)**</mark> 
 
 Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların özel kombinasyonlarıyla üretilir.
 
-**Tier 3 boyalar**, klasik ve sade tonlardan oluşur, üretimi için **600 yaprak** ve 80.0 Alchemy yeteneği gerektirir.
+Üretilen Ship Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
 
-**Tier 2 boyalar**, daha derin ve doygun renklerden oluşur, üretimi için **1200 yaprak** ve 90.0 Alchemy yeteneği gerektirir.
+### Tier 4 – Temel Renkler
 
-Üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca **Blueprint** adı verilen özel bir plana da sahip olmaları gerekir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
 
-Üretim için gereken blueprint’ler, [Hazine sisteminden](https://uo-nimloth.net/wiki/sistemler/hazine-sistemi) elde edilir.
+### Tier 3 – Doygun Renkler
 
-**Not: Üretilen Ship Dye tek kullanımlıktır.**
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
+
+Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) elde edilir.
 
 ### Görsel Önizleme Menüsü
 
-Ship Dye menüsünde oyuncular, 14 farklı rengi tek tek seçerek gemilerinin bu renklerle nasıl görüneceğini önizleyebilirler.
+Ship Dye menüsünde, 14 farklı rengi tek tek seçerek gemilerinin bu renklerle nasıl görüneceğini önizleyebilirsiniz.
 
-Ayrıca menüde bulunan “İleri” ve “Geri” butonları yardımıyla aynı rengin hem Ship hem de Sloop tipindeki gemilerdeki görünümünü karşılaştırabilirler.
+Ayrıca menüde bulunan “İleri” ve “Geri” butonları yardımıyla aynı rengin hem Ship hem de Sloop tipindeki gemilerdeki görünümünü karşılaştırabilirsiniz.
 
-Bu sayede oyuncular, üretim veya uygulama yapmadan önce tercih ettikleri rengin gemilerinde nasıl duracağını kolayca görebilirler.
+Bu sayede üretim veya uygulama yapmadan önce tercih ettiğiniz rengin gemilerinde nasıl duracağını kolayca görüntüleyebilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rXQmLbnvSBhxFLvlRT1GL9UH0pfPvQNJG6vjx36F.png)
+İstediğiniz renk tonunu seçip, <mark style="color:red;">**“Boyayı Üret”**</mark> butonuna tıklayarak üretim işlemini başlatabilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/zMY8bcIsYFeB8ZNfHkjrYloUIfXKIGeJD3tpK9zI.png)
+<figure><img src="../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/q4O9UBGI4XWXXi8lsdIGALtmlak4d7UysmoMPaeJ.png)
+<figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ship dye.gif" alt=""><figcaption></figcaption></figure>
 
 ## House Dye
 
 House Dye, oyuncuların sahip oldukları evleri kişisel zevklerine göre renklendirebilmelerini sağlayan özel bir boyama sistemidir.
 
-Toplamda **14 farklı** renk seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların farklı oranlarda karıştırılmasıyla üretilir.
+Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların farklı oranlarda karıştırılmasıyla üretilir.
 
-**Tier 3 boyalar**, klasik ve sade tonlardan oluşur, üretimi için **600 yaprak** ve 80.0 Alchemy yeteneği gerektirir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-**Tier 2 boyalar**, daha derin ve doygun renklerden oluşur, üretimi için **1200 yaprak** ve 90.0 Alchemy yeteneği gerektirir.
-
-Üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca **Blueprint** adı verilen özel bir plana da sahip olmaları gerekir.
-
-Üretim için gereken blueprint’ler, [Dungeon Chest](https://uo-nimloth.net/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
-
-**Not: Üretilen House Dye tek kullanımlıktır.**
+Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
 
 ### Görsel Önizleme Menüsü
 
-House Dye menüsünde oyuncular, **6 farklı ev modelinden** birini seçebilir.
+House Dye menüsünde oyuncular, 6 farklı ev modelinden birini seçebilir.
 
 Seçilen ev tipi ve boya rengi birleştirilerek, boyanın ev üzerinde nasıl duracağı doğrudan görüntülenebilir.
 
-Bu önizleme sayesinde oyuncular, üretim veya uygulama yapmadan önce istedikleri rengin ev tasarımına nasıl uyum sağladığını kolayca değerlendirebilirler.
+Bu önizleme sayesinde üretim veya uygulama yapmadan önce istedikleri rengin ev tasarımına nasıl uyum sağladığını kolayca değerlendirebilirsiniz.
 
-**Not: Görseller temsilidir, oyun içerisinde ufak değişiklikler gösterebilir**
+<mark style="color:red;">**Not: Görseller temsilidir, oyun içerisinde ufak değişiklikler gösterebilir**</mark>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/EVaBwwvl3fi3RodfKka5YKhBCxdtiEXYUHf2CAOW.png)
 
