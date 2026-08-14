@@ -220,75 +220,73 @@ Leather Dye’lar da toplamda <mark style="color:red;">**21 farklı renkten**</m
 
 Ancak bu boyalar yalnızca deri türü eşyalar üzerinde kullanılabilir.
 
-### Tier 3 – Temel Renkler
+### Tier 4 – Temel Renkler
 
 Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
 
-### Tier 2 – Doygun Renkler
+### Tier 3 – Doygun Renkler
 
 Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200**</mark>**&#x20;yaprak** ve 90.0 Alchemy yeteneği gerektirir.
 
-### Tier 1 – Zengin Tonlar
+### Tier 2 – Zengin Tonlar
 
-En parlak ve özel tonları içerir, üretimi için **2400 yaprak** ve 99.0 Alchemy yeteneği gerektirir.
+En parlak ve özel tonları içerir, üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerektirir.
 
-Üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca **Blueprint** adı verilen özel bir plana da sahip olmaları gerekir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Üretim için gereken blueprint’ler, [Dungeon Chest](https://uo-nimloth.net/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
+Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
 
 ### Görsel Önizleme Menüsü
 
-Leather Dye sisteminde, oyuncular üretmeyi düşündükleri veya mevcut boyalarını kullanmak istedikleri renkleri, önizleme menüsü üzerinden doğrudan görüntüleyebilirler.
+Leather Dye sisteminde, üretmeyi düşündüğünüz veya mevcut boyalarını kullanmak istediğiniz renkleri, önizleme menüsü üzerinden doğrudan görüntüleyebilirsiniz.
 
-Bu menü, boyaların farklı deri tiplerinde ve ekipman parçalarında nasıl görüneceğini gösterir; böylece oyuncular renk kombinasyonlarını uygulamadan önce deneyebilirler.
+Bu menü, boyaların farklı deri tiplerinde ve ekipman parçalarında nasıl görüneceğini gösterir; böylece renk kombinasyonlarını uygulamadan önce deneyebilirsiniz.
 
 Bu önizleme ekranında:
 
-**3 farklı boyunluk veya kafalık türü,**
-
-**5 farklı üst vücut zırhı veya eldiven türü,**
-
-**2 farklı Leggings** seçeneği bulunur.
+3 farklı boyunluk veya kafalık türü, 5 farklı üst vücut zırhı veya eldiven türü ve 2 farklı Leggings seçeneği bulunur.
 
 Bu çeşitlilik sayesinde her renk, farklı materyal dokularında nasıl bir sonuç verdiğini gerçekçi biçimde yansıtır.
 
-Ayrıca önizleme menüsünde seçilen renkler, anında karakter modelinde gösterilir; oyuncular böylece hangi rengin nihai görünüm olarak daha iyi durduğunu kolayca değerlendirebilir.
+Ayrıca önizleme menüsünde seçilen renkler, anında karakter modelinde gösterilir; böylece hangi rengin nihai görünüm olarak daha iyi durduğunu kolayca değerlendirebilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mp1VzW0hPw9ydO7Q0EM35uNJw6Hu8oufJrecg23U.png)
+<figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/K4vQlBTHQ2towWHnP64DyARQkbraNDpg1jRI9nma.png)
+<figure><img src="../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SbF2axwgYvRmB1T6KZZwgXU5A76aRhLQcaIj7POZ.png)
+<figure><img src="../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/leather dye.gif" alt=""><figcaption></figcaption></figure>
 
 ## Furniture Dye
 
 Furniture Dye, oyuncuların ev eşyalarını ve dekoratif objelerini boyayabilmelerini sağlayan özel bir boyama sistemidir.
 
-Toplamda **14 farklı** renk seçeneği bulunur ve her biri farklı kombinasyonlardaki çiçek yapraklarından üretilir.
+Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur ve her biri farklı kombinasyonlardaki çiçek yapraklarından üretilir.
 
 Boyalar yalnızca Furniture (mobilya) türündeki eşyalar üzerinde kullanılabilir.
 
-### Tier 3 – Temel Renkler
+### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için **600 yaprak** ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
 
-### Tier 2 – Doygun Renkler
+### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için **1200 yaprak** ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
 
-Üretim yapmak isteyen oyuncuların yalnızca yaprak değil, ayrıca **Blueprint** adı verilen özel bir plana da sahip olmaları gerekir.
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](blueprint-sistemi.md) de gerekmektedir.
 
-Üretim için gereken blueprint’ler, [Hazine sisteminden](https://uo-nimloth.net/wiki/sistemler/hazine-sistemi) elde edilir.
+Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](hazine-sistemi.md) nadiren elde edilir.
 
 ### Görsel Önizleme Menüsü
 
-Furniture Dye sisteminde, oyuncular renkleri üretmeden önce bu renklerin mobilyalar üzerinde nasıl görüneceğini test edebilirler.
+Furniture Dye sisteminde, renkleri üretmeden önce bu renklerin mobilyalar üzerinde nasıl görüneceğini test edebilirlersiniz.
 
 Bu menüde toplam 5 farklı mobilya modeli yer alır.
 
-Oyuncular, bu modellerden birini seçerek ilgili rengi uygular ve boyamanın eşyada nasıl bir ton ve doku oluşturduğunu doğrudan görebilirler.
+Bu modellerden birini seçerek ilgili rengi uygular ve boyamanın eşyada nasıl bir ton ve doku oluşturduğunu doğrudan görebilirlersiniz.
 
-Bu sayede oyuncular, üretim veya uygulama yapmadan önce hangi rengin hangi mobilyada daha iyi durduğunu kolayca belirleyebilirler.
+Bu sayede üretim veya uygulama yapmadan önce hangi rengin hangi mobilyada daha iyi durduğunu kolayca belirleyebilirlersiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/TGrMKJe1mU8azZlQ9uicAqLUllmbNJLlpvo0JGGq.png)
 
