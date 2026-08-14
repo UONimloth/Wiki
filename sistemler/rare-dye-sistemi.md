@@ -172,7 +172,7 @@ Daha parlak ve özel tonları içerir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) nadiren elde edilir.
+Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi)  elde edilir.
 
 Tier 1 boyalar için toplam <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerekmektedir.
 
@@ -184,7 +184,7 @@ Rare Dye sisteminin en üst seviyesini temsil eder. Bu seviyede, diğer Tier sev
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) nadiren elde edilir.
+Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) elde edilir.
 
 Tier 1 boya üretimi için toplam <mark style="color:red;">**4800 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerekmektedir.
 
@@ -254,6 +254,8 @@ Bu çeşitlilik sayesinde her renk, farklı materyal dokularında nasıl bir son
 
 Ayrıca önizleme menüsünde seçilen renkler, anında karakter modelinde gösterilir; böylece hangi rengin nihai görünüm olarak daha iyi durduğunu kolayca değerlendirebilirsiniz.
 
+İstediğiniz renk tonunu seçip, <mark style="color:red;">**“Boyayı Üret”**</mark> butonuna tıklayarak üretim işlemini başlatabilirsiniz.
+
 <figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
@@ -294,6 +296,8 @@ Bu modellerden birini seçerek ilgili rengi uygular ve boyamanın eşyada nasıl
 
 Bu sayede üretim veya uygulama yapmadan önce hangi rengin hangi mobilyada daha iyi durduğunu kolayca belirleyebilirsiniz.
 
+İstediğiniz renk tonunu seçip, <mark style="color:red;">**“Boyayı Üret”**</mark> butonuna tıklayarak üretim işlemini başlatabilirsiniz.
+
 <figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
@@ -322,7 +326,7 @@ Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;"
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Blueprint'ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) nadiren elde edilir.
+Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
 
 ### Görsel Önizleme Menüsü
 
@@ -331,6 +335,8 @@ Golem Dye menüsünde, 14 farklı rengi önizleyebilirsiniz.
 Renklerden birine tıkladığınızda, seçilen boya golemin modeline anlık olarak uygulanır ve rengin yüzey üzerindeki etkisi gösterilir.
 
 Bu sayede üretim veya uygulama yapmadan önce istediğiniz rengin golem üzerinde nasıl duracağını görüntüleyebilirsiniz.
+
+İstediğiniz renk tonunu seçip, <mark style="color:red;">**“Boyayı Üret”**</mark> butonuna tıklayarak üretim işlemini başlatabilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/5TE0kYQjuzGg7BWXGOAyEFgjZmPnk9mA3Mn5ibsF.png)
 
@@ -342,9 +348,9 @@ Bu sayede üretim veya uygulama yapmadan önce istediğiniz rengin golem üzerin
 
 Ship Dye, denizciliğe adım atan oyuncuların gemilerini kendi zevklerine göre renklendirebilmelerini sağlayan özel bir boyama sistemidir.
 
-Bu boyalar yalnızca **Paintable(Boyanabilir)** özelliğine sahip gemilerde kullanılabilir.
+Bu boyalar yalnızca <mark style="color:red;">**Paintable(Boyanabilir)**</mark> özelliğine sahip gemilerde kullanılabilir.
 
-Toplamda **14 farklı** renk seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların özel kombinasyonlarıyla üretilir.
+Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur. Her biri, nadir çiçeklerden elde edilen yaprakların özel kombinasyonlarıyla üretilir.
 
 **Tier 3 boyalar**, klasik ve sade tonlardan oluşur, üretimi için **600 yaprak** ve 80.0 Alchemy yeteneği gerektirir.
 
