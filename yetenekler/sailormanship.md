@@ -80,11 +80,11 @@ Ancak dikkat edin: Eğer taranan gemi <mark style="color:red;">**Cloak bonusunu 
 
 Sailorman’s Spyglass, Blacksmith yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
-• 1 [<mark style="color:red;">**Glass**</mark>](../esyalar/uretimtoplayici/glass.md)
+• 1 [<mark style="color:red;">**Glass**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/glass)
 
 • 40 Shadow Ingot
 
-Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](../sistemler/blueprint-sistemi.md) gerekmektedir.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
 
 ## Blueprint Elde Etme
 
