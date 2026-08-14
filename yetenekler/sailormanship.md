@@ -60,7 +60,7 @@ Ne kadar uzun süre denizlerde vakit geçirirseniz, geminizi o kadar verimli kul
 
 Denizlerin derinliklerinde yol alırken, düşman gemilerini erkenden fark etmek bazen zafer ile yenilgi arasındaki farkı belirler.
 
-Sailorman’s Spyglass, bu amaca hizmet eden özel bir navigasyon aracıdır.
+Sailor’s Spyglass, bu amaca hizmet eden özel bir navigasyon aracıdır.
 
 Bu eşya sayesinde çevrenizdeki korsan gemilerini ve diğer oyuncuların gemilerini tespit edebilirsiniz.
 
@@ -76,12 +76,18 @@ Ancak dikkat edin: Eğer taranan gemi <mark style="color:red;">**Cloak bonusunu 
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/11XAjjC2t9TYAaEU3K0EPLm3WZrsfW9D7mM9FMaR.png)
 
-## Üretim Bilgisi
+## Üretim
 
-Sailorman’s Spyglass’ı üretmek için 1 Glass ve 40 Shadow Ingot gerekir.
+Sailorman’s Spyglass, Blacksmith yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
 
-Bu eşyanın blueprint’i, [<mark style="color:red;">Blacksmith Craft görevlerinden</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) rastgele ödül olarak elde edilebilir.
+• 1 Glass
 
-Ayrıca <mark style="color:red;">**Shipwright Vendorlarından**</mark> satın alınabilir.
+• 40 Shadow Ingot
 
-Sunucuda bulunan tüm gemiler ve özelliklerine [<mark style="color:red;">Gemiler</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/gemiler) sayfasından ulaşabilirsiniz.
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
+
+## Blueprint Elde Etme
+
+Sailor’s Spyglass üretimi için gereken Blueprint'i Blacksmith vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+
+Sunucuda bulunan tüm gemiler ve özelliklerine [<mark style="color:red;">**Gemiler**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/gemiler) sayfasından ulaşabilirsiniz.
