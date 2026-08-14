@@ -188,7 +188,7 @@ Tier 1 boya üretimi için toplam <mark style="color:red;">**4800 yaprak**</mark
 
 Yaprak kombinasyonu, Tier 2 ve Tier 3 boyalarda kullanılan sistemle benzer şekilde çalışır.
 
-### Görsel Önizleme Menüsü
+### Görsel Önizleme ve Üretim
 
 Cloth Dye menüsünü açtığınızda karşınıza bir karakter modeli çıkar.
 
@@ -236,7 +236,7 @@ Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="
 
 Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
 
-### Görsel Önizleme Menüsü
+### Görsel Önizleme ve Üretim
 
 Leather Dye sisteminde, üretmeyi düşündüğünüz veya mevcut boyalarını kullanmak istediğiniz renkleri, önizleme menüsü üzerinden doğrudan görüntüleyebilirsiniz.
 
