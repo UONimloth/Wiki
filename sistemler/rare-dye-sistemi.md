@@ -232,7 +232,7 @@ Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;"
 
 ### Tier 2 – Zengin Tonlar
 
-En parlak ve özel tonları içerir, üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerektirir.
+Daha parlak ve özel tonları içerir, üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -326,7 +326,7 @@ Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="
 
 Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
 
-### Görsel Önizleme Menüsü
+### Görsel Önizleme ve Üretim
 
 Golem Dye menüsünde, 14 farklı rengi önizleyebilirsiniz.
 
@@ -366,7 +366,7 @@ Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="
 
 Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) elde edilir.
 
-### Görsel Önizleme Menüsü
+### Görsel Önizleme ve Üretim
 
 Ship Dye menüsünde, 14 farklı rengi tek tek seçerek gemilerinin bu renklerle nasıl görüneceğini önizleyebilirsiniz.
 
@@ -404,7 +404,7 @@ Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="
 
 Üretim için gereken blueprint’ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) sisteminden elde edilir.
 
-### Görsel Önizleme Menüsü
+### Görsel Önizleme ve Üretim
 
 House Dye menüsünde oyuncular, 6 farklı ev modelinden birini seçebilir.
 
@@ -427,3 +427,47 @@ Bu önizleme sayesinde üretim veya uygulama yapmadan önce istediğiniz rengin 
 Ev sistemindeki <mark style="color:red;">**Ayarlar**</mark> sekmesinde bulunan [<mark style="color:red;">Boyalar</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/ev-sistemi#boyalar-sekmesi) butonu aracılığıyla, sahip olunan boyalar doğrudan uygulanabilir.
 
 Bu menü üzerinden hem mevcut renkleri ev üzerinde önizleyebilir, hem de beğendiğiniz rengi tek tıklamayla evinize uygulayabilirsiniz.
+
+## Hair Dye
+
+Hair Dye, oyuncuların karakterlerinin saç rengini değiştirebilmelerini sağlayan özel bir boyama sistemidir.
+
+Toplamda <mark style="color:red;">**21 farklı renk**</mark> seçeneği bulunur ve her biri farklı kombinasyonlardaki çiçek yapraklarından üretilir.
+
+Boyalar yalnızca <mark style="color:red;">**saç üzerinde**</mark> kullanılabilir. Kullanıldığında karakterinizin mevcut saç rengini seçtiğiniz renkle değiştirir.
+
+Üretilen Hair Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
+
+### Tier 4 – Temel Renkler
+
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+
+### Tier 3 – Doygun Renkler
+
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
+
+Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) elde edilir.
+
+### Tier 2 – Zengin Tonlar
+
+Daha parlak ve özel tonları içerir. Üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerekmektedir.
+
+Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
+
+Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) elde edilir.
+
+### Görsel Önizleme ve Üretim
+
+Hair Dye menüsünde oyuncular, <mark style="color:red;">**9 farklı saç modelinden**</mark> birini seçebilir.
+
+Seçilen saç modeli ve boya rengi birleştirilerek, boyanın karakter üzerinde nasıl görüneceği doğrudan görüntüleyebilirsiniz.
+
+Bu önizleme sayesinde boya uygulamadan önce istediğiniz rengin farklı saç modellerinde nasıl göründüğünü kolayca değerlendirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
