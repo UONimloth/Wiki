@@ -1,7 +1,5 @@
 # Dungeon Chest Sistemi
 
-![Nimloth Logo](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rtM86SuHG0oJZIX8pfBBHNFswZLBDk39SoQQAl2o.png)
-
 Sosaria’nın en derin zindanlarında, karanlıkların içinde saklı hazineler seni bekliyor!
 
 Dungeon Chest Sistemi sayesinde artık zindanlarda rastgele beliren özel sandıkları keşfedebilir, içlerindeki nadir ganimetlere ulaşabilirsin.

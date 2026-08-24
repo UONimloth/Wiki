@@ -1,7 +1,5 @@
 # Hazine Sistemi
 
-![Nimloth Logo](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/3JjYCFyR5FPpXoCsH4aYCRH3xQOitUPcLrU9Wghy.png)
-
 Sosaria’nın denizlerinde ve yer altı madenlerinde, maceracıları bekleyen saklı hazineler var!
 
 Hazine Sistemi sayesinde, denizlerden ağ ile yakaladığınız <mark style="color:red;">**Sos Bottle**</mark>’lar veya madenlerden çıkan <mark style="color:red;">**Treasure Container**</mark>'lar, çantanızda bir hazine haritasına dönüşebilir.
