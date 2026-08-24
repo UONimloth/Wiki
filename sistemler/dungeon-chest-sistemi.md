@@ -52,17 +52,17 @@ Patlayan tuzaklar yalnızca hafif hasar verir, ancak dikkatsiz davranırsanız b
 
 • 10.000 - 15.000 Gold
 
-• %50 şansla Defence, Guarding veya Hardening Mage Robe
+• %50 şansla Defence, Guarding veya Hardening [<mark style="color:red;">**Magical Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/magical-robe)
 
 • %33 şansla +6 veya +9 Magical Weapon
 
-• %33 şansla Invul Studded Armor parçası
+• %33 şansla [<mark style="color:red;">**Invul Studded Armor**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/magical-studded) parçası
 
-• %25 şansla Resurrection Stone
+• %25 şansla [<mark style="color:red;">**Resurrection Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/resurrect-options#resurrection-stone-nedir-ve-nasil-kullanilir)
 
-• %14 şansla Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+• %14 şansla [<mark style="color:red;">**Magic Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-cloth), [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal), [<mark style="color:red;">**Wizard Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-cloth) veya [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
 
-• %10 şansla Armor Bundler
+• %10 şansla [<mark style="color:red;">**Armor Bundler**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/armor-bundler)
 
 ## L2 Sandıklar
 
@@ -84,21 +84,21 @@ Patlayan tuzaklar orta düzeyde hasar verir.
 
 • 18.000 - 23.000 Gold
 
-• %50 şansla Hardening veya Fortification Mage Robe
+• %50 şansla Hardening veya Fortification [<mark style="color:red;">**Magical Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/magical-robe)
 
 • %50 şansla +9 Magical Weapon
 
-• %50 şansla Resurrection Stone
+• %50 şansla [<mark style="color:red;">**Resurrection Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/resurrect-options#resurrection-stone-nedir-ve-nasil-kullanilir)
 
-• %50 şansla Invul Studded Armor parçası
+• %50 şansla [<mark style="color:red;">**Invul Studded Armor**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/magical-studded) parçası
 
-• %25 şansla Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+• %25 şansla [<mark style="color:red;">**Magic Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-cloth), [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal), [<mark style="color:red;">**Wizard Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-cloth) veya [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
 
-• %16 şansla Weapon Combiner
+• %16 şansla [<mark style="color:red;">**Weapon Combiner**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/weapon-combiner)
 
-• %14 şansla Leather Dye, Golem Dye, House Dye veya Beard Dye Blueprinti
+• %14 şansla [<mark style="color:red;">**Leather Dye, Golem Dye, House Dye veya Beard Dye**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/rare-dye-sistemi) [<mark style="color:red;">**Blueprinti**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)
 
-• %14 şansla Armor Bundler
+• %14 şansla [<mark style="color:red;">**Armor Bundler**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/armor-bundler)
 
 ## L3 Sandıklar
 
@@ -120,20 +120,20 @@ Başarısız olursanız, tuzak yüksek hasar verir ve birden fazla güçlü yara
 
 • 25.000 - 30.000 Gold
 
-• Fortification veya Invul Mage Robe
+• Fortification veya Invul [<mark style="color:red;">**Magical Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/magical-robe)
 
-• Resurrection Stone
+• [<mark style="color:red;">**Resurrection Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/resurrect-options#resurrection-stone-nedir-ve-nasil-kullanilir)
 
-• Invul Studded Armor parçası
+• [<mark style="color:red;">**Invul Studded Armor**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/magical-studded) parçası
 
 • %50 şansla +9 veya +12 Magical Weapon
 
-• %50 şansla Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+• %50 şansla [<mark style="color:red;">**Magic Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-cloth), [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal), [<mark style="color:red;">**Wizard Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-cloth) veya [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
 
-• %33 şansla Weapon Combiner
+• %33 şansla [<mark style="color:red;">**Weapon Combiner**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/weapon-combiner)
 
-• %20 şansla Armor Bundler
+• %20 şansla [<mark style="color:red;">**Armor Bundler**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/armor-bundler)
 
-• %20 şansla Leather Dye, Golem Dye, House Dye veya Beard Dye Blueprinti
+• %20 şansla [<mark style="color:red;">**Leather Dye, Golem Dye, House Dye veya Beard Dye**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/rare-dye-sistemi) [<mark style="color:red;">**Blueprinti**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)
 
-• %12 şansla Runebook Linker
+• %12 şansla [<mark style="color:red;">**Runebook Linker**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/runebook-linker)
