@@ -46,19 +46,23 @@ Patlayan tuzaklar yalnızca hafif hasar verir, ancak dikkatsiz davranırsanız b
 
 ## L1 Sandık İçeriği
 
-• 10.000 - 15.000 Gold
-
 • 3 - 5 Dragon Blood
 
-• Defence, Guarding veya Hardening Mage Robe
+• 3 - 5 Daemon Bone
 
-• **%33 şansla** +6 veya +9 Magical Weapon
+• 10.000 - 15.000 Gold
 
-• **%25 şansla** Resurrection Stone
+• %50 şansla Defence, Guarding veya Hardening Mage Robe
 
-• **%33 şansla** Invul Studded Armor parçası
+• %33 şansla +6 veya +9 Magical Weapon
 
-• **%15 şansla** Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+• %33 şansla Invul Studded Armor parçası
+
+• %25 şansla Resurrection Stone
+
+• %14 şansla Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+
+• %10 şansla Armor Bundler
 
 ## L2 Sandıklar
 
@@ -74,41 +78,47 @@ Patlayan tuzaklar orta düzeyde hasar verir.
 
 ## L2 Sandık İçeriği
 
-• 18.000 - 23.000 Gold
-
 • 4 - 6 Dragon Blood
 
-• Hardening veya Fortification Mage Robe
+• 4 - 6 Daemon Bone
 
-• **%50 şansla** +9 Magical Weapon
+• 18.000 - 23.000 Gold
 
-• **%50 şansla** Resurrection Stone
+• %50 şansla Hardening veya Fortification Mage Robe
 
-• **%50 şansla** Invul Studded Armor parçası
+• %50 şansla +9 Magical Weapon
 
-• **%25 şansla** Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+• %50 şansla Resurrection Stone
 
-• **%15 şansla** Weapon Combiner
+• %50 şansla Invul Studded Armor parçası
 
-• **%12 şansla** Leather Dye, Golem Dye veya House Dye Blueprinti
+• %25 şansla Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+
+• %16 şansla Weapon Combiner
+
+• %14 şansla Leather Dye, Golem Dye, House Dye veya Beard Dye Blueprinti
+
+• %14 şansla Armor Bundler
 
 ## L3 Sandıklar
 
-Zindanların 2. ve sonraki seviyelerinde yer alan L3 sandıklar, gerçek maceracıların hedefidir
+Zindanların 2. ve sonraki seviyelerinde yer alan L3 sandıklar, gerçek maceracıların hedefidir.
 
 Tuzakları zor seviyededir ve Remove Trap ile kaç hamlede çözüleceği gösterilmez.
 
-Tuzak başarıyla çözülürse sandığı güvenle açabilir, hiçbir koruyucu yaratık ile uğraşmak zorunda kalmazsın.
+Tuzak başarıyla çözülürse sandığı güvenle açabilir ve hiçbir koruyucu yaratık ile uğraşmak zorunda kalmazsınız.
 
-Başarısız olursan, tuzak yüksek hasar verir ve birden fazla güçlü yaratık sandığın etrafında belirir.
+Başarısız olursanız, tuzak yüksek hasar verir ve birden fazla güçlü yaratık sandığın etrafında belirir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/PZaHS8WRXVydVnbo3KyoLzpWBhD1YbyYsjMDuIpF.png)
 
 ## L3 Sandık İçeriği
 
-• 25.000 - 30.000 Gold
-
 • 6 - 10 Dragon Blood
+
+• 6 - 10 Daemon Bone
+
+• 25.000 - 30.000 Gold
 
 • Fortification veya Invul Mage Robe
 
@@ -116,10 +126,14 @@ Başarısız olursan, tuzak yüksek hasar verir ve birden fazla güçlü yaratı
 
 • Invul Studded Armor parçası
 
-• **%50 şansla** +9 veya +12 Magical Weapon
+• %50 şansla +9 veya +12 Magical Weapon
 
-• **%50 şansla** Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
+• %50 şansla Magic Cloth, Magic Crystal, Wizard Cloth veya Wizard Crystal
 
-• **%33 şansla** Weapon Combiner
+• %33 şansla Weapon Combiner
 
-• **%20 şansla** Leather Dye, Golem Dye veya House Dye Blueprinti
+• %20 şansla Armor Bundler
+
+• %20 şansla Leather Dye, Golem Dye, House Dye veya Beard Dye Blueprinti
+
+• %12 şansla Runebook Linker
