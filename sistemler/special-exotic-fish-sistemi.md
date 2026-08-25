@@ -1,39 +1,41 @@
 # Special & Exotic Fish Sistemi
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/BhXGgqEygtFR90WUH9sRg5ezkn0Q0MJGa0oXIGHB.png" 
-       alt="Nimloth Logo">
-</div>
+Sosaria’nın sularında artık çok daha fazla çeşitlilik var!
 
-<p>
+Yeni <mark style="color:red;">**Special**</mark> ve <mark style="color:red;">**Exotic**</mark> Fish türleri ile balıkçılık maceraları daha kazançlı ve heyecanlı hale geliyor.
 
+## Special Fish
 
-<p>Sosaria’nın sularında artık çok daha fazla çeşitlilik var!</p>
-<p>Yeni <strong style="color: #410000;">Special</strong> ve <strong style="color: #410000;">Exotic</strong> Fish türleri ile balıkçılık maceraları daha kazançlı ve heyecanlı hale geliyor.</p>
+Special Fish’ler, herhangi bir olta (Fishing Pole) ile tutulabilen özel balıklardır.
 
-<h2>Special Fish</h2>
-<p>Special Fish’ler, herhangi bir olta (Fishing Pole) ile tutulabilen özel balıklardır.</p>
-<p>Bu balıkları yakalayabilmek için <strong style="color: #410000;">Gatherer Mastery'nin 2. seviyesini tamamlamış</strong> olması gerekir.</p>
+Bu balıkları yakalayabilmek için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 3 olması gerekmektedir.
 
-<p>Her bir Special Fish, standart olarak <strong style="color: #410000;">1000 Gold</strong> değerindedir.</p>
-<p>Oyuncular bu balıkları:</p>
-<p>•	Pişirmeden Master Merchant’a satarak 1000 Gold kazanabilir,</p>
-<p>•	Veya deniz ticaret sistemine ekleyerek ticaret gelirlerini artırabilirler.</p>
-<p>Special Fish’ler stackable özellik taşır; yani aynı türden balıklar üst üste biriktirilebilir.</p>
-<p>Toplamda <strong style="color: #410000;">15 farklı Special Fish türü</strong> bulunmaktadır.</p>
-<p>Bu balıklar görünüm ve nadirlik bakımından farklı olsa da, aynı denizlerde ve benzer koşullarda yakalanabilirler.</p>
+Her bir Special Fish, standart olarak <mark style="color:red;">**1.000 Gold**</mark> değerindedir.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/98RLjFb01gCbZz7yc5qkaXYhOJq8HOJ8p7ej4dfH.png)
+Bu balıkları pişirmeden Master Merchant’a satarak 1.000 Gold kazanabilir veya deniz ticaret sistemine ekleyerek ticaret gelirlerini artırabilirsiniz.
 
-<h2>Exotic Fish</h2>
-<p>Exotic Fish’ler, standart balıklara kıyasla daha iri ve değerlidir. Yakalayabilmek için Oak veya Yew Pole kullanmanız gerekmektedir</p>
-<p>Bu oltaları kullanabilmek için <strong style="color: #410000;">Gatherer Mastery'nin 6. seviyesini tamamlamış</strong> olması gerekir.</p>
-<p>Bu Fishing Pole'ları kullanabilmek için <strong style="color: #410000;">Gatherer Mastery seviyesinin 7</strong> olması gerekir.</p>
-<p>Exotic Fish’lerin değeri <strong style="color: #410000;">ağırlıklarına göre değişir</strong> ve fiyatları <strong style="color: #410000;">10.000 – 20.000 Gold</strong> arasında değişkenlik gösterir.</p>
-<p>Bu balıklar yalnızca liman bölgelerinde yer alan <strong style="color: #410000;">Exotic Fish Vendor'a</strong> satılabilir.</p>
-<p>Toplamda 7 farklı <strong style="color: #410000;">Exotic Fish türü</strong> bulunmaktadır.</p>
-<p>Hem Special hem de Exotic Fish türleri yalnızca <strong style="color: #410000;">olta ile tutulabilir</strong>; ağ (Fishing Net) kullanılarak yakalanamazlar.</p>
+Special Fish’ler stackable özellik taşır; yani aynı türden balıklar üst üste biriktirilebilir.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SqjMQZ8AG7ZK0bnrBn45Yv7GfUUhCEIwiw7Cvk7V.png)
+Toplamda <mark style="color:red;">**20 farklı Special Fish türü**</mark> bulunmaktadır.
+
+Bu balıklar görünüm ve nadirlik bakımından farklı olsa da, aynı denizlerde ve benzer koşullarda yakalanabilirler.
+
+<figure><img src="../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+
+## Exotic Fish
+
+Exotic Fish’ler, standart balıklara kıyasla daha iri ve değerlidir. Yakalayabilmek için [<mark style="color:red;">**Oak Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/oak-fishing-pole) veya [<mark style="color:red;">**Yew Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/yew-fishing-pole) kullanmanız gerekmektedir
+
+Bu oltaları kullanabilmek için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 7 olması gerekmektedir.
+
+Exotic Fish’lerin değeri <mark style="color:red;">**ağırlıklarına göre değişir**</mark> ve fiyatları <mark style="color:red;">**10.000 – 20.000 Gold**</mark> arasında değişkenlik gösterir.
+
+Toplamda <mark style="color:red;">**9 farklı Exotic Fish türü**</mark> bulunmaktadır.
+
+<figure><img src="../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+
+Bu balıklar yalnızca liman bölgelerinde yer alan <mark style="color:red;">**Exotic Fish Trader'a**</mark> satılabilir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/4QKdHIEJwp225CVLXdZEtbDsermLjUasqpKCQDXE.png)
+
+Hem Special hem de Exotic Fish türleri yalnızca <mark style="color:red;">**olta ile tutulabilir**</mark>; ağ (Fishing Net) kullanılarak yakalanamazlar.
