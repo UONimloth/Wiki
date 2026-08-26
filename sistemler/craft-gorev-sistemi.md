@@ -32,7 +32,7 @@ Görev kapsamında o yeteneğe istinaden belirli eşyalar üretmeniz gerekecekti
 
 • Üretim sürecinizi görev aldıktan sonra başlatmalı ve belirtilen kriterlere uygun eşyaları oluşturmalısınız.
 
-Görev kriterlerine uygun eşyaları ürettikten sonra <mark style="color:red;">**"Eşya Ekle"**</mark> butonuna basarak hedefleme ekranını açabilirsiniz. Ardından ürettiğiniz eşyayı seçerek ilgili eşyayı Craft Quest Deed içerisine ekleyebilirsiniz.
+Görev kriterlerine uygun eşyaları ürettikten sonra <mark style="color:red;">**"Eşya Ekle"**</mark> butonuna basarak ürettiğiniz eşyayı seçtiğinizde ilgili eşyayı Craft Quest Deed içerisine ekleyebilirsiniz.
 
 Bu şekilde eklenen eşyalar görev ilerlemenize dahil edilir.
 
