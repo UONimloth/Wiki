@@ -32,13 +32,17 @@ Görev kapsamında o yeteneğe istinaden belirli eşyalar üretmeniz gerekecekti
 
 • Üretim sürecinizi görev aldıktan sonra başlatmalı ve belirtilen kriterlere uygun eşyaları oluşturmalısınız.
 
+Görev kriterlerine uygun eşyaları ürettikten sonra <mark style="color:red;">**"Eşya Ekle"**</mark> butonuna basarak hedefleme ekranını açabilirsiniz. Ardından ürettiğiniz eşyayı seçerek ilgili eşyayı Craft Quest Deed içerisine ekleyebilirsiniz.
+
+Bu şekilde eklenen eşyalar görev ilerlemenize dahil edilir.
+
 ### Premium Oyuncular İçin Otomatik Ekleme
 
 [<mark style="color:red;">**Premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) oyuncular, ürettikleri eşyaların görev deed'ine otomatik olarak eklenmesini sağlayan özel bir özelliğe sahiptir.
 
 Görev ekranının sol üst kısmında bulunan <mark style="color:red;">**otomatik ekleme toggle'ını**</mark> aktif hale getirerek bu özelliği kullanabilirsiniz.
 
-Özellik aktifken, görev kriterlerine uygun bir eşya ürettiğinizde eşya otomatik olarak ilgili <mark style="color:red;">**Craft Quest Deed**</mark> içerisine eklenir. Böylece her üretim sonrasında eşyayı manuel olarak görev deed'ine eklemeniz gerekmez.
+Özellik aktifken, görev kriterlerine uygun bir eşya ürettiğinizde eşya otomatik olarak ilgili Craft Quest Deed içerisine eklenir. Böylece her üretim sonrasında eşyayı manuel olarak görev deed'ine eklemeniz gerekmez.
 
 <figure><img src="../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
