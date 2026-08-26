@@ -98,7 +98,7 @@ Aile içi yardım ve kaynak paylaşımı bu sistem ile oldukça kolay!
 
 <figure><img src="../.gitbook/assets/hesap 4.gif" alt=""><figcaption></figcaption></figure>
 
-## Guildden Seç (Premium)
+### Guildden Seç (Premium)
 
 Bu yöntem ile üyesi olduğunuz guild içerisindeki başka bir üyeye doğrudan altın transferi gerçekleştirebilirsiniz.
 
@@ -114,7 +114,7 @@ Guild üyeleri arasındaki ekonomik dayanışmayı güçlendiren bu özellik, ö
 
 <figure><img src="../.gitbook/assets/hesap 5.gif" alt=""><figcaption></figcaption></figure>
 
-## Transfer Ücreti
+### Transfer Ücreti
 
 Altın transferleri hangi yöntemle yapılırsa yapılsın ücretlidir.
 
@@ -122,7 +122,7 @@ Her başarılı transfer işlemi tamamlandığında, hesabından otomatik olarak
 
 Bu ücret, sistemin güvenli ve hızlı bir şekilde çalışmasını sağlamak için alınır.
 
-## Transfer Bildirimi
+### Transfer Bildirimi
 
 Transfer işlemi tamamlandıktan sonra transfer yapılan oyuncu yapılan transfer ile ilgili bilgilendirme mesajı alacaktır.
 
