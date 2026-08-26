@@ -1,87 +1,129 @@
 # Banka Hesap Sistemi
 
-_Altınlarınızı şehir bankalarında güvenle saklayabilir ve istediğiniz zaman kolayca erişebilirsiniz._
+Paranızı güvenle saklamak, yönetmek ve dilediğiniz kişilere anında transfer etmek artık çok daha kolay! Banker vendor'a <mark style="color:red;">**"hesap"**</mark> veya <mark style="color:red;">**"hesabim"**</mark> yazdığınızda karşınıza Banka Hesap Sistemi açılır. Bu sistem sayesinde üç ana sekme üzerinden tüm bankacılık işlemlerinizi kolayca gerçekleştirebilirsiniz.
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/LZGU7R7TWPGRoZDn21r3QG5rDSJdCGwcDzlcN25N.png" 
-       alt="Nimloth Logo">
-</div>
+## Genel
 
-<p>
-<p>Paranızı güvenle saklamak, yönetmek ve dilediğiniz kişilere anında transfer etmek artık çok daha kolay! Banker vendor'a <strong style="color: #410000;">"hesap"</strong> veya <strong style="color: #410000;">"hesabim"</strong> yazdığınızda karşınıza Banka Hesap Sistemi açılır. Bu sistem sayesinde üç ana sekme üzerinden tüm bankacılık işlemlerinizi kolayca gerçekleştirebilirsiniz.</p>
+Bu sekmede Banka Hesap Sistemi hakkında temel tanıtım bilgilerine ulaşabilirsiniz. Aynı zamanda aktif banka hesabınızdaki mevcut altın miktarını ve hesap numaranızı görüntüleyebilirsiniz.
 
-<h2>Genel Sekmesi</h2>
-<p>Bu sekmede Banka Hesap Sistemi hakkında temel tanıtım bilgilerine ulaşabilirsiniz. Aynı zamanda aktif banka hesabınızdaki mevcut altın miktarını ve hesap numaranızı görüntüleyebilirsiniz.</p>
-<p>Bankacılık işlemlerine başlamadan önce hesabınızı kontrol etmek isterseniz, ilk uğramanız gereken yer burası!</p>
+Bankacılık işlemlerine başlamadan önce hesabınızı kontrol etmek isterseniz, ilk uğramanız gereken yer burası!
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/TnwvhzFzaXbR7GnGhvbwVQezVi5UKpsMtmkluA3t.png)
-<h2>Yatır/Çek Sekmesi</h2>
-<p>Bu sekme aracılığıyla şu işlemleri gerçekleştirebilirsiniz:</p>
-<p>•	<strong style="color: #410000;">Altın Yatırma:</strong> Bankanızdaki altınları doğrudan banka hesabınıza aktarabilirsiniz.</p>
-<p>•	<strong style="color: #410000;">Altın Çekme:</strong> Hesabınızdaki altınları bankanıza alabilirsiniz.</p>
-<p>•	<strong style="color: #410000;">Çek Yazma:</strong> Belirli bir miktar için çek oluşturabilirsiniz.</p>
-<p>•	<strong style="color: #410000;">Çek Bozdurma:</strong> Elinizdeki çekleri bozdurarak banka hesabınıza yatırabilirsiniz.</p>
-<p>Banka sisteminin temel işlemleri bu sekmede toplanmıştır, günlük ihtiyaçlarınız için ideal!</p>
+<figure><img src="../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/JVDqXjTVIVLjb9Ct66lAOYGljh6G8H4TLoz21QKa.png)
+## Yatır/Çek
 
-<h2>Transfer Sekmesi</h2>
-<p>Dostlarınıza ya da ticaret yaptığınız oyunculara altın göndermek mi istiyorsunuz? Transfer sekmesi bunun için tasarlandı!</p>
-<p>Bu sekmeden oyunculara 5 farklı yöntemle altın gönderebilirsiniz.</p>
+Bu sekme aracılığıyla şu işlemleri gerçekleştirebilirsiniz:
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wRWQRyGc6ajAtLq6GmK0vLdr98AwL8Ly6OJcPZMb.png)
-	
-<strong style="color: #410000;">İlk üç yöntem tüm oyuncular için erişilebilirken, son iki yöntem sadece premium oyunculara özeldir.</strong></p>
+• <mark style="color:red;">**Altın Yatırma:**</mark> Bankanızdaki altınları doğrudan banka hesabınıza aktarabilirsiniz.
 
-<h2>Hesap No ile Gönder</h2>
-<p>Bu yöntemde altın göndermek istediğiniz kişinin hesap numarasını girmeniz yeterlidir. İşlem şu şekilde ilerler:</p>
-<p>Hesap numarasını ilgili alana yazın ve <strong style="color: #410000;">Kontrol Et</strong> butonuna tıklayın.</p>
+• <mark style="color:red;">**Altın Çekme:**</mark> Hesabınızdaki altınları bankanıza alabilirsiniz.
+
+• <mark style="color:red;">**Çek Yazma:**</mark> Belirli bir miktar için çek oluşturabilirsiniz.
+
+• <mark style="color:red;">**Çek Bozdurma:**</mark> Elinizdeki çekleri bozdurarak banka hesabınıza yatırabilirsiniz.
+
+Banka sisteminin temel işlemleri bu sekmede toplanmıştır, günlük ihtiyaçlarınız için ideal!
+
+<figure><img src="../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/hesap main.gif" alt=""><figcaption></figcaption></figure>
+
+## Transfer
+
+Dostlarınıza ya da ticaret yaptığınız oyunculara altın göndermek mi istiyorsunuz? Transfer sekmesi bunun için tasarlandı!
+
+Bu sekmeden oyunculara 5 farklı yöntemle altın gönderebilirsiniz.
+
+<mark style="color:red;">**İlk üç yöntem tüm oyuncular için erişilebilirken, son iki yöntem sadece**</mark> [<mark style="color:red;">**premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) <mark style="color:red;">**oyunculara özeldir.**</mark>
+
+### Hesap No ile Gönder
+
+Bu yöntemde altın göndermek istediğiniz kişinin hesap numarasını girmeniz yeterlidir. İşlem şu şekilde ilerler:
+
+Hesap numarasını ilgili alana yazın ve <mark style="color:red;">**Kontrol Et**</mark> butonuna tıklayın.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Accppv5u5dfPGZuck1l6hXMug0cpNmBXUab4Eb2y.png)
 
-<p>Hesap numarası geçerliyse, ikinci bir ekrana yönlendirilirsiniz.</p>
-<p>Bu ekranda alıcının karakter adı ve diğer temel bilgileri görüntüleyebilirsiniz. Göndermek istediğiniz altın miktarını girip <strong style="color: #410000;">Gönder</strong> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.</p>
+Hesap numarası geçerliyse, ikinci bir ekrana yönlendirilirsiniz.
+
+Bu ekranda alıcının karakter adı ve diğer temel bilgileri görüntüleyebilirsiniz. Göndermek istediğiniz altın miktarını girip <mark style="color:red;">**Gönder**</mark> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/YHktTWgCNoFwhXHderVm2knun1oYwh6SLjtMmj86.png)
-<h2>Oyuncu Seçerek Gönder</h2>
-<p>Bu yöntemde doğrudan oyun dünyasında yanınızda bulunan bir oyuncuyu hedef alarak altın gönderebilirsiniz.</p>
-<p>Transfer sekmesinde <strong style="color: #410000;">Oyuncu Seçerek Transfer</strong> seçeneğini tıklayın.</p>
-<p>Ekranda bir hedef seçim aracı açılır.</p>
-<p>Kendiniz dışında bir oyuncuyu hedef aldığınızda, sistem sizi onay ekranına yönlendirir.</p>
-<p>Onay ekranında göndermek istediğiniz altın miktarını girip <strong style="color: #410000;">Gönder</strong> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.</p>
 
-<h2>Hesabımdaki Karakterlere Aktar</h2>
-<p>Bu yöntemle aynı hesap altında bulunan farklı karakterler arasında altın aktarımı yapabilirsiniz.</p>
-<p><strong style="color: #410000;">Hesabımdaki Karakterlere Aktar</strong> seçeneğine tıkladığınızda, hesabınızda bulunan diğer karakterlerin listelendiği bir ekran açılır.</p>
-<p>Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.</p>
-<p>Onay ekranında göndermek istediğiniz altın miktarını girip <strong style="color: #410000;">Gönder</strong> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.</p>
-<p>Bu yöntem, karakterleriniz arasında para aktarımı yapmanın en hızlı ve güvenli yoludur.</p>
+<figure><img src="../.gitbook/assets/hesap 1.gif" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ITSk4AHc2C6MBphJBiJRt49PFv9Od3o39EhsGU2Z.png)
+### Oyuncu Seçerek Gönder
 
-<h2>Aileden Seç (Premium)</h2>
-<p>Eğer bir aileye üye iseniz ve ailede sizden başka oyuncular da bulunuyorsa, bu yöntem ile onlara altın gönderebilirsiniz.</p>
-<p><strong style="color: #410000;">Aileden Seç</strong> seçeneğine tıkladığınızda, ailenizdeki diğer üyelerin listelendiği bir ekran açılır.</p>
-<p>Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.</p>
-<p>Onay ekranında göndermek istediğiniz altın miktarını girip <strong style="color: #410000;">Gönder</strong> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.</p>
-<p>Aile içi yardım ve kaynak paylaşımı bu sistem ile oldukça kolay!</p>
+Bu yöntemde doğrudan oyun dünyasında yanınızda bulunan bir oyuncuyu hedef alarak altın gönderebilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ogWTyBU0T2ER6BKEaowG7vN1BNAdXyTOg1pa65jW.png)
-<h2>Guildden Seç (Premium)</h2>
-<p>Bu yöntem ile üyesi olduğunuz guild içerisindeki başka bir üyeye doğrudan altın transferi gerçekleştirebilirsiniz.</p>
-<p><strong style="color: #410000;">Guildden Seç</strong> seçeneğine tıkladığınızda, bulunduğunuz guild’in aktif üyeleri listelenir.</p>
-<p>Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.</p>
-<p>Onay ekranında göndermek istediğiniz altın miktarını girip <strong style="color: #410000;">Gönder</strong> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.</p>
-<p>Guild üyeleri arasındaki ekonomik dayanışmayı güçlendiren bu özellik, özellikle lonca içi ticaret ve yardım sistemlerinde büyük kolaylık sağlar.</p>
+Transfer sekmesinde <mark style="color:red;">**Oyuncu Seçerek Transfer**</mark> seçeneğini tıklayın.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Y7H5RR3xkhaRU2EZlo8Jvw9ZigUS3QTdvBHL8sEc.png)
+Ekranda bir hedef seçim aracı açılır.
 
-<h2>Transfer Ücreti</h2>
-<p>Altın transferleri hangi yöntemle yapılırsa yapılsın ücretlidir.</p>
-<p>Her başarılı transfer işlemi tamamlandığında, hesabından otomatik olarak <strong style="color: #410000;">5.000 gp</strong> kesilir.</p>
-<p>Bu ücret, sistemin güvenli ve hızlı bir şekilde çalışmasını sağlamak için alınır.</p>
+Kendiniz dışında bir oyuncuyu hedef aldığınızda, sistem sizi onay ekranına yönlendirir.
 
-<h2>Transfer Bildirimi</h2>
-<p>Transfer işlemi tamamlandıktan sonra transfer yapılan oyuncu yapılan transfer ile ilgili bilgilendirme mesajı alacaktır.</p>
+Onay ekranında göndermek istediğiniz altın miktarını girip <mark style="color:red;">**Gönder**</mark> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/2dv8sOXn0qZtDlGkJx7ir2VU8XTDimf3ogSE6adw.png)
+<figure><img src="../.gitbook/assets/hesap 2.gif" alt=""><figcaption></figcaption></figure>
+
+### Hesabımdaki Karakterlere Aktar
+
+Bu yöntemle aynı hesap altında bulunan farklı karakterler arasında altın aktarımı yapabilirsiniz.
+
+Bu seçeneğe tıkladığınızda, hesabınızda bulunan diğer karakterlerin listelendiği bir ekran açılır.
+
+Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.
+
+Onay ekranında göndermek istediğiniz altın miktarını girip <mark style="color:red;">**Gönder**</mark> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.
+
+Bu yöntem, karakterleriniz arasında para aktarımı yapmanın en hızlı ve güvenli yoludur.
+
+<figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/hesap 3.gif" alt=""><figcaption></figcaption></figure>
+
+### Aileden Seç (Premium)
+
+Eğer bir aileye üye iseniz ve ailede sizden başka oyuncular da bulunuyorsa, bu yöntem ile onlara altın gönderebilirsiniz.
+
+Bu seçeneğe tıkladığınızda, ailenizdeki diğer üyelerin listelendiği bir ekran açılır.
+
+Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.
+
+Onay ekranında göndermek istediğiniz altın miktarını girip <mark style="color:red;">**Gönder**</mark> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.
+
+Aile içi yardım ve kaynak paylaşımı bu sistem ile oldukça kolay!
+
+<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/hesap 4.gif" alt=""><figcaption></figcaption></figure>
+
+## Guildden Seç (Premium)
+
+Bu yöntem ile üyesi olduğunuz guild içerisindeki başka bir üyeye doğrudan altın transferi gerçekleştirebilirsiniz.
+
+Bu seçeneğe tıkladığınızda, bulunduğunuz guild’in aktif üyeleri listelenir.
+
+Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.
+
+Onay ekranında göndermek istediğiniz altın miktarını girip <mark style="color:red;">**Gönder**</mark> butonuna tıkladığınızda altın transfer işleminiz tamamlanacaktır.
+
+Guild üyeleri arasındaki ekonomik dayanışmayı güçlendiren bu özellik, özellikle lonca içi ticaret ve yardım sistemlerinde büyük kolaylık sağlar.
+
+<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/hesap 5.gif" alt=""><figcaption></figcaption></figure>
+
+## Transfer Ücreti
+
+Altın transferleri hangi yöntemle yapılırsa yapılsın ücretlidir.
+
+Her başarılı transfer işlemi tamamlandığında, hesabından otomatik olarak <mark style="color:red;">**5.000 gp**</mark> kesilir.
+
+Bu ücret, sistemin güvenli ve hızlı bir şekilde çalışmasını sağlamak için alınır.
+
+## Transfer Bildirimi
+
+Transfer işlemi tamamlandıktan sonra transfer yapılan oyuncu yapılan transfer ile ilgili bilgilendirme mesajı alacaktır.
+
+<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
