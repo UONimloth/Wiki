@@ -26,21 +26,29 @@ Vendor'a <mark style="color:red;">**"gorev"**</mark> yazarak o yeteneğe ait ras
 
 Görev kapsamında o yeteneğe istinaden belirli eşyalar üretmeniz gerekecektir. Ancak dikkat etmeniz gereken bazı kurallar vardır:
 
-• **Sadece kendi ürettiğiniz eşyaları ekleyebilirsiniz.**
+• <mark style="color:red;">**Sadece kendi ürettiğiniz eşyaları ekleyebilirsiniz.**</mark>
 
 • Görevi almadan önce ürettiğiniz eşyalar görev için kullanılamaz.
 
 • Üretim sürecinizi görev aldıktan sonra başlatmalı ve belirtilen kriterlere uygun eşyaları oluşturmalısınız.
 
+#### Premium Oyuncular İçin Otomatik Ekleme
+
+[<mark style="color:red;">**Premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) oyuncular, ürettikleri eşyaların görev deed'ine otomatik olarak eklenmesini sağlayan özel bir özelliğe sahiptir.
+
+Görev ekranının sol üst kısmında bulunan <mark style="color:red;">**otomatik ekleme toggle'ını**</mark> aktif hale getirerek bu özelliği kullanabilirsiniz.
+
+Özellik aktifken, görev kriterlerine uygun bir eşya ürettiğinizde eşya otomatik olarak ilgili <mark style="color:red;">**Craft Quest Deed**</mark> içerisine eklenir. Böylece her üretim sonrasında eşyayı manuel olarak görev deed'ine eklemeniz gerekmez.
+
+<figure><img src="../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+
 ## Görev Teslimi ve Ödüller
 
-Görevi tamamlamak için, görev menüsünde yer alan **Teslim Et** butonuna tıklamanız gerekmektedir. Ardından, göreve istinaden ilgili vendoru seçerek teslim işlemini tamamlayabilirsiniz.
+Görevi tamamlamak için, görev menüsünde yer alan <mark style="color:red;">**Teslim Et**</mark> butonuna tıklamanız gerekmektedir. Ardından, göreve istinaden ilgili vendoru seçerek teslim işlemini tamamlayabilirsiniz.
 
-**Görev teslim edildikten sonra görev menüsünü tekrar açamazsınız.**
+<mark style="color:red;">**Görev teslim edildikten sonra görev menüsünü tekrar açamazsınız.**</mark>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/9LwrUzgXOq3SrzhfJlV5WWDnGWrKgQB4Xjp6VUwT.png)
-
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/PJ5oLxWNjITOE9gIfjxuKFNC0kIRSgoiTnvdW5ix.png)
+<figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
 Görevi başarıyla tamamladığınızda şu ödülleri kazanırsınız:
 
@@ -48,15 +56,17 @@ Görevi başarıyla tamamladığınızda şu ödülleri kazanırsınız:
 
 • Gold
 
-• Rastgele şekilde ilgili yeteneğe ait bir **Blueprint kazanma şansı**
+• Rastgele şekilde ilgili yeteneğe ait bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) <mark style="color:red;">**kazanma şansı**</mark>
 
-Kazandığınız Craft XP ile Craft Mastery seviyenizi yükseltebilir veya üretiminde XP gerektiren çeşitli eşyaları oluşturmak için kullanabilirsiniz!
+Kazandığınız Craft XP ile [<mark style="color:red;">**Craft Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) seviyenizi yükseltebilir veya üretiminde XP gerektiren çeşitli eşyaları oluşturmak için kullanabilirsiniz!
+
+<figure><img src="../.gitbook/assets/craft gorev.gif" alt=""><figcaption></figcaption></figure>
 
 ## Bir Kerede Sadece Bir Görev
 
 Her seferinde yalnızca bir yetenekten görev alabilirsiniz. Ancak, görevi iptal ederseniz, başka bir yetenekten görev almanız mümkün olacaktır.
 
-**Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 4 saat beklemeniz gerekmektedir.**
+<mark style="color:red;">**Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 4 saat beklemeniz gerekmektedir.**</mark>
 
 ## Ustalık Yolunda İlerle!
 
