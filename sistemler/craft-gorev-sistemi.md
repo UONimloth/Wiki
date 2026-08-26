@@ -32,7 +32,7 @@ Görev kapsamında o yeteneğe istinaden belirli eşyalar üretmeniz gerekecekti
 
 • Üretim sürecinizi görev aldıktan sonra başlatmalı ve belirtilen kriterlere uygun eşyaları oluşturmalısınız.
 
-#### Premium Oyuncular İçin Otomatik Ekleme
+### Premium Oyuncular İçin Otomatik Ekleme
 
 [<mark style="color:red;">**Premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) oyuncular, ürettikleri eşyaların görev deed'ine otomatik olarak eklenmesini sağlayan özel bir özelliğe sahiptir.
 
