@@ -8,9 +8,9 @@
 
 Mustang bineklerinin renkleri, elde edildikleri kaynağa göre değişiklik göstermektedir.
 
-Üstte yer alan renkler, **hem sabit spawn noktalarından hem de random spawn sistemi** üzerinden elde edilebilir.
+Üstte yer alan renkler, <mark style="color:red;">**hem sabit spawn noktalarından hem de random spawn sistemi**</mark> üzerinden elde edilebilir.
 
-Altta yer alan renkler ise yalnızca [Random Spawn Sistemi](https://uo-nimloth.net/wiki/sistemler/random-spawn-sistemi) üzerinden elde edilebilir.
+Altta yer alan renkler ise yalnızca [<mark style="color:red;">**Random Spawn Sistemi**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/random-spawn-sistemi) üzerinden elde edilebilir.
 
 Bu nedenle, tüm renk varyasyonlarını toplamak isteyen oyuncuların random spawn sistemini aktif olarak takip etmeleri gerekmektedir.
 

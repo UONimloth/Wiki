@@ -1,6 +1,6 @@
 # Aktif Spawnlar
 
-Nimloth dünyasında binekler, <mark style="color:red;">**Sabit Spawn**</mark> ve [<mark style="color:red;">**Random Spawn**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/random-spawn-sistemi) olmak üzere iki farklı sistem üzerinden dünyaya gelmektedir.
+Nimloth dünyasında [<mark style="color:red;">**binekler**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler), <mark style="color:red;">**Sabit Spawn**</mark> ve [<mark style="color:red;">**Random Spawn**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/random-spawn-sistemi) olmak üzere iki farklı sistem üzerinden dünyaya gelmektedir.
 
 Her iki spawn türünün çalışma şekli birbirinden farklıdır. Aşağıdaki listeler üzerinden hangi bineklerin hangi spawn sisteminde bulunabileceğini inceleyebilirsiniz.
 
@@ -13,6 +13,7 @@ Bu sistemde Nimloth'ta bulunan tüm binek türleri yer almaktadır.
 Sabit spawn sayıları şekildedir:
 
 * 2 Ore Llama
+* 1 Pack Llama
 * 1 Forest Ostard
 * 1 Desert Ostard
 * 1 Frenzied Ostard
@@ -34,6 +35,19 @@ Sabit spawn sayıları şekildedir:
 
 Random Spawn sistemi, bineklerin dünya üzerindeki <mark style="color:red;">**rastgele belirlenen uygun noktalarda**</mark> ortaya çıkmasını sağlar.
 
-Bu sistemde <mark style="color:red;">**Nightmare ve Duskmare hariç**</mark> Nimloth'ta bulunan tüm binekler spawn olabilmektedir.
+Bu sistemde aktif olan binekler şu şekildedir:
 
-Bu nedenle belirli bir binek arıyorsanız, tek bir bölgeye bağlı kalmadan farklı bölgeleri keşfetmeniz gerekebilir.
+* Frenzied Ostard
+* Mid Ostard
+* Shire
+* Mustang
+* Night Llama
+* Fire Llama
+* Ice Ostard
+* Silver Steed
+* Fire Steed
+* Kii Rin
+* Wine Steed
+* Unicorn
+
+Ayrıca Random Spawn sisteminde <mark style="color:red;">**Shire ve Mustang için bazı özel renkler**</mark> yalnızca bu sistem üzerinden elde edilebilmektedir.
