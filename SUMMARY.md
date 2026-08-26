@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Genel Bilgi](README.md)
+  * [Aktif Spawnlar](genel-bilgi/aktif-spawnlar.md)
 * [Sistemler](sistemler/README.md)
   * [Top10 Sistemi](sistemler/top10-sistemi.md)
   * [Online Ödül Sistemi](sistemler/online-odul-sistemi.md)
