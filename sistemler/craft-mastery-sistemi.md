@@ -46,7 +46,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 • <mark style="color:red;">**Level 10:**</mark> [<mark style="color:red;">**Tracker's Spyglass**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/tracking#trackers-spyglass) <mark style="color:red;">**(Blueprint)**</mark> -> Golem üretimi için gereken Blueprint'i elde edersiniz.
 
-• <mark style="color:red;">**Level 14:**</mark> [<mark style="color:red;">**Ship Crafting Tool**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi) -> Gemi üretimi için gereken Ship Crafting Tool'u elde edersiniz.
+• <mark style="color:red;">**Level 14:**</mark> [<mark style="color:red;">**Ship Crafting Tool**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi#gemi-uretimi) -> Gemi üretimi için gereken Ship Crafting Tool'u elde edersiniz.
 
 • <mark style="color:red;">**Level 17:**</mark> [<mark style="color:red;">**House Crafting Tool**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi#ev-uretimi) -> Ev üretimi için gereken House Crafting Tool'u elde edersiniz.
 
@@ -54,7 +54,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 • <mark style="color:red;">**Level 21: Superior Üretim**</mark> -> Ürettiğiniz eşyalar Superior olacak ve normalden %25 daha dayanıklı olacaktır.
 
-• <mark style="color:red;">**Level 22: Mallet and Chisel**</mark> -> Granite Stone'dan heykeller üretmek için gereken Mallet and Chisel'ı elde edersiniz.
+• <mark style="color:red;">**Level 22:**</mark> [<mark style="color:red;">**Mallet and Chisel**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/mallet-and-chisel) -> [<mark style="color:red;">**Granite Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/granite-stone)'dan heykeller üretmek için gereken Mallet and Chisel'ı elde edersiniz.
 
 • <mark style="color:red;">**Level 23: Çift Üretim**</mark> -> Ürettiğiniz eşyadan %10 şansla 2 tane üretme şansı elde edeceksiniz.
 

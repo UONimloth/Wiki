@@ -1,5 +1,7 @@
 # Granite Stone
 
+<figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+
 Granite Stone, Nimloth dünyasında ev ve gemi yapımında kullanılan temel yapı malzemelerinden biridir. Bunun yanı sıra çeşitli taş işçiliği ürünlerinin üretiminde de önemli bir yere sahiptir.
 
 ## Kullanım Alanları

@@ -64,7 +64,7 @@
   * [Üretim\&Toplayıcı](esyalar/uretimtoplayici/README.md)
     * [Silica Crystal](esyalar/uretimtoplayici/silica-crystal.md)
     * [Mallet and Chisel](esyalar/uretimtoplayici/mallet-and-chisel.md)
-    * [Glass](esyalar/uretimtoplayici/glass.md)
+    * [Sand](esyalar/uretimtoplayici/sand.md)
     * [Copper Wire](esyalar/uretimtoplayici/copper-wire.md)
     * [Granite Stone](esyalar/uretimtoplayici/granite-stone.md)
     * [Woodstone](esyalar/uretimtoplayici/woodstone.md)

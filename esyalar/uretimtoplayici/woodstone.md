@@ -1,5 +1,7 @@
 # Woodstone
 
+<figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+
 Woodstone, ev ve gemi yapımında kullanılan özel bir yapı malzemesidir. Ahşap ve taşın bir araya getirilmesiyle üretilen bu malzeme, yapı inşa süreçlerinde gerekli olan temel hammaddelerden biridir.
 
 ## Kullanım Alanı
