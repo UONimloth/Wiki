@@ -48,19 +48,19 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 • <mark style="color:red;">**Level 14:**</mark> [<mark style="color:red;">**Ship Crafting Tool**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi) -> Gemi üretimi için gereken Ship Crafting Tool'u elde edersiniz.
 
-• **Level 17: House Crafting Tool** -> Ev üretimi için gereken House Crafting Tool'u elde edersiniz.
+• <mark style="color:red;">**Level 17:**</mark> [<mark style="color:red;">**House Crafting Tool**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi#ev-uretimi) -> Ev üretimi için gereken House Crafting Tool'u elde edersiniz.
 
-• **Level 20: Telchar's Might** -> Magical silahları ve plate setleri tamir etmeniz için gereken Telchar's Might'ı elde edersiniz.
+• <mark style="color:red;">**Level 20:**</mark> [<mark style="color:red;">**Telchar's Might**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/esya-tamir-sistemi) -> Magical silahları ve plate setleri tamir etmeniz için gereken Telchar's Might'ı elde edersiniz.
 
-• **Level 21: Superior Üretim** -> Ürettiğiniz eşyalar Superior olacak ve normalden %25 daha dayanıklı olacaktır.
+• <mark style="color:red;">**Level 21: Superior Üretim**</mark> -> Ürettiğiniz eşyalar Superior olacak ve normalden %25 daha dayanıklı olacaktır.
 
-• **Level 22: Mallet and Chisel** -> Granite Stone'dan heykeller üretmek için gereken Mallet and Chisel'ı elde edersiniz.
+• <mark style="color:red;">**Level 22: Mallet and Chisel**</mark> -> Granite Stone'dan heykeller üretmek için gereken Mallet and Chisel'ı elde edersiniz.
 
-• **Level 23: Çift Üretim** -> Ürettiğiniz eşyadan %10 şansla 2 tane üretme şansı elde edeceksiniz.
+• <mark style="color:red;">**Level 23: Çift Üretim**</mark> -> Ürettiğiniz eşyadan %10 şansla 2 tane üretme şansı elde edeceksiniz.
 
-• **Level 24: Gem Üretimi** -> Gem Stone'lar üretmek için Gem Crafting Table'ı kullanma yetkinliği elde edeceksiniz.
+• <mark style="color:red;">**Level 24:**</mark> [<mark style="color:red;">**Gem Üretimi**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar) -> Gem Stone'lar üretmek için Gem Crafting Table'ı kullanma yetkinliği elde edeceksiniz.
 
-• **Level 25: Hatasız Üretim** -> Üretim sırasında Fire vermeden %100 şansla eşya üretimi yapabileceksiniz ve üretim yaparken kullandığınız eşyalar daha zor hasar görecek.
+• <mark style="color:red;">**Level 25: Hatasız Üretim**</mark> -> Üretim sırasında Fire vermeden %100 şansla eşya üretimi yapabileceksiniz ve üretim yaparken kullandığınız eşyalar daha zor hasar görecek.
 
 ## XP Aktar
 
