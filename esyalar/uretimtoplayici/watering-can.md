@@ -24,13 +24,13 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 
 Watering Can’i iki farklı şekilde kullanabilirsiniz:
 
-• <mark style="color:red;">**Direkt Bitkiyi Seçerek**</mark>
+### Direkt Bitkiyi Seçerek
 
 Eşyayı kullandıktan sonra sulamak istediğiniz bitkiyi hedef alabilirsiniz.
 
 Eğer seçtiğiniz bitki size aitse ve sulanmaya uygunsa, sulama işlemi anında gerçekleşir.
 
-• <mark style="color:red;">**Kendinizi Seçerek (Alan Sulama)**</mark>
+### Kendinizi Seçerek (Alan Sulama)
 
 Eşyayı kullandıktan sonra kendinizi hedef aldığınızda, karakterinizin 2 kare çevresinde bulunan size ait bitkiler, 1 saniye aralıklarla otomatik olarak sulanır.
 
