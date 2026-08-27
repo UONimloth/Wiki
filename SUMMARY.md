@@ -62,6 +62,7 @@
     * [Faster Casting Robe](esyalar/robelar/faster-casting-robe.md)
     * [Magical Robe](esyalar/robelar/magical-robe.md)
   * [Üretim\&Toplayıcı](esyalar/uretimtoplayici/README.md)
+    * [Telchar's Might](esyalar/uretimtoplayici/telchars-might.md)
     * [Mallet and Chisel](esyalar/uretimtoplayici/mallet-and-chisel.md)
     * [Copper Wire](esyalar/uretimtoplayici/copper-wire.md)
     * [Granite Stone](esyalar/uretimtoplayici/granite-stone.md)
