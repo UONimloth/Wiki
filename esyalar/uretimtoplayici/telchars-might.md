@@ -2,13 +2,13 @@
 
 <figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
-Telchar's Might, Nimloth dünyasında silah ve metal zırhların tamir edilmesini sağlayan özel bir üretim aracıdır.
+Telchar's Might, Nimloth dünyasında silah ve metal zırhların tamir edilmesini sağlayan özel bir araçtır.
 
-### Elde Etme
+## Elde Etme
 
 Telchar's Might, [<mark style="color:red;">**Craft Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) <mark style="color:red;">**20. seviyeyi**</mark> tamamladığınızda elde edilebilir.
 
-### Kullanım Alanı
+## Kullanım Alanı
 
 Telchar's Might kullanarak silahlarınızı ve metal zırhlarınızı [<mark style="color:red;">**tamir edebilirsiniz**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/esya-tamir-sistemi).
 
