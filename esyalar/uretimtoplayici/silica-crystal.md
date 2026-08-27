@@ -10,7 +10,7 @@ Silica Crystal üretimi, şehirlerde bulunan <mark style="color:red;">**Glassblo
 
 Üretim için gerekenler şu şekildedir:
 
-* 1 Sand
+* 1 [<mark style="color:red;">**Sand**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/sand)
 * 80.0 Alchemy
 
 Gerekli malzemeleri hazırladıktan sonra Glassblower Tool üzerinden Silica Crystal üretebilirsiniz.

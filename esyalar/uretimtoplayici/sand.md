@@ -10,4 +10,4 @@ Sand, [<mark style="color:red;">**Mining**</mark>](https://nimloth-uo.gitbook.io
 
 ## Kullanım Alanı
 
-Sand, başta <mark style="color:red;">**Silica Crystal**</mark> üretimi olmak üzere, cam gerektiren çeşitli eşyaların üretiminde kullanılmaktadır.
+Sand, başta [<mark style="color:red;">**Silica Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/silica-crystal) üretimi olmak üzere, cam gerektiren çeşitli eşyaların üretiminde kullanılmaktadır.
