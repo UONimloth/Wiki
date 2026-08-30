@@ -3,6 +3,7 @@
 * [Genel Bilgi](README.md)
   * [Aktif Spawnlar](genel-bilgi/aktif-spawnlar.md)
 * [Sistemler](sistemler/README.md)
+  * [Günlük Görev Sistemi](sistemler/gunluk-gorev-sistemi.md)
   * [Top10 Sistemi](sistemler/top10-sistemi.md)
   * [Online Ödül Sistemi](sistemler/online-odul-sistemi.md)
   * [Power Hour](sistemler/power-hour.md)
