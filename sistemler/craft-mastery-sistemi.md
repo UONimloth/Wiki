@@ -2,13 +2,11 @@
 
 Craft Mastery Sistemi, Ultima Online dünyasında zanaatkarlık becerilerinizi zirveye taşımanızı sağlayacak yepyeni bir sistemdir!&#x20;
 
-Şimdi, farklı craft görevlerini tamamlayarak XP kazanın, bu XP’lerle Craft Mastery seviyenizi yükseltin ve her seviyede yeni, güçlü ve eşsiz eşyalar üretme yeteneği kazanın. Başarılı bir zanaatkar olmak için gereken her şey burada!
-
 Craft Mastery Sistemi oyunculara sadece kendi yeteneklerini geliştirme fırsatı sunmakla kalmaz, aynı zamanda craft dünyasında benzersiz ödüller kazanmanızı ve diğer oyuncularla etkileşime geçerek XP transferi yapmanızı sağlar.
 
 ## Genel Bakış
 
-Craft Mastery Sistemi, oyuncuların görevlerden kazandıkları XP’ler aracılığıyla craft yeteneklerini geliştirmelerine ve belirli seviyelerde özel ödüllerin kilidini açmalarına olanak tanır. Bu sistem, zanaatkarlıkta uzmanlaşmak isteyen oyuncular için tasarlanmıştır.
+Craft Mastery Sistemi, görevlerden kazandığınız XP’ler aracılığıyla craft yeteneklerini geliştirmelerine ve belirli seviyelerde özel ödüllerin kilidini açmanıza olanak tanır. Bu sistem, zanaatkarlıkta uzmanlaşmak isteyen oyuncular için tasarlanmıştır.
 
 ## Craft Master Vendorlar
 
