@@ -1,10 +1,8 @@
 # Mining Vein
 
-Sosaria'nın yer altı zenginlikleri artık daha değerli! Yeni Mining Vein sistemi sayesinde madenlerde belirli aralıklarla oluşan özel cevher kaynaklarını kazabilir, nadir madenlere ulaşabilirsiniz.
+Sosaria'nın yer altı zenginlikleri artık daha değerli!&#x20;
 
-## Mining Vein Nedir?
-
-Sosaria üzerindeki tüm maden bölgelerinde rastgele beliren cevher yığınlarına Mining Vein adı verilir. Bu cevherler, yalnızca madencilik yeteneği 100 olan oyuncular tarafından kazılabilir. Cevherin üzerine tıkladığınızda hangi tür madeni içerdiğini görebilirsiniz.
+Maden bölgelerinde rastgele beliren cevher yığınlarına Mining Vein adı verilir. Bu cevherler, yalnızca madencilik yeteneği 100 olan oyuncular tarafından kazılabilir. Cevhere tıkladığınızda hangi tür madeni içerdiğini görebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/WMbieVjBly4WAjTm7SBt7FJysF1B2SRyF3AG5tVr.png)
 
@@ -12,7 +10,7 @@ Sosaria üzerindeki tüm maden bölgelerinde rastgele beliren cevher yığınlar
 
 ## Kazım İçin Gerekenler
 
-Kazım işlemi için mutlaka bir Pickaxe'e ihtiyacınız vardır.
+Kazım işlemi için mutlaka bir Pickaxe'e ihtiyacınız vardır. Cevhere çift tıklayarak kazım işlemini başlatabilirsiniz.
 
 • Kullanılan Pickaxe'in türüne göre elde edilen maden miktarı ve başarısız olma ihtimali değişiklik gösterir.
 
