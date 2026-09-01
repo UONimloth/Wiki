@@ -36,7 +36,7 @@ Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye g
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/JNd5OUQUEBhunkoevrGwQvbnilhxHczkh2gIx9sq.png)
 
-**Seviyelere göre ödüller şu şekildedir:**
+<mark style="color:red;">**Seviyelere göre ödüller şu şekildedir:**</mark>
 
 • <mark style="color:red;">**Level 2: Özel Balık Yakalama**</mark> -> Fishing Pole yardımı ile [<mark style="color:red;">**Special Fish**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi) yakalayabilirsiniz.
 
