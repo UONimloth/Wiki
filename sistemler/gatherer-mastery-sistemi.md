@@ -1,65 +1,79 @@
 # Gatherer Mastery Sistemi
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/v5JxV2l5mUEMu2Cfg2tsojqnB7nEnXiKPnODKerE.png" 
-       alt="Nimloth Logo">
-</div>
+Gatherer Mastery Sistemi, Ultima Online dünyasında toplayıcılık becerilerinizi bir üst seviyeye taşımanızı sağlayacak özel bir ilerleme sistemidir!
 
-<p>
-	
-<p>Gatherer Mastery Sistemi, Ultima Online dünyasında toplayıcılık becerilerinizi bir üst seviyeye taşımanızı sağlayacak özel bir ilerleme sistemidir!</p>
-<p><strong style="color: #410000;">Fishing, Mining, Lumberjacking ve Farming</strong> yeteneklerinden görevler alarak XP kazanın, bu XP’lerle Gatherer Mastery seviyenizi yükseltin ve yeni avantajların kilidini açın. Doğanın sunduğu zenginlikleri en verimli şekilde toplamaya hazır olun!</p>
-<p>Gatherer Mastery Sistemi, yalnızca toplama yeteneklerinizi geliştirmenizi sağlamakla kalmaz; aynı zamanda emeklerinizin karşılığında özel ödüller kazanmanızı, gathering dünyasında fark yaratmanızı ve toplama sanatında gerçek bir usta olmanızı da mümkün kılar.</p>
+Fishing, Mining, Lumberjacking ve Farming yeteneklerinden görevler alarak XP kazanın, bu XP’lerle Gatherer Mastery seviyenizi yükseltin ve yeni avantajların kilidini açın. Doğanın sunduğu zenginlikleri en verimli şekilde toplamaya hazır olun!
 
-<h2>Genel Bakış</h2>
-<p>Gatherer Mastery Sistemi, oyuncuların kazandıkları XP’ler aracılığıyla Fishing, Mining, Lumberjacking ve Farming yeteneklerinde ustalaşmalarına olanak tanır. Bu sistem, doğanın sunduğu kaynakları en verimli şekilde kullanmak ve gathering alanında uzmanlaşmak isteyen oyuncular için tasarlanmıştır.</p>
+Gatherer Mastery Sistemi, yalnızca toplama yeteneklerinizi geliştirmenizi sağlamakla kalmaz; aynı zamanda emeklerinizin karşılığında özel ödüller kazanmanızı, gathering dünyasında fark yaratmanızı ve toplama sanatında gerçek bir usta olmanızı da mümkün kılar.
 
-<h2>Gatherer Master Vendorlar</h2>
-<p>Gatherer Master Vendorlar, Sosaria’nın çeşitli bölgelerinde bulunur ve Gathering görevleri ile Mastery ilerlemenizi takip etmenizi sağlar. Vendorlarla etkileşime geçmek için yalnızca vendor üzerine çift tıklamanız yeterlidir.</p>
+## Genel Bakış
+
+Gatherer Mastery Sistemi, kazandığınız XP’ler aracılığıyla Fishing, Mining, Lumberjacking ve Farming yeteneklerinde ustalaşmanıza olanak tanır. Bu sistem, doğanın sunduğu kaynakları en verimli şekilde kullanmak ve gathering alanında uzmanlaşmak isteyen oyuncular için tasarlanmıştır.
+
+## Gatherer Master Vendorlar
+
+Gatherer Master Vendorlar, Sosaria’nın çeşitli bölgelerinde bulunur ve Gathering görevleri ile Mastery ilerlemenizi takip etmenizi sağlar. Vendorlarla etkileşime geçmek için yalnızca vendor üzerine çift tıklamanız yeterlidir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/1a3hQhSEmnshIW72paA8WbjmC6QL2PETlOjfxZhL.png)
 
-<h2>Gatherer Master Vendor Menüsü</h2>
-<p>Gatherer Master Vendor’a çift tıklandığınınızda, aşağıdaki gibi bir menü açılır. Bu menüde üç farklı sekme bulunmaktadır:</p>
+## Gatherer Master Vendor Menüsü
+
+Gatherer Master Vendor’a çift tıklandığınınızda, aşağıdaki gibi bir menü açılır. Bu menüde üç farklı sekme bulunmaktadır:
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mDMo8VCjRbUHllAe3A8UFZW18DsXAjTPBE6eFqU2.png)
-<h2>Mastery</h2>
-<p>Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye geçmek için gereken XP miktarını görebilirsiniz. Eğer yeterli XP’ye sahipseniz, <strong style="color: #410000;">Seviye Atla</strong> butonu aktif olacaktır. Bu butona tıklayarak bir üst seviyeye geçebilirsiniz.</p>
+
+## Mastery
+
+Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye geçmek için gereken XP miktarını görebilirsiniz. Eğer yeterli XP’ye sahipseniz, <mark style="color:red;">**Seviye Atla**</mark> butonu aktif olacaktır. Bu butona tıklayarak bir üst seviyeye geçebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/UA0PdWsiiIKD9huKcRzKSHKt6P9QwnsMzjPPtllJ.png)
 
-<h2>Ödüller</h2>
-<p>Ödüller sekmesinde, Gatherer Mastery seviyelerine göre alabileceğiniz ödülleri görebilirsiniz. Her ödülün yanında bir kilit simgesi veya tik işareti bulunur. Ödüller alınmadıysa ödül kutusu üzerinde kilit, alındıysa tik işareti gösterilir.</p>
+## Ödüller
+
+Ödüller sekmesinde, Gatherer Mastery seviyelerine göre alabileceğiniz ödülleri görebilirsiniz. Her ödülün yanında bir kilit simgesi veya tik işareti bulunur. Ödüller alınmadıysa ödül kutusu üzerinde kilit, alındıysa tik işareti gösterilir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/yPkRUUBXmOSQyqoTslwxsCedIuPWTQirrLBGVmx3.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/JNd5OUQUEBhunkoevrGwQvbnilhxHczkh2gIx9sq.png)
 
-<p><strong>Seviyelere göre ödüller şu şekildedir:</strong></p>
-<p>• <strong style="color: #410000;">Level 2: Özel Balık Yakalama </strong> -> Fishing Pole yardımı ile <a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Special Fish</a> yakalayabilirsiniz.</p>
-<p>• <strong style="color: #410000;">Level 6: Yew-Oak Pole Kullanımı</strong> -> Yew ve Oak Fishing Pole kullanarak <a href="https://uo-nimloth.net/wiki/sistemler/special-exotic-fish-sistemi" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Exotic Fish</a> yakalayabilir ve ek balık yakalama şansı kazanırsınız.</p>
-<p>• <strong style="color: #410000;">Level 10: Golden Tool Kullanımı</strong> -> Golden Tool’ları kullanabilir ve toplama işlemleri sırasında daha fazla materyal elde etme şansı elde edersiniz.</p>
-<p>• <strong style="color: #410000;">Level 14: Tohum Düşme Şansı</strong> -> Farming yeteneğiniz ile bitkileri toplarken tohum elde etme şansı kazanırsınız.</p>
-<p>• <strong style="color: #410000;">Level 17: Gatherer's Apron</strong> -> <a href="https://uo-nimloth.net/wiki/uretimtoplayici/gatherers-apron" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Gatherer's Apron</a> kullanabilme yetkinliği kazanırsınız. Apronu kullandığınız süre boyunca +100 taşıma kapasitesi elde edersiniz.</p>
-<p>• <strong style="color: #410000;">Level 20: Pack Binek Kullanımı</strong> -> <a href="https://uo-nimloth.net/wiki/binekler/pack-binekler" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Pack bineklere</a> binebilirsiniz. Böylece daha fazla malzemeyi daha efektif şekilde taşıyabilirsiniz.</p>
-<p>• <strong style="color: #410000;">Level 21: Gem Bulma Şansı</strong> -> Gold Pickaxe ile <a href="https://uo-nimloth.net/wiki/sistemler/mining-vein" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> maden damarlarını</a> işlerken değerli taş bulma şansı kazanırsınız.
-<p>• <strong style="color: #410000;">Level 22: Verimli Kullanım</strong> -> Alet kullanım ustalığınız artar. Böylece kullandığınız aletler daha yavaş eskir.</p>
-<p>• <strong style="color: #410000;">Level 23: Toplu Sulama</strong> -> <a href="https://uo-nimloth.net/wiki/uretimtoplayici/watering-can" style="color: #410000; font-weight: bold; text-decoration: underline; font-size: inherit;"> Watering Can</a> kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz.</p>
-<p>• <strong style="color: #410000;">Level 24: Kusursuz Toplama</strong> -> Materyal toplama işlemlerinde %100 başarı şansına sahip olursunuz ve toplama sırasında başarısız olma ihtimali ortadan kalkar.</p>
-<p>• <strong style="color: #410000;">Level 25: Hızlı Toplama</strong> -> Materyal toplama süreniz kısalır ve kaynakları daha hızlı şekilde elde edebilirsiniz.</p>
-	
-<h2>XP Aktar</h2>
-<p>Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <strong style="color: #410000;">XP Aktar</strong> butonuna basıldığında, bir XP Deed çantaya düşer.</p>
+**Seviyelere göre ödüller şu şekildedir:**
+
+• <mark style="color:red;">**Level 2: Özel Balık Yakalama**</mark> -> Fishing Pole yardımı ile [<mark style="color:red;">**Special Fish**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi) yakalayabilirsiniz.
+
+• <mark style="color:red;">**Level 6: Yew-Oak Pole Kullanımı**</mark> -> [<mark style="color:red;">**Yew Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/yew-fishing-pole) ve [<mark style="color:red;">**Oak Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/oak-fishing-pole) kullanarak [<mark style="color:red;">**Exotic Fish**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/special-exotic-fish-sistemi) yakalayabilir ve ek balık yakalama şansı kazanırsınız.
+
+• <mark style="color:red;">**Level 10: Golden Tool Kullanımı**</mark> -> Golden Tool’ları( [<mark style="color:red;">**Gold Sickle**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-sickle), [<mark style="color:red;">**Gold Pickaxe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-pickaxe), [<mark style="color:red;">**Gold Hatchet**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-hatchet) ) kullanabilir ve toplama işlemleri sırasında daha fazla materyal elde etme şansı elde edersiniz.
+
+• <mark style="color:red;">**Level 14: Tohum Düşme Şansı**</mark> -> [<mark style="color:red;">**Farming**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/farming) yeteneğiniz ile bitkileri toplarken tohum elde etme şansı kazanırsınız.
+
+• <mark style="color:red;">**Level 17: Gatherer's Apron**</mark> -> [<mark style="color:red;">**Gatherer's Apron**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gatherers-apron) kullanabilme yetkinliği kazanırsınız. Apronu kullandığınız süre boyunca <mark style="color:red;">**+100 taşıma kapasitesi**</mark> elde edersiniz.
+
+• <mark style="color:red;">**Level 20: Pack Binek Kullanımı**</mark> -> [<mark style="color:red;">**Pack bineklere**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler/pack-binekler) binebilirsiniz. Böylece daha fazla malzemeyi daha efektif şekilde taşıyabilirsiniz.
+
+• <mark style="color:red;">**Level 21:**</mark> [<mark style="color:red;">**Gem**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar) <mark style="color:red;">**Bulma Şansı**</mark> -> Gold Pickaxe ile [<mark style="color:red;">**Mining Vein**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/mining-vein) işlerken değerli taş bulma şansı kazanırsınız.
+
+• <mark style="color:red;">**Level 22: Verimli Kullanım**</mark> -> Alet kullanım ustalığınız artar. Böylece kullandığınız aletler daha yavaş eskir.
+
+• <mark style="color:red;">**Level 23: Toplu Sulama**</mark> -> [<mark style="color:red;">**Watering Can**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/watering-can) kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz.
+
+• <mark style="color:red;">**Level 24: Kusursuz Toplama**</mark> -> Materyal toplama işlemlerinde %100 başarı şansına sahip olursunuz ve toplama sırasında başarısız olma ihtimali ortadan kalkar.
+
+• <mark style="color:red;">**Level 25: Hızlı Toplama**</mark> -> Materyal toplama süreniz kısalır ve kaynakları daha hızlı şekilde elde edebilirsiniz.
+
+## XP Aktar
+
+Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <mark style="color:red;">**XP Aktar**</mark> butonuna basıldığında, bir XP Deed çantaya düşer.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gXu0vSVf4EdiNuwuR9kXAEa7T9Q5dICc7JVMtPrf.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mf1WRxXMIyE5g2Kh3YlQTnfTatHyQTV32P6UKEUl.png)
 
-<h2>Seviye Sınırı</h2>
-<p>Gatherer Mastery Sistemi’nde maksimum seviye 25’dir. Ancak, 25. seviyeye ulaştıktan sonra da görev almaya ve XP kazanmaya devam edebilirsiniz. Bu, toplama becerilerini geliştirmeye devam etme fırsatı sunar.</p>
+## Seviye Sınırı
 
-<strong style="color: #410000;">Doğanın Ustası Olmak Senin Elinde!</strong>
+Gatherer Mastery Sistemi’nde maksimum seviye 25’dir. Ancak, 25. seviyeye ulaştıktan sonra da görev almaya ve XP kazanmaya devam edebilirsiniz. Bu, toplama becerilerini geliştirmeye devam etme fırsatı sunar.
 
-<p>Toplayıcılığın sırlarını keşfet, nadir kaynakların ustası ol ve Nimloth’un dört bir yanındaki usta gatherer’lar arasında yerini al.</p>
+**Doğanın Ustası Olmak Senin Elinde!**
 
-<p>Şimdi Gatherer görevlerini tamamla, ustalık seviyeni yükselt ve Nimloth dünyasında iz bırak!</p>
+Toplayıcılığın sırlarını keşfet, nadir kaynakların ustası ol ve Nimloth’un dört bir yanındaki usta gatherer’lar arasında yerini al.
+
+Şimdi Gatherer görevlerini tamamla, ustalık seviyeni yükselt ve Nimloth dünyasında iz bırak!
