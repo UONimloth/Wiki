@@ -6,7 +6,7 @@ Bu sistem sayesinde <mark style="color:red;">**hem başka oyuncuların profiller
 
 Karakterinize ait detaylı bilgilere erişmek ve çok daha fazlası için Paperdoll da bulunan <mark style="color:red;">**Profile**</mark> <mark style="color:red;">**butonuna**</mark> veya solda yer alan <mark style="color:red;">**Profil parşomenine**</mark> tıklayabilirsiniz.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Başka Oyuncuların Profili
 

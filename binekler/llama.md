@@ -1,6 +1,6 @@
 # Llama
 
-<h3 align="center"><img src="../.gitbook/assets/image (2).png" alt=""></h3>
+<h3 align="center"><img src="../.gitbook/assets/image (2) (1).png" alt=""></h3>
 
 ### Stat ve Yetenekler
 

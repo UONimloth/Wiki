@@ -14,13 +14,15 @@ Arayüzde bulunan <mark style="color:red;">**Quests**</mark> butonu üzerinden b
 
 <figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Sıralama
 
 Günlük görevlerinizin yanı sıra mevcut sıralamayı da arayüzde bulunan <mark style="color:red;">**Quests**</mark> butonu üzerinden görüntüleyebilirsiniz.
 
 Bu menü üzerinden toplam puanınızı ve güncel sıralamayı takip edebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Günlük Görev Yaratıkları
 
@@ -47,6 +49,16 @@ Her Tier seviyesi, ay sonundaki sıralamaya farklı miktarda puan kazandırır:
 Gün boyunca gerçekleştirdiğiniz görev öldürmeleri takip edilir ve kazanılan puanlar her gün saat <mark style="color:red;">**23:59'da toplu olarak**</mark> hesaplanarak puanınıza eklenir.
 
 Bu nedenle gün içerisinde yaptığınız öldürmeler ile ekrandaki toplam puan arasında geçici bir fark oluşabilir.
+
+## Günlük Puan ve Gün Sonu Ödülü
+
+Kazanacağınız puanlar görev yaratıklarının Tier dağılımına ve sayısına bağlı olarak değişiklik gösterebilir.
+
+Gün içerisinde görev kapsamında belirlenen tüm yaratıkları öldürdüğünüzde, günlük toplam <mark style="color:red;">**1.000 ile 2.000 puan**</mark> arasında puan kazanabilirsiniz.
+
+Gün sonunda kazandığınız toplam puanın <mark style="color:red;">**%25'i**</mark>, size [<mark style="color:red;">**Hunter Mastery XP**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hunter-mastery-sistemi) olarak verilir.
+
+Örneğin, gün sonunda toplam <mark style="color:red;">**1.200 puan**</mark> kazandıysanız, <mark style="color:red;">**300 Hunter Mastery XP**</mark> elde edersiniz.
 
 ## Ay Sonu Ödülleri
 
