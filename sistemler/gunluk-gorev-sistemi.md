@@ -14,7 +14,7 @@ Arayüzde bulunan <mark style="color:red;">**Quests**</mark> butonu üzerinden b
 
 <figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Sıralama
 
@@ -22,7 +22,7 @@ Günlük görevlerinizin yanı sıra mevcut sıralamayı da arayüzde bulunan <m
 
 Bu menü üzerinden toplam puanınızı ve güncel sıralamayı takip edebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Günlük Görev Yaratıkları
 
