@@ -60,6 +60,10 @@ Gün sonunda kazandığınız toplam puanın <mark style="color:red;">**%25'i**<
 
 Örneğin, gün sonunda toplam <mark style="color:red;">**1.200 puan**</mark> kazandıysanız, <mark style="color:red;">**300 Hunter Mastery XP**</mark> elde edersiniz.
 
+Puan hesaplaması tamamlandıktan sonra, kazandığınız puan ve Hunter Mastery XP miktarını gösteren bir bildirim alırsınız.
+
+<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+
 ## Ay Sonu Ödülleri
 
 Ay sonunda sıralama, ay boyunca toplanan toplam puanlar üzerinden belirlenir.
