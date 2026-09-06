@@ -1,8 +1,8 @@
 # Günlük Görev Sistemi
 
-Günlük Görev Sistemi, her gün farklı yaratıkları avlayarak puan toplamanızı ve ay sonunda özel ödüller kazanmanızı sağlayan rekabetçi bir görev sistemidir.
+Günlük Görev Sistemi, her gün farklı yaratıkları avlayarak puan toplamanızı ve hafta sonunda özel ödüller kazanmanızı sağlayan rekabetçi bir görev sistemidir.
 
-Her gün belirlenen yaratıkları gün içerisinde öldürerek puan toplayabilir ve ay sonunda sıralamada üst sıralara çıkabilirsiniz.
+Her gün belirlenen yaratıkları gün içerisinde öldürerek puan toplayabilir ve gün sonunda sıralamada üst sıralara çıkabilirsiniz.
 
 ## Görevlerin Belirlenmesi
 
@@ -64,10 +64,58 @@ Puan hesaplaması tamamlandıktan sonra, kazandığınız puan ve Hunter Mastery
 
 <figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
-## Ay Sonu Ödülleri
+## Hafta Sonu Ödülleri
 
-Ay sonunda sıralama, ay boyunca toplanan toplam puanlar üzerinden belirlenir.
+Hafta sonunda sıralama, o hafta boyunca toplanan toplam puanlar üzerinden belirlenir.
 
-Sıralamada <mark style="color:red;">**ilk 3 oyuncu**</mark>, birbirinden farklı ödüller kazanmaya hak kazanır. Bunun yanı sıra, sıralamada yer alan diğer oyuncular da bulundukları dereceye göre çeşitli ödüller kazanabilirler.
+Sıralamada <mark style="color:red;">**ilk 3 oyuncu**</mark>, birbirinden farklı ödüller kazanmaya hak kazanır. Bunun yanı sıra, sıralamada yer alan diğer oyuncular da bulundukları dereceye göre çeşitli ödüller kazanabilirler.\
+Ödül havuzu şu şekildedir:
 
-Bu nedenle yalnızca zirveye ulaşmak değil, ay boyunca mümkün olduğunca yüksek puan toplayarak sıralamada yer almak da ödül kazanma şansınızı artırır.
+### 1. Sıra
+
+* 3 Rare renk arasından seçilebilir <mark style="color:red;">**5 Charge Rare Dye**</mark>
+* Desert Ostard, Forest Ostard veya Frenzied Ostard arasından <mark style="color:red;">**binek tipi seçimi**</mark>
+* Binek <mark style="color:red;">**renk seçimi**</mark>
+* <mark style="color:red;">**Newbified Hood**</mark>
+
+### 2. Sıra
+
+* 3 Rare renk arasından random <mark style="color:red;">**3 Charge Rare Dye**</mark>
+* Desert Ostard, Forest Ostard veya Frenzied Ostard arasından <mark style="color:red;">**binek tipi seçimi**</mark>
+* <mark style="color:red;">**3 renk arasından random**</mark> binek rengi
+* <mark style="color:red;">**Newbified Hood**</mark>
+
+### 3. Sıra
+
+* 3 Rare renk arasından random <mark style="color:red;">**1 Charge Rare Dye**</mark>
+* Desert Ostard, Forest Ostard veya Frenzied Ostard arasından <mark style="color:red;">**random binek**</mark>
+* <mark style="color:red;">**3 renk arasından random**</mark> binek rengi
+* <mark style="color:red;">**Newbified Hood**</mark>
+
+### 4–5. Sıralar
+
+* Random <mark style="color:red;">**Mustang**</mark>&#x20;
+* 3 Faster veya Wizard Robe&#x20;
+* 5 adet +15 Silah
+
+### 6–7. Sıralar
+
+* Random <mark style="color:red;">**Shire**</mark>
+* 2 Faster veya Wizard Robe&#x20;
+* 4 adet +15 Silah
+
+### **8–10. Sıralar**&#x20;
+
+* Random **Ostard**&#x20;
+* 1 Faster veya Wizard Robe&#x20;
+* 3 adet +15 Silah
+
+## Rare Renkler ve Binekler
+
+Tüm özel binekler aynı özelliklere sahip olacak ve Silver Steed ile benzer özelliklerde olacaktır.
+
+<figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+
+Not: Ödül havuzu belirli aralıklarla güncellenecek ve farklı ödüller sisteme eklenecektir.
