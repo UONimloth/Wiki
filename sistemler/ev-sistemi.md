@@ -126,7 +126,7 @@ Ancak yenileme işlemi sahibi dışında biri tarafından yapıldığında, ev s
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/IHO0bVZqXx08CbyVZSv4PAKLah1g33n74t7qbuIJ.png)
 
-### Dost ve Ortak Yönetimi
+## Dost ve Ortak Yönetimi
 
 Evinizle ilgili sosyal yönetimleri, <mark style="color:red;">**"Dost/Ortak"**</mark> sekmesi üzerinden gerçekleştirebilirsiniz.
 
@@ -162,7 +162,7 @@ Eğer yetkiniz mevcutsa, oyuncuların adının yanında yer alan <mark style="co
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/COk61AV8YFPO2BXBaSR409ovc8tGywXJdl2xu1iA.png)
 
-### Ayarlar Sekmesi
+## Ayarlar
 
 Evinizi yönetmenin en detaylı yolu, Ayarlar Sekmesidir.
 
@@ -190,17 +190,17 @@ Not:Secure hale getirilen kasalar <mark style="color:red;">**varsayılan olarak 
 
 <figure><img src="../.gitbook/assets/secure.gif" alt=""><figcaption></figcaption></figure>
 
-### Tabelalar Sekmesi
+### Tabelalar
 
-Bu sekmede, evinizin dış cephesinde yer alan tabelayı dilediğiniz gibi değiştirebilirsiniz.
+Bu butona tıklayarak evinizin dış cephesinde yer alan tabelayı dilediğiniz gibi değiştirebilirsiniz.
 
 Nimloth dünyasında şu anda <mark style="color:red;">**toplam 55 farklı tabela tasarımı**</mark> bulunmaktadır.
 
 Beğendiğiniz herhangi bir tabelayı <mark style="color:red;">**25.000 altın**</mark> karşılığında seçebilir ve evinize anında uygulayabilirsiniz.
 
-### Sign Post Sekmesi
+### Sign Post
 
-Bu sekmede toplam <mark style="color:red;">**6 farklı sign post**</mark> seçeneği bulunmaktadır.
+Toplam <mark style="color:red;">**6 farklı sign post**</mark> seçeneği bulunmaktadır.
 
 Beğendiğiniz modeli <mark style="color:red;">**25.000 altın**</mark> karşılığında seçebilir ve evinize anında uygulayabilirsiniz.
 
@@ -210,11 +210,9 @@ Yapacağınız değişiklik hemen aktif hale gelir ve tabelanızla uyumlu, benze
 
 <figure><img src="../.gitbook/assets/house sign.gif" alt=""><figcaption></figcaption></figure>
 
+### Boyalar
 
-
-### Boyalar Sekmesi
-
-Boyalar Sekmesi sayesinde evinizi dilediğiniz renkle boyayabilir, tarzınızı tamamen yansıtabilirsiniz.
+Boyalar butonuna tıklayarak evinizi dilediğiniz renkle boyayabilir, tarzınızı tamamen yansıtabilirsiniz.
 
 Toplamda <mark style="color:red;">**14 farklı renk seçeneği**</mark> bulunmaktadır.
 
@@ -222,7 +220,7 @@ Toplamda <mark style="color:red;">**14 farklı renk seçeneği**</mark> bulunmak
 
 Bir rengi test etmek için <mark style="color:red;">**50.000 altın**</mark> ödemeniz yeterlidir.
 
-Ayrıca [<mark style="color:red;">**House Dye**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/rare-dye-sistemi#house-dye) eşyasına sahipseniz, bu menü üzerinden seçtiğiniz rengi doğrudan evinize uygulayabilirsiniz.
+Ayrıca [<mark style="color:red;">**House Dye**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/rare-dye-sistemi#house-dye) kullanarak, bu menü üzerinden seçtiğiniz rengi doğrudan evinize uygulayabilirsiniz.
 
 Renkleri deneyin, tarzınızı belirleyin ve Nimloth dünyasında evinizi fark edilir kılın
 
@@ -232,11 +230,11 @@ Renkleri deneyin, tarzınızı belirleyin ve Nimloth dünyasında evinizi fark e
 
 <figure><img src="../.gitbook/assets/dye.gif" alt=""><figcaption></figcaption></figure>
 
-### Anahtarlar Sekmesi
+### Anahtarlar
 
 Evinizin güvenliği tamamen sizin kontrolünüzde!
 
-Anahtarlar Sekmesi üzerinden evinize ait anahtarları yönetebilir, dilediğiniz zaman yeni anahtarlar oluşturabilir veya mevcut olanları silebilirsiniz.
+Anahtarlar butonu üzerinden evinize ait anahtarları yönetebilir, dilediğiniz zaman yeni anahtarlar oluşturabilir veya mevcut olanları silebilirsiniz.
 
 Yeni bir anahtar oluşturmak için <mark style="color:red;">**50.000 altın**</mark> ödemeniz yeterlidir.
 
@@ -244,57 +242,57 @@ Eğer güvenliği tamamen sıfırlamak ve tüm mevcut anahtarları devre dışı
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/OaZ2uF7tUKKVJWxm4TctHWh1zOYaochGPUR9HpuQ.png)
 
-### Vendorlar Sekmesi
+### Vendorlar
 
 Evinizde yer alan tüm vendorları tek bir ekrandan yönetebilirsiniz!
 
-**Vendorlar Sekmesi** üzerinden evinizde kurulu vendorları görüntüleyebilir, her bir vendorun durumu ve özellikleri hakkında detaylı bilgi edinebilirsiniz.
+Burada evinizde kurulu vendorları görüntüleyebilir, her bir vendorun durumu ve özellikleri hakkında detaylı bilgi edinebilirsiniz.
 
-Bu sekme aracılığıyla vendorların yapmış olduğu son satışları da inceleyebilirsiniz.
+Bu buton aracılığıyla vendorların yapmış olduğu son satışları da inceleyebilirsiniz.
 
-Ancak unutmayın, **Son Satışlar** sekmesi yalnızca **Premium üyeler** tarafından görüntülenebilir.
+Ancak unutmayın, <mark style="color:red;">**Son Satışlar**</mark> yalnızca [<mark style="color:red;">**Premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) <mark style="color:red;">**üyeler**</mark> tarafından görüntülenebilir.
 
-Dilerseniz vendorlarınızı bu sekmeden Kontrat haline getirebilirsiniz.
+Dilerseniz vendorlarınızı buradan Kontrat haline getirebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/zI3zQmzKOFikrQGXqb0qodp75BvExIrSr1QPwkbJ.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/aM6lM6iMcSw9PQEXvz18jOJiEPBjohdBsfS00Ld1.png)
 
-### Evi Transfer Et Sekmesi
+### Evi Transfer Et
 
-**Evi Transfer Et Sekmesi** üzerinden sahip olduğunuz evi başka bir oyuncuya devredebilirsiniz.
+Evi Transfer Et butonu üzerinden sahip olduğunuz evi başka bir oyuncuya devredebilirsiniz.
 
-Transfer işlemi sırasında dilerseniz evin mevcut **dostlarını ve ortaklarını** da yeni sahibine aktarabilirsiniz.
+Transfer işlemi sırasında dilerseniz evin mevcut <mark style="color:red;">**dostlarını ve ortaklarını**</mark> da yeni sahibine aktarabilirsiniz.
 
 Transferin gerçekleşebilmesi için:
 
-• Evin sahibinin en az **50.000 altın** bulundurması,
+• Evin sahibinin en az <mark style="color:red;">**50.000 altın**</mark> bulundurması,
 
-• Evin devredileceği oyuncunun ise en az **25.000 altına** sahip olması gerekmektedir.
+• Evin devredileceği oyuncunun ise en az <mark style="color:red;">**25.000 altına**</mark> sahip olması gerekmektedir.
 
 Ancak dikkat edilmesi gereken önemli noktalar vardır:
 
 • Ev satışta iken başka bir oyuncuya transfer edilemez.
 
-• Transfer işlemi yapılırken evde **strongbox** veya **vendor** bulunmamalıdır.
+• Transfer işlemi yapılırken evde <mark style="color:red;">**strongbox**</mark> veya <mark style="color:red;">**vendor**</mark> bulunmamalıdır.
 
 Bu koşullar sağlandığında evinizi güvenle devredebilir, Nimloth dünyasında yeni sahiplerine bırakabilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Mi2em6U0axytY5vOWrcVciCEUAnFb5lOPTjsaoo6.png)
 
-### Evi Satışa Çıkart
+## Evi Satışa Çıkart
 
-Bu sekme aracılığıyla sahip olduğunuz evi belirlediğiniz fiyattan satışa çıkarabilirsiniz.
+Bu buton aracılığıyla sahip olduğunuz evi belirlediğiniz fiyattan satışa çıkarabilirsiniz.
 
-Evi satışa çıkartmak için **50.000 altın** gereklidir.
+Evi satışa çıkartmak için <mark style="color:red;">**50.000 altın**</mark> gereklidir.
 
-Evin minimum satış fiyatı **100.000 altın** olmalıdır.
+Evin minimum satış fiyatı <mark style="color:red;">**100.000 altın**</mark> olmalıdır.
 
-Satış tamamlandığında, belirlediğiniz satış fiyatı üzerinden **%10 kesinti** yapılır.
+Satış tamamlandığında, belirlediğiniz satış fiyatı üzerinden <mark style="color:red;">**%10 kesinti**</mark> yapılır.
 
-Fiyat alanına satmak istediğiniz tutarı girdikten sonra **“Hesapla”** butonuna tıklayarak kesinti sonrasında elde edeceğiniz net geliri görebilirsiniz.
+Fiyat alanına satmak istediğiniz tutarı girdikten sonra <mark style="color:red;">**“Hesapla”**</mark> butonuna tıklayarak kesinti sonrasında elde edeceğiniz net geliri görebilirsiniz.
 
-Tüm bilgiler doğruysa **“Satışa Çıkart”** butonuna basarak işlemi tamamlayabilirsiniz.
+Tüm bilgiler doğruysa <mark style="color:red;">**“Satışa Çıkart”**</mark> butonuna basarak işlemi tamamlayabilirsiniz.
 
 Eviniz satışa çıkarıldığında tabelası yeşil renge dönecektir.
 
@@ -302,9 +300,13 @@ Ayrıca premium üyeler, evlerinde yanan bir “Satılık” tabelasına da sahi
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lCHHpPtw73bQz55C56ksz6H2z7DiC6wBTWYqnog1.png)
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/w3F6RmIkQQbaCgvBnzhSLgeSGJhntfCn7dKBaHhZ.png)
+<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/cyHEgZmyMXnLTS0B4oXt0xTo3w3NgLxi9sFXHiYA.png)
+
+
+
+<figure><img src="../.gitbook/assets/satış.gif" alt=""><figcaption></figcaption></figure>
 
 ### Ev Satın Alma
 
