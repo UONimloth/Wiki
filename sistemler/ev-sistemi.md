@@ -280,6 +280,19 @@ Bu koşullar sağlandığında evinizi güvenle devredebilir, Nimloth dünyasın
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Mi2em6U0axytY5vOWrcVciCEUAnFb5lOPTjsaoo6.png)
 
+### Kapıları Linkle
+
+Evlerinize ait kapıları artık birbirleriyle **linkleyebilirsiniz**. Linklenen kapılar, biri açıldığında diğer kapıyla birlikte açılarak kullanım kolaylığı sağlar.
+
+* Linkleme İşlemi yalnızca <mark style="color:red;">**ev sahibi**</mark> tarafından gerçekleştirilebilir.
+* Linkleme işleminin ücreti <mark style="color:red;">**25.000 altındır**</mark>**.**
+* Linklenen kapılar birlikte açılıp kapanır.
+* Kapı linkini istediğiniz zaman <mark style="color:red;">**25.000 altın**</mark> karşılığında kaldırabilirsiniz.
+
+Bu özellik sayesinde evinizde birbirinden farklı konumlarda bulunan kapıları tek bir işlemle birlikte kontrol edebilirsiniz.
+
+<figure><img src="../.gitbook/assets/door_link.gif" alt=""><figcaption></figcaption></figure>
+
 ## Evi Satışa Çıkart
 
 Bu buton aracılığıyla sahip olduğunuz evi belirlediğiniz fiyattan satışa çıkarabilirsiniz.
@@ -300,19 +313,15 @@ Ayrıca premium üyeler, evlerinde yanan bir “Satılık” tabelasına da sahi
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lCHHpPtw73bQz55C56ksz6H2z7DiC6wBTWYqnog1.png)
 
-<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/cyHEgZmyMXnLTS0B4oXt0xTo3w3NgLxi9sFXHiYA.png)
-
-
-
-<figure><img src="../.gitbook/assets/satış.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/satış (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Ev Satın Alma
 
 Bir oyuncu satışta olan bir evi tabelasına çift tıklayarak görüntüleyebilir. Bu sayede evin fiyatı ve özellikleri hakkında bilgi sahibi olabilir.
 
-Eğer satın almak isterse, tabelada yer alan **“Satın Al”** seçeneğini kullanarak işlemi gerçekleştirebilir.
+Eğer satın almak isterse, tabelada yer alan <mark style="color:red;">**“Satın Al”**</mark> seçeneğini kullanarak işlemi gerçekleştirebilir.
 
 Evi satın alabilmek için:
 
