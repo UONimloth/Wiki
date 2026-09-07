@@ -53,7 +53,7 @@ Bu yazıda, o şehirde hangi eşyaların ticaretinin yapılabileceği açıkça 
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Nf3z2fa8ep1M6IMzE4OoQCU6zULPyHhFTIpDh6k0.png)
 
-## Kontrat Alma
+### Kontrat Alma
 
 <mark style="color:red;">**‘Kontrat Al’**</mark> butonuna tıkladığınızda size iki eşya verilir:
 
@@ -65,7 +65,7 @@ Bu iki eşya, deniz ticaretinin temel taşlarıdır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/6aWGMnP3eeXpWlHJYXeICkEqOAs8teC9uIFLzbqM.png)
 
-## Trade Crate
+### Trade Crate
 
 Trade Crate’e gemi içerisindeyken çift tıklayarak geminize yerleştirebilirsiniz.
 
@@ -77,11 +77,11 @@ Ekleyebileceğiniz eşyalar, bulunduğunuz şehrin ticaret türüne uygun olmal�
 
 Kurmuş olduğunuz Trade Crate hareket ettirilemez. Geminizden kaldırmak için Ticaret Kontratını tamamen iptal etmeniz gerekmektedir
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/a314E6YFd4NnoVJtIXggBrvHqGDjlkZuDz29Fdv5.png)
+<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lfRFoxgW3k2ykRsrn3742W4UB4yDTu5zJrQwHso9.png)
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/FqzZNUP7qBokXHK9ScUYoi1fBAPfcGzWZbPK74Vb.png)
+<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
 Trade Crate'e eşya eklediğinizde Crate'e çift tıklayarak açılan dialogda doluluk oranının, tek tıkladığızda ise kontrat değerini görüntüleyebilirsiniz.
 
@@ -91,7 +91,7 @@ Trade Crate'e eşya eklediğinizde Crate'e çift tıklayarak açılan dialogda d
 
 <figure><img src="../.gitbook/assets/ticaret.gif" alt=""><figcaption></figcaption></figure>
 
-## Trade Contract
+### Trade Contract
 
 Trade Contract çantanızda yer alır ve ticaret sürecinizi yönetmenizi sağlar.
 
@@ -103,7 +103,7 @@ Trade Contract'a tek tıklayarak Kontrat değerini görüntüleyebilirsiniz.
 
 <figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
-## Kontratı İmzalama Süreci
+### Kontratı İmzalama Süreci
 
 İmzalat butonuna bastığınızda bir hedef belirlemeniz istenecektir.
 
@@ -129,7 +129,7 @@ Ticarete başladığınızda tüm sunucuya ticaretin hangi şehirden başladığ
 
 <figure><img src="../.gitbook/assets/ticaret 2.gif" alt=""><figcaption></figcaption></figure>
 
-## Ticaret İptal Etme
+### Ticaret İptal Etme
 
 Ticareti, ister imzalamadan önce ister imzaladıktan sonra iptal edebilirsiniz.
 
@@ -147,11 +147,11 @@ Not: Geminiz batırıldığında veya gemide öldüğünüzde ticaretiniz iptal 
 
 <figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
-## Ticaretin Teslim Edilmesi
+### Ticaretin Teslim Edilmesi
 
 Ticaretinizi tamamlamak istediğiniz noktayı dilediğiniz gibi seçebilirsiniz. Tek istisna, ticareti başlattığınız şehre teslimat yapamamanızdır.
 
-Ticareti teslim etmek için çantanızdaki Trade Contract’a çift tıklayın ve ardından **“Teslim Et”** butonuna basın.
+Ticareti teslim etmek için çantanızdaki Trade Contract’a çift tıklayın ve ardından <mark style="color:red;">**“Teslim Et”**</mark> butonuna basın.
 
 Bu işlemden sonra bir hedef belirlemeniz istenecektir. Hedef olarak bir Sea Trader Vendor seçtiğinizde, ticaretiniz başarıyla tamamlanacaktır.
 
@@ -163,7 +163,7 @@ Teslimat başarıyla gerçekleştiğinde tüm sunucuya duyurulan bir bildirim me
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rXSZy1lfV2cXPgaBiM608FHCrzN97yJoVje72OOG.png)
 
-## Fiyatlar Sekmesi
+## Fiyatlar
 
 Deniz ticaretinde kazancınızı maksimize etmenin yolu, şehirlerin ihtiyaçlarını doğru takip etmekten geçer. Bu sekmede iki temel işlem yapabilirsiniz:
 
