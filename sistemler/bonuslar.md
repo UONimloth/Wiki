@@ -246,17 +246,17 @@ Critical Hit, tüm silah türlerinde bulunabilen ve saldırı gücünü ciddi or
 
 Bu bonus aktif olduğunda, oyuncunun yaptığı saldırı normalden çok daha yüksek hasar verir
 
-Bonusun etkinleşme koşulları hedefin **armor değerine ve saldırganın durumuna göre** belirlenir:
+Bonusun etkinleşme koşulları hedefin <mark style="color:red;">**armor değerine ve saldıranın durumuna göre**</mark> belirlenir:
 
-Eğer hedefin armor değeri **25’in altındaysa**, Critical Hit bonusu **%100 ihtimalle** devreye girer.
+Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Critical Hit bonusu <mark style="color:red;">**%100 ihtimalle**</mark> devreye girer.
 
-Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda **Armslore ve Anatomy** yeteneğiniz devreye girer.
+Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda <mark style="color:red;">**Armslore ve Anatomy**</mark> yeteneğiniz devreye girer.
 
 Armslore ve Anatomy yeteneklerinin seviyesi yükseldikçe Critical Hit bonusunun aktif olma ihtimali de artar.
 
 ### Hasar Hesaplaması
 
-Critical Hit aktif olduğunda, vurulacak ek hasar miktarı **Tactics ve Lumberjacking** yeteneklerine göre belirlenir:
+Critical Hit aktif olduğunda, vurulacak ek hasar miktarı <mark style="color:red;">**Tactics ve Lumberjacking**</mark> yeteneklerine göre belirlenir:
 
 Tactics: +%20 ila +%30 arası ek kritik hasar
 
@@ -264,13 +264,13 @@ Lumberjacking: +%20 ila +%30 arası ek kritik hasar
 
 Örnek olarak Katana silahının temel hasarı 10 olsun.
 
-Hedefin armor değeri **25’in altındaysa, her vuruş 20 hasar** verir.
+Hedefin armor değeri <mark style="color:red;">**25’in altındaysa, her vuruş 20 hasar**</mark> verir.
 
 Hedefin armor değeri 25’in üzerindeyse, kritik vuruş şansı yeteneklere bağlıdır.
 
-Critical Hit aktif olduğunda sadıran oyuncunun Tactics yeteneği 100 ise **hasar 12–13 olur.**
+Critical Hit aktif olduğunda sadıran oyuncunun Tactics yeteneği 100 ise <mark style="color:red;">**hasar 12–13 olur**</mark>**.**
 
-Tactics + Lumberjacking yeteneği 100 ise **hasar 14-16 olur.**
+Tactics + Lumberjacking yeteneği 100 ise <mark style="color:red;">**hasar 14-16 olur**</mark>**.**
 
 ## Evaluating Intelligence
 
@@ -290,7 +290,7 @@ Her iki durumda da bonusun gücü, oyuncunun Evaluating Intelligence yeteneğine
 
 Oyuncunun uyguladığı büyülerin süresi ve etkisi, Evaluating Intelligence yeteneğine göre artar.
 
-Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü **%16 oranında** artar.
+Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü <mark style="color:red;">**%16 oranında**</mark> artar.
 
 Etki, kısmi oranlarda 0–100 arası yetenek seviyesine göre doğrusal olarak hesaplanır.
 
@@ -298,9 +298,9 @@ Etki, kısmi oranlarda 0–100 arası yetenek seviyesine göre doğrusal olarak 
 
 Oyuncunun diğer oyunculara veya yaratıklara attığı zarar veren büyüler, Evaluating Intelligence bonusundan doğrudan etkilenir.
 
-Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü **%16 oranında** artar.
+Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü <mark style="color:red;">**%16 oranında**</mark> artar.
 
-Yaratıklara uygulanan bonus miktarı oyunculara uygulanan bonusun **2 katı oranında** artar.
+Yaratıklara uygulanan bonus miktarı oyunculara uygulanan bonusun <mark style="color:red;">**2 katı oranında**</mark> artar.
 
 Bu artış, her bir büyü hasarının hesaplanması sırasında direkt olarak büyü gücüne eklenir.
 
@@ -322,7 +322,7 @@ Her iki durumda da bonusun gücü, oyuncunun Evaluating Intelligence yeteneğine
 
 Oyuncunun uyguladığı büyülerin süresi ve etkisi, Inscription yeteneğine göre artar.
 
-Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü **%16 oranında** artar.
+Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü <mark style="color:red;">**%16 oranında**</mark> artar.
 
 Etki, kısmi oranlarda 0–100 arası yetenek seviyesine göre doğrusal olarak hesaplanır.
 
@@ -330,9 +330,9 @@ Etki, kısmi oranlarda 0–100 arası yetenek seviyesine göre doğrusal olarak 
 
 Oyuncunun diğer oyunculara veya yaratıklara attığı zarar veren büyüler, Inscription bonusundan doğrudan etkilenir.
 
-Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü **%16 oranında** artar.
+Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü <mark style="color:red;">**%16 oranında**</mark> artar.
 
-Yaratıklara uygulanan bonus miktarı oyunculara uygulanan bonusun **2 katı oranında** artar.
+Yaratıklara uygulanan bonus miktarı oyunculara uygulanan bonusun <mark style="color:red;">**2 katı oranında**</mark> artar.
 
 Bu artış, her bir büyü hasarının hesaplanması sırasında direkt olarak büyü gücüne eklenir.
 
