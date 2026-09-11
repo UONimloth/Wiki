@@ -159,7 +159,7 @@ Ticareti sadece gemideyken teslim edebilirsiniz
 
 Teslimat başarıyla gerçekleştiğinde tüm sunucuya duyurulan bir bildirim mesajı paylaşılır ve emeğinizin karşılığı size banka çeki olarak verilir. Böylece kazancınızı doğrudan bankanıza yatırabilirsiniz.
 
-**Ticareti teslim ettiğinizde o şehrin ticaretini yaptığınız eşyaya ihtiyaç miktarı azalacaktır, bu da şehre sonradan yapılan ticaretlerdeki kazanç miktarını etkilemektedir.**
+<mark style="color:red;">**Ticareti teslim ettiğinizde o şehrin ticaretini yaptığınız eşyaya ihtiyaç miktarı azalacaktır, bu da şehre sonradan yapılan ticaretlerdeki kazanç miktarını etkilemektedir.**</mark>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rXSZy1lfV2cXPgaBiM608FHCrzN97yJoVje72OOG.png)
 
@@ -169,7 +169,7 @@ Deniz ticaretinde kazancınızı maksimize etmenin yolu, şehirlerin ihtiyaçlar
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/hXN9xyikcrjluPPJ6V6opxuZL7diRHRKBnYKp6sC.png)
 
-## 1. Şehir İhtiyaçlarını Görüntüleme
+### Şehir İhtiyaçlarını Görüntüleme
 
 Bu bölümde tüm şehirlerin ticaret ihtiyaçlarını ve stok durumlarını görebilirsiniz.
 
@@ -185,7 +185,7 @@ Ayrıca Filtre butonuna tıklayarak sadece belirlediğiniz başlangıç ve tesli
 
 En altta yer alan Tümünü Seç butonu ile tek tek seçmeden tüm şehirleri görüntüleyebilirsiniz
 
-Filtrelerinizi belirledikten sonra “Filtreyi Uygula” butonuna basarak sonuçları görüntüleyebilirsiniz.
+Filtrelerinizi belirledikten sonra <mark style="color:red;">**“Filtreyi Uygula”**</mark> butonuna basarak sonuçları görüntüleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/KbGigqyNg3qLnHFOQqsCLamO8uy0asDqDcRrakLH.png)
 
@@ -193,15 +193,17 @@ Filtrelerinizi belirledikten sonra “Filtreyi Uygula” butonuna basarak sonuç
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Pex5KduWA7L3hKpVgJo8dRAd5SOUN4JwH7gZgj17.png)
 
-## Getiri Hesaplama
+<figure><img src="../.gitbook/assets/ticaret 3.gif" alt=""><figcaption></figcaption></figure>
+
+### Getiri Hesaplama
 
 Deniz ticaretinde her rota aynı kazancı sağlamaz. Bu nedenle ticaretinizi başlatmadan önce olası kazancınızı hesaplamak akıllıca olacaktır.
 
 Bu bölümde, yapmayı planladığınız ticaretin anlık tahmini getirisini görebilirsiniz.
 
-Öncelikle Başlangıç Noktasının yanında yer alan **“Seç”** butonuna tıklayarak bir başlangıç ve teslimat noktası belirlemeniz gerekir.
+Öncelikle Başlangıç Noktasının yanında yer alan <mark style="color:red;">**“Seç”**</mark> butonuna tıklayarak bir başlangıç ve teslimat noktası belirlemeniz gerekir.
 
-Ardından, ticarete ekleyeceğiniz kontrat değerini girip **“Hesapla”** butonuna bastığınızda, sistem mesafe ve o anda geçerli stok durumuna göre size beklenen kazanç miktarını gösterecektir.
+Ardından, ticarete ekleyeceğiniz kontrat değerini girip <mark style="color:red;">**“Hesapla”**</mark> butonuna bastığınızda, sistem mesafe ve o anda geçerli stok durumuna göre size beklenen kazanç miktarını gösterecektir.
 
 Unutmayın: Bu kazanç anlıktır ve teslimat yaptığınız andaki şehir stoklarına bağlı olarak değişiklik gösterebilir.
 
@@ -210,6 +212,8 @@ Unutmayın: Bu kazanç anlıktır ve teslimat yaptığınız andaki şehir stokl
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/BvpY8ABSjYYwtNEtpLvTjqb31wkGyzCV3XED52y0.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/6eCsDTFZ88MxvbXol5yUU0hZYV8YtH0KPUtamZQj.png)
+
+<figure><img src="../.gitbook/assets/ticaret 4.gif" alt=""><figcaption></figcaption></figure>
 
 ## Ticaretlerim
 
