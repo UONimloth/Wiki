@@ -358,6 +358,7 @@
   * [Fire Llama](binekler/fire-llama.md)
   * [Mustang](binekler/mustang.md)
   * [Ice Ostard](binekler/ice-ostard.md)
+  * [Ascendant Ostard](binekler/ascendant-ostard.md)
   * [Silver Steed](binekler/silver-steed.md)
   * [Fire Steed](binekler/fire-steed.md)
   * [Kii Rin](binekler/kii-rin.md)
