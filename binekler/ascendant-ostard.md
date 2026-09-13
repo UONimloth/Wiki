@@ -16,6 +16,5 @@ Yalnızda [<mark style="color:red;">**günlük görev sisteminden**</mark>](http
 
 ## Diğer Bilgiler
 
-| Achievement Rakamları | 5,50,1000 |
-| --------------------- | --------- |
-| Verdiği Armor         | 7         |
+| Verdiği Armor | 7 |
+| ------------- | - |
