@@ -74,27 +74,27 @@ Sıralamada <mark style="color:red;">**ilk 3 oyuncu**</mark>, birbirinden farkl�
 ### 1. Sıra
 
 * 3 Rare renk arasından seçilebilir <mark style="color:red;">**5 Charge Rare Dye**</mark>
-* Desert Ostard, Forest Ostard veya Frenzied Ostard arasından <mark style="color:red;">**binek tipi seçimi**</mark>
+* [<mark style="color:red;">**Ascendant Ostardlar**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler/ascendant-ostard) arasından <mark style="color:red;">**binek tipi seçimi**</mark>
 * Binek <mark style="color:red;">**renk seçimi**</mark>
 * <mark style="color:red;">**Newbified Hood**</mark>
 
 ### 2. Sıra
 
 * 3 Rare renk arasından random <mark style="color:red;">**3 Charge Rare Dye**</mark>
-* Desert Ostard, Forest Ostard veya Frenzied Ostard arasından <mark style="color:red;">**binek tipi seçimi**</mark>
-* <mark style="color:red;">**3 renk arasından random**</mark> binek rengi
-* <mark style="color:red;">**Newbified Hood**</mark>
+* [<mark style="color:red;">**Ascendant Ostardlar**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler/ascendant-ostard) arasından <mark style="color:red;">**binek tipi seçimi**</mark>
+* Random binek rengi
+* Newbified Hood
 
 ### 3. Sıra
 
 * 3 Rare renk arasından random <mark style="color:red;">**1 Charge Rare Dye**</mark>
-* Desert Ostard, Forest Ostard veya Frenzied Ostard arasından <mark style="color:red;">**random binek**</mark>
-* <mark style="color:red;">**3 renk arasından random**</mark> binek rengi
-* <mark style="color:red;">**Newbified Hood**</mark>
+* Random [<mark style="color:red;">**Ascendant Ostard**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler/ascendant-ostard)
+* **Random** binek rengi
+* Newbified Hood
 
 ### 4–5. Sıralar
 
-* Random <mark style="color:red;">**Mustang**</mark>&#x20;
+* Random <mark style="color:red;">**Mustang**</mark>
 * 3 Faster veya Wizard Robe&#x20;
 * 5 adet +15 Silah
 
