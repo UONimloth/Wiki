@@ -254,13 +254,13 @@ Bayrak seçimi yapılmadan <mark style="color:red;">**Guild Wars sistemine katı
 
 ### Bayrak Seçimi ve Bayrakların Önemi
 
-Her guild ilk bayrağını ücretsiz olarak seçebilir. Yapılan bu ilk seçim 30 gün boyunca geçerli olur. Süresi dolan bayraklar, 250 Guild Puanı karşılığında yenilenebilir.
+Guild bayrakları tamamen ücretsizdir ve isteyen tüm guildler tarafından seçilebilmektedir.
 
-Guildler istedikleri zaman bayrak değişikliği yapabilirler ancak bu işlem yalnızca her 7 günde bir gerçekleştirilebilir.
+Guildler istedikleri zaman bayrak değişikliği yapabilirler ancak bu işlem yalnızca her <mark style="color:red;">**7 günde bir**</mark> gerçekleştirilebilir.
 
 Seçilen bayraklar tamamen benzersizdir; bir bayrak bir guild tarafından seçildiğinde, aynı bayrağı başka bir guild kullanamaz.
 
-Sunucuda toplamda 20 farklı bayrak seçeneği bulunmakta ve her bayrak için 6 farklı tasarım mevcuttur. Guild Master, bu tasarımlar arasından birliğini en iyi temsil ettiğini düşündüğü modeli seçebilir.
+Toplamda <mark style="color:red;">**20 farklı bayrak**</mark> seçeneği bulunmakta ve her bayrak için <mark style="color:red;">**6 farklı tasarım**</mark> mevcuttur. Guild Master, bu tasarımlar arasından birliğini en iyi temsil ettiğini düşündüğü modeli seçebilir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/YucbO3fWtrdpVpwE9W5QjWtlf24yZCoSfDx7zdH0.png)
 
@@ -271,6 +271,8 @@ Sunucuda toplamda 20 farklı bayrak seçeneği bulunmakta ve her bayrak için 6 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/YE9hGUcrB9gtv3UqfmIf9nC2mDnU23WWKzl9to0n.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/oHnEB66QwUcjQlG7g6dCDeke8YwhP6onWVl4gQLF.png)
+
+<figure><img src="../.gitbook/assets/guild flag.gif" alt=""><figcaption></figcaption></figure>
 
 Bayrak seçimi tamamlandığında, guildin kalesinin dört bir yanında bu bayraklar dalgalanmaya başlar.
 
@@ -329,3 +331,10 @@ Bu sekme tüm oyunculara açıktır ve o an Esyria şehrinin kaç gündür hangi
 Bu sistemle ilgili detaylı bilgi Guildwars Sistemi altında verilecektir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/10hW4bdu8XKecWiIbyHGt3nOkQeqt2sl1QAU13CF.png)
+
+### War Zone
+
+[<mark style="color:red;">**War Zone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/war-zone) sekmesi, <mark style="color:red;">**tamamen eşit koşullar altında, dış etkenlerden bağımsız şekilde**</mark> başka guildler ile karşı karşıya gelmesini sağlar.\
+Bu sekme altından diğer guildler ile <mark style="color:red;">**Last Stand**</mark> ve <mark style="color:red;">**Team Deathmatch**</mark> etkinliklerine katılabilir veya daha önce yapmış olduğunuz savaşları görüntüleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
