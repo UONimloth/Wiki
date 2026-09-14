@@ -6,7 +6,7 @@ Oyunda öldüğünüzde karakterinizin üzerinde bir Ankh simgesi belirir. Bu si
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/LA4TRUqFWrsN4zPNYCNN6TcQGJIsR6NR9zZYk85Y.png)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Ölüler Arasında Dolaşmaya Devam Et
 
