@@ -66,7 +66,7 @@ Oyuncular tarafından haritaya eklenen markerların gösterilmesini açar veya k
 
 #### **Always Show Labels: userMarkers**
 
-Oyuncular tarafından eklenen markerların isimlerinin haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+Oyuncular tarafından eklenen markerların, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
 
 ### **Show/Hide 'Dungeons'**
 
@@ -84,7 +84,7 @@ Mezarlıkların harita üzerinde gösterilmesini açar veya kapatır.
 
 #### **Always Show Labels: Graveyards**
 
-Mezarlıkların gösterilmesini haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+Mezarlıkların, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
 
 <figure><img src="../.gitbook/assets/worldmap 4.gif" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +94,9 @@ Harita üzerinde yer alan tüm yaratıkların gösterilmesini açar veya kapatı
 
 #### **Always Show Labels: Monsters**
 
-Yaratıkların gösterilmesini haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+Yaratıkların, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+
+<figure><img src="../.gitbook/assets/worldmap 5 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### **Show/Hide 'Moongates'**
 
@@ -102,5 +104,84 @@ Nimloth dünyasında bulunan tüm Moongate'lerin harita üzerinde gösterilmesin
 
 #### **Always Show Labels: Moongates**
 
-Moongate'lerin gösterilmesini haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+Moongate'lerin, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
 
+<figure><img src="../.gitbook/assets/worldmap 6.gif" alt=""><figcaption></figcaption></figure>
+
+### **Show/Hide 'Shrines'**
+
+Nimloth dünyasında bulunan tüm Shrine'ların harita üzerinde gösterilmesini açar veya kapatır.
+
+#### **Always Show Labels: Shrines**
+
+Shrine'ların, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+
+### **Show/Hide 'Towns'**
+
+Nimloth dünyasında bulunan tüm şehirlerin harita üzerinde gösterilmesini açar veya kapatır.
+
+#### **Always Show Labels: Towns**
+
+Şehirlerin, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+
+<figure><img src="../.gitbook/assets/worldmap 7.gif" alt=""><figcaption></figcaption></figure>
+
+### **Show/Hide 'Vendors'**
+
+Nimloth dünyasında bulunan vendorların konumlarının harita üzerinde gösterilmesini açar veya kapatır.
+
+#### **Always Show Labels: Vendors**
+
+Vendorların, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
+
+<figure><img src="../.gitbook/assets/worldmap 8.gif" alt=""><figcaption></figcaption></figure>
+
+## **Grid and Zone Options**
+
+Bu sekme, harita üzerinde grid görünümüyle ilgili ayarı içerir.
+
+### **Show/Hide 8x8 Grid if Zoomed**
+
+Harita yeterince yakınlaştırıldığında **8x8 boyutundaki gridin** gösterilmesini açar veya kapatır.
+
+<figure><img src="../.gitbook/assets/worldmap 9 (1).gif" alt=""><figcaption></figcaption></figure>
+
+## Names & Healthbars
+
+Bu sekme, World Map üzerinde oyuncu isimlerinin ve health barlarının gösterilmesiyle ilgili ayarları içerir.
+
+### **Show Your Name**
+
+Kendi karakterinizin isminin harita üzerinde gösterilmesini açar veya kapatır.
+
+### **Show Your Healthbar**
+
+Kendi karakterinizin health barının harita üzerinde gösterilmesini açar veya kapatır.
+
+### **Show Group Name**
+
+Bir odada bulunuyorsanız, aynı odadaki diğer oyuncuların isimlerinin harita üzerinde gösterilmesini açar veya kapatır.
+
+### **Show Group Healthbar**
+
+Bir odada bulunuyorsanız, aynı odadaki diğer oyuncuların health barlarının harita üzerinde gösterilmesini açar veya kapatır.
+
+Odada bulunan bir oyuncu <mark style="color:red;">**Poison**</mark> büyüsünün etkisi altındaysa, ilgili health bar <mark style="color:red;">**yeşil**</mark> renkte gösterilir.
+
+<figure><img src="../.gitbook/assets/worldmap 10.gif" alt=""><figcaption></figcaption></figure>
+
+## Go to Location
+
+Bu seçenek, harita üzerinde belirli bir koordinata hızlıca gitmenizi sağlar.
+
+Görüntülemek istediğiniz koordinatları girerek **Go** butonuna tıkladığınızda, World Map ilgili konumu gösterir.
+
+<figure><img src="../.gitbook/assets/worldmap 11.gif" alt=""><figcaption></figcaption></figure>
+
+## Flip Map
+
+Bu seçenek aktif edildiğinde World Map, oyun içerisindeki Minimap'te olduğu gibi eğik bir açıyla görüntülenir.
+
+Bu görünüm, harita üzerindeki hareket yönünün oyun içerisindeki görüntüyle daha doğru şekilde örtüşmesini sağlar.
+
+<figure><img src="../.gitbook/assets/worldmap 12.gif" alt=""><figcaption></figcaption></figure>
