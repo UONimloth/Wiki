@@ -185,3 +185,27 @@ Bu seçenek aktif edildiğinde World Map, oyun içerisindeki Minimap'te olduğu 
 Bu görünüm, harita üzerindeki hareket yönünün oyun içerisindeki görüntüyle daha doğru şekilde örtüşmesini sağlar.
 
 <figure><img src="../.gitbook/assets/worldmap 12.gif" alt=""><figcaption></figcaption></figure>
+
+## Keep Map on Top
+
+Bu seçenek aktif edildiğinde World Map, Paperdoll, Status Bar, Backpack ve diğer oyun içi pencere ve dialogların üzerinde gösterilir.
+
+Bu sayede World Map açıkken diğer oyun içi pencereler haritanın görünürlüğünü engellemez.
+
+## Free View
+
+Bu seçenek aktif edildiğinde World Map, karakterinizi takip etmeyi bırakır ve Serbest Görünüm moduna geçer. Bu modda harita üzerinde serbestçe hareket ederek istediğiniz bölgeleri inceleyebilirsiniz.
+
+Haritanın sağ üst köşesinde bulunan <mark style="color:red;">**Follow**</mark> ve <mark style="color:red;">**Map0**</mark> butonları, Takip ve Serbest Görünüm modları arasında hızlıca geçiş yapmanızı sağlayan kısayollardır.
+
+## Show Party Members
+
+Bu seçenek, aynı <mark style="color:red;">**Party**</mark> içerisinde bulunduğunuz oyuncuların konumlarının World Map üzerinde gösterilmesini açar veya kapatır.
+
+Party üyelerinin konumları yalnızca <mark style="color:red;">**sizinle aynı ekran içerisinde bulundukları sürece**</mark> görüntülenebilir. Daha uzak mesafelerdeki arkadaşlarınızın konumlarını anlık olarak takip edebilmek için <mark style="color:red;">**Oda (Room)**</mark> sistemini kullanmanız tavsiye edilir.
+
+## Show Guild Members
+
+Bu seçenek, aynı <mark style="color:red;">**Guild**</mark> içerisinde bulunduğunuz oyuncuların konumlarının World Map üzerinde gösterilmesini açar veya kapatır.
+
+Guild üyelerinin konumları yalnızca <mark style="color:red;">**sizinle aynı ekran içerisinde bulundukları sürece**</mark> görüntülenebilir. Daha uzak mesafelerdeki Guild üyelerinin konumlarını anlık olarak takip edebilmek için <mark style="color:red;">**Oda (Room)**</mark> sistemini kullanmanız tavsiye edilir.
