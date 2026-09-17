@@ -28,7 +28,7 @@ Takip modu aktifken sağ üstte bulunan <mark style="color:red;">**Map0**</mark>
 
 ## Map Marker Options
 
-World Map üzerinde sağ tıklayarak açılan ayarlar penceresindeki **Map Marker Options** sekmesinden, harita üzerinde gösterilen işaretleyicilerle (marker) ilgili çeşitli ayarlar yapılabilir.
+World Map üzerinde sağ tıklayarak açılan ayarlar penceresindeki Map Marker Options sekmesinden, harita üzerinde gösterilen işaretleyicilerle (marker) ilgili çeşitli ayarlar yapılabilir.
 
 ### **Reload Markers**
 
@@ -142,7 +142,7 @@ Bu sekme, harita üzerinde grid görünümüyle ilgili ayarı içerir.
 
 ### **Show/Hide 8x8 Grid if Zoomed**
 
-Harita yeterince yakınlaştırıldığında **8x8 boyutundaki gridin** gösterilmesini açar veya kapatır.
+Harita yeterince yakınlaştırıldığında 8x8 boyutundaki gridin gösterilmesini açar veya kapatır.
 
 <figure><img src="../.gitbook/assets/worldmap 9 (1).gif" alt=""><figcaption></figcaption></figure>
 
