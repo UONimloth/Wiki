@@ -44,6 +44,7 @@
 | Axe               | 12,16     | 26  | Tek Kare  | Çift El  | -        |
 | Bardiche          | 12,16     | 28  | Çift Kare | Çift El  | Dismount |
 | Battle Axe        | 14,18     | 26  | Tek Kare  | Çift El  | -        |
+| Broad Sword       | 10,14     | 36  | Tek Kare  | Tek El   | Bleed    |
 | Cutlass           | 9,13      | 40  | Tek Kare  | Tek El   | Bleed    |
 | Double Axe        | 13,17     | 24  | Tek Kare  | Çift El  | -        |
 | Executioner's Axe | 14,18     | 26  | Tek Kare  | Çift El  | -        |
