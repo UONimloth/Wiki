@@ -50,6 +50,7 @@
     * [02.03.2026 Güncellemeleri](guncelleme-notlari/mart-2026/02.03.2026-guncellemeleri.md)
     * [01.03.2026 Güncellemeleri](guncelleme-notlari/mart-2026/01.03.2026-guncellemeleri.md)
 * [Sistemler](sistemler/README.md)
+  * [Sipariş Sistemi](sistemler/siparis-sistemi.md)
   * [Günlük Görev Sistemi](sistemler/gunluk-gorev-sistemi.md)
   * [Top10 Sistemi](sistemler/top10-sistemi.md)
   * [Online Ödül Sistemi](sistemler/online-odul-sistemi.md)

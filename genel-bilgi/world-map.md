@@ -10,7 +10,7 @@ World Map ayrıca <mark style="color:red;">**oda (room) oluşturma**</mark> öze
 
 World Map'e oyun içerisindeki <mark style="color:red;">**Task Bar**</mark> üzerinde bulunan <mark style="color:red;">**World Map**</mark> butonuna tıklayarak veya oyun içi sohbete `-worldmap` yazarak ulaşabilirsiniz.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 World Map ilk açıldığında <mark style="color:red;">**Serbest Görünüm**</mark> modunda açılır. Bu modda harita üzerinde serbestçe hareket edebilir ve farklı bölgeleri inceleyebilirsiniz.
 
@@ -22,7 +22,7 @@ Takip modu aktif olduğunda harita, karakterinizin anlık konumunu takip eder ve
 
 Takip modu aktifken sağ üstte bulunan <mark style="color:red;">**Map0**</mark> yazısı <mark style="color:red;">**Follow**</mark> olarak değişir.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/worldmap 1.gif" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ World Map üzerinde sağ tıklayarak açılan ayarlar penceresindeki Map Marker 
 
 Harita üzerindeki tüm işaretleyicileri yeniden yükler. Marker bilgilerinde yapılan değişikliklerin haritaya yansıtılması için kullanılabilir.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Font Style**
 
