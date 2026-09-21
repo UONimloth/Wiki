@@ -58,8 +58,8 @@ Sipariş vermek istediğiniz silahı seçtikten sonra ekranın alt kısmında bu
 
 Seçtiğiniz silaha bağlı olarak farklı özellikler ve ek kriterler belirleyebilirsiniz.
 
-* **Silah Seviyesi**: Vanquishing, Power veya Force gibi silah seviyelerini seçebilirsiniz.
-* **Ek Kriterler**: Hasarsız, tamir edilmemiş veya Item ID yapılmamış olması gibi özel koşullar belirleyebilirsiniz.
+* <mark style="color:red;">**Silah Seviyesi:**</mark> Vanquishing, Power veya Force gibi silah seviyelerini seçebilirsiniz.
+* <mark style="color:red;">**Ek Kriterler:**</mark> Hasarsız, tamir edilmemiş veya Item ID yapılmamış olması gibi özel koşullar belirleyebilirsiniz.
 
 <mark style="color:red;">**Elven Bow**</mark> ve [<mark style="color:red;">**Yew Bow**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#yew-bow) gibi silahlarda silah seviyesi seçimi <mark style="color:red;">**bulunmaz**</mark>. Bu silahlar için bunun yerine Superior özelliği ek kriter olarak seçilebilir.
 
