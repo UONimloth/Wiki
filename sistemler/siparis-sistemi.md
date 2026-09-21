@@ -38,6 +38,14 @@ Kendi oluşturduğunuz siparişlerde Satış Yap butonu deaktif olacaktır.
 
 <figure><img src="../.gitbook/assets/sipariş 3 (1).gif" alt=""><figcaption></figcaption></figure>
 
+### Satışın Tamamlanması
+
+Satış işlemi başarıyla tamamlandığında, <mark style="color:red;">**satılan eşya otomatik olarak siparişi oluşturan oyuncunun bankasına**</mark>, satış tutarı ise <mark style="color:red;">**satışı gerçekleştiren oyuncunun bankasına**</mark> aktarılır.
+
+Ayrıca siparişi oluşturan oyuncuya, siparişinin tamamlandığını bildiren bir bildirim gönderilir.
+
+<figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+
 ## Sipariş Oluşturma
 
 Oluştur sekmesi üzerinden ihtiyaç duyduğunuz eşyalar için yeni siparişler oluşturabilirsiniz.
