@@ -5,6 +5,8 @@
   * [World Map](genel-bilgi/world-map.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [Eylül 2026](guncelleme-notlari/eylul-2026/README.md)
+    * [21.09.2026 Güncellemeleri](guncelleme-notlari/eylul-2026/21.09.2026-guncellemeleri.md)
+    * [13.09.2026 Güncellemeleri](guncelleme-notlari/eylul-2026/13.09.2026-guncellemeleri.md)
     * [02.09.2026 Güncellemeleri](guncelleme-notlari/eylul-2026/02.09.2026-guncellemeleri.md)
   * [Ağustos 2026](guncelleme-notlari/agustos-2026/README.md)
     * [31.08.2026 Güncellemeleri](guncelleme-notlari/agustos-2026/31.08.2026-guncellemeleri.md)
