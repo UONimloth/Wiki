@@ -209,3 +209,93 @@ Party üyelerinin konumları yalnızca <mark style="color:red;">**sizinle aynı 
 Bu seçenek, aynı <mark style="color:red;">**Guild**</mark> içerisinde bulunduğunuz oyuncuların konumlarının World Map üzerinde gösterilmesini açar veya kapatır.
 
 Guild üyelerinin konumları yalnızca <mark style="color:red;">**sizinle aynı ekran içerisinde bulundukları sürece**</mark> görüntülenebilir. Daha uzak mesafelerdeki Guild üyelerinin konumlarını anlık olarak takip edebilmek için <mark style="color:red;">**Oda (Room)**</mark> sistemini kullanmanız tavsiye edilir.
+
+## Show Mobiles
+
+Harita üzerinde bulunan <mark style="color:red;">**vendor ve yaratık gibi hareketli varlıkların**</mark> gösterilmesini açar veya kapatır.
+
+## Show Houses/Boats
+
+Harita üzerinde bulunan <mark style="color:red;">**evlerin ve gemilerin**</mark> gösterilmesini açar veya kapatır.
+
+## Show Your Coordinates
+
+World Map'in sol üst köşesinde, harita üzerinde <mark style="color:red;">**bulunduğunuz konumun koordinatlarını**</mark> ve mevcut zoom seviyesini gösterir.
+
+## Show Your Region Name
+
+World Map'in sağ alt köşesinde, harita üzerinde <mark style="color:red;">**bulunduğunuz bölgenin adını**</mark> gösterir.
+
+Bölge adının rengini <mark style="color:red;">**Ayarlar → Counters → Misc → Region Flag Hues**</mark> üzerinden değiştirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/worldmap.gif" alt=""><figcaption></figcaption></figure>
+
+## Show Sextant Coordinates
+
+World Map üzerinde bulunduğunuz konumu, oyun içerisindeki Sextant aracında olduğu gibi enlem ve boylam bilgileriyle gösterir.
+
+## Show Mouse Coordinates
+
+Fare imlecinin World Map üzerinde bulunduğu noktanın koordinatlarını gösterir. Bu sayede harita üzerindeki herhangi bir noktanın koordinatlarını kolayca öğrenebilirsiniz.
+
+## Markers Manager
+
+Markers Manager, Nimloth dünyasında bulunan önemli noktaları görüntüleyebileceğiniz ve haritaya kendi işaretleyicilerinizi (marker) ekleyerek yönetebileceğiniz bir araçtır.
+
+Bu özellik sayesinde zindanları, mezarlıkları, yaratıkları, Moongate'leri, Shrine'ları, şehirleri ve vendorların konumlarını kolayca bulabilirsiniz.
+
+Markers Manager seçeneğine tıkladığınızda, harita işaretleyicilerini yönetebileceğiniz bir pencere açılır.
+
+Pencerenin üst kısmında bulunan 8 farklı kategori üzerinden ilgili markerlara ulaşabilirsiniz. Ayrıca üst kısımda bulunan arama çubuğunu kullanarak istediğiniz markerı ismine göre arayabilirsiniz.
+
+### userMarkers
+
+Haritaya kendi eklediğiniz markerların bulunduğu kategoridir.
+
+Bu kategori üzerinden istediğiniz koordinatları haritaya ekleyebilir ve oluşturduğunuz markerları dilediğiniz gibi düzenleyebilirsiniz.
+
+### Dungeons
+
+Nimloth dünyasında bulunan zindan girişlerini ve zindanlar arasındaki geçiş noktalarını görüntüleyebilirsiniz.
+
+Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz dungeon girişini arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/worldmap2.gif" alt=""><figcaption></figcaption></figure>
+
+### Graveyards
+
+Nimloth dünyasında bulunan mezarlıkların konumlarını görüntüleyebilirsiniz.
+
+Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz mezarlığı arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
+
+### Monsters
+
+Nimloth dünyasında bulunan tüm yaratıkları ve konumlarını görüntüleyebilirsiniz.
+
+Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz yaratığı arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/worldmap3 (1).gif" alt=""><figcaption></figcaption></figure>
+
+### Moongates
+
+Nimloth dünyasında bulunan tüm Moongate'lerin konumlarını görüntüleyebilirsiniz.
+
+Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz Moongate'i arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
+
+### Shrines
+
+Nimloth dünyasında bulunan tüm Shrine'ların konumlarını görüntüleyebilirsiniz.
+
+Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz Shrine'ı arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
+
+### Towns
+
+Nimloth dünyasında bulunan tüm şehirlerin konumlarını görüntüleyebilirsiniz.
+
+Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz şehri arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
+
+### Vendors
+
+Nimloth dünyasında bulunan tüm vendorların konumlarını görüntüleyebilirsiniz.
+
+Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz vendorı arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
