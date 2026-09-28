@@ -299,3 +299,64 @@ Nimloth dünyasında bulunan tüm şehirlerin konumlarını görüntüleyebilirs
 Nimloth dünyasında bulunan tüm vendorların konumlarını görüntüleyebilirsiniz.
 
 Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz vendorı arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
+
+## Rooms Manager
+
+Rooms Manager, birlikte oynayan oyuncuların World Map üzerinden birbirlerini takip edebilmelerini sağlayan oda sistemidir.
+
+Bir oda oluşturabilir veya başka bir oyuncunun oluşturduğu mevcut bir odaya katılabilirsiniz. Aynı odada bulunan oyuncuların <mark style="color:red;">**anlık konumlarını, HP durumlarını ve Poison durumlarını**</mark> World Map üzerinden takip edebilirsiniz.
+
+Party ve Guild üyelerinin harita üzerinde görüntülenmesi aynı ekran ile sınırlıyken, Rooms Manager bu sınırlama olmadan birlikte oynadığınız oyuncuları takip edebilmenizi sağlar.
+
+### Oda Oluşturma
+
+Rooms Manager seçeneğine tıkladığınızda oda işlemlerini gerçekleştirebileceğiniz bir pencere açılır.
+
+Bu ekranda bulunan <mark style="color:red;">**Oda Oluştur**</mark> butonuna tıklayarak yeni bir oda oluşturabilirsiniz. Açılan pencerede <mark style="color:red;">**Oda Adı**</mark> belirlemeniz ve dilerseniz oda için bir <mark style="color:red;">**Şifre**</mark> oluşturmanız gerekir.
+
+Odaya yalnızca belirlediğiniz şifreyi bilen oyuncuların katılmasını istiyorsanız bir şifre belirleyebilirsiniz. <mark style="color:red;">**Şifre belirlemek zorunlu değildir.**</mark> \
+Şifresiz oluşturulan odalara diğer oyuncular herhangi bir şifre girmeden katılabilir.
+
+<figure><img src="../.gitbook/assets/rooms.gif" alt=""><figcaption></figcaption></figure>
+
+### Odaya Katılma
+
+Başka oyuncular tarafından oluşturulmuş odaları <mark style="color:red;">**Rooms Manager**</mark> üzerinden görüntüleyebilirsiniz.
+
+Oda listesinde oda adı ve odada bulunan oyuncu sayısı bilgileri yer alır. Katılmak istediğiniz odanın sağ tarafında bulunan **Katıl** butonuna tıklayarak odaya giriş yapabilirsiniz.
+
+Oda <mark style="color:red;">**şifreli**</mark> olarak oluşturulmuşsa katılabilmek için oda şifresini girmeniz gerekir. Şifresiz odalara ise herhangi bir şifre girmeden doğrudan katılabilirsiniz.
+
+<figure><img src="../.gitbook/assets/rooms2.gif" alt=""><figcaption></figcaption></figure>
+
+## Add Marker on Player
+
+Bu seçenek ile bulunduğunuz mevcut konuma hızlı bir şekilde <mark style="color:red;">**kişisel marker**</mark> ekleyebilirsiniz.
+
+Eklediğiniz markerlar <mark style="color:red;">**Markers Manager → userMarkers**</mark> bölümünde görüntülenir. Bu bölüm üzerinden daha önce oluşturduğunuz markerları görüntüleyebilir ve istediğiniz şekilde düzenleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/rooms3 (1).gif" alt=""><figcaption></figcaption></figure>
+
+## Show Movement History
+
+Bu seçenek, karakterinizin hareket geçmişinin <mark style="color:red;">**World Map üzerinde kaydedilmesini ve izlediğiniz güzergâhın harita üzerinde gösterilmesini**</mark> sağlar.
+
+## Clear Movement History
+
+Kaydedilmiş olan hareket geçmişinizi tamamen temizler. Bu işlem sonrasında World Map üzerinde daha önce izlediğiniz güzergâh silinir.
+
+
+
+<figure><img src="../.gitbook/assets/rooms4.gif" alt=""><figcaption></figcaption></figure>
+
+## Open Web Map (Browser)
+
+Bu seçenek, World Map'i <mark style="color:red;">**internet tarayıcınız üzerinden**</mark> açmanızı sağlar. Oyun içerisindeki World Map üzerinde kullandığınız mevcut ayarlarınız Web Map'e aktarılarak korunur.
+
+Bir <mark style="color:red;">**odada (Room)**</mark> bulunuyorsanız, Web Map üzerinden de aynı odadaki oyuncuların anlık konumlarını takip etmeye devam edebilirsiniz.
+
+Web Map üzerinde bulunan çeşitli seçenekler sayesinde oyuncu takibini açıp kapatabilir, harita görünümünü çevirebilir ve <mark style="color:red;">**Party, Guild veya odanızda bulunan oyuncuları**</mark> görüntüleyebilirsiniz.
+
+Ayrıca harita üzerindeki <mark style="color:red;">**markerların ve marker isimlerinin**</mark> görünürlüğünü açıp kapatabilir, <mark style="color:red;">**grid görünümünü**</mark> etkinleştirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
