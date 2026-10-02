@@ -3,6 +3,7 @@
 * [Genel Bilgi](README.md)
   * [Aktif Spawnlar](genel-bilgi/aktif-spawnlar.md)
   * [World Map](genel-bilgi/world-map.md)
+  * [Oyun Ayarları](genel-bilgi/oyun-ayarlari.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [Ekim](guncelleme-notlari/ekim/README.md)
     * [01.10.2026 Güncellemeleri](guncelleme-notlari/ekim/01.10.2026-guncellemeleri.md)
