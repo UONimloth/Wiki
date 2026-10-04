@@ -363,3 +363,69 @@ Oyun içerisinde <mark style="color:red;">**Ctrl + fare tekerleği**</mark> komb
 ### **Releasing Ctrl Restores Scale**
 
 `Ctrl + Scroll` ile geçici olarak değiştirdiğiniz yakınlaştırma seviyesinin, <mark style="color:red;">**Ctrl tuşunu bıraktığınızda önceki seviyesine dönmesini**</mark> sağlar.
+
+### Işık Ayarları
+
+Bu bölüm oyun dünyasındaki ışıklandırmanın nasıl görüntüleneceğini belirler.
+
+> **Not:** Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.
+
+### **Alternative Lights**
+
+Alternatif ışıklandırma sisteminin kullanılmasını sağlar. Bu seçenek UO:Nimloth'ta oyuncular tarafından değiştirilemez.
+
+### **Light Level**
+
+Oyun dünyasının genel ışık seviyesini belirler. Bu değer UO:Nimloth tarafından yönetildiği için oyuncular tarafından <mark style="color:red;">**değiştirilemez**</mark>.
+
+### **Light Level Setting Type**
+
+Işık seviyesinin nasıl uygulanacağını belirler. Mevcut seçim olan <mark style="color:red;">**Absolute**</mark>, belirlenen ışık seviyesinin doğrudan uygulanmasını sağlar.
+
+### **Dark Nights**
+
+Gece saatlerinde daha karanlık bir görüntü kullanılmasını sağlar. Aktif olduğunda gece ve gündüz arasındaki ışık farkı daha belirgin hale gelir.
+
+### **Use Colored Lights**
+
+Işık kaynaklarının kendilerine ait renklerle görüntülenmesini sağlar. Örneğin farklı renkte ışık üreten kaynakların çevreye yaydığı ışık da kendi rengine uygun şekilde görüntülenir.
+
+### **Enable Death Screen**
+
+Karakteriniz öldüğünde ölüm ekranı efektinin görüntülenmesini sağlar.
+
+### **Black & White Mode for Dead Player**
+
+Karakteriniz öldüğünde oyun dünyasının siyah-beyaz olarak görüntülenmesini sağlar. Bu seçenek kapatıldığında ölü durumdayken de dünya renkli olarak görüntülenmeye devam eder.
+
+### **Run Mouse in a Separate Thread**
+
+Fare hareketlerinin oyun içerisindeki diğer işlemlerden ayrı bir işlem dizisinde çalışmasını sağlar. Özellikle oyunun yoğun olduğu durumlarda fare hareketlerinin daha akıcı ve tepkisel kalmasına yardımcı olabilir.
+
+### **Aura on Mouse Target**
+
+Fare imlecini bir karakter veya uygun bir hedefin üzerine getirdiğinizde hedefin daha kolay fark edilmesini sağlayan görsel bir aura efekti gösterir.
+
+### **Animated Water Effect**
+
+Su yüzeylerinde animasyon efektlerinin kullanılmasını sağlar. Aktif olduğunda deniz, nehir ve benzeri su alanları hareketli olarak görüntülenir.
+
+### **Weather Effects**
+
+Yağmur ve benzeri hava durumu efektlerinin oyun ekranında görüntülenmesini sağlar.
+
+### **Show Head on Top of All Layers**
+
+Karakterlerin baş kısmının diğer grafik katmanlarının üzerinde görüntülenmesini sağlar. Özellikle karakterin bazı nesnelerin veya grafiklerin arkasında kaldığı durumlarda baş kısmının görünür kalmasına yardımcı olur.
+
+### **Shadows**
+
+Oyun dünyasındaki gölge efektlerini açıp kapatmanızı sağlar.
+
+### **Show Tree and Rock Shadows**
+
+Ağaç ve kayaların gölgelerinin görüntülenmesini sağlar. Bu seçeneğin etkili olabilmesi için <mark style="color:red;">**Shadows**</mark> seçeneğinin de açık olması gerekir.
+
+### **Terrain Shadows Level**
+
+Arazi üzerinde kullanılan gölgelerin seviyesini belirler. Değeri değiştirerek zemin ve arazi üzerindeki gölgelendirme yoğunluğunu ayarlayabilirsiniz.
