@@ -290,3 +290,76 @@ Bir oyuncuyu hedef olarak seçmenizi sağlar. Özellikle hedef seçiminin hızl�
 Çantanızdaki eşyaların yerleşimini kaydetmenizi ve daha sonra kayıtlı yerleşime geri döndürmenizi sağlar. Çanta düzeniniz bozulduğunda eşyalarınızı daha önce kaydettiğiniz konumlara tekrar yerleştirebilirsiniz.
 
 > **Premium Özellik:** BackpackLayout makrosu yalnızca [<mark style="color:red;">**Premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) oyuncular tarafından kullanılabilir.
+
+## Video
+
+Video sekmesi, oyunun görüntü performansını ve oyun alanının ekrandaki yerleşimini düzenlemenizi sağlar. FPS sınırı, pencere kullanımı, çözünürlük ve görüntüleme ile ilgili diğer seçenekleri bu bölümden değiştirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+### **FPS**
+
+Oyunun saniyede göstereceği kare sayısını belirler. Değer yükseldikçe hareketler ve animasyonlar daha akıcı görüntülenir. Daha yüksek FPS değerleri sistem kaynaklarının kullanımını artırabilir.\
+FPS <mark style="color:red;">**12-360 arasında**</mark> seçilebilir.
+
+### **Reduce FPS When Game Is Inactive**
+
+Oyun penceresi aktif olmadığında FPS değerini otomatik olarak düşürür. Başka bir pencereye geçtiğinizde oyunun gereksiz yere sistem kaynaklarını kullanmasını azaltmak için tercih edebilirsiniz.
+
+### **High DPI \[Restart Required]**
+
+Yüksek DPI değerine sahip ekranlarda arayüzün ve görüntünün uygun şekilde ölçeklendirilmesini sağlar. Özellikle yüksek çözünürlüklü ekranlarda kullanılabilir. Değişikliğin uygulanması için oyunun yeniden başlatılması gerekir.
+
+### **Ask to Reopen After Closing \[Restart Required]**
+
+Oyun kapatıldığında tekrar açılıp açılmayacağını soran onay penceresinin gösterilmesini sağlar. Değişikliğin uygulanması için oyunun yeniden başlatılması gerekir.
+
+### **Driver \[Restart Required]**
+
+Oyunun görüntü oluşturmak için kullanacağı grafik sürücüsünü seçmenizi sağlar. Normal kullanımda <mark style="color:red;">**Default**</mark> seçeneğini değiştirmeniz gerekmez. Yapılan değişikliklerin uygulanması için oyunun yeniden başlatılması gerekir.
+
+### **Language \[Restart Required]**
+
+İstemci arayüzünde kullanılacak dili belirler. Dil değişikliğinin uygulanması için oyunun yeniden başlatılması gerekir.
+
+<mark style="color:red;">**Varsayılan olarak ENU(İngilizce) gelmektedir fakat buradan TRK(Türkçe) dilini seçerek ayarları Türkçe de görüntüleyebilirsiniz.**</mark>
+
+### Game Window
+
+Bu bölüm, oyun dünyasının görüntülendiği alanın ekrandaki konumunu ve boyutunu düzenlemenizi sağlar.
+
+### **Always Use Fullsize Game Window**
+
+Oyun alanının kullanılabilir pencere alanını tamamen kaplayacak şekilde görüntülenmesini sağlar. Bu seçenek aktifken manuel olarak belirlenen oyun alanı boyutları kullanılmaz.
+
+### **Borderless Window**
+
+Oyunun pencere kenarlıkları olmadan görüntülenmesini sağlar.
+
+### **Lock Game Window Moving/Resizing**
+
+Oyun alanının yanlışlıkla taşınmasını veya boyutunun değiştirilmesini engeller. Oyun alanınızı istediğiniz şekilde ayarladıktan sonra sabitlemek için kullanabilirsiniz.
+
+### **Game Play Window Position**
+
+Oyun dünyasının görüntülendiği alanın pencere içerisindeki konumunu belirler. Buradaki iki değer sırasıyla yatay (X) ve dikey (Y) konumu ifade eder.
+
+### **Game Play Window Size**
+
+Oyun dünyasının görüntülendiği alanın genişliğini ve yüksekliğini belirler. İlk değer <mark style="color:red;">**genişliği**</mark>, ikinci değer ise <mark style="color:red;">**yüksekliği**</mark> ifade eder. Böylece oyun alanını ekran çözünürlüğünüze ve kullandığınız arayüz düzenine göre özelleştirebilirsiniz.
+
+### **Default Zoom**
+
+Oyuna giriş yaptığınızda kullanılacak varsayılan yakınlaştırma seviyesini belirler.
+
+### **Screen Zoom**
+
+Oyun ekranının yakınlaştırma seviyesini belirler. Değeri değiştirerek oyun dünyasını daha yakından veya daha uzaktan görüntüleyebilirsiniz.
+
+### **Enable Mousewheel for In Game Zoom Scaling \[Ctrl + Scroll]**
+
+Oyun içerisinde <mark style="color:red;">**Ctrl + fare tekerleği**</mark> kombinasyonunu kullanarak yakınlaştırma seviyesini değiştirmenizi sağlar. Bu seçenek aktif olduğunda oyun sırasında hızlı bir şekilde yakınlaşıp uzaklaşabilirsiniz.
+
+### **Releasing Ctrl Restores Scale**
+
+`Ctrl + Scroll` ile geçici olarak değiştirdiğiniz yakınlaştırma seviyesinin, <mark style="color:red;">**Ctrl tuşunu bıraktığınızda önceki seviyesine dönmesini**</mark> sağlar.
