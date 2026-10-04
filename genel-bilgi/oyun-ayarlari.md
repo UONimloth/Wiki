@@ -24,7 +24,7 @@ Music sekmesi, oyun içerisindeki tüm ses ve müzik ayarlarını yönetebilece�
 
 ### **Sounds**
 
-Oyun içerisindeki genel ses efektlerini açıp kapatmanızı ve ses seviyesini belirlemenizi sağlar. Sol taraftaki kutu ile oyun seslerini tamamen açabilir veya kapatabilir, kaydırma çubuğu ile ses seviyesini ayarlayabilirsiniz.&#x20;
+Oyun içerisindeki genel ses efektlerini açıp kapatmanızı ve ses seviyesini belirlemenizi sağlar. Sol taraftaki kutu ile oyun seslerini tamamen açabilir veya kapatabilir, kaydırma çubuğu ile ses seviyesini ayarlayabilirsiniz.
 
 Yaratık sesleri, büyüler, savaş efektleri, eşya sesleri ve çevresel sesler gibi efektler bu ayardan etkilenir.
 
@@ -198,8 +198,6 @@ Party mesajlarının yalnızca ilgili mesaj alanlarında değil, mesajı gönder
 
 Konuşmalarda kullanılan renkleri rastgele değiştirir.
 
-
-
 Alt bölümde ise farklı konuşma ve mesaj türlerinde kullanılacak renkleri ayrı ayrı belirleyebilirsiniz:
 
 * Speech Color: Normal konuşmaların rengini belirler.
@@ -215,3 +213,80 @@ Renk kutularına tıklayarak ilgili mesaj türünde kullanılmasını istediğin
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+## Macro Ayarları
+
+Macro sekmesi, sık kullandığınız işlemleri klavye tuşlarına veya tuş kombinasyonlarına atamanızı sağlar. Büyü kullanımı, kapı açma, hedef alma veya belirli oyun işlevlerini çalıştırma gibi birçok işlemi makrolar sayesinde tek bir tuşla gerçekleştirebilirsiniz.
+
+Oluşturduğunuz makrolar ekranın sol tarafındaki listede görüntülenir. Bir tuşa makro atadığınızda ayrıca isim vermeniz gerekmez; makro, varsayılan olarak atandığı <mark style="color:red;">**tuş veya tuş kombinasyonunun adıyla**</mark> listelenir.
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+### Makro Oluşturma ve Düzenleme
+
+#### **Add**
+
+Yeni bir makro oluşturmanızı ve kullanmak istediğiniz tuş veya tuş kombinasyonunu atamanızı sağlar.
+
+#### **Delete**
+
+Seçili makroyu siler.
+
+#### **Previous / Next**
+
+Makro içerisinde birden fazla işlem bulunuyorsa işlemler arasında geçiş yapmanızı sağlar.
+
+#### **Rename**
+
+Seçili makroya özel bir isim vermenizi sağlar. Makrolar varsayılan olarak atandıkları tuşun adıyla gösterildiğinden isimlendirme zorunlu değildir. Ancak çok sayıda makro kullanıyorsanız makrolarınızı daha kolay ayırt etmek için bu seçeneği kullanabilirsiniz.
+
+#### **Create Macro Button**
+
+Seçili makro için oyun ekranına yerleştirilebilen bir buton oluşturur. Böylece makroyu klavyedeki tuş atamasının yanı sıra ekrandaki butona tıklayarak da çalıştırabilirsiniz.
+
+#### **Add / Remove**
+
+Makronun gerçekleştireceği işlemleri eklemenizi veya mevcut işlemleri kaldırmanızı sağlar. Açılır listeden makroya eklemek istediğiniz komutu seçebilirsiniz.
+
+### Makro Yönetimi
+
+#### **İsimlendir**
+
+Oluşturulmuş tüm makroların isimlerini mevcut tuş atamalarına göre yeniden düzenler. Özellikle başka sunuculardan veya farklı istemci kurulumlarından alınan makroların isimlerini mevcut tuşlarla eşleştirmek için kullanışlıdır.
+
+#### **Delete All**
+
+Oyuncu tarafından oluşturulmuş tüm makroları siler.
+
+#### **Backup**
+
+Mevcut makrolarınızı bulut sunucuya yedekler. Böylece makro ayarlarınızı daha sonra tekrar kullanmak üzere saklayabilirsiniz.
+
+#### **Restore**
+
+Daha önce bulut sunucuya yedeklediğiniz makroları indirerek geri yükler.
+
+#### **Load Default**
+
+Makro ayarlarını standart makrolara geri döndürür.
+
+#### **Import Macro**
+
+Eski makro sisteminde kullanılan <mark style="color:red;">**macros.txt**</mark> dosyasındaki makroları yeni makro formatına dönüştürerek içe aktarmanızı sağlar. Eski makrolarınızı yeni sisteme taşımak için bu seçeneği kullanabilirsiniz.
+
+#### **Open Folder**
+
+Makro dosyalarının bulunduğu klasörü açar. Makro dosyalarına doğrudan erişmeniz gerektiğinde bu seçeneği kullanabilirsiniz.
+
+### UO:Nimloth Makroları
+
+Standart makro seçeneklerinin yanı sıra UO:Nimloth'ta kullanabileceğiniz ek makro işlevleri de bulunmaktadır.
+
+#### **Target**
+
+Bir oyuncuyu hedef olarak seçmenizi sağlar. Özellikle hedef seçiminin hızlı bir şekilde yapılması gereken durumlarda kullanabilirsiniz.
+
+#### **BackpackLayout**
+
+Çantanızdaki eşyaların yerleşimini kaydetmenizi ve daha sonra kayıtlı yerleşime geri döndürmenizi sağlar. Çanta düzeniniz bozulduğunda eşyalarınızı daha önce kaydettiğiniz konumlara tekrar yerleştirebilirsiniz.
+
+> **Premium Özellik:** BackpackLayout makrosu yalnızca [<mark style="color:red;">**Premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) oyuncular tarafından kullanılabilir.
