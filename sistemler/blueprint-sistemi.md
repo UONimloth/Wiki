@@ -132,7 +132,7 @@ Bu işlem gerçekleştirildiğinde, altta yer alan <mark style="color:red;">**20
 
 Ayrıca Blueprint Trade vendorunda yer alan <mark style="color:red;">**"İnfo"**</mark> butonuna tıklayarak da bu listeye ulaşabilirsiniz
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### ÖNEMLİ NOT
 

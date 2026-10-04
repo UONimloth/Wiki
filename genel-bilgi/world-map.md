@@ -22,7 +22,7 @@ Takip modu aktif olduğunda harita, karakterinizin anlık konumunu takip eder ve
 
 Takip modu aktifken sağ üstte bulunan <mark style="color:red;">**Map0**</mark> yazısı <mark style="color:red;">**Follow**</mark> olarak değişir.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/worldmap 1.gif" alt=""><figcaption></figcaption></figure>
 

@@ -83,3 +83,61 @@ Yaratıkların çıkardığı sesleri kapatır. Bu seçenek açık olduğunda ç
 ### **Disable Item Drop Sounds**
 
 Eşyaları taşıma ve bırakma işlemleri sırasında oluşan eşya bırakma seslerini kapatır.
+
+## Tooltip
+
+Tooltip sekmesi, oyun içerisinde bir eşyanın veya nesnenin üzerine geldiğinizde görüntülenen bilgi pencerelerinin davranışını ve görünümünü düzenlemenizi sağlar. Tooltiplerin gösterilme süresini, boyutunu, arka plan saydamlığını ve yazı tipini bu bölümden değiştirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### **Use Tooltip**
+
+Tooltip özelliğini açıp kapatmanızı sağlar. Bu seçenek kapatıldığında oyun içerisinde tooltip bilgileri görüntülenmez.
+
+### **Dynamic Tooltip**
+
+Dinamik tooltip kullanımını açıp kapatmanızı sağlar. Bu özellik açık olduğunda tooltip içerisindeki değişken bilgiler, tooltip açık durumdayken güncellenebilir.
+
+### **Delay Before Display**
+
+Fare imlecini bir nesnenin üzerine getirdiğinizde tooltipin görüntülenmesi için geçmesi gereken süreyi belirler. Değeri düşürdüğünüzde tooltip daha hızlı, yükselttiğinizde ise daha geç görüntülenir.
+
+### **Tooltip Zoom**
+
+Tooltiplerin ekrandaki boyutunu belirler. Değeri yükselterek tooltipleri daha büyük, düşürerek daha küçük görüntüleyebilirsiniz.
+
+### **Tooltip Background Opacity**
+
+Tooltip arka planının saydamlık seviyesini belirler. Değer yükseldikçe arka plan daha belirgin, düşürüldükçe daha saydam hale gelir.
+
+### **Tooltip Font Hue**
+
+Tooltip yazılarında renk kullanımını açıp kapatmanızı sağlar. Bu seçeneği aktif ettiğinizde tooltip yazılarının görüntüleneceği rengi belirleyebilirsiniz.
+
+### **Tooltip Font**
+
+Tooltiplerde kullanılacak yazı tipini seçmenizi sağlar. Listede bulunan farklı yazı tiplerinin nasıl göründüğünü doğrudan seçeneklerin üzerinde görebilir ve kullanmak istediğiniz yazı tipini işaretleyebilirsiniz.
+
+## Fonts
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**Fonts** sekmesi, oyun içerisinde kullanılan bazı yazı tiplerini değiştirmeye yönelik seçenekleri içerir.
+
+> **Not:** Bu bölümde yer alan ayarlar UO:Nimloth'ta aktif olarak kullanılmamaktadır. Bu nedenle bu seçeneklerde değişiklik yapmanıza gerek yoktur.
+
+### **Override Game Font**
+
+Oyunun varsayılan yazı tipinin yerine farklı bir font kullanımını sağlar.
+
+### **Force Unicode in Journal**
+
+Journal içerisinde yer alan metinlerin Unicode olarak görüntülenmesini sağlar.
+
+### **Override Game Font Style**
+
+Oyunda kullanılan yazı tipinin stilini değiştirmeyi sağlar.
+
+### **Speech Font**
+
+Konuşma metinlerinde kullanılacak yazı tipiyle ilgili ayarların bulunduğu bölümdür. UO:Nimloth'ta bu bölüm için ayrıca kullanılması gereken bir ayar bulunmamaktadır.
