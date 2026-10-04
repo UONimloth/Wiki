@@ -1,10 +1,8 @@
 # Small Timber Cottage
 
+<figure><img src="../../../.gitbook/assets/Multi 0x00B9.png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../../../.gitbook/assets/Multi 0x00B9 (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Multi 0x00B9_Z011 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x00B9_Z011.png" alt=""><figcaption></figcaption></figure>
 
 ### **Yapımı İçin Gerekenler**
 

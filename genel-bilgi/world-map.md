@@ -44,7 +44,7 @@ Harita üzerindeki marker isimlerinde kullanılan yazı tipini belirlemenizi sa�
 
 ### **Show All Markers**
 
-Haritada bulunan tüm markerların gösterilmesini sağlar. Bu seçenek aktif edildiğinde, mevcut marker filtrelerinden bağımsız olarak tüm markerlar haritada görüntülenir. Bu seçeneği aktif&#x20;
+Haritada bulunan tüm markerların gösterilmesini sağlar. Bu seçenek aktif edildiğinde, mevcut marker filtrelerinden bağımsız olarak tüm markerlar haritada görüntülenir. Bu seçeneği aktif
 
 ### **Show All Markers Always**
 
@@ -96,7 +96,7 @@ Harita üzerinde yer alan tüm yaratıkların gösterilmesini açar veya kapatı
 
 Yaratıkların, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
 
-<figure><img src="../.gitbook/assets/worldmap 5 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/worldmap 5.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Show/Hide 'Moongates'**
 
@@ -144,7 +144,7 @@ Bu sekme, harita üzerinde grid görünümüyle ilgili ayarı içerir.
 
 Harita yeterince yakınlaştırıldığında 8x8 boyutundaki gridin gösterilmesini açar veya kapatır.
 
-<figure><img src="../.gitbook/assets/worldmap 9 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/worldmap 9.gif" alt=""><figcaption></figcaption></figure>
 
 ## Names & Healthbars
 
@@ -274,7 +274,7 @@ Nimloth dünyasında bulunan tüm yaratıkları ve konumlarını görüntüleyeb
 
 Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz yaratığı arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
 
-<figure><img src="../.gitbook/assets/worldmap3 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/worldmap3.gif" alt=""><figcaption></figcaption></figure>
 
 ### Moongates
 
@@ -314,7 +314,7 @@ Rooms Manager seçeneğine tıkladığınızda oda işlemlerini gerçekleştireb
 
 Bu ekranda bulunan <mark style="color:red;">**Oda Oluştur**</mark> butonuna tıklayarak yeni bir oda oluşturabilirsiniz. Açılan pencerede <mark style="color:red;">**Oda Adı**</mark> belirlemeniz ve dilerseniz oda için bir <mark style="color:red;">**Şifre**</mark> oluşturmanız gerekir.
 
-Odaya yalnızca belirlediğiniz şifreyi bilen oyuncuların katılmasını istiyorsanız bir şifre belirleyebilirsiniz. <mark style="color:red;">**Şifre belirlemek zorunlu değildir.**</mark> \
+Odaya yalnızca belirlediğiniz şifreyi bilen oyuncuların katılmasını istiyorsanız bir şifre belirleyebilirsiniz. <mark style="color:red;">**Şifre belirlemek zorunlu değildir.**</mark>\
 Şifresiz oluşturulan odalara diğer oyuncular herhangi bir şifre girmeden katılabilir.
 
 <figure><img src="../.gitbook/assets/rooms.gif" alt=""><figcaption></figcaption></figure>
@@ -344,8 +344,6 @@ Bu seçenek, karakterinizin hareket geçmişinin <mark style="color:red;">**Worl
 ## Clear Movement History
 
 Kaydedilmiş olan hareket geçmişinizi tamamen temizler. Bu işlem sonrasında World Map üzerinde daha önce izlediğiniz güzergâh silinir.
-
-
 
 <figure><img src="../.gitbook/assets/rooms4.gif" alt=""><figcaption></figcaption></figure>
 

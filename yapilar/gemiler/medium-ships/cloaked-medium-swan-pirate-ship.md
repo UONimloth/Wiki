@@ -1,8 +1,8 @@
 # Cloaked Medium Swan Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x033A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x033A.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 15    |
 | ---------------- | ----- |

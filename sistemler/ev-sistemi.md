@@ -291,7 +291,7 @@ Evlerinize ait kapıları artık birbirleriyle **linkleyebilirsiniz**. Linklenen
 
 Bu özellik sayesinde evinizde birbirinden farklı konumlarda bulunan kapıları tek bir işlemle birlikte kontrol edebilirsiniz.
 
-<figure><img src="../.gitbook/assets/door_link.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/door link.gif" alt=""><figcaption></figcaption></figure>
 
 ## Evi Satışa Çıkart
 

@@ -337,4 +337,4 @@ Bu sistemle ilgili detaylı bilgi Guildwars Sistemi altında verilecektir.
 [<mark style="color:red;">**War Zone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/war-zone) sekmesi, <mark style="color:red;">**tamamen eşit koşullar altında, dış etkenlerden bağımsız şekilde**</mark> başka guildler ile karşı karşıya gelmesini sağlar.\
 Bu sekme altından diğer guildler ile <mark style="color:red;">**Last Stand**</mark> ve <mark style="color:red;">**Team Deathmatch**</mark> etkinliklerine katılabilir veya daha önce yapmış olduğunuz savaşları görüntüleyebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>

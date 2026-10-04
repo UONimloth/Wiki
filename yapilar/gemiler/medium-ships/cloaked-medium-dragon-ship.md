@@ -1,8 +1,8 @@
 # Cloaked Medium Dragon Ship
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 15    |
 | ---------------- | ----- |

@@ -1,8 +1,8 @@
 # Cloaked Small Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0132 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0132.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 5     |
 | ---------------- | ----- |

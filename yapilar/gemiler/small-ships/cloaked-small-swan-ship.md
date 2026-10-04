@@ -1,6 +1,6 @@
 # Cloaked Small Swan Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x010A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x010A.png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 

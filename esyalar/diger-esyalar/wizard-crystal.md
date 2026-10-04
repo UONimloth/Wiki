@@ -1,6 +1,6 @@
 # Wizard Crystal
 
-<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 Wizard Crystal, büyü enerjisi ile şekillenmiş, özel ekipman üretimlerinde kullanılan değerli bir crafting malzemesidir.
 

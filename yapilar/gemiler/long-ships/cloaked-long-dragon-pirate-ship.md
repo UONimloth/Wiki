@@ -1,8 +1,8 @@
 # Cloaked Long Dragon Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0536 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0536.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 25    |
 | ---------------- | ----- |

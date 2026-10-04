@@ -1,6 +1,6 @@
 # Cloaked Small Dragon Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0136 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0136.png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 

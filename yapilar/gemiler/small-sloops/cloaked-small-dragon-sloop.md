@@ -1,6 +1,6 @@
 # Cloaked Small Dragon Sloop
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 

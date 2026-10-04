@@ -1,8 +1,8 @@
 # Cloaked Medium Ship
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 12    |
 | ---------------- | ----- |

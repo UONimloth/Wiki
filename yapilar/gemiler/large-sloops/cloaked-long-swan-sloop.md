@@ -1,8 +1,8 @@
 # Cloaked Long Swan Sloop
 
-<figure><img src="../../../.gitbook/assets/Multi 0x060A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x060A.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 25    |
 | ---------------- | ----- |

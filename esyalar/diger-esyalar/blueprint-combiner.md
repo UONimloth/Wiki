@@ -36,9 +36,7 @@ Sistem tüm Blueprintleri değerlendirir ve oyuncuya <mark style="color:red;">**
 
 Bu işlem Blueprintlerin geri dönüşümünü sağlar ve oyuncuların farklı üretim tarifleri elde etmesine yardımcı olur.
 
-<figure><img src="../../.gitbook/assets/bp combiner (1).gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/bp combiner.gif" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Blueprintler Combiner ile elde edebileceğiniz Blueprintler şu şekildedir:**</mark>
 

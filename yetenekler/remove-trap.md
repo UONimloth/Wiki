@@ -31,7 +31,7 @@ Remove Trap yeteneğinizi geliştirmek için şehirlerdeki bankalarda bulunan <m
 
 Training Chest'ler her zaman <mark style="color:red;">**Kolay**</mark> zorluk seviyesinde tuzak içerir ve yeteneğinizi güvenli şekilde geliştirmeniz için tasarlanmıştır.
 
-<figure><img src="../.gitbook/assets/removetrap (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/removetrap.gif" alt=""><figcaption></figcaption></figure>
 
 ## Deneme Hakları
 
@@ -93,8 +93,6 @@ Bu durumda:
 * Sandığın seviyesine bağlı olarak daha fazla yaratık ortaya çıkar.
 
 Bu nedenle sandıkları açmadan önce Remove Trap kullanmanız tavsiye edilir.
-
-
 
 ## Kombinasyonlar ve Çözüm Yöntemleri
 
@@ -160,7 +158,7 @@ Hamle miktarlarına göre çözüm kombinasyonları şu şekildedir;
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/nqFJ7D5BQiHLUayPe3scu3DOMmPhYhjhxWNxqjBe.png)
 
-<figure><img src="../.gitbook/assets/removetrap10 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/removetrap10.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Kombinasyon 11**
 
