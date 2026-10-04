@@ -88,7 +88,7 @@ Eşyaları taşıma ve bırakma işlemleri sırasında oluşan eşya bırakma se
 
 Tooltip sekmesi, oyun içerisinde bir eşyanın veya nesnenin üzerine geldiğinizde görüntülenen bilgi pencerelerinin davranışını ve görünümünü düzenlemenizi sağlar. Tooltiplerin gösterilme süresini, boyutunu, arka plan saydamlığını ve yazı tipini bu bölümden değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Use Tooltip**
 
@@ -120,7 +120,7 @@ Tooltiplerde kullanılacak yazı tipini seçmenizi sağlar. Listede bulunan fark
 
 ## Fonts
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fonts** sekmesi, oyun içerisinde kullanılan bazı yazı tiplerini değiştirmeye yönelik seçenekleri içerir.
 
@@ -138,6 +138,80 @@ Journal içerisinde yer alan metinlerin Unicode olarak görüntülenmesini sağl
 
 Oyunda kullanılan yazı tipinin stilini değiştirmeyi sağlar.
 
-### **Speech Font**
+## **Speech**
 
-Konuşma metinlerinde kullanılacak yazı tipiyle ilgili ayarların bulunduğu bölümdür. UO:Nimloth'ta bu bölüm için ayrıca kullanılması gereken bir ayar bulunmamaktadır.
+Speech sekmesi, oyun içerisindeki konuşma ve mesajlaşma özelliklerini yönetmenizi sağlar. Konuşma gecikmesi, Journal kayıtları, sohbet penceresinin kullanımı ve farklı mesaj türlerinin renkleri gibi ayarları bu bölümden değiştirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### **Scale Speech Delay**
+
+Karakterlerin üzerinde görüntülenen konuşma metinlerinin ekranda kalma süresini, mesajın uzunluğuna göre ölçeklendirir. Yanındaki kaydırma çubuğu ile bu sürenin seviyesini ayarlayabilirsiniz.
+
+### **Save Journal to File in Game Folder**
+
+Journal üzerinde görüntülenen mesajların oyun klasörüne bir dosya olarak kaydedilmesini sağlar. Önceki konuşma ve Journal kayıtlarını daha sonra incelemek istediğinizde kullanabilirsiniz.
+
+### **Active Chat When Pressing ENTER**
+
+`Enter` tuşuna bastığınızda Chat sisteminin aktif hale gelmesini sağlar.
+
+#### **Use Additional Buttons to Activate Chat**
+
+Chat sistemini yalnızca `Enter` ile değil, ekranda belirtilen ek karakter ve tuşlarla da aktif hale getirmenizi sağlar.
+
+#### **Use 'Shift+Enter' to Send Message Without Closing Chat**
+
+`Shift + Enter` ile mesaj gönderdiğinizde Chat penceresinin açık kalmasını sağlar. Art arda mesaj yazmak istediğinizde Chat'i tekrar açmanız gerekmez.
+
+### **Hide Chat Gradient**
+
+Chat alanında kullanılan arka plan geçiş efektini gizler.
+
+### **Chat Multiline \[Restart Required]**
+
+Chat alanında birden fazla satır kullanılmasını sağlar. Bu ayarda yapılan değişikliğin uygulanabilmesi için oyunun yeniden başlatılması gerekir.
+
+### **Yazarken karakterimin üstünde "..." göster**
+
+Mesaj yazmaya başladığınızda karakterinizin üzerinde `...` göstergesi görüntülenmesini sağlar. Böylece çevrenizdeki oyuncular bir mesaj yazmakta olduğunuzu görebilir.
+
+### **Başkalarının yazma göstergesini göster**
+
+Diğer oyuncular mesaj yazarken karakterlerinin üzerinde `...` göstergesini görmenizi sağlar.
+
+<figure><img src="../.gitbook/assets/asd.gif" alt=""><figcaption></figcaption></figure>
+
+### **Hide Guild Chat**
+
+Guild üzerinden gönderilen mesajların görüntülenmesini engeller.
+
+### **Hide Alliance Chat**
+
+Alliance üzerinden gönderilen mesajların görüntülenmesini engeller.
+
+### **Show Party Messages Overhead**
+
+Party mesajlarının yalnızca ilgili mesaj alanlarında değil, mesajı gönderen karakterlerin üzerinde de görüntülenmesini sağlar.
+
+### **Randomize Speech Hues**
+
+Konuşmalarda kullanılan renkleri rastgele değiştirir.
+
+
+
+Alt bölümde ise farklı konuşma ve mesaj türlerinde kullanılacak renkleri ayrı ayrı belirleyebilirsiniz:
+
+* Speech Color: Normal konuşmaların rengini belirler.
+* Emote Color: Emote mesajlarının rengini belirler.
+* Yell Color: Yell ile gönderilen mesajların rengini belirler.
+* Whisper Color: Whisper ile gönderilen mesajların rengini belirler.
+* Party Message Color: Party mesajlarının rengini belirler.
+* Guild Message Color: Guild mesajlarının rengini belirler.
+* Alliance Message Color: Alliance mesajlarının rengini belirler.
+* Chat Message Color: Chat mesajlarının rengini belirler.
+
+Renk kutularına tıklayarak ilgili mesaj türünde kullanılmasını istediğiniz rengi değiştirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+

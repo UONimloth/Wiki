@@ -4,7 +4,7 @@ Sipariş Sistemi, ihtiyaç duyduğunuz eşyalar için sipariş oluşturabileceğ
 
 Sisteme, bankalarda bulunan Sipariş Panoları üzerinden erişebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sistem; Siparişler, Oluştur ve Siparişlerim olmak üzere üç sekmeden oluşmaktadır.
 
@@ -34,7 +34,7 @@ Sipariş edilen eşyaya sahipseniz ve belirtilen kriterleri karşılıyorsanız,
 
 Kendi oluşturduğunuz siparişlerde Satış Yap butonu deaktif olacaktır.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/sipariş 3 (1).gif" alt=""><figcaption></figcaption></figure>
 
