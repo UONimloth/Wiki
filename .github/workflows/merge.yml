@@ -1,0 +1,31 @@
+name: Wiki Dosyalarini Birlestir
+
+on:
+  push:
+    branches: [ "main", "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Tum MD dosyalarini tek bir TXT yap
+        run: |
+          rm -f Wiki.txt
+          # Repodaki tüm .md dosyalarını bulur ve aralarına başlık koyarak birleştirir
+          find . -name '*.md' | while read f; do
+            echo -e "\n\n--- Dosya: $f ---\n" >> Wiki.txt
+            cat "$f" >> Wiki.txt
+          done
+          
+      - name: Yeni dosyayi repoya kaydet
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add butun_wiki.txt
+          git commit -m "Yapay Zeka icin tum wiki otomatik birlestirildi" || echo "Degisiklik yok"
+          git push
