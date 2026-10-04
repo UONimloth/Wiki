@@ -15,11 +15,11 @@ jobs:
       
       - name: Tum MD dosyalarini tek bir TXT yap
         run: |
-          rm -f Wiki.txt
+          rm -f butun_wiki.txt
           # Repodaki tüm .md dosyalarını bulur ve aralarına başlık koyarak birleştirir
           find . -name '*.md' | while read f; do
-            echo -e "\n\n--- Dosya: $f ---\n" >> Wiki.txt
-            cat "$f" >> Wiki.txt
+            echo -e "\n\n--- Dosya: $f ---\n" >> butun_wiki.txt
+            cat "$f" >> butun_wiki.txt
           done
           
       - name: Yeni dosyayi repoya kaydet
