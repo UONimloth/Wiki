@@ -9,7 +9,8 @@
   * [World Map](genel-bilgi/world-map.md)
   * [Oyun Ayarları](genel-bilgi/oyun-ayarlari.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
-  * [Ekim](guncelleme-notlari/ekim/README.md)
+  * [Ekim 2026](guncelleme-notlari/ekim/README.md)
+    * [04.10.2026 Güncellemeleri](guncelleme-notlari/ekim/04.10.2026-guncellemeleri.md)
     * [01.10.2026 Güncellemeleri](guncelleme-notlari/ekim/01.10.2026-guncellemeleri.md)
   * [Eylül 2026](guncelleme-notlari/eylul-2026/README.md)
     * [27.09.2026 Güncellemeleri](guncelleme-notlari/eylul-2026/27.09.2026-guncellemeleri.md)
@@ -1245,11 +1246,9 @@
 
 # Small Timber Cottage
 
+<figure><img src="../../../.gitbook/assets/Multi 0x00B9.png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../../../.gitbook/assets/Multi 0x00B9 (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Multi 0x00B9_Z011 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x00B9_Z011.png" alt=""><figcaption></figcaption></figure>
 
 ### **Yapımı İçin Gerekenler**
 
@@ -1642,9 +1641,9 @@
 
 # Cloaked Long Sloop
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0602 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0602.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 22    |
 | ---------------- | ----- |
@@ -1698,9 +1697,9 @@
 
 # Cloaked Long Dragon Sloop
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0606 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0606.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 25    |
 | ---------------- | ----- |
@@ -1726,9 +1725,9 @@
 
 # Cloaked Long Swan Sloop
 
-<figure><img src="../../../.gitbook/assets/Multi 0x060A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x060A.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 25    |
 | ---------------- | ----- |
@@ -1872,9 +1871,9 @@
 
 # Cloaked Medium Swan Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x033A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x033A.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 15    |
 | ---------------- | ----- |
@@ -1956,9 +1955,9 @@
 
 # Cloaked Medium Dragon Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0336 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0336.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 15    |
 | ---------------- | ----- |
@@ -2012,9 +2011,9 @@
 
 # Cloaked Medium Swan Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x030A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x030A.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 15    |
 | ---------------- | ----- |
@@ -2180,9 +2179,9 @@
 
 # Cloaked Medium Ship
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 12    |
 | ---------------- | ----- |
@@ -2298,9 +2297,9 @@
 
 # Cloaked Medium Dragon Ship
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 15    |
 | ---------------- | ----- |
@@ -2326,9 +2325,9 @@
 
 # Cloaked Medium Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0332 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0332.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 12    |
 | ---------------- | ----- |
@@ -2640,7 +2639,7 @@
 
 # Cloaked Small Dragon Sloop
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 
@@ -2875,7 +2874,7 @@
 
 # Cloaked Small Dragon Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0136 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0136.png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 
@@ -2931,7 +2930,7 @@
 
 # Cloaked Small Swan Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x013A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x013A.png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 
@@ -3127,7 +3126,7 @@
 
 # Cloaked Small Dragon Ship
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 
@@ -3245,7 +3244,7 @@
 
 # Cloaked Small Swan Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x010A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x010A.png" alt=""><figcaption></figcaption></figure>
 
 ### Yapımı İçin Gerekenler
 
@@ -3329,9 +3328,9 @@
 
 # Cloaked Small Ship
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 5     |
 | ---------------- | ----- |
@@ -3357,9 +3356,9 @@
 
 # Cloaked Small Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0132 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0132.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 5     |
 | ---------------- | ----- |
@@ -3525,9 +3524,9 @@
 
 # Cloaked Long Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0502 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0502.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 22    |
 | ---------------- | ----- |
@@ -3581,9 +3580,9 @@
 
 # Cloaked Long Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0532 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0532.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 22    |
 | ---------------- | ----- |
@@ -3637,9 +3636,9 @@
 
 # Cloaked Long Dragon Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0536 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0536.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 25    |
 | ---------------- | ----- |
@@ -3721,9 +3720,9 @@
 
 # Cloaked Long Swan Pirate Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x053A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x053A.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 25    |
 | ---------------- | ----- |
@@ -3749,9 +3748,9 @@
 
 # Cloaked Long Dragon Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x0506 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x0506.png" alt=""><figcaption></figcaption></figure>
 
-### Yapımı İçin Gerekenler&#xD;
+### Yapımı İçin Gerekenler
 
 | Woodstone        | 25    |
 | ---------------- | ----- |
@@ -3839,7 +3838,7 @@
 
 # Long Swan Ship
 
-<figure><img src="../../../.gitbook/assets/Multi 0x050A (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Multi 0x050A.png" alt=""><figcaption></figcaption></figure>
 
 ### **Yapımı İçin Gerekenler**
 
@@ -4439,7 +4438,7 @@ Kendi oluşturduğunuz siparişlerde Satış Yap butonu deaktif olacaktır.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/sipariş 3 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sipariş 3.gif" alt=""><figcaption></figcaption></figure>
 
 ### Satışın Tamamlanması
 
@@ -6039,7 +6038,7 @@ Bu sistemle ilgili detaylı bilgi Guildwars Sistemi altında verilecektir.
 [<mark style="color:red;">**War Zone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/war-zone) sekmesi, <mark style="color:red;">**tamamen eşit koşullar altında, dış etkenlerden bağımsız şekilde**</mark> başka guildler ile karşı karşıya gelmesini sağlar.\
 Bu sekme altından diğer guildler ile <mark style="color:red;">**Last Stand**</mark> ve <mark style="color:red;">**Team Deathmatch**</mark> etkinliklerine katılabilir veya daha önce yapmış olduğunuz savaşları görüntüleyebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 
 --- Dosya: ./sistemler/world-boss-sistemi.md ---
@@ -9868,7 +9867,7 @@ Evlerinize ait kapıları artık birbirleriyle **linkleyebilirsiniz**. Linklenen
 
 Bu özellik sayesinde evinizde birbirinden farklı konumlarda bulunan kapıları tek bir işlemle birlikte kontrol edebilirsiniz.
 
-<figure><img src="../.gitbook/assets/door_link.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/door link.gif" alt=""><figcaption></figcaption></figure>
 
 ## Evi Satışa Çıkart
 
@@ -12299,7 +12298,7 @@ Remove Trap yeteneğinizi geliştirmek için şehirlerdeki bankalarda bulunan <m
 
 Training Chest'ler her zaman <mark style="color:red;">**Kolay**</mark> zorluk seviyesinde tuzak içerir ve yeteneğinizi güvenli şekilde geliştirmeniz için tasarlanmıştır.
 
-<figure><img src="../.gitbook/assets/removetrap (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/removetrap.gif" alt=""><figcaption></figcaption></figure>
 
 ## Deneme Hakları
 
@@ -12361,8 +12360,6 @@ Bu durumda:
 * Sandığın seviyesine bağlı olarak daha fazla yaratık ortaya çıkar.
 
 Bu nedenle sandıkları açmadan önce Remove Trap kullanmanız tavsiye edilir.
-
-
 
 ## Kombinasyonlar ve Çözüm Yöntemleri
 
@@ -12428,7 +12425,7 @@ Hamle miktarlarına göre çözüm kombinasyonları şu şekildedir;
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/nqFJ7D5BQiHLUayPe3scu3DOMmPhYhjhxWNxqjBe.png)
 
-<figure><img src="../.gitbook/assets/removetrap10 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/removetrap10.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Kombinasyon 11**
 
@@ -13677,7 +13674,7 @@ Harita üzerindeki marker isimlerinde kullanılan yazı tipini belirlemenizi sa�
 
 ### **Show All Markers**
 
-Haritada bulunan tüm markerların gösterilmesini sağlar. Bu seçenek aktif edildiğinde, mevcut marker filtrelerinden bağımsız olarak tüm markerlar haritada görüntülenir. Bu seçeneği aktif&#x20;
+Haritada bulunan tüm markerların gösterilmesini sağlar. Bu seçenek aktif edildiğinde, mevcut marker filtrelerinden bağımsız olarak tüm markerlar haritada görüntülenir. Bu seçeneği aktif
 
 ### **Show All Markers Always**
 
@@ -13729,7 +13726,7 @@ Harita üzerinde yer alan tüm yaratıkların gösterilmesini açar veya kapatı
 
 Yaratıkların, haritanın zoom seviyesinden bağımsız olarak her zaman gösterilmesini sağlar.
 
-<figure><img src="../.gitbook/assets/worldmap 5 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/worldmap 5.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Show/Hide 'Moongates'**
 
@@ -13777,7 +13774,7 @@ Bu sekme, harita üzerinde grid görünümüyle ilgili ayarı içerir.
 
 Harita yeterince yakınlaştırıldığında 8x8 boyutundaki gridin gösterilmesini açar veya kapatır.
 
-<figure><img src="../.gitbook/assets/worldmap 9 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/worldmap 9.gif" alt=""><figcaption></figcaption></figure>
 
 ## Names & Healthbars
 
@@ -13907,7 +13904,7 @@ Nimloth dünyasında bulunan tüm yaratıkları ve konumlarını görüntüleyeb
 
 Üst kısımda bulunan arama çubuğunu kullanarak istediğiniz yaratığı arayabilir, ilgili markerın sağ tarafındaki butona tıklayarak World Map üzerinde konumunu görüntüleyebilirsiniz.
 
-<figure><img src="../.gitbook/assets/worldmap3 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/worldmap3.gif" alt=""><figcaption></figcaption></figure>
 
 ### Moongates
 
@@ -13947,7 +13944,7 @@ Rooms Manager seçeneğine tıkladığınızda oda işlemlerini gerçekleştireb
 
 Bu ekranda bulunan <mark style="color:red;">**Oda Oluştur**</mark> butonuna tıklayarak yeni bir oda oluşturabilirsiniz. Açılan pencerede <mark style="color:red;">**Oda Adı**</mark> belirlemeniz ve dilerseniz oda için bir <mark style="color:red;">**Şifre**</mark> oluşturmanız gerekir.
 
-Odaya yalnızca belirlediğiniz şifreyi bilen oyuncuların katılmasını istiyorsanız bir şifre belirleyebilirsiniz. <mark style="color:red;">**Şifre belirlemek zorunlu değildir.**</mark> \
+Odaya yalnızca belirlediğiniz şifreyi bilen oyuncuların katılmasını istiyorsanız bir şifre belirleyebilirsiniz. <mark style="color:red;">**Şifre belirlemek zorunlu değildir.**</mark>\
 Şifresiz oluşturulan odalara diğer oyuncular herhangi bir şifre girmeden katılabilir.
 
 <figure><img src="../.gitbook/assets/rooms.gif" alt=""><figcaption></figcaption></figure>
@@ -13977,8 +13974,6 @@ Bu seçenek, karakterinizin hareket geçmişinin <mark style="color:red;">**Worl
 ## Clear Movement History
 
 Kaydedilmiş olan hareket geçmişinizi tamamen temizler. Bu işlem sonrasında World Map üzerinde daha önce izlediğiniz güzergâh silinir.
-
-
 
 <figure><img src="../.gitbook/assets/rooms4.gif" alt=""><figcaption></figcaption></figure>
 
@@ -15385,7 +15380,7 @@ Yew Lute üretimi için gereken Blueprint; [<mark style="color:red;">**Blueprint
 
 # Wizard Crystal
 
-<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 Wizard Crystal, büyü enerjisi ile şekillenmiş, özel ekipman üretimlerinde kullanılan değerli bir crafting malzemesidir.
 
@@ -15824,9 +15819,7 @@ Sistem tüm Blueprintleri değerlendirir ve oyuncuya <mark style="color:red;">**
 
 Bu işlem Blueprintlerin geri dönüşümünü sağlar ve oyuncuların farklı üretim tarifleri elde etmesine yardımcı olur.
 
-<figure><img src="../../.gitbook/assets/bp combiner (1).gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/bp combiner.gif" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Blueprintler Combiner ile elde edebileceğiniz Blueprintler şu şekildedir:**</mark>
 
@@ -17745,11 +17738,11 @@ Büyücülerin kimliğini ve güç dengesini yansıtan Wizard Robe, hem ışığ
 * Tier 2 ve Tier 1 yaratıklar artık ilk sayfa büyülerinden etkilenmeyecek
 * Günlük görev sisteminde verilecek minimum görev rakamları güncellendi
 
-Tier5 için min-max rakamları 13,26 dan 20,26 ya yükseltildi \
-Tier4 için min-max rakamları 8,16 dan 12,16 ya yükseltildi \
-Tier3 için min-max rakamları 5,10 dan 7,10 a yükseltildi \
-Tier2 için min-max rakamları 3,6 dan 5,6 ya yükseltildi \
-Tier1 için min-max rakamları 2,4 den 3,4 e yükseltildi \
+Tier5 için min-max rakamları 13,26 dan 20,26 ya yükseltildi\
+Tier4 için min-max rakamları 8,16 dan 12,16 ya yükseltildi\
+Tier3 için min-max rakamları 5,10 dan 7,10 a yükseltildi\
+Tier2 için min-max rakamları 3,6 dan 5,6 ya yükseltildi\
+Tier1 için min-max rakamları 2,4 den 3,4 e yükseltildi\
 Güncelleme öncesinde bir günde alınabilecek min-max puan miktarı 1000-2000 arasındaydı. Güncelleme sonrasında bu rakam 1500-2000 arasında olacak
 
 * Günlük görev sistemine Cumartesi günleri ek bir görev eklenecek. Bu görev World Boss' a hasar verme görevi olacaktır
@@ -17761,7 +17754,7 @@ World Boss a verdiğiniz hasarın %20 kadarı puan olarak eklenecektir. World Bo
 Bandaj sayısı seçimi ile savaşa girişte kaç adet bandaj alacağınızı seçebilirsiniz. Önceden bu rakam (katılımcı sayısı \* 5) şeklindeydi. Ayrıca seçilen (bandaj sayısı / 5) adet Salve bandaj alacaksınız\
 Ölünce Binek ver seçimi aktif edildiğinde her reslendiğinizde çantanıza 1 adet Horse verilecek. Etkinliğine girdiğiniz bineğe bindiğinizde bu Horse silinecek
 
-<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
 * Guildwars sisteminde Team Deathmatch modu için 1 yeni ayar eklendi
 
@@ -17779,16 +17772,16 @@ Bandaj sayısı seçimi ile savaşa girişte kaç adet bandaj alacağınızı se
 
 Önceki yapıda sıralama sadece verilen hasar miktarına göre yapılmaktaydı Güncelleme sonrası Puan hesaplaması şu şekildedir: ( Kill \* 100 ) + ( Verilen Hasar / 2 ) + ( Res Sayısı \* 50 ) + ( Heal Miktarı / 5 ) + ( Alınan Hasar / 5 ) - ( Ölüm Sayısı \* 50 )
 
-<figure><img src="../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
 
 * Sipariş sistemi aktif edildi
 
-Bankalarda yer alan Sipariş Panoları yardımı ile satın almak istediğiniz eşya için sipariş oluşturabilirsiniz \
-Kapsamlı bir sistem olduğu için şu anlpha aşamasındadır ve şu an için sadece Silah sekmesi aktif olarak çalışmaktadır. İlerleyen zamanlarda diğer eşyalar da aktif edilecektir \
+Bankalarda yer alan Sipariş Panoları yardımı ile satın almak istediğiniz eşya için sipariş oluşturabilirsiniz\
+Kapsamlı bir sistem olduğu için şu anlpha aşamasındadır ve şu an için sadece Silah sekmesi aktif olarak çalışmaktadır. İlerleyen zamanlarda diğer eşyalar da aktif edilecektir\
 Silah seçimi yaptıktan sonra silah seviyesi(Vanq, Power, Force) ve ek kriter seçimi ( Hasarsız, Tamir Edilmemiş, Item ID yapılmamış ) yaparak satın almak istediğiniz silah için sipariş oluşturabilirsiniz\
-Sipariş oluşturulduğunda satın almak istediğiniz fiyat üzerinden %10 komisyon kesilecektir \
-Aynı anda en fazla 5 adet sipariş oluşturabilirsiniz. Premium oyuncular için bu rakam 10 adettir Siparişler sekmesinden açık siparişleri görüntüleyebilir, eşya satışı yapabilirsiniz \
-Siparişlerim sekmesinde ise oluşturduğunuz tüm siparişleri görüntüleyebilirsiniz \
+Sipariş oluşturulduğunda satın almak istediğiniz fiyat üzerinden %10 komisyon kesilecektir\
+Aynı anda en fazla 5 adet sipariş oluşturabilirsiniz. Premium oyuncular için bu rakam 10 adettir Siparişler sekmesinden açık siparişleri görüntüleyebilir, eşya satışı yapabilirsiniz\
+Siparişlerim sekmesinde ise oluşturduğunuz tüm siparişleri görüntüleyebilirsiniz\
 Sisteme ait detaylı bilgiye wiki sayfasından ulaşabilirsiniz
 
 <figure><img src="../../.gitbook/assets/siparis.gif" alt=""><figcaption></figcaption></figure>
@@ -17856,7 +17849,7 @@ Kazanılan XP miktarını ay sonu ödülleri ile birlikte vermeyi planlıyorduk 
 * Cumartesi günleri World Boss etkinliğinin günlük görevlere dahil olması sebebi ile Quests menüsünde toplam 6 görev göreceksiniz. 6. görev diğer görevlerden farklı olarak öldürme sayısını üzerinden değil ( verilen hasar / 5 ) olarak puan verecektir ve verilen puan dialogda anlık olarak güncellenecektir\
   World Boss dan maksimum 1000 puan kazabilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
 * Etkinlik takvimine World Boss etkinliği için detay bilgisi eklendi. Detay butonuna bastığınızda World Boss a hangi oyuncunun kaç hasar verdiğini ve son vuruş yapan oyuncuyu görüntüleyebileceksiniz
 
@@ -17864,9 +17857,9 @@ Kazanılan XP miktarını ay sonu ödülleri ile birlikte vermeyi planlıyorduk 
 
 * War Zone sisteminde binek verilmesi ile ilgili ek kontroller eklendi
 
-Oyuncu canlandırıldığında çantasında binek varsa tekrar binek verilmeyecek \
+Oyuncu canlandırıldığında çantasında binek varsa tekrar binek verilmeyecek\
 Oyuncu binek üzerindeyken tekrar binek çıkartmaya çalışırsa deed silinmekte ve binek verilmeyecek\
-Oyuncu etkinliğe girdiği bineğe bindiğinde çantasındaki binek deed i artık silinecek \
+Oyuncu etkinliğe girdiği bineğe bindiğinde çantasındaki binek deed i artık silinecek\
 <mark style="color:red;">**Güncellemelerin amacı oyuncunun savaş alanında birden fazla bineğinin olmaması ve binek ile çeşitli alan ihlallerinin önüne geçilmesi**</mark>
 
 
@@ -17884,25 +17877,25 @@ Oyuncu etkinliğe girdiği bineğe bindiğinde çantasındaki binek deed i artı
 
 <figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
-Kopyalama sisteminde olduğu gibi bu sistemde de linklenmiş kitapların kullanımında +2 saniye delay bulunmaktadır&#x20;
+Kopyalama sisteminde olduğu gibi bu sistemde de linklenmiş kitapların kullanımında +2 saniye delay bulunmaktadır
 
-Ana kitap maksimum 80 defa linklenebilir, kopyalanmış kitaplar linklenemez&#x20;
+Ana kitap maksimum 80 defa linklenebilir, kopyalanmış kitaplar linklenemez
 
-Linkleme işlemi için herhangi bir gold ihtiyacı bulunmamaktadır&#x20;
+Linkleme işlemi için herhangi bir gold ihtiyacı bulunmamaktadır
 
 Ana kitaba tıkladığınızda ortada bir buton bulunmakta. Bu butonun üzerinde yazan rakam kitabın kaç defa linklendiğini göstermekte
 
 <figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
-Butona tıkladığınızda linklenmiş kitapların listesini görüntüleyebilirsiniz. Bu sayfada linklenmiş kitabın adı ve kitabın o an hangi oyuncuda olduğu bilgisi yer almaktadır&#x20;
+Butona tıkladığınızda linklenmiş kitapların listesini görüntüleyebilirsiniz. Bu sayfada linklenmiş kitabın adı ve kitabın o an hangi oyuncuda olduğu bilgisi yer almaktadır
 
-Rename butonuna basarak linklenmiş kitapların adını değiştirebilir, çıkart butonu ile de kitabın linkini kaldırabilirsiniz.&#x20;
+Rename butonuna basarak linklenmiş kitapların adını değiştirebilir, çıkart butonu ile de kitabın linkini kaldırabilirsiniz.
 
 <figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 Çıkartma butonunda herhangi bir sorgu yoktur, butona bastığınız anda linklenmiş kitap **silinecektir**
 
-Linklenmiş kitabı açtığınızda ise isimlendirme, şarj etme, gate ve recall butonları aktif olacaktır.&#x20;
+Linklenmiş kitabı açtığınızda ise isimlendirme, şarj etme, gate ve recall butonları aktif olacaktır.
 
 <figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
@@ -17919,9 +17912,9 @@ Crimson Dragon, Exodus Demon, Platinum Dragon, Shadow Knight, Stygian Dragon, Bl
 * Gatherer görevlerinde toplamda 15 farklı sebze-meyve türü bulunmaktaydı. Bu rakam oyundaki tüm sebze-meyveleri kapsayacak şekilde 23 olarak güncellendi
 * World Map e Map Marker Options a yeni özelleştirme seçenekleri eklendi
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
-Normal şartlarda Markerlara ait isimler Zoom seviyesi 6 ve sonrasında World Map üzerinde gözükmekteydi.&#x20;
+Normal şartlarda Markerlara ait isimler Zoom seviyesi 6 ve sonrasında World Map üzerinde gözükmekteydi.
 
 <figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
@@ -17938,27 +17931,27 @@ Güncelleme sonrası Zoom seviyesi farketmeksizin istediğiniz kategorideki mark
 
 * Craft Mastery sisteminde max seviye 20 den 25 e yükseltildi. Bu yükseltme sonrasında 20+ seviyeler için verilecek ödüller şu şekildedir;
 
-Level 21: Superior Üretim -> Üretilen eşyalar normal eşyalara göre %25 daha dayanıklı olacaktır Level 22: Mallet and Chisel -> StoneCrafting ile bir çok görsel eşya üretimi yapabileceksiniz \
-Level 23: Çift Üretim -> Eşya üretirken %10 şansla aynı eşyadan 2 adet üretebilirsiniz \
-Level 24: Gem Üretimi -> Mining Vein lerden elde edebileceğiniz Gem Stone ları keserek çeşitli eşyalar üretebilirsiniz \
+Level 21: Superior Üretim -> Üretilen eşyalar normal eşyalara göre %25 daha dayanıklı olacaktır Level 22: Mallet and Chisel -> StoneCrafting ile bir çok görsel eşya üretimi yapabileceksiniz\
+Level 23: Çift Üretim -> Eşya üretirken %10 şansla aynı eşyadan 2 adet üretebilirsiniz\
+Level 24: Gem Üretimi -> Mining Vein lerden elde edebileceğiniz Gem Stone ları keserek çeşitli eşyalar üretebilirsiniz\
 Level 25: Hatasız Üretim -> Eşya üretirken fail almadan %100 şansla eşya üretimi yapabileceksiniz
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 * Gatherer Mastery sisteminde max seviye 20 den 25 e yükseltildi. Bu yükseltme sonrasında 20+ seviyeler için verilecek ödüller şu şekildedir; ( Resim 2 )
 
-Level 21: Gem Bulma Şansı -> Gold Pickaxe kullanarak Mining Veinlerden Gem Stone lar elde edebilirsiniz \
-Level 22: Verimli Kullanım -> Kullandığınız eşyalar daha zor eskiyecek. Mining Vein ve Tree Grove kazımında eşyanın hasar alma şansı %100 den %50 ye düşecek \
-Level 23: Toplu Sulama -> Watering Can kullanarak Farming yeteneğinde 2 kare etrafınızdaki bitkileri otomatik sulayabileceksiniz \
-Level 24: Kusursuz Toplama -> Gather işlemlerinde %100 şansla eşya toplayabileceksiniz \
+Level 21: Gem Bulma Şansı -> Gold Pickaxe kullanarak Mining Veinlerden Gem Stone lar elde edebilirsiniz\
+Level 22: Verimli Kullanım -> Kullandığınız eşyalar daha zor eskiyecek. Mining Vein ve Tree Grove kazımında eşyanın hasar alma şansı %100 den %50 ye düşecek\
+Level 23: Toplu Sulama -> Watering Can kullanarak Farming yeteneğinde 2 kare etrafınızdaki bitkileri otomatik sulayabileceksiniz\
+Level 24: Kusursuz Toplama -> Gather işlemlerinde %100 şansla eşya toplayabileceksiniz\
 Level 25: Hızlı Toplama -> Mining, Fishing ve Lumberjacking işlemleri sırasında 3 defa hareketi yapmak yerine 2 defa yapacaksınız. Eşya toplama süresi %33 azalacak<br>
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 * Craft görevlerinden elde edilebilecek Blueprintler güncellendi. Bu güncelleme sonrasında
 
-Tinkering yeteneği için 6, \
-Carpentry yeteneği için 9, \
+Tinkering yeteneği için 6,\
+Carpentry yeteneği için 9,\
 Blacksmith yeteneği için 8 adet yeni eşya craft görevlerinden elde edilebilmekte
 
 * Wand üretimi için Tinker menüye Silver Wire eklendi. Parts sekmesinde yer almakta
@@ -17981,14 +17974,12 @@ Blacksmith yeteneği için 8 adet yeni eşya craft görevlerinden elde edilebilm
 * Gem Cutting aktif edildi. Mining Vein lerden Gold Pickaxe ile elde edebileceğiniz Gem Stone ları Jeweler vendorların binalarında yer alan Gem Cutting Table kullanarak kesebilir ve çeşitli eşyalar üretebilirsiniz.
 *   Tinkering menüsüne 4 yeni eşya eklendi. Bu eşyaların üretimi için Blueprint ve Gemstone gerekmekte
 
-    Night Eye -> Takan oyuncuya Nightsight etkisi verir. Kullanım sırasında eskir ve kırılır \
-    Necklace of SpellChant -> Büyü sözlerini Runik olarak kullanmanızı sağlar. Sadece Mage karakterler tarafından kullanılır ve kullanımı sırasında eskir ve kırılır \
-    Bracelet of Clarity -> Takan oyuncuya pasif olarak 3 saniyede +3 mana verir. Tüm oyuncular tarafından kullanılabilir. Kullanımı sırasında eskir ve kırılır \
+    Night Eye -> Takan oyuncuya Nightsight etkisi verir. Kullanım sırasında eskir ve kırılır\
+    Necklace of SpellChant -> Büyü sözlerini Runik olarak kullanmanızı sağlar. Sadece Mage karakterler tarafından kullanılır ve kullanımı sırasında eskir ve kırılır\
+    Bracelet of Clarity -> Takan oyuncuya pasif olarak 3 saniyede +3 mana verir. Tüm oyuncular tarafından kullanılabilir. Kullanımı sırasında eskir ve kırılır\
     Bracelet of Endurance -> Takan oyuncuya pasif olarak 3 saniyede +1 stamina verir. Tüm oyuncular tarafından kullanılabilir. Kullanımı sırasında eskir ve kırılır
 
 <figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
-
-
 
 * Wizard Robe ve Faster Casting Robe un pasif olarak mana verme özelliği kaldırıldı
 * Donate menüsüne Lantern toplam 16 Lantern den oluşan Blueprint Bundle eklendi
@@ -18418,19 +18409,19 @@ PvP kuralları seçildiğinde sadece loot durumu özelleştirilebilir. Potion sa
 
 * Armor Bundler eklendi. Mevcutta parça parça olan setleri tek Bundle haline getirmek için kullanılmakta
 
-Bundler a sadece hasarsız olan ve orjinal renginde set parçaları eklenebilir&#x20;
+Bundler a sadece hasarsız olan ve orjinal renginde set parçaları eklenebilir
 
-Invul, Dragonic, Nordomir ve Platemail setler Bundle hale getirilebilir&#x20;
+Invul, Dragonic, Nordomir ve Platemail setler Bundle hale getirilebilir
 
-Sete ait tüm parçalar eklendiğinde Bundle Yap butonu aktif olmakta. Bundle yapabilmek için set parçaları haricinde 20 adet Virtue Stone gerekmekte. Virtue Stone ları magical silahları eriterek elde edebilirsiniz&#x20;
+Sete ait tüm parçalar eklendiğinde Bundle Yap butonu aktif olmakta. Bundle yapabilmek için set parçaları haricinde 20 adet Virtue Stone gerekmekte. Virtue Stone ları magical silahları eriterek elde edebilirsiniz
 
-Eklenen ilk set parçasına göre Bundler'ın dialog yapısı değişmekte&#x20;
+Eklenen ilk set parçasına göre Bundler'ın dialog yapısı değişmekte
 
-Eğer Dragonic veya Invul parçası eklenirse 5 parça, Nordomir eklenirse 6 parça, Platemail eklenirse 7 parça eklenebilir hale gelmekte&#x20;
+Eğer Dragonic veya Invul parçası eklenirse 5 parça, Nordomir eklenirse 6 parça, Platemail eklenirse 7 parça eklenebilir hale gelmekte
 
 <figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 Platemail setlerde yapı 2 farklı şekilde çalışmakta. Kalkanlı veya kalkansız şekilde de Bundle üretebilirsiniz. Platemail setin kalkan hariç 6 parçası eklenirse Bundle Yap butonu aktif olmakta. Bu şekilde Bundle yapıldığında kalkansız Bundle elde edebilirsiniz. Kalkanı da ekleyerek kalkanlı şekilde de Bundle yapabilirsiniz
 
@@ -18472,11 +18463,11 @@ Platemail setlerde yapı 2 farklı şekilde çalışmakta. Kalkanlı veya kalkan
 * Reactive Armor büyüsünden seken hasar 1,3 den 1,2 olacak şekilde güncellendi
 * Bandaj kullanımı sırasında Parry kullanan oyuncular için bandaj yırtılma şansları güncellendi. Bu güncelleme sonrasında eğer oyuncunun Parry yeteneği 60 ve üzerinde ve elinde kalkan varsa;
 
-Kullanılan normal bandaj ise ve gelen hasar fiziksel ise yırtılma şansı %25 den %20 ye&#x20;
+Kullanılan normal bandaj ise ve gelen hasar fiziksel ise yırtılma şansı %25 den %20 ye
 
-Kullanılan salve bandaj ise ve gelen hasar fiziksel ise yırtılma şansı %16 dan %14 e&#x20;
+Kullanılan salve bandaj ise ve gelen hasar fiziksel ise yırtılma şansı %16 dan %14 e
 
-Kullanılan normal bandaj ise ve gelen hasar magical ise yırtılma şansı %20 den %16 ya&#x20;
+Kullanılan normal bandaj ise ve gelen hasar magical ise yırtılma şansı %20 den %16 ya
 
 Kullanılan salve bandaj ise ve gelen hasar magical ise yırtılma şansı %14 den %12 ye düşürüldü
 
@@ -18499,37 +18490,37 @@ Kullanılan salve bandaj ise ve gelen hasar magical ise yırtılma şansı %14 d
 
 <figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-Bag türü eşyalar hariç player vendorlarda bulunan tüm eşyalar sisteme otomatik olarak eklendi\
-Fiyat verilen ve vendordan kaldırılan eşyalar otomatik olarak sisteme yansıyacaktır\
+Bag türü eşyalar hariç player vendorlarda bulunan tüm eşyalar sisteme otomatik olarak eklendi\
+Fiyat verilen ve vendordan kaldırılan eşyalar otomatik olarak sisteme yansıyacaktır\
 Sistemde şu an 9+2 şeklinde toplamda 11 kategori bulunmaktadır. Solda bulunan kategorilerden dilediğiniz kategorideki eşyaları görüntüleyebilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
-Eşya Adı, Fiyat ve Satıcıya göre artan veya azalan şekilde sıralama yapabilir veya sıralamayı kaldırabilirsiniz. Sıralama yaptığınızda neye sıralama yaptığınıza dair bir indikatör gözükecektir
+Eşya Adı, Fiyat ve Satıcıya göre artan veya azalan şekilde sıralama yapabilir veya sıralamayı kaldırabilirsiniz. Sıralama yaptığınızda neye sıralama yaptığınıza dair bir indikatör gözükecektir
 
-<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
-Sol üstte yer alan arama butonu ile bulunduğunuz kategoride dilediğiniz eşyayı arayabilirsiniz. Vanq katana aramak için katana vanq yazmanız yeterlidir. Tekrar arama butonuna bastığınızda arama filtrenizi görüntüleyebilirsiniz
+Sol üstte yer alan arama butonu ile bulunduğunuz kategoride dilediğiniz eşyayı arayabilirsiniz. Vanq katana aramak için katana vanq yazmanız yeterlidir. Tekrar arama butonuna bastığınızda arama filtrenizi görüntüleyebilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
-Kategoriler arası geçişlerde arama filtreniz silinecektir\
-Eşyanın solunda yer alan butona tıklayarak eşya ile ilgili detaylı bilgiye ulaşabilirsiniz\
+Kategoriler arası geçişlerde arama filtreniz silinecektir\
+Eşyanın solunda yer alan butona tıklayarak eşya ile ilgili detaylı bilgiye ulaşabilirsiniz\
 Detay ekranında eşyanın görseli, satıcı adı, fiyat, vendorun konumu, koordinat bilgisi yer almaktadır. Ayrıca detayı görüntülenen eşyanın kategorisine göre çeşitli ek bilgilere ulaşabilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 Detay ekranında konumun yanında yer alan butona tıklayarak vendorun konum bilgisini hem quest oku olarak hem de world map üzerinden görüntüleyebilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
-\
+\
 Sistem ile ilgili daha detaylı bilgiye sisteme ait wiki sayfasından ulaşabilirsiniz.
 
 <figure><img src="../../.gitbook/assets/vendor arama.gif" alt=""><figcaption></figcaption></figure>
@@ -18747,7 +18738,7 @@ Odanın yanında yer alan butona tıklayarak odaya katılabilir ve odadaki oyunc
 
 * Ramazan bayramını kutlamak amacı ile tüm oyunculara 2 haftalık Premium tanımlanmıştır. Oyuna giriş yaptığınızda 14 günlük Premiumunuz aktif olacaktır. Eğer Premium üyesi iseniz Premium süreniz 14 gün uzatılacaktır.
 
-<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
 * 23 Mart 2026 tarihine kadar Donate sisteminde %20-25 arası indirim yapıldı.
 * Donate sistemine Recall büyüsü için 6 adet efekt eklendi. Bu efektlere ait görseller Wiki sayfasına en kısa sürede eklenecektir
@@ -18757,24 +18748,42 @@ Odanın yanında yer alan butona tıklayarak odaya katılabilir ve odadaki oyunc
 * Satın aldığınız büyüleri Profile sekmesinden ayarlamayı unutmayınız
 
 
+--- Dosya: ./guncelleme-notlari/ekim/04.10.2026-guncellemeleri.md ---
+
+# 04.10.2026 Güncellemeleri
+
+* Client'a çeşitli özelleştirme ayarları eklendi
+* Speech sekmesindeki yazarken karakterimin üzerinde "..." göster ve başkalarının yazma göstergesini göster özelliğini açarak oyun içerisinde yazı yazıldığı sırada karşı tarafa bilgi gitmesini sağlayabilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/yazma indikatör.gif" alt=""><figcaption></figcaption></figure>
+
+* Reputation sekmesinde Tab tuşuna basıldığında karakterin nasıl davranacağını özelleştirebilirsiniz. Toplamda 3 seçenek bulunmakta
+
+Toggle -> Karakteri War-Peace arasında geçiş yaptırır Her zaman War moduna geç -> Tab tuşuna basıldığında karakter her zaman War moduna geçer Her zaman Peace moduna geç -> Tab tuşuna basıldığında karakter her zaman Peace moduna geçer
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+* Reputation sekmesine Modern floating damage numbers özelliği eklendi. Bu özelliği açtığınızda vermiş olduğunuz hasarları daha belirgin görebilirsiniz. Vurduğunuz hasara göre yazı rengi değişiklik gösterecektir
+
+<figure><img src="../../.gitbook/assets/modern damage.gif" alt=""><figcaption></figcaption></figure>
+
+* Worldmap Markers Manager'a Specials sekmesi eklendi. Bu sekme üzerinden Rare Flower ve Tree Grove konumlarını görüntüleyebilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+Icon ve Label ları görüntülemek için Show/Hide Specials tikini tiklemeyi unutmayınız Markers Manager wiki sayfasından World Map ilgili detaylı bilgiye ulaşabilirsiniz
+
+[https://nimloth-uo.gitbook.io/wiki/genel-bilgi/world-map#markers-manager](https://nimloth-uo.gitbook.io/wiki/genel-bilgi/world-map#markers-manager)
+
+
 --- Dosya: ./guncelleme-notlari/ekim/README.md ---
 
-# Ekim
+# Ekim 2026
 
-* Vaccine Potion'un bankadan kullanımı kapatıldı, artık sadece çantadayken kullanılabilecek
-* Spellbook ve Full Spellbook un Superior üretimi ile ilgili problem düzeltildi
-* Player vendorlarda Blueprintlerin toplu fiyat verilebilmesi özelliği kapatıldı. Blueprint ve binekler için toplu fiyat verme özelliği haftaya doğru çalışacak şekilde aktif edilecek
-* Oto Aktivite sisteminde etkinliğin bazı durumlarda birden fazla tetiklenmesi ile ilgili problem düzeltildi
-* Discordance yeteneği kullanımı sırasında Magic Reflection büyüsü varken bile zararlı büyü yenildiğinde yeteneğin başarısız olması problemi düzeltildi
-* Donate sisteminde altyapısal ve görsel iyileştirmeler yapıldı
-* Help Page de duyurulara link özelliği eklendi. Duyurunun sol üstünde bulunan butona tıkladığınızda ilgili sayfaya yönlendirileceksiniz
-* Trapped Pouchlar artık üretildiğinde 5 şarj değil 1 şarj olacak ve stackable olacak. Eski TP lerin tamamı güncellendi ve oyunculara şarj sayısını kadar şarj verildi. Vendorlarda bulunan TP lerin fiyatları sıfırlandı
-* Item Storage'da Others sekmesine Trapped Pouch eklendi
-* Grid Loot kullanımı kapatıldı
-* Günlük görev sisteminde aynı puanda olan oyuncular artık aynı sıralamada gözükmekte. Güncelleme hem mevcut sıralamayı hem de geçmiş sıralamaları kapsamakta
-* Guild dialogunda bayrak seçimi sekmesinde çeşitli kullanımsal iyileştirmeler yapıldı
-
-Bu güncelleme ile birlikte Q3 dönemi sona erdi ve yılın son çeyreğine giriş yaptık. Yakın zamanda güncellenmiş Q4 Roadmap ve 2027 yılında planladıklarımızla ilgili bilgilendirme yapacağız.
 
 
 --- Dosya: ./guncelleme-notlari/ekim/01.10.2026-guncellemeleri.md ---
@@ -18789,7 +18798,7 @@ Bu güncelleme ile birlikte Q3 dönemi sona erdi ve yılın son çeyreğine giri
 * Donate sisteminde altyapısal ve görsel iyileştirmeler yapıldı
 * Help Page de duyurulara link özelliği eklendi. Duyurunun sol üstünde bulunan butona tıkladığınızda ilgili sayfaya yönlendirileceksiniz
 
-<figure><img src="../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 * Trapped Pouchlar artık üretildiğinde 5 şarj değil 1 şarj olacak ve stackable olacak. Eski TP lerin tamamı güncellendi ve oyunculara şarj sayısını kadar şarj verildi. Vendorlarda bulunan TP lerin fiyatları sıfırlandı
 * Item Storage'da Others sekmesine Trapped Pouch eklendi
@@ -18828,7 +18837,7 @@ Kill Sayısı Ölüm Sayısı Verilen Hasar Alınan Hasar Heal Miktarı Canland�
 * Düello sisteminde çeşitli hata düzeltmeleri ve iyileştirmeleri yapıldı
 * Hazine haritalarının yapısı güncellendi. Artık hazine haritaları çözüldüğünde eskisine göre çok daha büyük bir alanda görüntülenecek (soldaki eski, sağdaki yeni hali)<br>
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 * Hazine haritası açıldığında dialogdaki buton yardımı ile hazine konumunun Zoom seviyesini ayarlayabileceksiniz. 3 farklı zoom seviyesi arasında geçiş yapabilirsiniz
 
@@ -18940,26 +18949,26 @@ Oyunda dosya güncellemesi mevcuttur. Sorun yaşamamak adına bağlantı program
 
 Detay bilgilerinde hangi guild ile savaşıldığı, kimin kazandığı, savaş türü ve savaş süresi bilgilerine ulaşabilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/warzone.gif" alt=""><figcaption></figcaption></figure>
 
 * War Zone sisteminde yer alan Team Deathmatch aktif edilmiştir.
 
-Team Deathmatch Last Stand'den farklı olarak tüm oyuncuların ölmesi durumunda değil belirlenen rakama ulaşıldığında bitmektedir. \
-Oyuncular öldüklerinde başlangıç noktalarına gönderilirler ve etkinlik için verilen eşyaları tekrar verilir. \
-Savaş alanına tekrar katılmak için 30 saniye süreniz bulunmaktadır. \
-Belirlenen rakama ulaşıldığında savaş sona erer. \
+Team Deathmatch Last Stand'den farklı olarak tüm oyuncuların ölmesi durumunda değil belirlenen rakama ulaşıldığında bitmektedir.\
+Oyuncular öldüklerinde başlangıç noktalarına gönderilirler ve etkinlik için verilen eşyaları tekrar verilir.\
+Savaş alanına tekrar katılmak için 30 saniye süreniz bulunmaktadır.\
+Belirlenen rakama ulaşıldığında savaş sona erer.\
 Loot mevcutsa kaybeden guildin tüm oyuncuları sistem tarafından öldürülür.\
 Bu etkinlikte ölüm sonrası potion ve bandaj gibi eşyalar baştan verileceği için seçilebilecek Potion miktarı Last Stand'e göre daha düşüktür.\
 Her oyuncu ölümünde mevcut skor oyunculara duyurulur.\
-Ayrıca .skor komutu ile mevcut skor görüntülenebilir. \
+Ayrıca .skor komutu ile mevcut skor görüntülenebilir.\
 Scoreboard ekranında guild lerin bayrakları ve skor bilgisi bulunmaktadır.\
-Sistem hala geliştirme aşamasındadır ve şu an için sadece Britain şehri aktiftir. \
+Sistem hala geliştirme aşamasındadır ve şu an için sadece Britain şehri aktiftir.\
 Kullanım öncesinde yetkililer ile iletişime geçiniz
 
 <figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
@@ -18995,14 +19004,14 @@ Kullanım öncesinde yetkililer ile iletişime geçiniz
 * Poison büyüsü hedefe 1 kare ve altında atıldığında Deadly yerine Lethally vurması eklendi. Bu etki hem oyuncularda hem npc lerde geçerli olacak. Lethally 1 defaya mahsus etki etmekte ve oyunculara 10 hasar vermekte
 * Poison büyüsü hedefe atıldığında çıkan efekt güncellendi. Artık default olarak yeşil efekt çıkmakta
 
-<p align="center"><img src="../../.gitbook/assets/image (142).png" alt="" data-size="original"></p>
+<div align="center"><img src="../../.gitbook/assets/image (142).png" alt=""></div>
 
 * Agility Potion içildiğinde Curse büyüsünün etkisinin silinmesi kaldırıldı. Curse büyüsü etkisi stat değiştiren büyüler veya Dispel büyüsü ile kaldırılabilmekte
 * Curse büyüsünün Cast süresi 2 saniyeden 2.3 saniyeye yükseltildi. Freezetime ise 1.8 saniyeden 2 saniyeye yükseltildi
 * Curse büyüsünün etki süresi 30-60 saniyeden 2-3 dakika arasına yükseltildi
-* Curse büyüsü hedefe atıldığında çıkan efekt güncellendi. Artık default olarak mor efekt çıkmakta&#x20;
+* Curse büyüsü hedefe atıldığında çıkan efekt güncellendi. Artık default olarak mor efekt çıkmakta
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 * Faster Casting Robe'a eklenen scroll ların görselleri defansif büyüler için yeşil, ofansif büyüler için ise kırmızı olacak şekilde güncellendi
 
@@ -19104,15 +19113,15 @@ Güncelleme sonrasında her online olunan 1 saat için 1 puan verecek hale getir
 * Achievement sisteminde Dungeon sekmesine Terathan Keep eklendi. Artık Terathan Keep bölgesinde öldürülen yaratıklar da sayılmakta
 * Achievement sisteminde detay bilgisi sayfasına geri butonu eklendi. Geri butonuna tıkladığınızda kaldığınız sayfadan ana menüye döneceksiniz
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 * Farming yeteneğinde ekilen Rare Flower lar toplandığında achievementı arttırmaması problemi düzeltildi
 * Magical silahların Master Merchant'a satışı eklendi. Bu güncelleme sonrası Master Merchant şu fiyatlardan alım yapacak:
 
-Ruin silahlar 2000 GP \
-Might silahlar 5000 GP \
-Force silahlar 8000 GP \
-Power silahlar 12000 GP \
+Ruin silahlar 2000 GP\
+Might silahlar 5000 GP\
+Force silahlar 8000 GP\
+Power silahlar 12000 GP\
 Vanq silahlar 16000 GP
 
 * Help menüdeki komutlar sekmesine .achi komutu açıklaması eklendi
@@ -19126,7 +19135,7 @@ Vanq silahlar 16000 GP
 
 Etkinlik boyunca seçilen bu zindanda: Yaratıklardan 2 kat loot elde edebileceksiniz ( Ek loot ayrı bir backpack içerisinde olacaktır )
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 NPC respawn süreleri %50 daha hızlı olacak
 
