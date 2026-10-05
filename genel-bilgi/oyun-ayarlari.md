@@ -431,3 +431,172 @@ Ağaç ve kayaların gölgelerinin görüntülenmesini sağlar. Bu seçeneğin e
 ### **Terrain Shadows Level**
 
 Arazi üzerinde kullanılan gölgelerin seviyesini belirler. Değeri değiştirerek zemin ve arazi üzerindeki gölgelendirme yoğunluğunu ayarlayabilirsiniz.
+
+## Reputation
+
+Reputation sekmesi, hedefleme ve savaş davranışlarının yanı sıra bazı arayüz ve aksiyon çubuğu seçeneklerini düzenlemenizi sağlar.
+
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+### **Use New Target System**
+
+Yeni hedefleme sisteminin kullanılmasını sağlar. Aktif olduğunda hedef seçiminde geliştirilmiş hedefleme özellikleri kullanılır.
+
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+### **Hold TAB Key for Combat**
+
+`TAB` tuşunun War/Peace moduna geçiş davranışını belirler. Bu seçenekle birlikte aşağıdaki üç kullanım şeklinden birini seçebilirsiniz:
+
+* <mark style="color:red;">**Toggle - her basışta war/peace değiştir**</mark>**:** TAB tuşuna her bastığınızda War ve Peace modları arasında geçiş yapılır.
+* <mark style="color:red;">**Her zaman War moduna geç**</mark>**:** TAB tuşuna bastığınızda karakteriniz War moduna geçer.
+* <mark style="color:red;">**Her zaman Peace moduna geç**</mark>**:** TAB tuşuna bastığınızda karakteriniz Peace moduna geçer.
+
+### **Query Before Attack**
+
+Bir hedefe saldırmadan önce onay sorulmasını sağlar. Yanlışlıkla bir oyuncuya veya hedefe saldırmanızı önlemek için kullanılabilir.
+
+### **Query Before Performing Beneficial Acts on Murderers, Criminals, Grays \[Monsters/Animals]**
+
+Murderer, Criminal veya Gray durumundaki karakterlere faydalı bir eylem gerçekleştirmeden önce onay ister. Örneğin bu hedeflere iyileştirme veya faydalı bir büyü uygulamaya çalıştığınızda yanlışlıkla işlem yapmanızı önlemeye yardımcı olur.
+
+### **Enable Overhead Spell Format**
+
+Karakterlerin üzerinde görüntülenen büyü bilgilerinde alternatif gösterim formatının kullanılmasını sağlar.
+
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
+### **Enable Overhead Spell Hue**
+
+Karakterlerin üzerinde görüntülenen büyü yazılarında büyüye göre renk kullanımını etkinleştirir.
+
+### **Single Click UI Buttons**
+
+Arayüz üzerindeki büyü butonların tek tıklama ile çalışmasını sağlar.
+
+### **Action Progressbar**
+
+Belirli işlemler gerçekleştirilirken işlemin ilerleme durumunu gösteren progress barın görüntülenmesini sağlar.
+
+### **Spell/Skill Bar Sayısı**
+
+Ekranda kullanabileceğiniz <mark style="color:red;">**Spell**</mark>**/Skill Bar** sayısını belirler. Kaydırma çubuğu üzerinden ihtiyacınıza göre bar sayısını artırabilir veya azaltabilirsiniz.
+
+### **Custom Bar Sayısı**
+
+Ekranda kullanabileceğiniz <mark style="color:red;">**Custom Bar**</mark> sayısını belirler. Kaydırma çubuğu üzerinden aynı anda kullanmak istediğiniz Custom Bar miktarını ayarlayabilirsiniz.
+
+### Spell Visual Indicator
+
+Büyü kullanımı sırasında görsel göstergelerin görüntülenmesini sağlar. Bu özellik sayesinde büyü kullanımını görsel olarak takip edebilirsiniz.
+
+### Show Buff Duration
+
+Karakterinize uygulanan Buff ve Debuff etkilerinin kalan sürelerini görüntülemenizi sağlar.
+
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+
+### Enable Fast Spells Assign \[Ctrl + Alt]
+
+Büyüleri hızlı bir şekilde atamanızı sağlar. `Ctrl + Alt` tuş kombinasyonunu kullanarak büyüleri ilgili arayüz öğelerine daha pratik şekilde atayabilirsiniz.
+
+### Show DPS With Damage Numbers
+
+Verdiğiniz hasarlarla birlikte saniye başına verdiğiniz hasar miktarının (DPS) görüntülenmesini sağlar.
+
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+
+### Modern Floating Damage Numbers
+
+Hasar miktarlarının modern bir görsel biçimde görüntülenmesini sağlar. Bu seçenek açık olduğunda hasar sayıları alternatif bir animasyon ve gösterim biçimiyle sunulur.
+
+<figure><img src="../.gitbook/assets/modern_damage.gif" alt=""><figcaption></figcaption></figure>
+
+### Karakter ve Büyü Renkleri
+
+Bu bölümde, karakterlerin itibar durumlarına ve büyülerin türlerine göre kullanılan renkleri özelleştirebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+
+#### Innocent Color
+
+Masum (Innocent) karakterlerin görüntüleneceği rengi belirler.
+
+#### **Friend Color**
+
+Arkadaş olarak tanımladığınız karakterlerin görüntüleneceği rengi belirler.
+
+#### Criminal Color
+
+Criminal durumundaki karakterlerin görüntüleneceği rengi belirler.
+
+#### Can Be Attacked Color
+
+Saldırılabilir durumdaki karakterlerin görüntüleneceği rengi belirler.
+
+#### Murderer Color
+
+Murderer durumundaki karakterlerin görüntüleneceği rengi belirler.
+
+#### Enemy Color
+
+Düşman olarak değerlendirilen karakterlerin görüntüleneceği rengi belirler.
+
+#### Benefic Spell Hue
+
+Faydalı büyülerin gösteriminde kullanılacak rengi belirler. İyileştirme ve güçlendirme gibi büyüleri diğer büyülerden ayırt etmenizi sağlar.
+
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+
+#### Harmful Spell Hue
+
+Zarar verici büyülerin gösteriminde kullanılacak rengi belirler. Saldırı amaçlı büyüleri daha kolay fark etmenizi sağlar.
+
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+
+#### Neutral Spell Hue
+
+Faydalı veya zararlı olarak sınıflandırılmayan büyülerin gösteriminde kullanılacak rengi belirler.
+
+### Spell Overhead Format
+
+Karakterlerin üzerinde görüntülenen büyü yazılarının biçimini özelleştirmenizi sağlar. Metin alanında aşağıdaki değişkenleri kullanabilirsiniz:
+
+* `{power}`: Büyünün söylenen güç kelimelerini (Power Words) temsil eder.
+* `{spell}`: Büyünün adını temsil eder.
+
+Örneğin `{power} [{spell}]` şeklinde bir format belirlediğinizde, büyü kullanımı sırasında karakterin üzerinde hem güç kelimeleri hem de büyünün adı görüntülenebilir.
+
+> Not: Bu formatın kullanılabilmesi için önceki bölümde yer alan Enable Overhead Spell Format seçeneğinin aktif olması gerekir.
+
+### **Hasar alındığında kamera sallan**
+
+Karakteriniz hasar aldığında oyun ekranında kamera sallanma efekti uygulanmasını sağlar. Efektin ne zaman ve ne kadar güçlü uygulanacağını aşağıdaki seçeneklerden ayarlayabilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/shake (1).gif" alt=""><figcaption></figcaption></figure>
+
+### **Sallanma Eşiği (Bu Hasarın Üzerinde Tetiklenir)**
+
+Kamera sallanma efektinin devreye girmesi için alınması gereken minimum hasar miktarını belirler. Bu değerin altındaki hasarlarda kamera sallanmaz.
+
+### **Sallanma Şiddeti (Eşiği Aşan Hasar Başına)**
+
+Alınan hasar, belirlenen eşiği aştıkça kamera sallanmasının ne kadar güçleneceğini belirler. Değer yükseldikçe yüksek hasarlarda oluşan sallanma daha belirgin hale gelir.
+
+### **Maksimum Sallanma Mesafesi (Piksel)**
+
+Kamera sallanmasının ulaşabileceği maksimum hareket mesafesini belirler. Böylece çok yüksek hasar alınsa bile ekranın belirlediğiniz değerden daha fazla sallanmasını engelleyebilirsiniz.
+
+### **Vurulan Hedefte Kan Efekti Göster**
+
+Saldırdığınız hedef hasar aldığında hedef üzerinde kan efektinin görüntülenmesini sağlar.
+
+<figure><img src="../.gitbook/assets/damage blood.gif" alt=""><figcaption></figcaption></figure>
+
+### **Hasar Alındığında Ekrana Kan Sıçrasın**
+
+Karakteriniz hasar aldığında ekran üzerinde kan sıçraması efektinin görüntülenmesini sağlar.
+
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
