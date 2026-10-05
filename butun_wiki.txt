@@ -13827,6 +13827,8 @@ Yağmur ve benzeri hava durumu efektlerinin oyun ekranında görüntülenmesini 
 
 Karakterlerin baş kısmının diğer grafik katmanlarının üzerinde görüntülenmesini sağlar. Özellikle karakterin bazı nesnelerin veya grafiklerin arkasında kaldığı durumlarda baş kısmının görünür kalmasına yardımcı olur.
 
+<figure><img src="../.gitbook/assets/hood.gif" alt=""><figcaption></figcaption></figure>
+
 ### **Shadows**
 
 Oyun dünyasındaki gölge efektlerini açıp kapatmanızı sağlar.
