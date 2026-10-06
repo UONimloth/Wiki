@@ -88,7 +88,7 @@ Eşyaları taşıma ve bırakma işlemleri sırasında oluşan eşya bırakma se
 
 Tooltip sekmesi, oyun içerisinde bir eşyanın veya nesnenin üzerine geldiğinizde görüntülenen bilgi pencerelerinin davranışını ve görünümünü düzenlemenizi sağlar. Tooltiplerin gösterilme süresini, boyutunu, arka plan saydamlığını ve yazı tipini bu bölümden değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Use Tooltip**
 
@@ -211,7 +211,7 @@ Alt bölümde ise farklı konuşma ve mesaj türlerinde kullanılacak renkleri a
 
 Renk kutularına tıklayarak ilgili mesaj türünde kullanılmasını istediğiniz rengi değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Macro Ayarları
 
@@ -611,7 +611,7 @@ General sekmesi, oyunun genel kullanım davranışlarını düzenleyebileceğini
 
 > <mark style="color:red;">**Not:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.</mark>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Options Menu Font Hue**
 

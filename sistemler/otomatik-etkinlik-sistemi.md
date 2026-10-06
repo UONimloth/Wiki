@@ -4,7 +4,7 @@ Nimloth'ta eğlence yalnızca zindanlarda değil! Her gün belirli saatlerde sun
 
 Otomatik Etkinlik Sistemi; mini oyunlar, turnuvalar, sunucu geneli bonus saatleri ve World Boss olmak üzere toplam 11 farklı etkinlikten oluşur.
 
-### Etkinlik Takvimi
+## Etkinlik Takvimi
 
 Hangi gün, hangi saatte, hangi etkinliğin düzenleneceğini help menüsü üzerinde yer alan Takvim üzerinden görüntüleyebilirsiniz.
 
@@ -25,3 +25,109 @@ Varsayılan etkinlik düzeni şu şekildedir:
 | PvP Turnuvası                       | Yönetim tarafından takvime eklendiği günlerde                                  |
 
 <mark style="color:red;">**Not:**</mark> Takvime yönetim tarafından ek etkinlikler eklenebilir. Güncel program için her zaman takvimi kontrol ediniz.
+
+## Etkinliğe Nasıl Katılınır?
+
+Bir mini oyun veya turnuva başlayacağı zaman sunucu genelinde duyuru yapılır. Duyurudan sonra katılım için <mark style="color:red;">**5 dakikanız**</mark> vardır (PvP Turnuvası için 10 dakika). Kalan süre her dakika tekrar duyurulur.
+
+Katılmak için `.etkinlik` komutunu yazın ve açılan ekranda <mark style="color:red;">**Katıl**</mark> butonuna tıklayın. Bu ekranda etkinliğin adını, o ana kadarki katılımcı sayısını, kalan süreyi ve katılım ücretini görebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+• Katılım ücreti <mark style="color:red;">**25.000 GP**</mark>'dir ve bankanızdan tahsil edilir.
+
+• Etkinliğin başlayabilmesi için en az <mark style="color:red;">**4 oyuncunun**</mark> katılması gerekir.
+
+• Yeterli katılım sağlanamazsa etkinlik iptal edilir ve katılım ücreti bankanıza iade edilir.
+
+• Etkinlik en fazla oyuncu sayısına ulaşırsa süre beklenmeden hemen başlar.
+
+Aşağıdaki durumlarda <mark style="color:red;">**etkinliğe katılamazsınız**</mark>:
+
+• Canınız tam değilse, zehirliyseniz veya kanamanız varsa
+
+• Ölüyseniz, hapisteyseniz veya hareket edemez durumdaysanız
+
+• Binek üzerindeyseniz veya ekranınızda size ait bir canlı bulunuyorsa
+
+• Elinizde sürüklediğiniz bir eşya ya da açık bir trade ekranı varsa
+
+• Çantanızda ticaret kontratı bulunuyorsa
+
+• Düelloda, War Zone'da veya zaten başka bir etkinlikteyseniz
+
+## Katıldıktan Sonra
+
+Katıl butonuna tıkladığınız anda etkinlik alanına ışınlanırsınız ve etkinlik başlayana kadar hareket edemezsiniz. Bu sırada ekranınızda etkinliğin kuralları gösterilir.
+
+• Üzerinizdeki eşyalar ve çantanız <mark style="color:red;">**güvenli bir şekilde bankanıza kaldırılır**</mark>, size geçici bir çanta ve etkinlik kıyafeti verilir.
+
+• Üzerinizdeki tüm büyü etkileri kaldırılır.
+
+• Etkinlik bittiğinde ya da elendiğinizde eşyalarınız, yetenekleriniz, statlarınız, kill, fame ve karma değerleriniz eski haline getirilir ve etkinliğe katıldığınız konuma geri ışınlanırsınız.
+
+Katılımlar sona erdiğinde etkinlik <mark style="color:red;">**10 saniye**</mark> sonra başlar.
+
+**Not:** Etkinlik sırasında bağlantınız koparsa kısa süre içinde oyuna geri dönmeniz gerekir. Geri dönmezseniz etkinlikten elenirsiniz ve katılım puanı kazanamazsınız.
+
+### Ödüller
+
+Etkinliğe katılmanız veya kazanmanız durumunda hem etkinlik puanı hem de Nimloth puanı kazanırsınız.
+
+### Katılım Ödülü
+
+Etkinliği tamamlayan ya da oyun içinde elenen her oyuncu:
+
+• <mark style="color:red;">**1 Etkinlik puanı**</mark>
+
+• <mark style="color:red;">**2 Nimloth puanı**</mark> kazanır.
+
+Oyundan çıktığı için ya da sırası geldiğinde süresi içinde hamle yapmadığı için elenen oyuncular katılım ödülü alamaz.
+
+### Kazanma Ödülü
+
+Etkinliğin kazananı katılım ödülüne ek olarak:
+
+• <mark style="color:red;">**10 Etkinlik puanı**</mark>
+
+• <mark style="color:red;">**20 Nimloth puanı**</mark>
+
+• Toplanan katılım ücretlerinin <mark style="color:red;">**%75'i kadar**</mark> altın kazanırsınız. Altın ödülü, çantanıza banka çeki olarak verilir.
+
+Örneğin 12 oyuncunun katıldığı bir etkinlikte toplam 300.000 GP toplanır ve kazanan oyuncu 225.000 GP değerinde bir çek alır. Katılım ne kadar yüksekse ödül de o kadar büyür.
+
+## Başarımlar
+
+Her etkinlik için ayrı <mark style="color:red;">**Katıl**</mark> ve <mark style="color:red;">**Kazan**</mark> başarımları bulunur:
+
+| Başarım               | 1. Seviye | 2. Seviye | 3. Seviye |
+| --------------------- | --------- | --------- | --------- |
+| Mini oyunlar - Katıl  | 10        | 100       | 500       |
+| Mini oyunlar - Kazan  | 1         | 10        | 50        |
+| PvP Turnuvası - Katıl | 2         | 10        | 50        |
+| PvP Turnuvası - Kazan | 1         | 5         | 20        |
+| World Boss - Katıl    | 5         | 25        | 100       |
+
+<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+
+## Mini Oyunlar
+
+Her akşam 21:00'de aşağıdaki 7 oyundan biri rastgele seçilir.
+
+### Engelli Koşu
+
+Görünmeyen engellerle dolu parkuru geçerek bitiş noktasına ulaşan ilk oyuncu olmaya çalışırsınız.
+
+• En fazla <mark style="color:red;">**24 oyuncu**</mark> katılabilir.
+
+• Parkur 25 sıradan oluşur. Her sırada yalnızca tek bir kare güvenlidir, diğer karelerde gizli teleportlar bulunur.
+
+• Teleporta basan oyuncu başlangıç noktasına geri döner ve parkura yeniden başlar.
+
+• Güvenli yol her sırada en fazla bir kare sağa veya sola kayar. Bir önceki sırada bulduğunuz güvenli kare, bir sonrakinin nerede olabileceği konusunda ipucu verir.
+
+• Her <mark style="color:red;">**30 saniyede**</mark> bir, baştan başlayarak bir sıra görünür hale gelir ve güvenli kareyi ortaya çıkarır.
+
+• Etkinlik boyunca saldırı yapılamaz ve yetenek kullanılamaz.
+
+Bitiş çizgisine ilk basan oyuncu etkinliği kazanır.
