@@ -6,7 +6,7 @@ Her gün belirlenen yaratıkları gün içerisinde öldürerek puan toplayabilir
 
 ## Görevlerin Belirlenmesi
 
-Her gece saat <mark style="color:red;">**00:00'da**</mark>, toplam <mark style="color:red;">**5 farklı Tier**</mark> üzerinden günlük görev yaratıkları belirlenir.&#x20;
+Her gece saat <mark style="color:red;">**00:00'da**</mark>, toplam <mark style="color:red;">**5 farklı Tier**</mark> üzerinden günlük görev yaratıkları belirlenir.
 
 Görevler belirlendiğinde tüm oyunculara görevlerin belirlendiğine dair bir bilgilendirme mesajı gönderilir.
 
@@ -14,7 +14,7 @@ Arayüzde bulunan <mark style="color:red;">**Quests**</mark> butonu üzerinden b
 
 <figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Sıralama
 
@@ -22,7 +22,7 @@ Günlük görevlerinizin yanı sıra mevcut sıralamayı da arayüzde bulunan <m
 
 Bu menü üzerinden toplam puanınızı ve güncel sıralamayı takip edebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Günlük Görev Yaratıkları
 
@@ -95,19 +95,19 @@ Sıralamada <mark style="color:red;">**ilk 3 oyuncu**</mark>, birbirinden farkl�
 ### 4–5. Sıralar
 
 * Random <mark style="color:red;">**Mustang**</mark>
-* 3 Faster veya Wizard Robe&#x20;
+* 3 Faster veya Wizard Robe
 * 5 adet +15 Silah
 
 ### 6–7. Sıralar
 
 * Random <mark style="color:red;">**Shire**</mark>
-* 2 Faster veya Wizard Robe&#x20;
+* 2 Faster veya Wizard Robe
 * 4 adet +15 Silah
 
-### **8–10. Sıralar**&#x20;
+### **8–10. Sıralar**
 
-* Random **Ostard**&#x20;
-* 1 Faster veya Wizard Robe&#x20;
+* Random **Ostard**
+* 1 Faster veya Wizard Robe
 * 3 adet +15 Silah
 
 ## Rare Renkler ve Binekler

@@ -1,6 +1,6 @@
 # Oyun Ayarları
 
-ClassicUO istemcisi, oyun deneyiminizi ihtiyaçlarınıza ve oyun tarzınıza göre özelleştirebilmeniz için oldukça kapsamlı ayarlar sunar. Ses ve müzik seçeneklerinden görüntü ayarlarına, arayüz kullanımından karakter kontrollerine kadar birçok özelliği **Options** menüsü üzerinden düzenleyebilirsiniz.
+ClassicUO istemcisi, oyun deneyiminizi ihtiyaçlarınıza ve oyun tarzınıza göre özelleştirebilmeniz için oldukça kapsamlı ayarlar sunar. Ses ve müzik seçeneklerinden görüntü ayarlarına, arayüz kullanımından karakter kontrollerine kadar birçok özelliği <mark style="color:red;">**Options**</mark> menüsü üzerinden düzenleyebilirsiniz.
 
 UO:Nimloth istemcisinde, ClassicUO'nun standart seçeneklerinin yanı sıra oyun deneyimini geliştirmek amacıyla eklenen çeşitli ayarlar da bulunmaktadır.
 
@@ -88,7 +88,7 @@ Eşyaları taşıma ve bırakma işlemleri sırasında oluşan eşya bırakma se
 
 Tooltip sekmesi, oyun içerisinde bir eşyanın veya nesnenin üzerine geldiğinizde görüntülenen bilgi pencerelerinin davranışını ve görünümünü düzenlemenizi sağlar. Tooltiplerin gösterilme süresini, boyutunu, arka plan saydamlığını ve yazı tipini bu bölümden değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Use Tooltip**
 
@@ -120,7 +120,7 @@ Tooltiplerde kullanılacak yazı tipini seçmenizi sağlar. Listede bulunan fark
 
 ## Fonts
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fonts** sekmesi, oyun içerisinde kullanılan bazı yazı tiplerini değiştirmeye yönelik seçenekleri içerir.
 
@@ -142,7 +142,7 @@ Oyunda kullanılan yazı tipinin stilini değiştirmeyi sağlar.
 
 Speech sekmesi, oyun içerisindeki konuşma ve mesajlaşma özelliklerini yönetmenizi sağlar. Konuşma gecikmesi, Journal kayıtları, sohbet penceresinin kullanımı ve farklı mesaj türlerinin renkleri gibi ayarları bu bölümden değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Scale Speech Delay**
 
@@ -211,7 +211,7 @@ Alt bölümde ise farklı konuşma ve mesaj türlerinde kullanılacak renkleri a
 
 Renk kutularına tıklayarak ilgili mesaj türünde kullanılmasını istediğiniz rengi değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Macro Ayarları
 
@@ -372,7 +372,7 @@ Bu bölüm oyun dünyasındaki ışıklandırmanın nasıl görüntüleneceğini
 
 ### **Alternative Lights**
 
-Alternatif ışıklandırma sisteminin kullanılmasını sağlar. Bu seçenek UO:Nimloth'ta oyuncular tarafından değiştirilemez.
+Alternatif ışıklandırma sisteminin kullanılmasını sağlar. Bu seçenek UO:Nimloth'ta oyuncular tarafından <mark style="color:red;">**değiştirilemez**</mark>.
 
 ### **Light Level**
 
@@ -510,7 +510,7 @@ Verdiğiniz hasarlarla birlikte saniye başına verdiğiniz hasar miktarının (
 
 Hasar miktarlarının modern bir görsel biçimde görüntülenmesini sağlar. Bu seçenek açık olduğunda hasar sayıları alternatif bir animasyon ve gösterim biçimiyle sunulur.
 
-<figure><img src="../.gitbook/assets/modern_damage.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/modern damage.gif" alt=""><figcaption></figcaption></figure>
 
 ### Karakter ve Büyü Renkleri
 
@@ -575,7 +575,7 @@ Karakteriniz hasar aldığında oyun ekranında kamera sallanma efekti uygulanma
 
 <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/shake (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/shake.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Sallanma Eşiği (Bu Hasarın Üzerinde Tetiklenir)**
 
@@ -599,4 +599,196 @@ Saldırdığınız hedef hasar aldığında hedef üzerinde kan efektinin görü
 
 Karakteriniz hasar aldığında ekran üzerinde kan sıçraması efektinin görüntülenmesini sağlar.
 
+### **Kan/Ses Efekti Yoğunluğu**
+
+Hasar sırasında kullanılan kan ve ses efektlerinin yoğunluğunu belirler. Değeri yükselterek efektleri daha belirgin, düşürerek daha hafif hale getirebilirsiniz.
+
 <figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+## General
+
+General sekmesi, oyunun genel kullanım davranışlarını düzenleyebileceğiniz seçenekleri içerir. Klavye ile hareket, bildirimler, otomatik koşma, pathfinding ve cesetlerin açılması gibi temel oyun ayarlarını bu bölümden değiştirebilirsiniz.
+
+> <mark style="color:red;">**Not:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.</mark>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### **Options Menu Font Hue**
+
+Ayarlar menüsünde kullanılan yazıların rengini değiştirmenizi sağlar.
+
+### **Move with Arrow Keys**
+
+Karakterinizi klavyedeki yön tuşlarını kullanarak hareket ettirmenizi sağlar.
+
+### **Turn on Push Notifications**
+
+Oyun tarafından desteklenen bildirimlerin kullanılmasını sağlar.
+
+### **Auto Focus on Text Areas**
+
+Bir metin giriş alanı açıldığında yazı yazabilmeniz için ilgili alanın otomatik olarak seçilmesini sağlar.
+
+### **Highlight Game Objects**
+
+Fare imlecini oyun içerisindeki nesnelerin üzerine getirdiğinizde nesnenin vurgulanmasını sağlar. Etkileşim kurulabilecek nesneleri daha kolay ayırt etmenize yardımcı olur.
+
+### **Fast Rotation**
+
+Karakteriniz yön değiştirirken daha hızlı dönüş yapılmasını sağlar.
+
+### **Enable Pathfinding**
+
+Pathfinding özelliğini aktif hale getirir. Ulaşmak istediğiniz bir konum için pathfinding kullanıldığında karakteriniz uygun yolu hesaplayarak hedefe doğru otomatik olarak hareket eder.
+
+### **Use SHIFT for Pathfinding**
+
+Pathfinding özelliğinin **Shift** tuşuyla birlikte kullanılmasını sağlar. Böylece normal hareket ve pathfinding kullanımını birbirinden ayırabilirsiniz.
+
+### **Always Run**
+
+Karakterinizin varsayılan olarak koşarak hareket etmesini sağlar.
+
+### **Unless Hidden**
+
+<mark style="color:red;">**Always Run**</mark> aktifken karakteriniz Hidden durumundaysa otomatik koşmayı devre dışı bırakır. Böylece gizlenmiş durumdayken karakteriniz yürümeye devam eder.
+
+### **Auto Open Doors**
+
+Yaklaştığınız kapıların otomatik olarak açılmasını sağlar. <mark style="color:red;">**Bu ayar oyuncular tarafından değiştirilemez.**</mark>
+
+### **Smooth Doors**
+
+Kapıların açılıp kapanmasında daha akıcı bir görsel geçiş kullanılmasını sağlar. <mark style="color:red;">**Bu ayar oyuncular tarafından değiştirilemez.**</mark>
+
+### **Auto Open Corpses**
+
+Yakınınızdaki cesetlerin otomatik olarak açılmasını sağlar. <mark style="color:red;">**Bu ayar oyuncular tarafından değiştirilemez.**</mark>
+
+### **Corpse Open Range**
+
+<mark style="color:red;">**Bu ayar UO:Nimloth'ta kullanılmamaktadır.**</mark>
+
+### **Skip Empty Corpses**
+
+Boş olan cesetlerin açılmasını engeller. Bu seçenek aktif olduğunda içerisinde eşya bulunmayan cesetler açılmaz. <mark style="color:red;">**Bu ayar UO:Nimloth'ta kullanılmamaktadır.**</mark>
+
+### **Corpse Open Options**
+
+<mark style="color:red;">**Bu ayar UO:Nimloth'ta kullanılmamaktadır.**</mark>
+
+### **No Color for Object Out of Range**
+
+Erişim mesafenizin dışında kalan nesnelerin farklı bir renk tonuyla gösterilmesini engeller. Bu seçenek aktif olduğunda menzil dışındaki nesneler normal renkleriyle görüntülenmeye devam eder.
+
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+
+### **Sallos Easy Grab**
+
+Eşyaların daha kolay seçilmesini ve sürüklenmesini sağlayan Sallos tarzı eşya tutma davranışını aktif hale getirir.
+
+### **Smooth Boat Movements**
+
+Gemi hareketlerinin daha akıcı görüntülenmesini sağlar. Aktif olduğunda gemi hareketleri arasındaki geçişler daha yumuşak şekilde gösterilir.
+
+### Mobiles
+
+Bu bölüm, oyuncu ve NPC'lerin isimleri ile birlikte görüntülenen can, mana ve stamina bilgilerinin görünümünü düzenlemenizi sağlar.
+
+<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+
+### **Show HP**
+
+Karakterlerin can durumunun isimlerinin üzerinde görüntülenmesini sağlar. İlk menüden can bilgisinin nasıl gösterileceğini belirleyebilirsiniz:
+
+* <mark style="color:red;">**Percentage:**</mark> Can durumunu yüzde olarak gösterir.
+* <mark style="color:red;">**Line:**</mark> Can durumunu bar şeklinde gösterir.
+* <mark style="color:red;">**Both:**</mark> Hem yüzde bilgisini hem de can barını birlikte gösterir.
+
+### **Mode**
+
+HP bilgisinin hangi durumlarda görüntüleneceğini belirler:
+
+* <mark style="color:red;">**Always:**</mark> HP bilgisini her zaman gösterir.
+* <mark style="color:red;">**Less than %100:**</mark> HP bilgisini yalnızca karakterin canı %100'ün altına düştüğünde gösterir.
+* <mark style="color:red;">**Smart:**</mark> HP bilgisinin gösterimini duruma göre otomatik olarak yönetir.
+
+### **Name Overhead Style**
+
+Karakterlerin üzerinde görüntülenen isimlerin yazı stilini belirlemenizi sağlar.
+
+### **Always Name Overhead**
+
+Karakter isimlerinin sürekli olarak karakterlerin üzerinde görüntülenmesini sağlar. Bu seçenek kapalı olduğunda isimler yalnızca gerekli etkileşimler sırasında görüntülenir.
+
+### **Show HP Bar on Name Overheads**
+
+Karakter isimlerinin üzerinde veya yanında can durumunu gösteren bir HP bar görüntülenmesini sağlar.
+
+### **Show Mana Bar on Name Overhead \[Self Only]**
+
+Kendi karakterinizin ismiyle birlikte Mana barının görüntülenmesini sağlar. Bu özellik yalnızca kendi karakteriniz için geçerlidir.
+
+### **Show Stamina Bar on Name Overhead \[Self Only]**
+
+Kendi karakterinizin ismiyle birlikte Stamina barının görüntülenmesini sağlar. Bu özellik yalnızca kendi karakteriniz için geçerlidir.
+
+<figure><img src="../.gitbook/assets/mobiles.gif" alt=""><figcaption></figcaption></figure>
+
+### **Cursor Hue \[Restart Required]**
+
+Oyun içerisinde kullanılan fare imlecinin rengini değiştirmenizi sağlar. Yapılan değişikliğin uygulanabilmesi için oyunun yeniden başlatılması gerekir.
+
+### **Reset**
+
+İmleç rengini varsayılan değerine geri döndürür.
+
+### **Highlight Mobiles By TargetNext**
+
+`TargetNext` ile hedefler arasında geçiş yaptığınızda seçili hedefin görsel olarak vurgulanmasını sağlar. Böylece hangi karakterin veya yaratığın hedef olarak seçildiğini daha kolay takip edebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+
+### **Highlight Poisoned**
+
+Zehirlenmiş durumdaki karakterlerin renk ile vurgulanmasını sağlar.
+
+#### **Poisoned Color**
+
+Zehirlenmiş karakterlerin vurgulanmasında kullanılacak rengi belirler.
+
+### **Highlight Paralyzed**
+
+Paralyze etkisi altındaki karakterlerin renk ile vurgulanmasını sağlar.
+
+#### **Paralyzed Color**
+
+Paralyze durumundaki karakterlerin vurgulanmasında kullanılacak rengi belirler.
+
+### **Highlight Invulnerable**
+
+Invulnerable durumundaki, yani hasar verilemeyen karakterlerin renk ile vurgulanmasını sağlar.
+
+#### **Invulnerable Color**
+
+Invulnerable karakterlerin vurgulanmasında kullanılacak rengi belirler.
+
+### **Show Incoming New Mobiles**
+
+Görüş alanınıza yeni giren oyuncu, NPC veya yaratıkların daha kolay fark edilmesini sağlayan bir gösterim kullanır.
+
+### **Show Incoming New Corpses**
+
+Görüş alanınızda yeni oluşan cesetlerin daha kolay fark edilmesini sağlayan bir gösterim kullanır.
+
+### **Aura Under Feet**
+
+Karakterlerin ayaklarının altında aura görüntülenmesini sağlar. Yanındaki menü üzerinden auranın hangi karakterlerde veya hangi koşullarda gösterileceğini belirleyebilirsiniz.
+
+### **Custom Color Aura for Party Members**
+
+Party üyelerinin ayaklarının altındaki aura için özel bir renk kullanılmasını sağlar.
+
+#### **Party Aura Color**
+
+Party üyelerinde kullanılacak aura rengini belirlemenizi sağlar.
