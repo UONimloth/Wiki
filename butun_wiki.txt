@@ -8195,6 +8195,26 @@ Durmaksızın saldıran bir <mark style="color:red;">**Energy Vortex**</mark>'e 
 
 Hayatta kalan son oyuncu etkinliği kazanır.
 
+### Zar Turnuvası
+
+Eleme usulü ilerleyen bir şans turnuvasıdır.
+
+• En fazla <mark style="color:red;">**32 oyuncu**</mark> katılabilir.
+
+• Her karşılaşmada rastgele seçilen iki oyuncu masaya çağrılır ve sırayla <mark style="color:red;">**ikişer defa**</mark> çift zar atar.
+
+• Zar atmak için masadaki zara çift tıklamanız yeterlidir.
+
+• Toplamda en yüksek zarı atan oyuncu üst tura çıkar, diğer oyuncu elenir.
+
+• Beraberlik durumunda eşitlik bozulana kadar birer zar daha atılır.
+
+• Sıra size geldiğinde <mark style="color:red;">**10 saniye**</mark> içinde zar atmazsanız elenirsiniz.
+
+• Turda eşleşecek rakibi kalmayan oyuncu doğrudan üst tura geçer.
+
+Turnuvada kalan son oyuncu etkinliği kazanır.
+
 
 --- Dosya: ./sistemler/dungeon-chest-sistemi.md ---
 
