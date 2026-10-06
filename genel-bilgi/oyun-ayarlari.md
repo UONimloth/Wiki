@@ -792,3 +792,75 @@ Party üyelerinin ayaklarının altındaki aura için özel bir renk kullanılma
 #### **Party Aura Color**
 
 Party üyelerinde kullanılacak aura rengini belirlemenizi sağlar.
+
+### Gumps & Context
+
+Bu bölüm, oyun içerisindeki Gump pencerelerinin davranışını, Health Bar görünümünü ve bazı arayüz seçeneklerini düzenlemenizi sağlar.
+
+### **Hold ALT Key + Right Click to Close Anchored Gumps**
+
+Birbirine sabitlenmiş Gump'ları `Alt + Sağ Tık` kullanarak kapatmanızı sağlar.
+
+### **Hold ALT Key to Move Gumps**
+
+`Alt` tuşuna basılı tutarak Gump'ları taşımanızı sağlar. Özellikle sabitlenmiş veya normal şekilde taşınması engellenmiş pencerelerin konumunu değiştirmek için kullanılabilir.
+
+### **Close All Anchored Gumps When Right Click on a Group**
+
+Birbirine sabitlenmiş Gump gruplarından birine sağ tıklayarak gruptaki tüm Gump'ları birlikte kapatmanızı sağlar.
+
+### **Use Standard Skills Gump**
+
+Skills penceresinde standart Ultima Online görünümünün kullanılmasını sağlar. Bu seçenek <mark style="color:red;">**aktif olduğunda standart Skills penceresi**</mark>, kapalı olduğunda ise <mark style="color:red;">**modern Skills görünümü**</mark> kullanılır.
+
+<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+
+### **Healthbar View Type**
+
+Karakterlerin Health Bar'larının hangi görünümde kullanılacağını belirler. Üç farklı görünüm arasından seçim yapabilirsiniz:
+
+* **Default:** Standart Health Bar görünümünü kullanır.
+
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+
+* **Modern:** Daha modern bir tasarıma sahip Health Bar görünümünü kullanır.
+
+<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
+* **Extended:** Karaktere ait bilgilerin daha geniş bir alanda gösterildiği genişletilmiş Health Bar görünümünü kullanır.
+
+<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+
+### **Status Gump and Health Bar Are Mutually Exclusive**
+
+Bir karakter için Status Gump ve Health Bar'ın aynı anda açık olmasını engeller. Bunlardan biri açıldığında diğeri kapatılır.
+
+### **Show Gump for Party Invites**
+
+Party daveti aldığınızda davetin bir Gump penceresi olarak görüntülenmesini sağlar.
+
+### **Use Custom Healthbars Gump**
+
+Standart Health Bar yerine özel Health Bar görünümünün kullanılmasını sağlar.
+
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+
+### **Opaque Background**
+
+Custom Health Bar kullanılırken arka planın saydam yerine opak olarak görüntülenmesini sağlar.
+
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+
+### **Save Healthbars on Logout**
+
+Oyundan çıkış yaptığınızda açık olan Health Bar'ların konumlarını ve durumlarını kaydeder. Tekrar giriş yaptığınızda kayıtlı Health Bar'ların korunmasını sağlar.
+
+### **Close Healthbar Gump When**
+
+Açık olan Health Bar'ın hangi durumda otomatik olarak kapatılacağını belirler.
+
+* <mark style="color:red;">**None:**</mark> Health Bar otomatik olarak kapatılmaz.
+* <mark style="color:red;">**Mobile Out of Range:**</mark> İlgili karakter görüş veya erişim alanınızın dışına çıktığında Health Bar'ı otomatik olarak kapatır.
+* <mark style="color:red;">**Mobile is Dead:**</mark> İlgili karakter öldüğünde Health Bar'ı otomatik olarak kapatır.
