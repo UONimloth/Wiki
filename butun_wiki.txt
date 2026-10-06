@@ -8153,6 +8153,48 @@ Görünmeyen engellerle dolu parkuru geçerek bitiş noktasına ulaşan ilk oyun
 
 Bitiş çizgisine ilk basan oyuncu etkinliği kazanır.
 
+### Madenin Efendisi
+
+<mark style="color:red;">**6 dakika**</mark> içinde mümkün olduğunca fazla maden kazıp eriterek en yüksek puanı toplamaya çalışırsınız.
+
+• En fazla <mark style="color:red;">**24 oyuncu**</mark> katılabilir.
+
+• Etkinlik boyunca Mining yeteneğiniz 100.0 olarak ayarlanır ve size bir Pickaxe verilir.
+
+• Topladığınız Ore'ları alandaki Forge'larda çift tıklayarak eritirsiniz. Eritilen her maden puan kazandırır.
+
+• Madenin seviyesi arttıkça kazandırdığı puan da artar:
+
+| Maden                         | Birim Puan |
+| ----------------------------- | ---------- |
+| Iron                          | 1          |
+| Dull Copper, Copper, Bronze   | 2          |
+| Silver, Gold, Shadow, Agapite | 3          |
+| Verite, Mytheril, Valorite    | 5          |
+| Bloodrock                     | 8          |
+
+• Etkinlik boyunca <mark style="color:red;">**2 dakikada bir**</mark> alandaki 4 noktadan birinde <mark style="color:red;">**Power Up**</mark> belirir. Power Up'a çift tıklayan oyuncu, <mark style="color:red;">**1 dakika**</mark> boyunca topladığı maden miktarını ikiye katlayan <mark style="color:red;">**Titanium Pickaxe**</mark> kazanır.
+
+• Puanınız ve kalan süre ekranınızda sürekli gösterilir. Etkinlik sonunda tüm oyuncuların puan sıralaması görüntülenir.
+
+Süre sonunda en yüksek puana sahip oyuncu etkinliğini kazanır.
+
+### GM Topuk
+
+Durmaksızın saldıran bir <mark style="color:red;">**Energy Vortex**</mark>'e karşı hayatta kalmaya çalışırsınız.
+
+• En fazla <mark style="color:red;">**24 oyuncu**</mark> katılabilir.
+
+• Tüm oyuncuların statları eşitlenir (100 Str, 100 Dex, 25 Int).
+
+• Energy Vortex, etkinlik başladıktan 10 saniye sonra serbest kalır.
+
+• Vortex'e saldırılamaz, yetenek veya büyü kullanılamaz. Tek yapabileceğiniz şey kaçmaktır!
+
+• Ölen oyuncu etkinlikten elenir.
+
+Hayatta kalan son oyuncu etkinliği kazanır.
+
 
 --- Dosya: ./sistemler/dungeon-chest-sistemi.md ---
 
