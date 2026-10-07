@@ -8215,6 +8215,74 @@ Eleme usulü ilerleyen bir şans turnuvasıdır.
 
 Turnuvada kalan son oyuncu etkinliği kazanır.
 
+### Rus Ruleti
+
+Kaderinize meydan okuduğunuz bir eleme turnuvasıdır.
+
+• En fazla <mark style="color:red;">**32 oyuncu**</mark> katılabilir.
+
+• Her karşılaşmada rastgele seçilen iki oyuncu karşı karşıya gelir.
+
+• Silahın 6 haznesinden yalnızca birinde kurşun bulunur. Oyuncular silaha çift tıklayarak sırayla tetiği çeker.
+
+• Kurşun denk gelen oyuncu elenir, hayatta kalan üst tura çıkar.
+
+• Sıra size geldiğinde <mark style="color:red;">**10 saniye**</mark> içinde tetiği çekmezseniz elenirsiniz.
+
+• Turda eşleşecek rakibi kalmayan oyuncu doğrudan üst tura geçer.
+
+Turnuvada kalan son oyuncu etkinliği kazanır.
+
+### Bomberman
+
+Duvarlarla dolu bir labirentte bombalarınızla rakiplerinizi saf dışı bırakmaya çalışırsınız.
+
+• En fazla <mark style="color:red;">**16 oyuncu**</mark> katılabilir.
+
+• <mark style="color:red;">`.bomba`</mark> komutu ile bulunduğunuz kareye bomba bırakırsınız. Bomba <mark style="color:red;">**3 saniye**</mark> sonra patlar.
+
+• Her oyuncunun aynı anda <mark style="color:red;">**2 bomba**</mark> hakkı vardır ve bombalar dört yöne doğru <mark style="color:red;">**2 kare**</mark> uzunluğunda patlar.
+
+• Patlamalar turuncu duvarları yıkar, patlama alanında kalan oyuncular (kendi bombanız dahil!) ölür ve elenir.
+
+• Yıkılan duvarlardan <mark style="color:red;">**Power Up**</mark> çıkabilir. Power Up'lar yerde 45 saniye kalır.
+
+• Power Up'a çift tıklayarak aşağıdaki güçlendirmelerden rastgele birini <mark style="color:red;">**30 saniyeliğine**</mark> kazanırsınız:
+
+◦ +1, +2 veya +3 alev boyu
+
+◦ +1 veya +2 bomba hakkı
+
+◦ <mark style="color:red;">**FIREBALL!**</mark> (+20 alev boyu)
+
+• Aynı anda yalnızca 1 Power Up kullanabilirsiniz. Süre dolduğunda bomba hakkınız ve alev boyunuz varsayılan değerlere döner.
+
+• Etkinlik süresi <mark style="color:red;">**10 dakikadır**</mark>.
+
+Hayatta kalan son oyuncu etkinliği kazanır. Süre sonunda birden fazla oyuncu hayattaysa kazanan çıkmaz; kalan oyuncular yalnızca katılım ödülü alır.
+
+### Demir Yumruk
+
+Rakiplerinizi yumruklayarak alanın dışına itmeye çalışırsınız.
+
+• En fazla <mark style="color:red;">**32 oyuncu**</mark> katılabilir.
+
+• Tüm oyuncuların statları eşitlenir (100 Str, 100 Dex, 25 Int), Wrestling ve Tactics yetenekleri 100.0 olarak ayarlanır.
+
+• Yumruklar hasar vermez, rakibinizi baktığınız yöne doğru **2 kare** geri iter. Her 2 saniyede bir yumruk atabilirsiniz.
+
+• Her yumruğun %20 şansla <mark style="color:red;">**MEGA PUNCH**</mark> olma ihtimali vardır. Mega Punch rakibi <mark style="color:red;">**4 kare**</mark> geri iter.
+
+• Alanın sınırındaki ateş çizgisine basan oyuncu her adımda 10 can kaybeder. Alanın tamamen dışına düşen oyuncu ölür ve elenir.
+
+• Her <mark style="color:red;">**45 saniyede**</mark> bir alan daralır.
+
+• Her <mark style="color:red;">**30 saniyede**</mark> bir alanın içinde rastgele bir noktada <mark style="color:red;">**Power Up**</mark> belirir ve 15 saniye yerde kalır. Power Up'a çift tıklayan oyuncu, <mark style="color:red;">**10 saniye**</mark> boyunca yumruklarının itme mesafesini 2 - 3 kare arttıran Power Up Gloves kazanır.
+
+• Etkinlik süresi <mark style="color:red;">**10 dakikadır**</mark>.
+
+Hayatta kalan son oyuncu etkinliği kazanır. Süre sonunda birden fazla oyuncu hayattaysa kazanan çıkmaz; kalan oyuncular yalnızca katılım ödülü alır.
+
 
 --- Dosya: ./sistemler/dungeon-chest-sistemi.md ---
 
