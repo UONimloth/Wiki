@@ -10,6 +10,7 @@
   * [Oyun Ayarları](genel-bilgi/oyun-ayarlari.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [Ekim 2026](guncelleme-notlari/ekim/README.md)
+    * [08.10.2026 Güncellemeleri](guncelleme-notlari/ekim/08.10.2026-guncellemeleri.md)
     * [04.10.2026 Güncellemeleri](guncelleme-notlari/ekim/04.10.2026-guncellemeleri.md)
     * [01.10.2026 Güncellemeleri](guncelleme-notlari/ekim/01.10.2026-guncellemeleri.md)
   * [Eylül 2026](guncelleme-notlari/eylul-2026/README.md)
@@ -19797,6 +19798,114 @@ Toggle -> Karakteri War-Peace arasında geçiş yaptırır Her zaman War moduna 
 Icon ve Label ları görüntülemek için Show/Hide Specials tikini tiklemeyi unutmayınız Markers Manager wiki sayfasından World Map ilgili detaylı bilgiye ulaşabilirsiniz
 
 [https://nimloth-uo.gitbook.io/wiki/genel-bilgi/world-map#markers-manager](https://nimloth-uo.gitbook.io/wiki/genel-bilgi/world-map#markers-manager)
+
+
+--- Dosya: ./guncelleme-notlari/ekim/08.10.2026-guncellemeleri.md ---
+
+# 08.10.2026 Güncellemeleri
+
+* Bineklerin Deed haline getirilirken üzerlerinde stat büyüsü olması sebebiyle statlarının kalıcı azalması problemi düzeltildi
+* Saat 19:15 ve 21:15 de başlayan oto etkinlikler 19:30 ve 21:30 olarak güncellendi
+* Hay fiyatı 3 gp den 300gp ye yükseltildi
+* Full spellbook üretiminde bazı durumlarda yaşanabilen problem düzeltildi
+* Fishing net üretimi için artık <mark style="color:red;">**5 Craft XP**</mark> istemekte
+* Gatherer Apron'un <mark style="color:red;">**newbified özelliği kaldırıldı**</mark> ve üretimi için gereken eşyalar güncellendi. Artık üretim için 2 Magic Cloth değil 1 Magic Cloth gerekmekte
+* Gatherer Apron'un superior olması durumunda verdiği ek taşıma kapasitesi 100 den 125 e yükseltildi
+* Elven Bow efektif range i 2,12 den 2,14 e güncellendi
+* Tüm Mastery dialoglarına hangi seviyede ne ödül alınacağı ile ilgili detay bilgileri eklendi. Ödüller sekmesinde ödülün üzerine gelerek ödüllerle ilgili detaylı bilgilere ulaşabilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+
+* Sipariş sisteminde Potion sekmesi aktif edildi
+
+Tek siparişte en fazla <mark style="color:red;">**250 adet**</mark> eşya sipariş verebilirsiniz Girmiş olduğunuz rakam tek bir eşya için değil siparişin tamamı için geçerlidir
+
+* Player vendorlarda binek ve Blueprint satışı için toplu fiyatlandırma aktif edildi
+
+Binekler için Mustang, Shire, Ice Ostard gibi birden fazla rengi olan binekler toplu fiyatlandırılmamakta\
+Blueprint için o çantada yer alan aynı Blueprintler toplu fiyatlandırılabilmekte
+
+* Armor Bundler çalışma mantığı güncellendi. Artık tüm parçaları eklemek yerine otomatik ekleme işlemi yapabileceksiniz
+
+İlk parça eklendikten sonra Kalanları Ekle butonu aktif olacak. Bu botuna tıkladığınızda çantanızda o set parçasına ait tüm parçalar alınacak\
+Eğer tüm parçalar eklenmiş ise Bundle Yap butonu aktif olacak ve Bundle yapabileceksiniz
+
+<figure><img src="../../.gitbook/assets/bundler_new.gif" alt=""><figcaption></figcaption></figure>
+
+* Achievement sisteminin detay ekranı güncellendi
+
+Artık detay ekranında her bir seviyeyi tamamlamak için ne yapılması gerektiği ve seviye tamamlandığında ne ödüller alındığını görebileceksiniz \
+PvM sekmesinde 3. seviye tamamlandığında alacağınız Title ödülünü de artık görüntüleyebileceksiniz
+
+<figure><img src="../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+
+* Achievement filtre ekranı güncellendi
+
+Artık seçili olan kategoriye göre alt filtrelemeler de yapabileceksiniz\
+<mark style="color:red;">**Craft kategorisinde**</mark> Alchemy, Blacksmith, Bowcraft, Carpenter, Cooking, Housecraft, Inscription, Masonry, Shipcraft, Tailor ve Tinker alt kırılımları bulunmaktadır&#x20;
+
+<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**PvM kategorisinde**</mark> Arachnids, Beasts, Champions, Demons, Dragonkind, Elementals, Fey, Giants, Goblins, Orcs, Reptiles ve Undead alt kırılımları bulunmaktadır
+
+<figure><img src="../../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**Gatherer kategorisinde**</mark> Farming, Fishing, Lockpicking, Lumberjacking, Mining ve Rare Flower alt kırılımları bulunmaktadır&#x20;
+
+<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+
+Bu alt kategorileri seçerek aradığınız Achievementları çok daha hızlı bulabilirsiniz
+
+* Achievement Tracker için öneri yapısı eklendi
+
+.achi yazdığınızda açılan Tracker ekranının sol üstündeki butona basarak <mark style="color:red;">**500k karşılığında**</mark> tamamlamaya en yakın olduğunuz Achievementları görüntüleyebilir ve takip listesine alabilirsiniz
+
+Komut kullanıldıktan sonra 1 saat boyunca listeyi istediğiniz zaman tekrar görüntüleyebilirsiniz
+
+<figure><img src="../../.gitbook/assets/achi 3.gif" alt=""><figcaption></figcaption></figure>
+
+* Blueprint Trader artık Blueprint Vendor olarak görev hayatına devam edecek
+* Blueprint Vendor artık hem Blueprint takaslayacak, hem satış yapacak, hem de sizden Blueprint alabilecek
+* Trade kısmında hala 5 blueprint ve 50.000 altın vererek 20 Blueprintten birini alabilirsiniz. Eskisinden farklı olarak <mark style="color:red;">**artık Rare Dye lara ait blueprintleri de kabul etmekte**</mark>
+
+<figure><img src="../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
+
+* Satın Al kısmında Alchemy, Blacksmith, Carpenter, Tailor, Tinker, Shipcraft ve Housecraft için toplamda 12 adet Blueprint satışı yapacak
+
+Blueprintler stokları 18-24 saatleri arasında rastgele sıfırlanacak ve her Blueprint'ten 1 adet satışa sunulacak \
+Her yetenekten yalnızca 1 adet Blueprint satın alabileceksiniz. Blueprint'e ait stok bittiğinde solda Tükendi yazısını göreceksiniz \
+Ayrıca sahibi olduğunuz Blueprintler yeşil olarak görüntülenecek Blueprint fiyatları 300-500k arasında rastgele olarak belirlenmekte
+
+<figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
+
+* Satış ekranında ise sahip olduğunuz Blueprintleri 150 Craft XP karşılığında vendora verebileceksiniz
+
+<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
+
+* Hazine haritasında Zoom In/Zoom Out butonuna bilgi mesajı eklendi
+
+<figure><img src="../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+
+* Buff Duration için çeşitli özelleştirme seçenekleri eklendi
+
+Artık Buff Icon boyutu, kalan süre boyutu ve kalan süre rengini istediğiniz gibi ayarlayabileceksiniz
+
+<figure><img src="../../.gitbook/assets/buff.gif" alt=""><figcaption></figcaption></figure>
+
+* Düşük HP'de ekran kenarında kırmızı vinyet seçeneği artık özelleştirilebilir
+
+Ayarlarınızı yaptıktan sonra altta yer alan Önizle butonuna tıklayarak ekranda nasıl görüntüleneceğini görebilirsiniz&#x20;
+
+<figure><img src="../../.gitbook/assets/vinyet.gif" alt=""><figcaption></figcaption></figure>
+
+Bildiğiniz gibi 31 Ekim 2025 tarihinde kapılarımızı siz oyunculara açtık. 1 yılımızı çeşitli ingame ödüller ve etkinlikler ile kutlayacağız \
+Yakın zamanda gerekli bilgilendirmeyi yapacağız
 
 
 --- Dosya: ./guncelleme-notlari/ekim/README.md ---
