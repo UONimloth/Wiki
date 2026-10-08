@@ -261,3 +261,105 @@ Rakiplerinizi yumruklayarak alanın dışına itmeye çalışırsınız.
 • Etkinlik süresi <mark style="color:red;">**10 dakikadır**</mark>.
 
 Hayatta kalan son oyuncu etkinliği kazanır. Süre sonunda birden fazla oyuncu hayattaysa kazanan çıkmaz; kalan oyuncular yalnızca katılım ödülü alır.
+
+### PvP Turnuvası
+
+PvP Turnuvası, yönetim hakemliğinde oynanan bire bir eleme turnuvasıdır. Diğer etkinliklerden farklı olarak bu turnuvaya <mark style="color:red;">**kendi eşyalarınızla**</mark> katılırsınız.
+
+• Katılım ücreti <mark style="color:red;">**lootlu PvP için 100.000 GP**</mark>, <mark style="color:red;">**lootsuz PvP için 250.000 GP'dir**</mark>. En az 4, en fazla <mark style="color:red;">**32 oyuncu**</mark> katılabilir.
+
+• Katılım süresi 10 dakikadır.
+
+• Karşılaşacak oyuncular hakem tarafından arenaya alınır. Her karşılaşma öncesinde çantanızdaki sarf malzemeleri (iksir, bandaj, reagent, ok vb.) silinir ve her iki oyuncuya da eşit miktarda malzeme verilir.
+
+• Turnuvada rakibinizin cesedini keserseniz turnuvadan elenirsiniz.
+
+• Silaha zehir sürmek <mark style="color:red;">**yasaktır**</mark>. Turnuvaya girerken ve silahınızı kuşandığınızda silahınızdaki zehir silinir. Silahınız rakibe zehir vurursa turnuvadan elenirsiniz.
+
+• Turnuvada yalnızca dövüş yetenekleri kullanılabilir: Magery, Meditation, Spirit Speak, Parrying, Tactics, Wrestling, Swordsmanship, Macefighting, Fencing ve Archery.
+
+• Turnuva boyunca yetenek ve stat gelişimi olmaz; kill, fame ve karma değerleriniz değişmez.
+
+### World Boss
+
+Her <mark style="color:red;">**Cumartesi 22:30**</mark>'da Britain bölgesinde bilinmeyen bir yapı ortaya çıkar. Bu, <mark style="color:red;">**Zul'Thar**</mark>'ın gelişinin habercisidir!
+
+Yapı ortaya çıktıktan <mark style="color:red;">**5 dakika**</mark> sonra Zul'Thar Britain bölgesinde belirir. Savaş alanına gidip Zul'Thar'a hasar vermeniz yeterlidir.
+
+Zul'Thar <mark style="color:red;">**3 saat**</mark> içinde öldürülemezse gözden kaybolur.
+
+#### Zul'Thar'ın Yetenekleri
+
+Zul'Thar sıradan bir yaratık değildir, dikkatli olmalısınız:
+
+• Vuruşları <mark style="color:red;">**Lethal Poison**</mark> etkisi taşır.
+
+• Savaş sırasında kendini iyileştirir. Canı azaldıkça kendini iyileştirme sıklığı artar.
+
+• Üzerindeki zehir etkisini kaldırır. Poison büyüsünü ise büyüyü yapan oyuncuya geri yansıtır.
+
+• Fire Field, Paralyze, Poison Field, Paralyze Field, Chain Lightning, Meteor Swarm ve Earthquake büyülerinden <mark style="color:red;">**etkilenmez**</mark>.
+
+• Kendisine saldıran summon yaratıkları yok eder.
+
+• <mark style="color:red;">**Vas Flame Strike**</mark>**:** Çevresindeki tüm oyunculara 35 - 45 hasar verir.
+
+• <mark style="color:red;">**Death Strike**</mark>**:** Kendisine vuran oyuncuya 150 - 190, çevresindeki oyunculara 50 - 70 hasar verir.
+
+• <mark style="color:red;">**Kal Vas Xen Corp**</mark>**:** Yardımına örümcekler çağırır.
+
+#### World Boss Ödülleri
+
+Zul'Thar'a <mark style="color:red;">**250'den fazla hasar**</mark> veren her oyuncunun bankasına bir <mark style="color:red;">**World Boss Gift**</mark> gönderilir. Hediye kutusunu açtığınızda içinden şunlar çıkar:
+
+• Power Weapon
+
+• Vanquishing Weapon
+
+• Platemail Armor Bundle
+
+• Leather Armor Bundle
+
+• Magical Robe
+
+Zul'Thar öldürüldüğünde ayrıca:
+
+• Cesedinden 600.000 - 1.000.000 altın, çok sayıda Vanquishing ve Power silah, Magical Mage Robe, Magical Robe ve Leather Armor Bundle çıkar.
+
+• Öldüğü yerde evcilleştirilebilir nadir bir binek belirir: <mark style="color:red;">**Ki-rin, Silver Steed, Fire Steed, Wine Steed**</mark> veya <mark style="color:red;">**Unicorn**</mark>.
+
+• Son vuruşu yapan oyuncu ve tüm katılımcıların verdiği hasar, `.takvim` üzerindeki etkinlik detayında sıralı olarak gösterilir.
+
+<mark style="color:red;">**Not**</mark>**:** Cumartesi günleri [<mark style="color:red;">**Günlük Görevler**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gunluk-gorev-sistemi) arasına World Boss'a hasar verme görevi de eklenir.
+
+### Power Hour
+
+[<mark style="color:red;">**Power Hour**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/power-hour), sunucu genelinde <mark style="color:red;">**2 saat boyunca**</mark> yetenek gelişiminin hızlandığı bonus etkinliğidir.
+
+• Her gün iki kez gerçekleşir: bir kez 10:00 - 14:00 arasında, bir kez de 19:00 - 23:00 arasında rastgele bir saatte başlar.
+
+• Katılmak için herhangi bir şey yapmanıza gerek yoktur. Etkinlik süresince tüm oyuncuların yetenek kazanma şansı <mark style="color:red;">**2 katına**</mark> çıkar.
+
+• Kalan süre her 15 dakikada bir duyurulur.
+
+### Ganimet Vakti
+
+Ganimet Vakti, rastgele seçilen bir zindanda **2 saat** boyunca kazancın arttığı bonus etkinliğidir. <mark style="color:red;">**Salı, Cuma ve Pazar**</mark> günleri saat <mark style="color:red;">**19:00**</mark>'da başlar.
+
+Etkinlik başladığında aşağıdaki zindanlardan biri rastgele seçilir ve sunucu genelinde duyurulur:
+
+Wrong, Shame, Hythloth, Destard, Despise, Covetous, Deceit, Fire Dungeon, Ice Dungeon, Terathan Keep
+
+Seçilen zindanda etkinlik süresince:
+
+• Yaratıklardan <mark style="color:red;">**2 kat loot**</mark> çıkar.
+
+• Yaratıkların yeniden doğma süresi <mark style="color:red;">**yarıya**</mark> iner.
+
+• Öldürdüğünüz yaratıklar Hunter görevlerinde ve PvM başarımlarında <mark style="color:red;">**2 adet**</mark> sayılır.
+
+• Açtığınız zindan sandıkları başarımlarda <mark style="color:red;">**2 adet**</mark> sayılır.
+
+Seçilen zindanı gün içinde `.takvim` ekranında Ganimet Vakti satırının yanında da görebilirsiniz. Kalan süre her 15 dakikada bir duyurulur.
+
+<mark style="color:red;">**Not**</mark>**:** Ganimet Vakti ve Power Hour için katılım ücreti yoktur, katılım ödülü ve başarım kazandırmazlar.
