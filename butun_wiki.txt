@@ -14601,15 +14601,15 @@ Skills penceresinde standart Ultima Online görünümünün kullanılmasını sa
 
 Karakterlerin Health Bar'larının hangi görünümde kullanılacağını belirler. Üç farklı görünüm arasından seçim yapabilirsiniz:
 
-* **Default:** Standart Health Bar görünümünü kullanır.
+* <mark style="color:red;">**Default**</mark>**:** Standart Health Bar görünümünü kullanır.
 
 <figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
-* **Modern:** Daha modern bir tasarıma sahip Health Bar görünümünü kullanır.
+* <mark style="color:red;">**Modern**</mark>**:** Daha modern bir tasarıma sahip Health Bar görünümünü kullanır.
 
 <figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
-* **Extended:** Karaktere ait bilgilerin daha geniş bir alanda gösterildiği genişletilmiş Health Bar görünümünü kullanır.
+* <mark style="color:$danger;">**Extended**</mark>**:** Karaktere ait bilgilerin daha geniş bir alanda gösterildiği genişletilmiş Health Bar görünümünü kullanır.
 
 <figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
@@ -14644,6 +14644,61 @@ Açık olan Health Bar'ın hangi durumda otomatik olarak kapatılacağını beli
 * <mark style="color:red;">**None:**</mark> Health Bar otomatik olarak kapatılmaz.
 * <mark style="color:red;">**Mobile Out of Range:**</mark> İlgili karakter görüş veya erişim alanınızın dışına çıktığında Health Bar'ı otomatik olarak kapatır.
 * <mark style="color:red;">**Mobile is Dead:**</mark> İlgili karakter öldüğünde Health Bar'ı otomatik olarak kapatır.
+
+### UI Type
+
+Oyun içerisinde kullanılan büyü ikonlarının görünümünü belirler. İki farklı görünüm arasından seçim yapabilirsiniz:
+
+* <mark style="color:red;">**Default**</mark>: Büyü ikonlarının renkli ve modern görünümleriyle görüntülenmesini sağlar.
+* <mark style="color:red;">**Classic**</mark>: Büyü ikonlarının orijinal Ultima Online tasarımındaki siyah-beyaz görünümleriyle görüntülenmesini sağlar.
+
+<figure><img src="../.gitbook/assets/RB.png" alt=""><figcaption></figcaption></figure>
+
+### Hold Alt to Move Context Menus
+
+Context menülerinin yalnızca `Alt` tuşuna basılı tutularak taşınabilmesini sağlar. Böylece menülerin yanlışlıkla yerlerinin değiştirilmesini önleyebilirsiniz.
+
+### Hold Shift to Split Stack of Items
+
+Birden fazla eşyanın üst üste bulunduğu yığınları ayırırken `Shift` tuşunun kullanılmasını sağlar. Bu seçenek aktif olduğunda eşya yığınlarını bölmek için `Shift` tuşuna basılı tutmanız gerekir.
+
+### Enable Circle of Transparency
+
+Karakterinizin önünde bulunan ve görüşünüzü engelleyen nesnelerin belirli bir alan içerisinde saydam hale gelmesini sağlar. Böylece duvar, ağaç ve benzeri nesnelerin arkasında kaldığınızda karakterinizi daha rahat görebilirsiniz.
+
+Yanındaki kaydırma çubuğu ile saydamlık uygulanacak alanın boyutunu belirleyebilirsiniz.
+
+### Transparency Type
+
+Saydamlık efektinin nasıl uygulanacağını belirler. İki farklı görünüm arasından seçim yapabilirsiniz:
+
+* <mark style="color:red;">**Full**</mark>: Belirlenen alan içerisindeki nesnelere doğrudan saydamlık uygular.
+* <mark style="color:red;">**Gradient**</mark>: Saydamlık efektini kademeli olarak uygular. Böylece saydam alanın kenarlarında daha yumuşak bir geçiş oluşur.
+
+<figure><img src="../.gitbook/assets/transparan (1).gif" alt=""><figcaption></figcaption></figure>
+
+### Hide "Screenshot Stored In" Message
+
+Oyun içerisinde ekran görüntüsü aldığınızda görüntünün kaydedildiği klasörü belirten bilgilendirme mesajının gösterilmesini engeller.
+
+#### Open Folder
+
+Oyun içerisinde alınan ekran görüntülerinin kaydedildiği klasörü açar.
+
+### Objects Alpha Fading
+
+Oyun içerisindeki nesnelerin görünürlük ve saydamlık değişimlerinde yumuşak geçiş efektlerinin kullanılmasını sağlar. Nesnelerin aniden belirip kaybolması yerine kademeli olarak görüntülenmesine yardımcı olur.
+
+### Text Alpha Fading
+
+Oyun içerisinde görüntülenen konuşma metinlerinin ve diğer geçici yazıların kaybolurken yavaşça saydamlaşmasını sağlar. Bu seçenek kapatıldığında metinler yumuşak geçiş efekti olmadan kaybolur.
+
+### Show Target Range Indicator
+
+Hedefleme sırasında hedefin menzil durumunu gösteren görsel göstergenin kullanılmasını sağlar. Böylece hedefinizin erişim mesafesinde olup olmadığını daha kolay takip edebilirsiniz.
+
+<figure><img src="../.gitbook/assets/mouse.gif" alt=""><figcaption></figcaption></figure>
+
 
 
 --- Dosya: ./genel-bilgi/world-map.md ---
