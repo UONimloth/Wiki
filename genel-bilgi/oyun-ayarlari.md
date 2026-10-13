@@ -919,3 +919,48 @@ Hedefleme sırasında hedefin menzil durumunu gösteren görsel göstergenin kul
 
 <figure><img src="../.gitbook/assets/mouse.gif" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+
+### Enable Drag-Select to Open Health Bars
+
+Fare ile bir alan seçerek bu alan içerisindeki karakterlerin Health Bar'larını toplu olarak açmanızı sağlar. Özellikle kalabalık bölgelerde birden fazla karakterin Health Bar'ını hızlıca açmak için kullanabilirsiniz.
+
+#### Drag-Select Modifier Key
+
+Toplu Health Bar açma işlemi sırasında kullanılacak yardımcı tuşu belirler. Örneğin `Ctrl` seçildiğinde, bu tuşa basılı tutarak fare ile alan seçimi yapabilirsiniz.
+
+#### Select Humanoids Only
+
+Toplu seçim işlemini yalnızca insansı karakterlerle sınırlandırır. Bu seçenek aktif olduğunda diğer yaratık türleri seçime dahil edilmez.
+
+#### Select Hostiles Only
+
+Toplu seçim işlemini yalnızca düşman veya saldırılabilir durumdaki karakterlerle sınırlandırır. Böylece dost ve tarafsız karakterlerin Health Bar'larını açmadan düşman hedeflere odaklanabilirsiniz.
+
+#### Starting X Position of Health Bars
+
+Toplu olarak açılan Health Bar'ların oyun ekranındaki başlangıç yatay konumunu belirler. Değeri değiştirerek Health Bar'ların soldan başlayacağı konumu ayarlayabilirsiniz.
+
+#### Starting Y Position of Health Bars
+
+Toplu olarak açılan Health Bar'ların oyun ekranındaki başlangıç dikey konumunu belirler. Değeri değiştirerek Health Bar'ların yukarıdan başlayacağı konumu ayarlayabilirsiniz.
+
+#### Anchored Healthbar
+
+Toplu olarak açılan Health Bar'ların birbirine sabitlenmiş şekilde yerleştirilmesini sağlar. Bu seçenek aktif olduğunda Health Bar'lar düzenli bir grup halinde görüntülenir ve birlikte yönetilmeleri kolaylaşır.
+
+<figure><img src="../.gitbook/assets/drag.gif" alt=""><figcaption></figcaption></figure>
+
+### Inform When Stats Change
+
+Karakterinizin Strength, Dexterity veya Intelligence değerlerinde değişiklik olduğunda bilgilendirme mesajı görüntülenmesini sağlar. Böylece karakterinizin stat gelişimini takip edebilirsiniz.
+
+### Inform When Skills Change By \[In Tenths]
+
+Karakterinizin skill değerlerinde değişiklik olduğunda bilgilendirme mesajı görüntülenmesini sağlar.
+
+Yanındaki kaydırma çubuğu ile bildirimlerin hangi miktardaki skill değişimlerinde gösterileceğini belirleyebilirsiniz. Değerler 0.1 skill puanı üzerinden hesaplanır. Örneğin değeri 5 olarak ayarladığınızda 0.5 puanlık değişimlerde bildirim alabilirsiniz.
+
+#### Save Current Settings as Defaults for New Users
+
+Mevcut oyun ayarlarınızı yeni oluşturulacak kullanıcı profilleri için varsayılan ayarlar olarak kaydetmenizi sağlar. Böylece yeni profillerde aynı ayarları tekrar yapmanız gerekmez.
