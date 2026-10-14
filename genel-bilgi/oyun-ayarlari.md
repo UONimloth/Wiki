@@ -609,7 +609,7 @@ Hasar sırasında kullanılan kan ve ses efektlerinin yoğunluğunu belirler. De
 
 General sekmesi, oyunun genel kullanım davranışlarını düzenleyebileceğiniz seçenekleri içerir. Klavye ile hareket, bildirimler, otomatik koşma, pathfinding ve cesetlerin açılması gibi temel oyun ayarlarını bu bölümden değiştirebilirsiniz.
 
-> <mark style="color:red;">**Not:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.</mark>
+> <mark style="color:red;">**Not:**</mark> <mark style="color:red;">Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.</mark>
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -895,7 +895,7 @@ Saydamlık efektinin nasıl uygulanacağını belirler. İki farklı görünüm 
 * <mark style="color:red;">**Full**</mark>: Belirlenen alan içerisindeki nesnelere doğrudan saydamlık uygular.
 * <mark style="color:red;">**Gradient**</mark>: Saydamlık efektini kademeli olarak uygular. Böylece saydam alanın kenarlarında daha yumuşak bir geçiş oluşur.
 
-<figure><img src="../.gitbook/assets/transparan (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/transparan.gif" alt=""><figcaption></figcaption></figure>
 
 ### Hide "Screenshot Stored In" Message
 
@@ -991,3 +991,24 @@ Oyun içerisinde oluşturulan büyü alanlarının (Field) nasıl görüntülene
 * <mark style="color:red;">**Static Fields**</mark>: Büyü alanlarını animasyonsuz, sabit grafiklerle görüntüler.
 * <mark style="color:red;">**Tile Fields**</mark>: Büyü alanlarını daha sade, zemin üzerinde karo (tile) şeklinde görüntüler.
 
+<figure><img src="../.gitbook/assets/fields.gif" alt=""><figcaption></figcaption></figure>
+
+### Use Waypoint
+
+Oyun dünyasında belirlenen Waypoint noktalarının görüntülenmesini sağlar. Bu seçenek kapatıldığında Waypoint işaretleri gösterilmez.
+
+### Show Waypoint Text
+
+Waypoint noktalarına ait açıklama ve isimlerin görüntülenmesini sağlar. Bu seçenek kapatıldığında Waypoint işaretleri görünmeye devam eder ancak üzerlerindeki yazılar gizlenir.
+
+### Repeat System Message Filter
+
+Kısa süre içerisinde tekrar eden aynı sistem mesajlarının birleştirilmesini sağlar. Böylece aynı mesajın sürekli olarak ayrı satırlarda görüntülenmesi engellenir.
+
+### Kaç Saniye İçinde Tekrar Eden Mesajlar Birleşsin
+
+Tekrar eden sistem mesajlarının birleştirilmesi için kullanılacak zaman aralığını belirler. Örneğin bu değeri 4 olarak ayarladığınızda, 4 saniye içerisinde tekrar eden aynı sistem mesajları birleştirilir.
+
+### Kaç Adet Tekrar Ettiğini Göster
+
+Birleştirilen sistem mesajlarının kaç kez tekrarlandığını görüntüler. Böylece aynı mesajın kaç defa gönderildiğini takip edebilirsiniz.

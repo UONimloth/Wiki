@@ -1,4 +1,4 @@
-# Otomatik Etkinlik Sistemi
+# Oto Etkinlik Sistemi
 
 Nimloth'ta eğlence yalnızca zindanlarda değil! Her gün belirli saatlerde sunucu tarafından otomatik olarak başlatılan etkinlikler sayesinde hem keyifli vakit geçirebilir hem de altın, <mark style="color:red;">**Etkinlik puanı**</mark> ve <mark style="color:red;">**Nimloth puanı**</mark> kazanabilirsiniz.
 
@@ -8,7 +8,7 @@ Otomatik Etkinlik Sistemi; mini oyunlar, turnuvalar, sunucu geneli bonus saatler
 
 Hangi gün, hangi saatte, hangi etkinliğin düzenleneceğini help menüsü üzerinde yer alan Takvim üzerinden görüntüleyebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 Takvimde bir güne tıkladığınızda o güne ait etkinlikler ve başlangıç saatleri listelenir. Tamamlanmış etkinliklerin yanındaki detay butonuna tıklayarak katılımcıları, kazananı ve dağıtılan ödülü inceleyebilirsiniz.
 
