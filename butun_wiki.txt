@@ -6099,7 +6099,7 @@ Bu sekme altından diğer guildler ile <mark style="color:red;">**Last Stand**</
 
 --- Dosya: ./sistemler/oto-etkinlik-sistemi.md ---
 
-# Otomatik Etkinlik Sistemi
+# Oto Etkinlik Sistemi
 
 Nimloth'ta eğlence yalnızca zindanlarda değil! Her gün belirli saatlerde sunucu tarafından otomatik olarak başlatılan etkinlikler sayesinde hem keyifli vakit geçirebilir hem de altın, <mark style="color:red;">**Etkinlik puanı**</mark> ve <mark style="color:red;">**Nimloth puanı**</mark> kazanabilirsiniz.
 
@@ -6109,7 +6109,7 @@ Otomatik Etkinlik Sistemi; mini oyunlar, turnuvalar, sunucu geneli bonus saatler
 
 Hangi gün, hangi saatte, hangi etkinliğin düzenleneceğini help menüsü üzerinde yer alan Takvim üzerinden görüntüleyebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 Takvimde bir güne tıkladığınızda o güne ait etkinlikler ve başlangıç saatleri listelenir. Tamamlanmış etkinliklerin yanındaki detay butonuna tıklayarak katılımcıları, kazananı ve dağıtılan ödülü inceleyebilirsiniz.
 
@@ -14389,7 +14389,7 @@ Hasar sırasında kullanılan kan ve ses efektlerinin yoğunluğunu belirler. De
 
 General sekmesi, oyunun genel kullanım davranışlarını düzenleyebileceğiniz seçenekleri içerir. Klavye ile hareket, bildirimler, otomatik koşma, pathfinding ve cesetlerin açılması gibi temel oyun ayarlarını bu bölümden değiştirebilirsiniz.
 
-> <mark style="color:red;">**Not:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.</mark>
+> <mark style="color:red;">**Not:**</mark> <mark style="color:red;">Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.</mark>
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -14675,7 +14675,7 @@ Saydamlık efektinin nasıl uygulanacağını belirler. İki farklı görünüm 
 * <mark style="color:red;">**Full**</mark>: Belirlenen alan içerisindeki nesnelere doğrudan saydamlık uygular.
 * <mark style="color:red;">**Gradient**</mark>: Saydamlık efektini kademeli olarak uygular. Böylece saydam alanın kenarlarında daha yumuşak bir geçiş oluşur.
 
-<figure><img src="../.gitbook/assets/transparan (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/transparan.gif" alt=""><figcaption></figcaption></figure>
 
 ### Hide "Screenshot Stored In" Message
 
@@ -14771,6 +14771,27 @@ Oyun içerisinde oluşturulan büyü alanlarının (Field) nasıl görüntülene
 * <mark style="color:red;">**Static Fields**</mark>: Büyü alanlarını animasyonsuz, sabit grafiklerle görüntüler.
 * <mark style="color:red;">**Tile Fields**</mark>: Büyü alanlarını daha sade, zemin üzerinde karo (tile) şeklinde görüntüler.
 
+<figure><img src="../.gitbook/assets/fields.gif" alt=""><figcaption></figcaption></figure>
+
+### Use Waypoint
+
+Oyun dünyasında belirlenen Waypoint noktalarının görüntülenmesini sağlar. Bu seçenek kapatıldığında Waypoint işaretleri gösterilmez.
+
+### Show Waypoint Text
+
+Waypoint noktalarına ait açıklama ve isimlerin görüntülenmesini sağlar. Bu seçenek kapatıldığında Waypoint işaretleri görünmeye devam eder ancak üzerlerindeki yazılar gizlenir.
+
+### Repeat System Message Filter
+
+Kısa süre içerisinde tekrar eden aynı sistem mesajlarının birleştirilmesini sağlar. Böylece aynı mesajın sürekli olarak ayrı satırlarda görüntülenmesi engellenir.
+
+### Kaç Saniye İçinde Tekrar Eden Mesajlar Birleşsin
+
+Tekrar eden sistem mesajlarının birleştirilmesi için kullanılacak zaman aralığını belirler. Örneğin bu değeri 4 olarak ayarladığınızda, 4 saniye içerisinde tekrar eden aynı sistem mesajları birleştirilir.
+
+### Kaç Adet Tekrar Ettiğini Göster
+
+Birleştirilen sistem mesajlarının kaç kez tekrarlandığını görüntüler. Böylece aynı mesajın kaç defa gönderildiğini takip edebilirsiniz.
 
 
 --- Dosya: ./genel-bilgi/world-map.md ---
@@ -19967,7 +19988,7 @@ Eğer tüm parçalar eklenmiş ise Bundle Yap butonu aktif olacak ve Bundle yapa
 
 * Achievement sisteminin detay ekranı güncellendi
 
-Artık detay ekranında her bir seviyeyi tamamlamak için ne yapılması gerektiği ve seviye tamamlandığında ne ödüller alındığını görebileceksiniz \
+Artık detay ekranında her bir seviyeyi tamamlamak için ne yapılması gerektiği ve seviye tamamlandığında ne ödüller alındığını görebileceksiniz\
 PvM sekmesinde 3. seviye tamamlandığında alacağınız Title ödülünü de artık görüntüleyebileceksiniz
 
 <figure><img src="../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
@@ -19975,17 +19996,17 @@ PvM sekmesinde 3. seviye tamamlandığında alacağınız Title ödülünü de a
 * Achievement filtre ekranı güncellendi
 
 Artık seçili olan kategoriye göre alt filtrelemeler de yapabileceksiniz\
-<mark style="color:red;">**Craft kategorisinde**</mark> Alchemy, Blacksmith, Bowcraft, Carpenter, Cooking, Housecraft, Inscription, Masonry, Shipcraft, Tailor ve Tinker alt kırılımları bulunmaktadır&#x20;
+<mark style="color:red;">**Craft kategorisinde**</mark> Alchemy, Blacksmith, Bowcraft, Carpenter, Cooking, Housecraft, Inscription, Masonry, Shipcraft, Tailor ve Tinker alt kırılımları bulunmaktadır
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**PvM kategorisinde**</mark> Arachnids, Beasts, Champions, Demons, Dragonkind, Elementals, Fey, Giants, Goblins, Orcs, Reptiles ve Undead alt kırılımları bulunmaktadır
 
-<figure><img src="../../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Gatherer kategorisinde**</mark> Farming, Fishing, Lockpicking, Lumberjacking, Mining ve Rare Flower alt kırılımları bulunmaktadır&#x20;
+<mark style="color:red;">**Gatherer kategorisinde**</mark> Farming, Fishing, Lockpicking, Lumberjacking, Mining ve Rare Flower alt kırılımları bulunmaktadır
 
-<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
 
 Bu alt kategorileri seçerek aradığınız Achievementları çok daha hızlı bulabilirsiniz
 
@@ -20005,8 +20026,8 @@ Komut kullanıldıktan sonra 1 saat boyunca listeyi istediğiniz zaman tekrar g�
 
 * Satın Al kısmında Alchemy, Blacksmith, Carpenter, Tailor, Tinker, Shipcraft ve Housecraft için toplamda 12 adet Blueprint satışı yapacak
 
-Blueprintler stokları 18-24 saatleri arasında rastgele sıfırlanacak ve her Blueprint'ten 1 adet satışa sunulacak \
-Her yetenekten yalnızca 1 adet Blueprint satın alabileceksiniz. Blueprint'e ait stok bittiğinde solda Tükendi yazısını göreceksiniz \
+Blueprintler stokları 18-24 saatleri arasında rastgele sıfırlanacak ve her Blueprint'ten 1 adet satışa sunulacak\
+Her yetenekten yalnızca 1 adet Blueprint satın alabileceksiniz. Blueprint'e ait stok bittiğinde solda Tükendi yazısını göreceksiniz\
 Ayrıca sahibi olduğunuz Blueprintler yeşil olarak görüntülenecek Blueprint fiyatları 300-500k arasında rastgele olarak belirlenmekte
 
 <figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
@@ -20027,11 +20048,11 @@ Artık Buff Icon boyutu, kalan süre boyutu ve kalan süre rengini istediğiniz 
 
 * Düşük HP'de ekran kenarında kırmızı vinyet seçeneği artık özelleştirilebilir
 
-Ayarlarınızı yaptıktan sonra altta yer alan Önizle butonuna tıklayarak ekranda nasıl görüntüleneceğini görebilirsiniz&#x20;
+Ayarlarınızı yaptıktan sonra altta yer alan Önizle butonuna tıklayarak ekranda nasıl görüntüleneceğini görebilirsiniz
 
 <figure><img src="../../.gitbook/assets/vinyet.gif" alt=""><figcaption></figcaption></figure>
 
-Bildiğiniz gibi 31 Ekim 2025 tarihinde kapılarımızı siz oyunculara açtık. 1 yılımızı çeşitli ingame ödüller ve etkinlikler ile kutlayacağız \
+Bildiğiniz gibi 31 Ekim 2025 tarihinde kapılarımızı siz oyunculara açtık. 1 yılımızı çeşitli ingame ödüller ve etkinlikler ile kutlayacağız\
 Yakın zamanda gerekli bilgilendirmeyi yapacağız
 
 
