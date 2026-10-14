@@ -964,3 +964,30 @@ Yanındaki kaydırma çubuğu ile bildirimlerin hangi miktardaki skill değişim
 #### Save Current Settings as Defaults for New Users
 
 Mevcut oyun ayarlarınızı yeni oluşturulacak kullanıcı profilleri için varsayılan ayarlar olarak kaydetmenizi sağlar. Böylece yeni profillerde aynı ayarları tekrar yapmanız gerekmez.
+
+### Hide Roof Tiles
+
+Binaların çatı grafiklerinin gizlenmesini sağlar. <mark style="color:red;">**Bu ayar oyuncular tarafından değiştirilemez.**</mark>
+
+### Trees to Stumps
+
+Ağaçların tam boyutlu görünümleri yerine yalnızca kütüklerinin görüntülenmesini sağlar. <mark style="color:red;">**Bu ayar oyuncular tarafından değiştirilemez.**</mark>
+
+### Hide Vegetation
+
+Oyun dünyasındaki ot, çalı ve benzeri bitki örtüsü grafiklerinin gizlenmesini sağlar. Özellikle yoğun bitki örtüsüne sahip bölgelerde daha sade bir görüntü elde etmek için kullanabilirsiniz.
+
+<figure><img src="../.gitbook/assets/vegetation.gif" alt=""><figcaption></figcaption></figure>
+
+### Mark Cave Tiles
+
+Mağara zeminlerinin ve ilgili arazi grafiklerinin görsel olarak işaretlenmesini sağlar. <mark style="color:red;">**Bu ayar oyuncular tarafından değiştirilemez.**</mark>
+
+### Fields
+
+Oyun içerisinde oluşturulan büyü alanlarının (Field) nasıl görüntüleneceğini belirler. Üç farklı görünüm arasından seçim yapabilirsiniz:
+
+* <mark style="color:red;">**Normal Fields**</mark>: Büyü alanlarını orijinal görünümleriyle görüntüler.
+* <mark style="color:red;">**Static Fields**</mark>: Büyü alanlarını animasyonsuz, sabit grafiklerle görüntüler.
+* <mark style="color:red;">**Tile Fields**</mark>: Büyü alanlarını daha sade, zemin üzerinde karo (tile) şeklinde görüntüler.
+
