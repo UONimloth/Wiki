@@ -8441,11 +8441,11 @@ Yani, bir zindanda tüm sandıklar 1. seviye olabileceği gibi, tamamı 3. seviy
 
 ## Tuzaklar ve Remove Trap Yeteneği
 
-Sandıkların üzerindeki tuzaklar, [<mark style="color:red;">**Remove Trap**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/remove-trap) yeteneği kullanılarak etkisiz hâle getirilebilir. Tuzakları <mark style="color:red;">**90.0 Remove Trap**</mark> yeteneği ile etkisiz hale getirebilirsiniz.
+Sandıklardaki tuzakları çözebilmek için en az <mark style="color:red;">**90.0**</mark> [<mark style="color:red;">**Remove Trap**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/remove-trap) gerekir. Tuzağın etkisiz hâle getirilmesi sandığın kilidini açmaz; kilidi açmak için ayrıca <mark style="color:red;">**Lockpick**</mark> ve en az [<mark style="color:red;">**98.1 Lockpicking**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/lockpicking) gerekir.
 
-Eğer tuzak başarıyla çözülürse sandık güvenle açılır ve <mark style="color:red;">**hiçbir koruyucu yaratık spawn olmaz**</mark>**.** Bu, sandıkları açarken en güvenli yoldur.
+Tuzak çözümünde başlangıçta <mark style="color:red;">**3 deneme hakkınız**</mark> bulunur. Başarısız denemeler haklarınızı azaltır; haklarınız tükendiğinde tuzak tetiklenir ve koruyucular ortaya çıkar.
 
-Tuzak çözülmeden açmaya çalışırsanız tuzak patlayarak oyuncuya zarar verir ve sandığın koruyucuları ortaya çıkar.
+Tuzağı başarıyla çözdükten sonra kilidi açarsanız koruyucu yaratık oluşmaz. Tuzak çözülmeden kilidi açmak ise tuzağın tetiklenmesine ve koruyucuların ortaya çıkmasına neden olur.
 
 ## L1 Sandıklar
 
@@ -8453,7 +8453,7 @@ Zindanların ilk seviyesinde bulunan bu sandıklar, zindanlara yeni adım atan m
 
 Remove Trap yeteneğini kullandığınızda, tuzağın çözülmesi için gereken hamle sayısını görebilirsiniz.
 
-Tuzak başarılı şekilde etkisiz hale getirildiğinde sandık güvenle açılır; ancak başarısız olunursa düşük seviyeli bir koruyucu ortaya çıkar ve sandığın savunmasını üstlenir.
+Tuzak başarılı şekilde etkisiz hale getirildiğinde sandık güvenle açılır. Tuzağı çözme haklarınız tükenip tuzak tetiklendiğinde birden fazla koruyucu yaratık ortaya çıkar. Tuzak çözülmeden kilidi açmak da koruyucuların oluşmasına neden olur.
 
 Patlayan tuzaklar yalnızca hafif hasar verir, ancak dikkatsiz davranırsanız bu bile can yakıcı olabilir.
 
@@ -8547,7 +8547,7 @@ Başarısız olursanız, tuzak yüksek hasar verir ve birden fazla güçlü yara
 
 • %33 şansla [<mark style="color:red;">**Weapon Combiner**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/weapon-combiner)
 
-• %20 şansla [<mark style="color:red;">**Armor Bundler**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/armor-bundler)
+• %25 şansla [<mark style="color:red;">**Armor Bundler**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/armor-bundler)
 
 • %20 şansla [<mark style="color:red;">**Leather Dye, Golem Dye, House Dye veya Beard Dye**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/rare-dye-sistemi) [<mark style="color:red;">**Blueprinti**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi)
 
