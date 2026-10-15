@@ -88,7 +88,7 @@ Eşyaları taşıma ve bırakma işlemleri sırasında oluşan eşya bırakma se
 
 Tooltip sekmesi, oyun içerisinde bir eşyanın veya nesnenin üzerine geldiğinizde görüntülenen bilgi pencerelerinin davranışını ve görünümünü düzenlemenizi sağlar. Tooltiplerin gösterilme süresini, boyutunu, arka plan saydamlığını ve yazı tipini bu bölümden değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Use Tooltip**
 
@@ -211,7 +211,7 @@ Alt bölümde ise farklı konuşma ve mesaj türlerinde kullanılacak renkleri a
 
 Renk kutularına tıklayarak ilgili mesaj türünde kullanılmasını istediğiniz rengi değiştirebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Macro Ayarları
 
@@ -611,7 +611,7 @@ General sekmesi, oyunun genel kullanım davranışlarını düzenleyebileceğini
 
 > <mark style="color:red;">**Not:**</mark> <mark style="color:red;">Kırmızı renkle gösterilen ayarlar UO:Nimloth tarafından belirlenmektedir ve oyuncular tarafından değiştirilemez.</mark>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Options Menu Font Hue**
 
@@ -1095,3 +1095,133 @@ Bilgi alanında kullanılacak rengi belirler. Farklı bilgileri birbirinden ayı
 Bilgi alanında hangi verinin görüntüleneceğini belirler. Açılır menü üzerinden takip etmek istediğiniz bilgi türünü seçebilirsiniz.
 
 <figure><img src="../.gitbook/assets/infobar.gif" alt=""><figcaption></figcaption></figure>
+
+## Containers Ayarları
+
+Containers sekmesi, oyun içerisindeki çanta ve konteynerlerin görünümünü ve kullanım davranışlarını özelleştirmenizi sağlar. Konteyner boyutlarını, eşya görünümlerini, sürükle-bırak işlemlerini ve pencere konumlarını bu bölümden düzenleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### Select Character Backpack Style
+
+Karakterinizin çantasının (Backpack) hangi görünümde kullanılacağını belirler. Açılır menü üzerinden farklı çanta tasarımları arasından seçim yapabilirsiniz.
+
+### Container Scale
+
+Çanta ve konteyner pencerelerinin boyutunu belirler. Değeri yükselterek konteynerleri büyütebilir, düşürerek daha küçük görüntüleyebilirsiniz.
+
+### Scale Items Inside Containers
+
+Konteynerlerin boyutu değiştirildiğinde içerisindeki eşya görsellerinin de aynı oranda büyütülmesini veya küçültülmesini sağlar.
+
+### Use Large Containers Gump
+
+Çanta ve konteynerlerin daha geniş bir pencere tasarımıyla görüntülenmesini sağlar. Özellikle çok sayıda eşyanın bulunduğu konteynerlerde daha geniş bir kullanım alanı sunar.
+
+### Double Click to Loot Items Inside Containers
+
+Konteyner içerisindeki eşyaları çift tıklayarak almanızı sağlar. <mark style="color:red;">**Bu ayar oyuncular tarafından değiştirilemez.**</mark>
+
+### Relative Drag and Drop Items in Containers
+
+Konteynerler arasında eşya taşırken sürükle-bırak işleminin eşyanın tutulduğu noktaya göre gerçekleştirilmesini sağlar. Böylece eşyaların bırakıldığı konum daha tutarlı şekilde korunabilir.
+
+### Highlight Container on Ground When Mouse Is Over a Container Gump
+
+Açık bir konteyner penceresinin üzerine fare imlecini getirdiğinizde, konteynerin oyun dünyasındaki karşılığının vurgulanmasını sağlar. Özellikle yerde bulunan birden fazla konteyner arasından hangisinin açık olduğunu anlamanızı kolaylaştırır.
+
+### Recolor Container Gump by Item Hue
+
+Konteyner penceresinin renginin, ilgili konteyner eşyasının rengine göre değiştirilmesini sağlar. Böylece farklı renklerdeki konteynerlerin pencereleri de eşyanın rengine uygun şekilde görüntülenebilir.
+
+### Show Container Name
+
+Açık konteyner pencerelerinde konteynerin isminin görüntülenmesini sağlar.
+
+### Override Container Gump Location
+
+Çanta ve konteyner pencerelerinin açıldığında ekranın hangi konumunda görüntüleneceğini belirler. Dört farklı yerleşim seçeneğinden birini kullanabilirsiniz:
+
+#### **Near Container Position**&#x20;
+
+Konteyner penceresini, oyun dünyasındaki konteynerin bulunduğu konuma yakın bir yerde açar.
+
+#### Top Right
+
+Konteyner penceresini oyun ekranının sağ üst bölümünde açar.
+
+#### Last Dragged Position
+
+Konteyner penceresini en son sürükleyerek yerleştirdiğiniz konumda açar.
+
+#### Remember Every Container
+
+Her konteynerin pencere konumunu ayrı ayrı hatırlar. Daha önce açıp konumlandırdığınız konteynerleri tekrar açtığınızda kayıtlı konumlarında görüntüler.
+
+#### Rebuild containers.txt
+
+Konteyner görünümlerine ilişkin yapılandırma dosyası olan `containers.txt` dosyasını yeniden oluşturur. Konteyner yapılandırmalarının yeniden hazırlanması gerektiğinde kullanılabilir.
+
+<figure><img src="../.gitbook/assets/containers.gif" alt=""><figcaption></figcaption></figure>
+
+## Ignore List Ayarları
+
+Ignore List sekmesi, oyun içerisinde belirli oyuncuları engelleme listenize eklemenizi ve bu listeyi yönetmenizi sağlar. Engellediğiniz oyuncuların bilgilerini görüntüleyebilir veya istediğiniz zaman listeden kaldırabilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
+
+### Engelleme Listesi
+
+Engelleme listenizde bulunan oyuncular aşağıdaki bilgilerle birlikte görüntülenir:
+
+#### Character Name
+
+Engelleme listesine eklediğiniz oyuncunun karakter adını gösterir.
+
+#### Serial
+
+Engellenen karakterin oyun içerisindeki benzersiz kimlik numarasını gösterir.
+
+#### Datetime
+
+Oyuncunun engelleme listesine eklendiği tarih ve saat bilgisini gösterir.
+
+#### Remove
+
+Seçili oyuncuyu engelleme listesinden kaldırmanızı sağlar.
+
+### Oyuncu Engelleme
+
+#### Add Person to Ignore List
+
+Yeni bir oyuncuyu engelleme listesine eklemenizi sağlar. Bu seçeneğe tıkladığınızda hedefleme imleci açılır ve engellemek istediğiniz karakteri seçebilirsiniz.
+
+Engelleme listesine eklediğiniz oyuncuların mesajları filtrelenerek oyun içerisindeki iletişimlerini görmeniz engellenir. Böylece istemediğiniz oyuncuların mesajlarını görüntülemek zorunda kalmazsınız.
+
+## Experimental Ayarları
+
+Experimental sekmesi, oyun içerisinde kullanılan varsayılan klavye kısayollarını ve bazı kontrol özelliklerini düzenlemenizi sağlar. Bu bölümdeki seçenekler sayesinde belirli tuşların standart işlevlerini devre dışı bırakabilirsiniz.
+
+### Disable Default UO Hotkeys
+
+Ultima Online'ın varsayılan klavye kısayollarını devre dışı bırakmanızı sağlar. Bu seçenek aktif olduğunda aşağıdaki ayarlar üzerinden belirli kısayolları ayrı ayrı yönetebilirsiniz.
+
+### Disable Arrows & Numlock Arrows \[Player Moving]
+
+Klavyedeki yön tuşlarının ve NumPad yön tuşlarının karakter hareketi için kullanılmasını engeller.
+
+### Disable TAB \[Toggle Warmode]
+
+`TAB` tuşunun varsayılan War/Peace modu değiştirme işlevini devre dışı bırakır. Böylece TAB tuşunu farklı makrolar için kullanabilirsiniz.
+
+### Disable Ctrl + Q/W \[MessageHistory]
+
+`Ctrl + Q` ve `Ctrl + W` tuş kombinasyonlarının mesaj geçmişiyle ilgili varsayılan işlevlerini devre dışı bırakır.
+
+### Disable Right+Left Click Automove
+
+Sağ ve sol fare tuşlarına birlikte basıldığında kullanılan otomatik hareket özelliğini devre dışı bırakır.
+
+### Reload / Screenshot Key
+
+Oyun istemcisinin yeniden yükleme ve ekran görüntüsü alma işlemlerinde kullanılan tuşlarla ilgili ayarları düzenlemenizi sağlar.

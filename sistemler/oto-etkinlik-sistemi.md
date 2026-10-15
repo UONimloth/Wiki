@@ -32,7 +32,7 @@ Bir mini oyun veya turnuva başlayacağı zaman sunucu genelinde duyuru yapılı
 
 Katılmak için `.etkinlik` komutunu yazın ve açılan ekranda <mark style="color:red;">**Katıl**</mark> butonuna tıklayın. Bu ekranda etkinliğin adını, o ana kadarki katılımcı sayısını, kalan süreyi ve katılım ücretini görebilirsiniz.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 • Katılım ücreti <mark style="color:red;">**25.000 GP**</mark>'dir ve bankanızdan tahsil edilir.
 
