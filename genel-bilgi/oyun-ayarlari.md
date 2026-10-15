@@ -1260,3 +1260,40 @@ Journal mesajlarının yanında görüntülenen tarih ve saat bilgilerinin gizle
 
 Journal kayıtlarının bulunduğu klasörü açar. Daha önce kaydedilmiş Journal dosyalarına ulaşmak ve kayıtları incelemek için kullanabilirsiniz.
 
+<figure><img src="../.gitbook/assets/journal.gif" alt=""><figcaption></figcaption></figure>
+
+### Paperdoll
+
+Paperdoll sekmesi, karakterinizin Paperdoll penceresinde görüntülenen ekipman alanlarını ve bazı ek özellikleri düzenlemenizi sağlar.
+
+<figure><img src="../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+
+### Paperdoll slot the spellbook
+
+Bu seçenek aktif edildiğinde, büyü kitapları (Spellbook) Paperdoll üzerinde kendilerine ayrılmış ekipman alanında görüntülenir.
+
+### Show Paperdoll primary equipment slots
+
+Bu seçenek aktif edildiğinde, Paperdoll üzerinde karakterinizin birincil ekipman alanları görüntülenir.
+
+### Show Paperdoll secondary equipment slots
+
+Bu seçenek aktif edildiğinde, Paperdoll üzerinde karakterinizin ikincil ekipman alanları görüntülenir.
+
+### Show Paperdoll durability minimize gump
+
+Bu seçenek aktif edildiğinde, Paperdoll üzerinde ekipmanların dayanıklılık durumuyla ilgili küçültülmüş pencere görüntülenir.
+
+### Show Paperdoll noto bar
+
+Bu seçenek aktif edildiğinde, Paperdoll üzerinde karakterinizin notoriety (ün) durumunu gösteren çubuk görüntülenir.
+
+### Show Paperdoll Party Manifest
+
+Bu seçenek aktif edildiğinde, Paperdoll üzerinde Party Manifest özelliğine erişim sağlayan buton görüntülenir.
+
+### Show Paperdoll Profile
+
+Bu seçenek aktif edildiğinde, Paperdoll üzerinde karakterinizin profil penceresine erişim sağlayan buton görüntülenir.
+
+<figure><img src="../.gitbook/assets/paperdoll.gif" alt=""><figcaption></figcaption></figure>
