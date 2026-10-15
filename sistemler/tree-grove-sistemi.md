@@ -10,13 +10,15 @@ Sosaria üzerindeki ormanlık bölgelerde rastgele yerlerde beliren özel ağaç
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/4KCEtATG7CmGVoOlXuyIQvjMKgm9CofTbdJJznNy.png)
 
-## Kesim İçin Gerekenler
+### Kesim İçin Gerekenler
 
-Kesim işlemi için mutlaka bir Hatchet'a ihtiyacınız vardır.
+Tree Grove kesebilmek için Lumberjacking yeteneğinizin en az <mark style="color:red;">**100**</mark> olması gerekir.
 
-• Kullanılan Hatchet'ın türüne göre elde edilen log miktarı ve başarısız olma ihtimali değişiklik gösterir.
+Kesime başlamadan önce <mark style="color:red;">**Hatchet,**</mark> [<mark style="color:red;">**Silver Hatchet**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/silver-hatchet) veya [<mark style="color:red;">**Gold Hatchet**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-hatchet) türlerinden birini elinize takmalısınız. Baltanın yalnızca çantanızda bulunması yeterli değildir.
 
-• Daha kaliteli Hatchet'lar, daha yüksek verim ve daha düşük başarısızlık oranı sağlar.
+Baltanız elinizdeyken <mark style="color:red;">**Tree Grove’a çift tıklayarak**</mark> kesimi başlatabilirsiniz.
+
+Kullandığınız Hatchet’ın türüne göre elde edilen log miktarı ve başarısızlık ihtimali değişir. Silver Hatchet ve Gold Hatchet, normal Hatchet’a göre daha yüksek verim ve daha düşük başarısızlık ihtimali sağlar.
 
 ## Kesim Sırasında Dikkat Edilmesi Gerekenler
 
@@ -35,4 +37,3 @@ Kesim işlemi sırasında dikkat etmeniz gereken bazı önemli noktalar şunlard
 Not: Aynı anda yalnızca bir oyuncu aynı Tree Grove üzerinde kesim yapabilir. Başka biri kesim yapıyorsa, o işlem bitene kadar müdahale edemezsiniz.
 
 <figure><img src="../.gitbook/assets/grove.gif" alt=""><figcaption></figcaption></figure>
-
