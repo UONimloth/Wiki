@@ -34,7 +34,7 @@ Vendor'a <mark style="color:red;">**"gorev"**</mark> yazarak o yeteneğe ait ras
 
 ## Görev İlerlemesi
 
-Craft görevlerinden farklı olarak, gatherer görevlerinde toplanan kaynaklar <mark style="color:red;">**otomatik olarak göreve eklenir**</mark>.
+Göreve sayılan kaynaklar görev belgesine <mark style="color:red;">**otomatik olarak aktarılır**</mark>; ayrıca çantanıza verilmez. Görevi iptal ederseniz, göreve eklenmiş kaynaklar geri verilmez.
 
 • Örneğin bir maden görevi aldıysanız, belirtilen türde cevheri kazdığınızda ilerleme otomatik artar.
 
@@ -62,9 +62,9 @@ Bu XP, [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo
 
 ## Bir Kerede Sadece Bir Görev
 
-Her seferinde yalnızca bir yetenekten görev alabilirsiniz. Ancak, görevi iptal ederseniz, başka bir yetenekten görev almanız mümkün olacaktır.
+Aynı anda Craft, Gatherer, Tamer veya Hunter görevlerinden yalnızca biri aktif olabilir. Yeni bir görev alabilmek için mevcut görevinizi tamamlamalı veya iptal etmelisiniz.
 
-<mark style="color:red;">**Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 4 saat beklemeniz gerekmektedir.**</mark>
+Gatherer görevini iptal ettiğinizde aynı yetenekten yeniden görev alabilmek için <mark style="color:red;">**4 saat**</mark> beklemeniz gerekir. Bu süre içinde, diğer koşulları karşılıyorsanız farklı bir yetenekten görev alabilirsiniz.
 
 ## Ustalık Yolunda İlerle!
 

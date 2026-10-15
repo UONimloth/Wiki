@@ -1,6 +1,6 @@
 # Craft Mastery Sistemi
 
-Craft Mastery Sistemi, Ultima Online dünyasında zanaatkarlık becerilerinizi zirveye taşımanızı sağlayacak yepyeni bir sistemdir!&#x20;
+Craft Mastery Sistemi, Ultima Online dünyasında zanaatkarlık becerilerinizi zirveye taşımanızı sağlayacak yepyeni bir sistemdir!
 
 Craft Mastery Sistemi oyunculara sadece kendi yeteneklerini geliştirme fırsatı sunmakla kalmaz, aynı zamanda craft dünyasında benzersiz ödüller kazanmanızı ve diğer oyuncularla etkileşime geçerek XP transferi yapmanızı sağlar.
 
@@ -42,7 +42,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 • <mark style="color:red;">**Level 6: Golem (Blueprint)**</mark> -> Golem üretimi için gereken Blueprint'i elde edersiniz.
 
-• <mark style="color:red;">**Level 10:**</mark> [<mark style="color:red;">**Tracker's Spyglass**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/tracking#trackers-spyglass) <mark style="color:red;">**(Blueprint)**</mark> -> Golem üretimi için gereken Blueprint'i elde edersiniz.
+• <mark style="color:red;">**Level 10:**</mark> [<mark style="color:red;">**Tracker's Spyglass**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/tracking#trackers-spyglass) <mark style="color:red;">**(Blueprint)**</mark> -> Tracker’s Spyglass üretimi için gereken Blueprint’i elde edersiniz.
 
 • <mark style="color:red;">**Level 14:**</mark> [<mark style="color:red;">**Ship Crafting Tool**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi#gemi-uretimi) -> Gemi üretimi için gereken Ship Crafting Tool'u elde edersiniz.
 
@@ -50,7 +50,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 • <mark style="color:red;">**Level 20:**</mark> [<mark style="color:red;">**Telchar's Might**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/esya-tamir-sistemi) -> Magical silahları ve plate setleri tamir etmeniz için gereken Telchar's Might'ı elde edersiniz.
 
-• <mark style="color:red;">**Level 21: Superior Üretim**</mark> -> Ürettiğiniz eşyalar Superior olacak ve normalden %25 daha dayanıklı olacaktır.
+• <mark style="color:red;">**Level 21: Superior Üretim**</mark> -> Ürettiğiniz dayanıklılık özelliğine sahip uygun eşyalar Superior kalitede olur ve %25 daha dayanıklı hale gelir. İksirler, deed’ler, büyü kitapları, Green Fishing Net ve Golem bu bonusun dışındadır.
 
 • <mark style="color:red;">**Level 22:**</mark> [<mark style="color:red;">**Mallet and Chisel**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/mallet-and-chisel) -> [<mark style="color:red;">**Granite Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/granite-stone)'dan heykeller üretmek için gereken Mallet and Chisel'ı elde edersiniz.
 
@@ -62,7 +62,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 ## XP Aktar
 
-Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve **XP Aktar** butonuna basıldığında, bir XP Deed çantaya düşer.
+Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <mark style="color:red;">**XP Aktar**</mark> butonuna basıldığında, bir XP Deed çantaya düşer.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/kIfBavz39rjSd8bjPwSGYFwUTYiHA3CBuJK5dteJ.png)
 
@@ -71,9 +71,3 @@ Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak
 ## Seviye Sınırı
 
 Craft Mastery Sistemi’nde maksimum seviye 25'dir. Ancak, 25. Seviyeyi tamamladıktan sonra da görev alabilir ve XP kazanmaya devam edebilirsiniz. Bu, size craft becerilerini geliştirmeye devam etme fırsatı sunar.
-
-**Ustalığa Giden Yolda Sen de Yerini Al!**
-
-Zanaatın kalbindeki sırları keşfet, efsanevi aletlerin ustası ol ve Nimloth’un dört bir yanındaki ustalar arasında yerini al.
-
-Şimdi Craft görevlerini tamamla, ustalık seviyeni yükselt ve Nimloth dünyasında iz bırak!

@@ -46,7 +46,7 @@ Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye g
 
 • <mark style="color:red;">**Level 14: Tohum Düşme Şansı**</mark> -> [<mark style="color:red;">**Farming**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/farming) yeteneğiniz ile bitkileri toplarken tohum elde etme şansı kazanırsınız.
 
-• <mark style="color:red;">**Level 17: Gatherer's Apron**</mark> -> [<mark style="color:red;">**Gatherer's Apron**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gatherers-apron) kullanabilme yetkinliği kazanırsınız. Apronu kullandığınız süre boyunca <mark style="color:red;">**+100 taşıma kapasitesi**</mark> elde edersiniz.
+• <mark style="color:red;">**Level 17: Gatherer's Apron**</mark> -> [<mark style="color:red;">**Gatherer's Apron**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gatherers-apron) kullanabilme yetkinliği kazanırsınız. Önlük takılıyken standart hali <mark style="color:red;">**+100**</mark>, Superior hali ise <mark style="color:red;">**+125**</mark> taşıma kapasitesi sağlar.
 
 • <mark style="color:red;">**Level 20: Pack Binek Kullanımı**</mark> -> [<mark style="color:red;">**Pack bineklere**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler/pack-binekler) binebilirsiniz. Böylece daha fazla malzemeyi daha efektif şekilde taşıyabilirsiniz.
 
@@ -54,7 +54,7 @@ Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye g
 
 • <mark style="color:red;">**Level 22: Verimli Kullanım**</mark> -> Alet kullanım ustalığınız artar. Böylece kullandığınız aletler daha yavaş eskir.
 
-• <mark style="color:red;">**Level 23: Toplu Sulama**</mark> -> [<mark style="color:red;">**Watering Can**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/watering-can) kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz.
+• <mark style="color:red;">**Level 23: Toplu Sulama**</mark> -> [<mark style="color:red;">**Watering Can**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/watering-can) kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz. Sulama hedefi olarak kendinizi seçtiğinizde, 2 kare çevrenizdeki size ait ve sulanmaya uygun bitkiler toplu şekilde sulanır.
 
 • <mark style="color:red;">**Level 24: Kusursuz Toplama**</mark> -> Materyal toplama işlemlerinde %100 başarı şansına sahip olursunuz ve toplama sırasında başarısız olma ihtimali ortadan kalkar.
 

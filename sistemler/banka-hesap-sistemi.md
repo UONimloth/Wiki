@@ -102,7 +102,7 @@ Aile içi yardım ve kaynak paylaşımı bu sistem ile oldukça kolay!
 
 Bu yöntem ile üyesi olduğunuz guild içerisindeki başka bir üyeye doğrudan altın transferi gerçekleştirebilirsiniz.
 
-Bu seçeneğe tıkladığınızda, bulunduğunuz guild’in İşlem Koşullarıüyeleri listelenir.
+Bu seçeneğe tıkladığınızda, bulunduğunuz guild’in üyeleri listelenir.
 
 Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.
 
