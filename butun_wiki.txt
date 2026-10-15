@@ -6929,13 +6929,9 @@ Görevi tamamlamak için, görev menüsünde yer alan <mark style="color:red;">*
 
 <figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
-Görevi başarıyla tamamladığınızda şu ödülleri kazanırsınız:
+Görevi başarıyla tamamladığınızda Craft XP ve Gold kazanırsınız.
 
-• Craft XP
-
-• Gold
-
-• Rastgele şekilde ilgili yeteneğe ait bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) <mark style="color:red;">**kazanma şansı**</mark>
+Tinker, Tailor, Carpenter ve Blacksmith görevlerinde ayrıca ilgili mesleğe ait rastgele bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) kazanma şansınız bulunur. Bowcraft görevlerinde Blueprint ödülü verilmez.
 
 Kazandığınız Craft XP ile [<mark style="color:red;">**Craft Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) seviyenizi yükseltebilir veya üretiminde XP gerektiren çeşitli eşyaları oluşturmak için kullanabilirsiniz!
 
@@ -6943,9 +6939,9 @@ Kazandığınız Craft XP ile [<mark style="color:red;">**Craft Mastery**</mark>
 
 ## Bir Kerede Sadece Bir Görev
 
-Her seferinde yalnızca bir yetenekten görev alabilirsiniz. Ancak, görevi iptal ederseniz, başka bir yetenekten görev almanız mümkün olacaktır.
+Her seferinde yalnızca bir yetenekten görev alabilirsiniz. Görevi iptal ettiğinizde, görev belgesine eklediğiniz eşyalar geri verilmez.&#x20;
 
-<mark style="color:red;">**Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 4 saat beklemeniz gerekmektedir.**</mark>
+Aynı yetenekten yeni bir görev alabilmek için <mark style="color:red;">**4 saat**</mark> beklemeniz gerekir. Bu süre içinde başka bir yetenekten görev alabilirsiniz.
 
 ## Ustalık Yolunda İlerle!
 
