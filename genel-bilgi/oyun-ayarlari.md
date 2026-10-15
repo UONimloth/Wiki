@@ -1012,3 +1012,86 @@ Tekrar eden sistem mesajlarının birleştirilmesi için kullanılacak zaman ara
 ### Kaç Adet Tekrar Ettiğini Göster
 
 Birleştirilen sistem mesajlarının kaç kez tekrarlandığını görüntüler. Böylece aynı mesajın kaç defa gönderildiğini takip edebilirsiniz.
+
+## Counters Ayarları
+
+Counters sekmesi, oyun içerisinde kullandığınız eşyaların miktarlarını takip etmenizi sağlayan sayaç sisteminin görünümünü ve davranışını düzenlemenize imkân tanır. Sayaçların boyutunu, yerleşimini ve belirli durumlarda nasıl görüntüleneceğini bu bölümden ayarlayabilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+
+### Enable Counters
+
+Sayaç sistemini açıp kapatmanızı sağlar. Bu seçenek aktif olduğunda oluşturduğunuz sayaçlar üzerinden eşyalarınızın miktarlarını takip edebilirsiniz.
+
+### Highlight On Use
+
+Sayaçta takip edilen bir eşya kullanıldığında ilgili sayacın kısa süreliğine vurgulanmasını sağlar. Böylece kullanılan eşyanın miktarındaki değişikliği daha kolay fark edebilirsiniz.
+
+### Enable Abbreviated Amount Values When Amount Is Or Exceeds
+
+Sayaçlarda görüntülenen yüksek miktarların kısaltılmış biçimde gösterilmesini sağlar. Yanındaki alandan kısaltmanın hangi miktardan itibaren uygulanacağını belirleyebilirsiniz.
+
+Örneğin değeri 1000 olarak belirlediğinizde, bu miktara ulaşan veya bu miktarı aşan değerler daha kısa bir gösterimle görüntülenir.
+
+### Highlight Red When Amount Is Below
+
+Takip edilen eşyanın miktarı belirlediğiniz değerin altına düştüğünde sayacın kırmızı renkle vurgulanmasını sağlar. Özellikle Reagent, Potion ve benzeri sürekli kullandığınız eşyaların azaldığını fark etmek için kullanabilirsiniz.
+
+<figure><img src="../.gitbook/assets/counter.gif" alt=""><figcaption></figcaption></figure>
+
+### CounterBar LegacyMode
+
+Sayaç çubuğunun klasik görünümde kullanılmasını sağlar. Bu seçenek aktif olduğunda sayaçlar eski düzen biçimiyle görüntülenir.
+
+#### Cell Size
+
+Sayaçlarda kullanılan hücrelerin boyutunu belirler. Değeri yükselterek sayaç hücrelerini büyütebilir, düşürerek daha küçük görüntüleyebilirsiniz.
+
+#### Rows
+
+Sayaç çubuğunda bulunacak satır sayısını belirler. Sayaçlarınızı dikey olarak düzenlemek için kullanabilirsiniz.
+
+#### Columns
+
+Sayaç çubuğunda bulunacak sütun sayısını belirler. Sayaçlarınızı yatay olarak düzenlemek için kullanabilirsiniz.
+
+<figure><img src="../.gitbook/assets/legacy (1).gif" alt=""><figcaption></figcaption></figure>
+
+## Info Bar Ayarları
+
+Info Bar sekmesi, oyun içerisinde karakterinize ait çeşitli bilgileri takip edebileceğiniz bilgi çubuğunu özelleştirmenizi sağlar. Görüntülemek istediğiniz bilgileri ekleyebilir, renklerini değiştirebilir ve bilgilerin nasıl gösterileceğini belirleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+
+### Show Info Bar
+
+Info Bar özelliğini açıp kapatmanızı sağlar. Bu seçenek aktif olduğunda oluşturduğunuz bilgi çubuğu oyun ekranında görüntülenir.
+
+### Data Highlight Type
+
+Info Bar üzerinde görüntülenen bilgilerin nasıl renklendirileceğini belirler. İki farklı görünüm arasından seçim yapabilirsiniz:
+
+* <mark style="color:red;">**Text Color**</mark>: Bilgilerin değerlerini belirlenen yazı renkleriyle görüntüler.
+* <mark style="color:red;">**Colored Bars**</mark>: Bilgilerin durumunu renkli çubuklar kullanarak görsel olarak gösterir.
+
+### Add Item
+
+Info Bar'a yeni bir bilgi alanı eklemenizi sağlar. Eklediğiniz alan üzerinden takip etmek istediğiniz bilgiyi seçebilir ve görünümünü özelleştirebilirsiniz.
+
+#### Bilgi Alanları
+
+Eklediğiniz bilgiler aşağıdaki sütunlar üzerinden düzenlenir:
+
+#### Label
+
+Info Bar üzerinde görüntülenecek bilginin başlığını belirler. Böylece takip ettiğiniz bilgileri daha kolay ayırt edebilirsiniz.
+
+#### Color
+
+Bilgi alanında kullanılacak rengi belirler. Farklı bilgileri birbirinden ayırmak için her alana özel renk atayabilirsiniz.
+
+#### Data
+
+Bilgi alanında hangi verinin görüntüleneceğini belirler. Açılır menü üzerinden takip etmek istediğiniz bilgi türünü seçebilirsiniz.
+
+<figure><img src="../.gitbook/assets/infobar.gif" alt=""><figcaption></figcaption></figure>
