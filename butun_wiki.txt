@@ -9234,9 +9234,9 @@ Daha parlak ve özel tonları içerir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
-Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi)  elde edilir.
+Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) elde edilir.
 
-Tier 1 boyalar için toplam <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerekmektedir.
+Tier 2 boyalar için toplam <mark style="color:red;">**2400 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerekmektedir.
 
 Yaprak kombinasyonu mantığı Tier 3 ve Tier 2 ile aynıdır.
 
@@ -9288,15 +9288,15 @@ Ancak bu boyalar yalnızca deri türü eşyalar üzerinde kullanılabilir.
 
 ### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve <mark style="color:red;">**80.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve <mark style="color:red;">**90.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 2 – Zengin Tonlar
 
-Daha parlak ve özel tonları içerir, üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerektirir.
+Daha parlak ve özel tonları içerir, üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9334,15 +9334,15 @@ Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur 
 
 Boyalar yalnızca Furniture (mobilya) türündeki eşyalar üzerinde kullanılabilir.
 
-Üretilen Furniture Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
+Üretilen Furniture Dye'lar <mark style="color:red;">**20 şarja**</mark> sahiptir.
 
 ### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve <mark style="color:red;">**80.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve <mark style="color:red;">**90.0 Alchemy**</mark> yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9380,11 +9380,11 @@ Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur.
 
 ### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve <mark style="color:red;">**80.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve <mark style="color:red;">**90.0 Alchemy**</mark> yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9420,11 +9420,11 @@ Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur.
 
 ### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve <mark style="color:red;">**80.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve <mark style="color:red;">**90.0 Alchemy**</mark> yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9458,11 +9458,11 @@ Toplamda <mark style="color:red;">**14 farklı renk**</mark> seçeneği bulunur.
 
 ### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve <mark style="color:red;">**80.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve <mark style="color:red;">**90.0 Alchemy**</mark> yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9504,11 +9504,11 @@ Boyalar yalnızca <mark style="color:red;">**saç üzerinde**</mark> kullanılab
 
 ### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve <mark style="color:red;">**80.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve <mark style="color:red;">**90.0 Alchemy**</mark> yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9516,7 +9516,7 @@ Blueprint'ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https://
 
 ### Tier 2 – Zengin Tonlar
 
-Daha parlak ve özel tonları içerir. Üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerekmektedir.
+Daha parlak ve özel tonları içerir. Üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerekmektedir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9540,21 +9540,21 @@ Bu önizleme sayesinde boya uygulamadan önce istediğiniz rengin farklı saç m
 
 ## Beard Dye
 
-Hair Dye, oyuncuların karakterlerinin sakal rengini değiştirebilmelerini sağlayan özel bir boyama sistemidir.
+Beard Dye, oyuncuların karakterlerinin sakal rengini değiştirebilmelerini sağlayan özel bir boyama sistemidir.
 
 Toplamda <mark style="color:red;">**21 farklı renk**</mark> seçeneği bulunur ve her biri farklı kombinasyonlardaki çiçek yapraklarından üretilir.
 
 Boyalar yalnızca <mark style="color:red;">**sakal üzerinde**</mark> kullanılabilir. Kullanıldığında karakterinizin mevcut sakal rengini seçtiğiniz renkle değiştirir.
 
-Üretilen Hair Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
+Üretilen Beard Dye'lar <mark style="color:red;">**tek kullanımlıktır.**</mark>
 
 ### Tier 4 – Temel Renkler
 
-Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve 80.0 Alchemy yeteneği gerektirir.
+Klasik ve sade tonlardan oluşur, üretimi için <mark style="color:red;">**600 yaprak**</mark> ve <mark style="color:red;">**80.0 Alchemy**</mark> yeteneği gerektirir.
 
 ### Tier 3 – Doygun Renkler
 
-Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve 90.0 Alchemy yeteneği gerektirir.
+Daha derin ve doygun renklerden oluşur, üretimi için <mark style="color:red;">**1200 yaprak**</mark> ve <mark style="color:red;">**90.0 Alchemy**</mark> yeteneği gerektirir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9562,7 +9562,7 @@ Blueprint'ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimlo
 
 ### Tier 2 – Zengin Tonlar
 
-Daha parlak ve özel tonları içerir. Üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve 99.0 Alchemy yeteneği gerekmektedir.
+Daha parlak ve özel tonları içerir. Üretimi için <mark style="color:red;">**2400 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerekmektedir.
 
 Bu seviyede üretim yapmak için yalnızca yaprak değil, ayrıca [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) de gerekmektedir.
 
@@ -9570,7 +9570,7 @@ Blueprint'ler, [<mark style="color:red;">**Dungeon Chest**</mark>](https://nimlo
 
 ### Görsel Önizleme ve Üretim
 
-Hair Dye menüsünde oyuncular, <mark style="color:red;">**7 farklı sakal modelinden**</mark> birini seçebilir.
+Beard Dye menüsünde oyuncular, <mark style="color:red;">**7 farklı sakal modelinden**</mark> birini seçebilir.
 
 Seçilen sakal modeli ve boya rengi birleştirilerek, boyanın karakter üzerinde nasıl görüneceği doğrudan görüntüleyebilirsiniz.
 
