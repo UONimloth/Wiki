@@ -16,9 +16,9 @@ Açılan bu profilde aşağıdaki bilgiler yer alır:
 
 • Karakter ismi
 
-• Online süresi
+• Hesabın toplam online süresi
 
-• Kayıt tarihi (karakterin yaratıldığı tarih)
+• Hesabın ilk bağlantı tarihi
 
 • Hesaptaki karakter sayısı
 
@@ -48,9 +48,9 @@ Bu sekmede karakterinize dair genel bilgilere ulaşabilirsiniz:
 
 • Hesap ve karakter adı
 
-• Online süreniz
+• Hesabınızın toplam online süresi
 
-• Kayıt tarihiniz
+• Hesabınızın ilk bağlantı tarihi
 
 • Hesaptaki karakter sayınız
 
@@ -88,11 +88,17 @@ Aşağıdaki duyuru türlerini istediğiniz gibi açıp kapatabilirsiniz:
 
 • <mark style="color:red;">**Guild Mesajları**</mark>: Guildlere ait kurulum, yıkılma, şehir ele geçirme mesajları
 
+• <mark style="color:red;">**Warzone Mesajları**</mark>: War Zone karşılaşmalarının başlangıç ve sonuç mesajlarının gösterimi
+
+• <mark style="color:red;">**Düello Mesajları**</mark>: Düello sonuçlarının gösterimi
+
+• <mark style="color:red;">**Binek Mesajları**</mark>: Nadir bineklerin görüldüğü bölgeyi duyuran mesajların gösterimi
+
 • <mark style="color:red;">**Deniz Ticareti Mesajları**</mark>: Deniz ticarete ait mesajların gösterimi
 
 Bu sekme sayesinde, yalnızca ilgilendiğiniz içerikleri takip edebilir ve oyun deneyiminizi özelleştirebilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/BysdQZS3ZodOWWWMXfH6tOUoPJKcJ87wDnJ1CRj0.png)
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
 ## Bonuslar
 
@@ -156,7 +162,7 @@ Bu sekme, karakterinize özel görünürlük sağlayan ünvanları yönetebilece
 
 ### Skill Ünvanları
 
-Skill seviyesi <mark style="color:red;">**GM (Grandmaster)**</mark> olan yeteneklerinize ait ünvanlardan birini seçebilirsiniz. Yalnızca GM seviyesine ulaşmış yeteneklerin ünvanları aktif edilebilir.
+Yetenek seviyesi <mark style="color:red;">**98.0’ın üzerinde olan**</mark> yeteneklerinize ait ünvanlardan birini seçebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rZDRxSL9Zi29XYka7ycMeatEgsuhkbYPzakHANqT.png)
 
