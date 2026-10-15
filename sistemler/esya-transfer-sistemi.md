@@ -116,6 +116,12 @@ Onay ekranında bulunan <mark style="color:red;">**Transfer Et**</mark> butonuna
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/gKblsrlsTW2hfrO7neMXPS2HWTBywNllkGOWI3m6.png)
 
+## Transfer Koşulları
+
+Göndermek istediğiniz eşya, bankanızın ana bölümünde bulunmalıdır. Bankanızdaki bir çantanın veya başka bir konteynerin içindeki eşyaları önce bankanın ana bölümüne çıkarmanız gerekir.
+
+Konteyner türündeki eşyalar, altın ve banka çekleri bu sistem üzerinden gönderilemez. Altın ve çek transferleri için [<mark style="color:red;">**Banka Hesap Sistemini**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/banka-hesap-sistemi) kullanabilirsiniz.
+
 ## Transfer Ücreti
 
 Eşya transferleri hangi yöntemle yapılırsa yapılsın ücretlidir.
