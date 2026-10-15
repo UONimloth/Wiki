@@ -15006,6 +15006,41 @@ Sağ ve sol fare tuşlarına birlikte basıldığında kullanılan otomatik hare
 
 Oyun istemcisinin yeniden yükleme ve ekran görüntüsü alma işlemlerinde kullanılan tuşlarla ilgili ayarları düzenlemenizi sağlar.
 
+## Miscellaneous Ayarları
+
+Miscellaneous sekmesi, oyun içerisindeki çeşitli yardımcı özellikleri ve arayüz davranışlarını düzenlemenizi sağlar. Journal penceresinin görünümü, mesaj geçmişi ve diğer özelleştirme seçeneklerini bu bölümden yönetebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+
+### Use Alternate Journal
+
+Standart Journal yerine alternatif Journal görünümünün kullanılmasını sağlar. Bu seçenek aktif olduğunda Journal penceresi farklı bir arayüz tasarımıyla görüntülenir.
+
+### Max Journal Entries
+
+Journal içerisinde tutulacak maksimum mesaj sayısını belirler. Değeri yükselterek daha fazla mesajın Journal geçmişinde saklanmasını sağlayabilirsiniz.
+
+### Journal Opacity
+
+Journal penceresinin saydamlık seviyesini belirler. Değer yükseldikçe pencere daha belirgin, düşürüldükçe daha saydam hale gelir.
+
+### Journal Background
+
+Journal penceresinin arka planının görüntülenmesini sağlar. Bu seçenek kapatıldığında Journal metinleri arka plan olmadan görüntülenir.
+
+### Hide Gump Border \[Restart Required]
+
+Journal penceresinin kenarlıklarını gizler. Daha sade bir Journal görünümü elde etmek için kullanabilirsiniz. Değişikliğin uygulanabilmesi için oyunun yeniden başlatılması gerekir.
+
+### Hide Timestamp
+
+Journal mesajlarının yanında görüntülenen tarih ve saat bilgilerinin gizlenmesini sağlar.
+
+### Open Folder \[Journal]
+
+Journal kayıtlarının bulunduğu klasörü açar. Daha önce kaydedilmiş Journal dosyalarına ulaşmak ve kayıtları incelemek için kullanabilirsiniz.
+
+
 
 --- Dosya: ./genel-bilgi/world-map.md ---
 
