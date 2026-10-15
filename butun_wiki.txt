@@ -7432,7 +7432,7 @@ Aile içi yardım ve kaynak paylaşımı bu sistem ile oldukça kolay!
 
 Bu yöntem ile üyesi olduğunuz guild içerisindeki başka bir üyeye doğrudan altın transferi gerçekleştirebilirsiniz.
 
-Bu seçeneğe tıkladığınızda, bulunduğunuz guild’in aktif üyeleri listelenir.
+Bu seçeneğe tıkladığınızda, bulunduğunuz guild’in İşlem Koşullarıüyeleri listelenir.
 
 Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.
 
@@ -7443,6 +7443,14 @@ Guild üyeleri arasındaki ekonomik dayanışmayı güçlendiren bu özellik, ö
 <figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/hesap 5.gif" alt=""><figcaption></figcaption></figure>
+
+### İşlem Koşulları
+
+Bankacılık işlemleri sırasında Banker’dan <mark style="color:red;">**en fazla 7 kare**</mark> uzakta olmalısınız.
+
+Altın yatırma, altın çekme, çek yazma ve transfer işlemlerinde tek seferde en fazla <mark style="color:red;">**9.999.999 gp**</mark> işlem yapılabilir.
+
+Transfer yapabilmek için hesabınızda göndereceğiniz tutara ek olarak <mark style="color:red;">**5.000 gp işlem ücretini**</mark> karşılayacak bakiye bulunmalıdır.
 
 ### Transfer Ücreti
 
