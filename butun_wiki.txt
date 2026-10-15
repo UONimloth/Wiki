@@ -8380,7 +8380,7 @@ Yeni <mark style="color:red;">**Special**</mark> ve <mark style="color:red;">**E
 
 Special Fish’ler, herhangi bir olta (Fishing Pole) ile tutulabilen özel balıklardır.
 
-Bu balıkları yakalayabilmek için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 3 olması gerekmektedir.
+Special Fish yakalayabilmek için en az <mark style="color:red;">**99.0**</mark> [<mark style="color:red;">**Fishing**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/fishing) yeteneğine ve <mark style="color:red;">**3. seviye**</mark> [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller)’ye sahip olmanız gerekmektedir.
 
 Her bir Special Fish, standart olarak <mark style="color:red;">**1.000 Gold**</mark> değerindedir.
 
@@ -8396,11 +8396,9 @@ Bu balıklar görünüm ve nadirlik bakımından farklı olsa da, aynı denizler
 
 ## Exotic Fish
 
-Exotic Fish’ler, standart balıklara kıyasla daha iri ve değerlidir. Yakalayabilmek için [<mark style="color:red;">**Oak Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/oak-fishing-pole) veya [<mark style="color:red;">**Yew Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/yew-fishing-pole) kullanmanız gerekmektedir
+Exotic Fish’ler, standart balıklara kıyasla daha iri ve değerlidir. Exotic Fish yakalayabilmek için en az <mark style="color:red;">**99.0 Fishing**</mark> yeteneğine sahip olmalı ve [<mark style="color:red;">**Oak Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/oak-fishing-pole) veya [<mark style="color:red;">**Yew Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/yew-fishing-pole) kullanmalısınız. Bu oltaları kullanabilmek için <mark style="color:red;">**7. seviye**</mark> [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) gerekmektedir.
 
-Bu oltaları kullanabilmek için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 7 olması gerekmektedir.
-
-Exotic Fish’lerin değeri <mark style="color:red;">**ağırlıklarına göre değişir**</mark> ve fiyatları <mark style="color:red;">**10.000 – 20.000 Gold**</mark> arasında değişkenlik gösterir.
+Exotic Fish’lerin satış değeri, <mark style="color:red;">**balığın türüne ve ağırlığına göre**</mark> değişmektedir ve fiyatları <mark style="color:red;">**10.000 – 20.000 Gold**</mark> arasında değişkenlik gösterir.
 
 Toplamda <mark style="color:red;">**9 farklı Exotic Fish türü**</mark> bulunmaktadır.
 
