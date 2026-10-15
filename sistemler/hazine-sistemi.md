@@ -8,11 +8,11 @@ Hazine Sistemi sayesinde, denizlerden ağ ile yakaladığınız <mark style="col
 
 ## Hazine Haritaları
 
-Kırdığınız şişe veya sandıklar sayesinde değerli bir hazine haritası bulabilirsiniz, ancak düşük bir ihtimalle şişe veya sandıklar boş çıkabilir.
+SoS Bottle veya Treasure Container’ı çantanızdayken çift tıklayarak açabilirsiniz. Düşük bir ihtimalle kullanılabilir bir belge bulamayabilirsiniz; başarılı olduğunuzda bir <mark style="color:red;">**Treasure Scroll**</mark> elde edersiniz.
 
-Bulduğunuz haritayı çözmek için [<mark style="color:red;">**Cartography**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/cartography) <mark style="color:red;">**yeteneğinizin 98.1**</mark> olması gerekir.
+Treasure Scroll’a çift tıklayarak <mark style="color:red;">**Treasure Map**</mark> elde edebilirsiniz. Ancak bu aşamada da belgenin okunamayacak kadar hasarlı çıkıp kaybolma ihtimali vardır.
 
-Haritayı çözdüğünüzde, tek tıkladığınızda hazineye ait bölge bilgisi, çift tıkladığınızda ise hazine konumu harita üzerinde çizim olarak gösterilir
+Elde ettiğiniz Treasure Map’i çözebilmek için en az <mark style="color:red;">**98.1**</mark> [<mark style="color:red;">**Cartography**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/cartography) yeteneğine sahip olmanız gerekir.
 
 <figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
