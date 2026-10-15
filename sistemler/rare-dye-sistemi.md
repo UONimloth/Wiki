@@ -158,7 +158,7 @@ Klasik ve sade tonlardan oluşan bu seviye, üretime yeni başlayan oyuncular i�
 
 Daha derin ve doygun renklerden oluşur.
 
-Üretim mantığı Tier 3 renkler ile aynıdır, ancak <mark style="color:red;">**gereken toplam yaprak miktarı 1200**</mark> ve 90.0 Alchemy yeteneği istemektedir.
+Üretim mantığı Tier 4 renkler ile aynıdır, ancak <mark style="color:red;">**gereken toplam yaprak miktarı 1200**</mark> ve 90.0 Alchemy yeteneği istemektedir.
 
 Örneğin:
 
@@ -174,7 +174,7 @@ Blueprint’ler, [<mark style="color:red;">**Hazine sisteminden**</mark>](https:
 
 Tier 2 boyalar için toplam <mark style="color:red;">**2400 yaprak**</mark> ve <mark style="color:red;">**99.0 Alchemy**</mark> yeteneği gerekmektedir.
 
-Yaprak kombinasyonu mantığı Tier 3 ve Tier 2 ile aynıdır.
+Yaprak kombinasyonu mantığı Tier 4 ve Tier 3 ile aynıdır.
 
 ### **Tier 1 -** Eşsiz Tonlar
 
