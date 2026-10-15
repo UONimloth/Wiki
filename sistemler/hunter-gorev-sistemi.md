@@ -1,65 +1,67 @@
 # Hunter Görev Sistemi
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/IMeMfDHN6CA1fOUEv1hs3w6caluj5PbpgApqbUN5.png" 
-       alt="Nimloth Logo">
-</div>
-<p></p>
+Hunter Görev Sistemi, oyuncuların çeşitli görevler tamamlayarak karakterlerini geliştirebildiği, PvM odaklı bir ilerleme sistemidir.
 
-<p>Hunter Görev Sistemi, oyuncuların çeşitli görevler tamamlayarak karakterlerini geliştirebildiği, PvM odaklı bir ilerleme sistemidir.</p>
-	
-<p>Bu sistem sayesinde avlanma süreciniz daha ödüllendirici hâle gelir ve farklı avantajlar elde edebilirsiniz.</p>
+Bu sistem sayesinde avlanma süreciniz daha ödüllendirici hâle gelir ve farklı avantajlar elde edebilirsiniz.
 
-<h2>Genel Bilgi</h2>
-<p>Hunter görevleri için herhangi bir yetenek veya sınıf kısıtlaması <strong style="color: #410000;">bulunmamaktadır.</strong></p>
-<p>Dileyen tüm oyuncular bu görevlere katılabilir.</p>
-<p>Görevleri tamamladıkça çeşitli ödüller ve karakterinizi güçlendirecek kazanımlar elde edersiniz.</p>
+## Genel Bilgi
 
-<h2>Görev Alma</h2>
-<p>Hunter görev sistemi, diğer görev sistemlerinden farklı olarak tek bir NPC üzerinden ilerlemektedir.
+Hunter görevleri için herhangi bir yetenek veya sınıf kısıtlaması **bulunmamaktadır.**
 
-<p>Görev almak ve tamamladığınız görevleri teslim etmek için <strong style="color: #410000;">Hunter Master</strong> isimli vendor ile etkileşime geçmeniz gerekmektedir.</p>
-	
+Dileyen tüm oyuncular bu görevlere katılabilir.
+
+Görevleri tamamladıkça çeşitli ödüller ve karakterinizi güçlendirecek kazanımlar elde edersiniz.
+
+## Görev Alma
+
+Hunter görev sistemi, diğer görev sistemlerinden farklı olarak tek bir NPC üzerinden ilerlemektedir.
+
+Görev almak ve tamamladığınız görevleri teslim etmek için **Hunter Master** isimli vendor ile etkileşime geçmeniz gerekmektedir.
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wcUwtNrtbk3ahKDabgUYH3vCkeQ0gyhYaEPJTHMK.png)
 
-<p>Vendor’a <strong style="color: #410000;">“gorev”</strong> yazarak 175 farklı görevden birini alabilirsiniz.</p>
-	
-<h2>Görev Detaylarını Görüntüleme</h2>
-<p>Master Hunter vendorundan görev aldığınızda, çantanıza <strong style="color: #410000;">Hunter Quest Deed</strong> adında bir belge düşecektir.</p>
+Vendor’a **“gorev”** yazarak 166 farklı görevden birini alabilirsiniz.
 
-<p>• <strong style="color: #410000;">Tek tıklayarak</strong> görevle ilgili genel bilgilere hızlıca erişebilirsiniz.</p>
+## Görev Detaylarını Görüntüleme
 
-<p>• <strong style="color: #410000;">Çift tıklayarak</strong> detaylı görev menüsünü açabilir ve görev bilgilerini inceleyebilirsiniz.</p>
+Master Hunter vendorundan görev aldığınızda, çantanıza **Hunter Quest Deed** adında bir belge düşecektir.
+
+• **Tek tıklayarak** görevle ilgili genel bilgilere hızlıca erişebilirsiniz.
+
+• **Çift tıklayarak** detaylı görev menüsünü açabilir ve görev bilgilerini inceleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/11BeZqUhnX6EHtrUfewpws2uUoZLPSI6ZkW9wQH1.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/PyFOh1xrgEtoXBVgfIVQWNvT1fve7yU6VV20BqH9.png)
 
-<h2>Görev Teslimi ve Ödüller</h2>
-<p>Görevi tamamlamak için, görev menüsünde yer alan <strong style="color: #410000;">Teslim Et</strong> butonuna tıklamanız gerekmektedir. Ardından, Master Hunter vendoru seçerek görevi teslim edebilirsiniz.</p>
-<p>Görev teslim edildikten sonra görev menüsünü tekrar açamazsınız.</p>
+## Görev Teslimi ve Ödüller
+
+Görevi tamamlamak için, görev menüsünde yer alan **Teslim Et** butonuna tıklamanız gerekmektedir. Ardından, Master Hunter vendoru seçerek görevi teslim edebilirsiniz.
+
+Görev teslim edildikten sonra görev menüsünü tekrar açamazsınız.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/xMO7FBCwlwQXeFrIiWkQuSzYcdyFB552M88Jsu9y.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/pYR7MqNotgQjZvd0wwJx4NEvSUeazp8cBXTaI8e8.png)
 
-<p>Görevi başarıyla tamamladığınızda şu ödülleri kazanırsınız:</p>
+Görevi başarıyla tamamladığınızda şu ödülleri kazanırsınız:
 
-<p>• Hunter XP</p>
+• Hunter XP
 
-<p>• Gold</p>
+• Gold
 
-<p>Kazandığınız Hunter XP ile Hunter Mastery seviyenizi yükseltebilir ve çeşitli ek özellikleri aktif edebilirsiniz</p>
+Kazandığınız Hunter XP ile Hunter Mastery seviyenizi yükseltebilir ve çeşitli ek özellikleri aktif edebilirsiniz
 
-<h2>Bir Kerede Sadece Bir Görev</h2>
-<p>Her seferinde yalnızca bir görev alabilirsiniz.</p>
+## Bir Kerede Sadece Bir Görev
 
-<p><strong style="color: #410000;">Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 4 saat beklemeniz gerekmektedir.</strong></p>
+Her seferinde yalnızca bir görev alabilirsiniz.
 
-<h2>Avcılığını Kanıtla!</h2>
+**Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 2 saat beklemeniz gerekmektedir.**
 
-<p>Hunter Mastery Sistemi, vahşi doğada iz sürebilen ve en tehlikeli yaratıkları avlayabilen ustaları ödüllendirmek için tasarlanmıştır.</p>
+## Avcılığını Kanıtla!
 
-<p>Her av artık sadece ganimet elde etmek değil, aynı zamanda tecrübenizi ve ustalığınızı ileri taşıyan bir yolculuğa dönüşür.</p>
+Hunter Mastery Sistemi, vahşi doğada iz sürebilen ve en tehlikeli yaratıkları avlayabilen ustaları ödüllendirmek için tasarlanmıştır.
 
-<p>Vahşi toprakları keşfedin, güçlü yaratıkların izini sürün ve Sosaria’nın en yetenekli avcıları arasındaki yerinizi alın!</p>
+Her av artık sadece ganimet elde etmek değil, aynı zamanda tecrübenizi ve ustalığınızı ileri taşıyan bir yolculuğa dönüşür.
+
+Vahşi toprakları keşfedin, güçlü yaratıkların izini sürün ve Sosaria’nın en yetenekli avcıları arasındaki yerinizi alın!
