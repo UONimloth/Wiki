@@ -56,7 +56,7 @@ Kazandığınız Hunter XP ile Hunter Mastery seviyenizi yükseltebilir ve çeş
 
 Her seferinde yalnızca bir görev alabilirsiniz.
 
-**Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 2 saat beklemeniz gerekmektedir.**
+Görevi iptal etmeniz durumunda yeni bir Hunter görevi alabilmek için <mark style="color:red;">**2 saat**</mark> beklemeniz gerekir. Dilerseniz Master Hunter vendoruna <mark style="color:red;">**“sifirla”**</mark> yazarak kalan bekleme süresine göre hesaplanan altın bedelini ödeyebilir ve bekleme süresini kaldırarak hemen yeni bir görev alabilirsiniz.
 
 ## Avcılığını Kanıtla!
 

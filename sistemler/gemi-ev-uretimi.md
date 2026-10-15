@@ -10,9 +10,9 @@ Bu nedenle, gemi üretimi sistemi Craft Mastery sürecinin ileri aşamalarında 
 
 Gemi üretebilmek için öncelikle bir Ship Crafting Tool edinilmelidir.
 
-Bu özel araç, Craft Mastery sisteminde **14. seviyeyi tamamlayan** oyunculara ödül olarak verilir.
+Bu özel araç, Craft Mastery sisteminde <mark style="color:red;">**14. seviyeyi tamamlayan**</mark> oyunculara ödül olarak verilir.
 
-Bu eşyayı kullanabilmek için **Craft Mastery seviyenizin 15** olması gerekmektedir.
+Bu eşyayı kullanabilmek için <mark style="color:red;">**Craft Mastery seviyenizin 15**</mark> olması gerekmektedir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/XUlMXzxfUBpHI45AyXdAAaCjqZb0W8uOcNvVv4I3.png)
 
@@ -38,7 +38,7 @@ Ayrıca menüde yer alan ileri ve geri butonları ile diğer gemi türlerinin ü
 
 ### Woodstone ve Diğer Gemi Malzemeleri
 
-Gemi üretiminde en önemli malzemelerden biri **Woodstone**’dur.
+Gemi üretiminde en önemli malzemelerden biri [<mark style="color:red;">**Woodstone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/woodstone)’dur.
 
 Bu özel bileşen yalnızca Carpenter mesleğine sahip oyuncular tarafından üretilebilir.
 
@@ -50,11 +50,9 @@ Bir Woodstone üretmek için şu malzemeler gerekir:
 
 • 2 × Oak Log
 
-• 1 × Stone Granite (madenlerden elde edilir)
+• 1 × [<mark style="color:red;">**Stone Granite**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/granite-stone)
 
-Bir diğer önemli malzeme ise **Copper Wire**’dır.
-
-Bu eşya Tinkering yeteneği ile 5 Copper kullanarak üretebilirsiniz.
+Bir diğer önemli malzeme ise [<mark style="color:red;">**Copper Wire**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/copper-wire)’dır.
 
 ### Gemi Üretim Örneği
 
@@ -74,7 +72,7 @@ Bu eşya Tinkering yeteneği ile 5 Copper kullanarak üretebilirsiniz.
 
 Gemi üretimi, yüksek seviye zanaatkârlar için Nimloth dünyasında büyük prestij ve kazanç fırsatı sunar.
 
-Nimloth dünyasında bulunan gemilere [buradan](https://uo-nimloth.net/wiki/category/gemiler) ulaşabilirsiniz
+Nimloth dünyasında bulunan gemilere [<mark style="color:red;">**buradan**</mark>](https://uo-nimloth.net/wiki/category/gemiler) ulaşabilirsiniz
 
 ## Ev Üretimi
 
@@ -84,9 +82,9 @@ Ev üretimi, Craft Mastery sisteminin ileri seviyelerinde oyunculara açılan ö
 
 ### Ev Üretimi için Gerekenler
 
-Ev üretimi için **Craft Mastery seviyenizin 17** olması gerekmektedir.
+Ev üretimi için <mark style="color:red;">**Craft Mastery seviyenizin 17**</mark> olması gerekmektedir.
 
-Bu seviyeye ulaştığınızda, **House Crafting Tool** adlı özel eşyayı kullanarak üretim arayüzüne erişebilirsiniz.
+Bu seviyeye ulaştığınızda, <mark style="color:red;">**House Crafting Tool**</mark> adlı özel eşyayı kullanarak üretim arayüzüne erişebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/zQyS1TRepImn9J78DC6lup6l8WiaLa1x6YE4937v.png)
 
@@ -104,15 +102,15 @@ House Crafting Tool’a çift tıklandığında oyuncunun karşısına dört far
 
 Üretmek istediğiniz evi seçtiğinizde karşınıza çıkan bilgilendirme penceresinde:
 
-• Evin **tasarımını** ön izleme olarak görebilir
+• Evin tasarımını ön izleme olarak görebilir
 
-• Evin **üretimi için gerekli malzemeleri** inceleyebilir
+• Evin üretimi için gerekli malzemeleri inceleyebilir
 
 • Evle ilgili detayları görüntüleyebilirsiniz
 
 ### Gerekli Malzemeler
 
-Ev üretiminde en kritik iki bileşen **Woodstone** ve **Copper Wire**’dır.
+Ev üretiminde en kritik iki bileşen [<mark style="color:red;">**Woodstone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/woodstone) ve [<mark style="color:red;">**Copper Wire**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/copper-wire)’dır.
 
 Bir Woodstone üretmek için şu malzemeler gerekir:
 
@@ -122,9 +120,7 @@ Bir Woodstone üretmek için şu malzemeler gerekir:
 
 • 2 × Oak Log
 
-• 1 × Stone Granite (madenlerden elde edilir)
-
-Copper Wire isimli eşyayı, Tinkering yeteneği ile 5 Copper kullanarak üretebilirsiniz.
+• 1 × [<mark style="color:red;">**Stone Granite**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/granite-stone)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/UBYtu7QaYK6ZlwlvTOTQYvHZPIdl2ezrCgRYXXNF.png)
 
@@ -132,10 +128,10 @@ Copper Wire isimli eşyayı, Tinkering yeteneği ile 5 Copper kullanarak üreteb
 
 ### Üretim Süreci
 
-Tüm gerekli malzemeler çantanızda mevcutsa, **“Evi Üret”** butonuna basarak evi üretebilirsiniz.
+Tüm gerekli malzemeler çantanızda mevcutsa, <mark style="color:red;">**“Evi Üret”**</mark> butonuna basarak evi üretebilirsiniz.
 
 Her ev türü farklı miktarda kaynak gerektirir ve farklı depolama/yerleşim özelliklerine sahiptir.
 
 Bu nedenle yüksek seviye ev üretimi, yalnızca deneyimli zanaatkârların başarabileceği bir süreçtir.
 
-Nimloth dünyasında bulunan gemilere [buradan](https://uo-nimloth.net/wiki/category/evler) ulaşabilirsiniz
+Nimloth dünyasında bulunan gemilere [<mark style="color:red;">**buradan**</mark>](https://uo-nimloth.net/wiki/category/evler) ulaşabilirsiniz
