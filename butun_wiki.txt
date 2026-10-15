@@ -4571,7 +4571,7 @@ Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye g
 
 • <mark style="color:red;">**Level 14: Tohum Düşme Şansı**</mark> -> [<mark style="color:red;">**Farming**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/farming) yeteneğiniz ile bitkileri toplarken tohum elde etme şansı kazanırsınız.
 
-• <mark style="color:red;">**Level 17: Gatherer's Apron**</mark> -> [<mark style="color:red;">**Gatherer's Apron**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gatherers-apron) kullanabilme yetkinliği kazanırsınız. Apronu kullandığınız süre boyunca <mark style="color:red;">**+100 taşıma kapasitesi**</mark> elde edersiniz.
+• <mark style="color:red;">**Level 17: Gatherer's Apron**</mark> -> [<mark style="color:red;">**Gatherer's Apron**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gatherers-apron) kullanabilme yetkinliği kazanırsınız. Önlük takılıyken standart hali <mark style="color:red;">**+100**</mark>, Superior hali ise <mark style="color:red;">**+125**</mark> taşıma kapasitesi sağlar.
 
 • <mark style="color:red;">**Level 20: Pack Binek Kullanımı**</mark> -> [<mark style="color:red;">**Pack bineklere**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler/pack-binekler) binebilirsiniz. Böylece daha fazla malzemeyi daha efektif şekilde taşıyabilirsiniz.
 
@@ -4579,7 +4579,7 @@ Mastery sekmesinde, mevcut Gatherer Mastery seviyenizi ve bir sonraki seviyeye g
 
 • <mark style="color:red;">**Level 22: Verimli Kullanım**</mark> -> Alet kullanım ustalığınız artar. Böylece kullandığınız aletler daha yavaş eskir.
 
-• <mark style="color:red;">**Level 23: Toplu Sulama**</mark> -> [<mark style="color:red;">**Watering Can**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/watering-can) kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz.
+• <mark style="color:red;">**Level 23: Toplu Sulama**</mark> -> [<mark style="color:red;">**Watering Can**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/watering-can) kullanarak tohumlarınızı toplu şekilde sulayabilir ve sulama süresini kısaltabilirsiniz. Sulama hedefi olarak kendinizi seçtiğinizde, 2 kare çevrenizdeki size ait ve sulanmaya uygun bitkiler toplu şekilde sulanır.
 
 • <mark style="color:red;">**Level 24: Kusursuz Toplama**</mark> -> Materyal toplama işlemlerinde %100 başarı şansına sahip olursunuz ve toplama sırasında başarısız olma ihtimali ortadan kalkar.
 
@@ -7428,7 +7428,7 @@ Aile içi yardım ve kaynak paylaşımı bu sistem ile oldukça kolay!
 
 Bu yöntem ile üyesi olduğunuz guild içerisindeki başka bir üyeye doğrudan altın transferi gerçekleştirebilirsiniz.
 
-Bu seçeneğe tıkladığınızda, bulunduğunuz guild’in İşlem Koşullarıüyeleri listelenir.
+Bu seçeneğe tıkladığınızda, bulunduğunuz guild’in üyeleri listelenir.
 
 Altın göndermek istediğiniz karakteri seçtiğinizde sistem sizi onay ekranına yönlendirir.
 
@@ -7467,7 +7467,7 @@ Transfer işlemi tamamlandıktan sonra transfer yapılan oyuncu yapılan transfe
 
 # Craft Mastery Sistemi
 
-Craft Mastery Sistemi, Ultima Online dünyasında zanaatkarlık becerilerinizi zirveye taşımanızı sağlayacak yepyeni bir sistemdir!&#x20;
+Craft Mastery Sistemi, Ultima Online dünyasında zanaatkarlık becerilerinizi zirveye taşımanızı sağlayacak yepyeni bir sistemdir!
 
 Craft Mastery Sistemi oyunculara sadece kendi yeteneklerini geliştirme fırsatı sunmakla kalmaz, aynı zamanda craft dünyasında benzersiz ödüller kazanmanızı ve diğer oyuncularla etkileşime geçerek XP transferi yapmanızı sağlar.
 
@@ -7509,7 +7509,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 • <mark style="color:red;">**Level 6: Golem (Blueprint)**</mark> -> Golem üretimi için gereken Blueprint'i elde edersiniz.
 
-• <mark style="color:red;">**Level 10:**</mark> [<mark style="color:red;">**Tracker's Spyglass**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/tracking#trackers-spyglass) <mark style="color:red;">**(Blueprint)**</mark> -> Golem üretimi için gereken Blueprint'i elde edersiniz.
+• <mark style="color:red;">**Level 10:**</mark> [<mark style="color:red;">**Tracker's Spyglass**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/tracking#trackers-spyglass) <mark style="color:red;">**(Blueprint)**</mark> -> Tracker’s Spyglass üretimi için gereken Blueprint’i elde edersiniz.
 
 • <mark style="color:red;">**Level 14:**</mark> [<mark style="color:red;">**Ship Crafting Tool**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gemi-ev-uretimi#gemi-uretimi) -> Gemi üretimi için gereken Ship Crafting Tool'u elde edersiniz.
 
@@ -7517,7 +7517,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 • <mark style="color:red;">**Level 20:**</mark> [<mark style="color:red;">**Telchar's Might**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/esya-tamir-sistemi) -> Magical silahları ve plate setleri tamir etmeniz için gereken Telchar's Might'ı elde edersiniz.
 
-• <mark style="color:red;">**Level 21: Superior Üretim**</mark> -> Ürettiğiniz eşyalar Superior olacak ve normalden %25 daha dayanıklı olacaktır.
+• <mark style="color:red;">**Level 21: Superior Üretim**</mark> -> Ürettiğiniz dayanıklılık özelliğine sahip uygun eşyalar Superior kalitede olur ve %25 daha dayanıklı hale gelir. İksirler, deed’ler, büyü kitapları, Green Fishing Net ve Golem bu bonusun dışındadır.
 
 • <mark style="color:red;">**Level 22:**</mark> [<mark style="color:red;">**Mallet and Chisel**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/mallet-and-chisel) -> [<mark style="color:red;">**Granite Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/granite-stone)'dan heykeller üretmek için gereken Mallet and Chisel'ı elde edersiniz.
 
@@ -7529,7 +7529,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 ## XP Aktar
 
-Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve **XP Aktar** butonuna basıldığında, bir XP Deed çantaya düşer.
+Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak istenen XP miktarı yazılır ve <mark style="color:red;">**XP Aktar**</mark> butonuna basıldığında, bir XP Deed çantaya düşer.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/kIfBavz39rjSd8bjPwSGYFwUTYiHA3CBuJK5dteJ.png)
 
@@ -7538,12 +7538,6 @@ Bu sekmede, mevcut XP’lerini başka bir oyuncuya aktarabilirsiniz. Aktarılmak
 ## Seviye Sınırı
 
 Craft Mastery Sistemi’nde maksimum seviye 25'dir. Ancak, 25. Seviyeyi tamamladıktan sonra da görev alabilir ve XP kazanmaya devam edebilirsiniz. Bu, size craft becerilerini geliştirmeye devam etme fırsatı sunar.
-
-**Ustalığa Giden Yolda Sen de Yerini Al!**
-
-Zanaatın kalbindeki sırları keşfet, efsanevi aletlerin ustası ol ve Nimloth’un dört bir yanındaki ustalar arasında yerini al.
-
-Şimdi Craft görevlerini tamamla, ustalık seviyeni yükselt ve Nimloth dünyasında iz bırak!
 
 
 --- Dosya: ./sistemler/hunter-gorev-sistemi.md ---
@@ -9716,7 +9710,7 @@ Vendor'a <mark style="color:red;">**"gorev"**</mark> yazarak o yeteneğe ait ras
 
 ## Görev İlerlemesi
 
-Craft görevlerinden farklı olarak, gatherer görevlerinde toplanan kaynaklar <mark style="color:red;">**otomatik olarak göreve eklenir**</mark>.
+Göreve sayılan kaynaklar görev belgesine <mark style="color:red;">**otomatik olarak aktarılır**</mark>; ayrıca çantanıza verilmez. Görevi iptal ederseniz, göreve eklenmiş kaynaklar geri verilmez.
 
 • Örneğin bir maden görevi aldıysanız, belirtilen türde cevheri kazdığınızda ilerleme otomatik artar.
 
@@ -9744,9 +9738,9 @@ Bu XP, [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo
 
 ## Bir Kerede Sadece Bir Görev
 
-Her seferinde yalnızca bir yetenekten görev alabilirsiniz. Ancak, görevi iptal ederseniz, başka bir yetenekten görev almanız mümkün olacaktır.
+Aynı anda Craft, Gatherer, Tamer veya Hunter görevlerinden yalnızca biri aktif olabilir. Yeni bir görev alabilmek için mevcut görevinizi tamamlamalı veya iptal etmelisiniz.
 
-<mark style="color:red;">**Görevi iptal etmeniz durumunda aynı yetenekten yeni bir görev alabilmek için 4 saat beklemeniz gerekmektedir.**</mark>
+Gatherer görevini iptal ettiğinizde aynı yetenekten yeniden görev alabilmek için <mark style="color:red;">**4 saat**</mark> beklemeniz gerekir. Bu süre içinde, diğer koşulları karşılıyorsanız farklı bir yetenekten görev alabilirsiniz.
 
 ## Ustalık Yolunda İlerle!
 
