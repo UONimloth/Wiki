@@ -1343,3 +1343,169 @@ Oyun içerisinde görüntülenen mesajlara parlaklık efekti uygulanmasını sa�
 Oyun mesajlarına uygulanan parlaklık efektinin yoğunluğunu belirler. Değeri yükselterek yazıların daha parlak, düşürerek daha sade görüntülenmesini sağlayabilirsiniz.
 
 <figure><img src="../.gitbook/assets/display.gif" alt=""><figcaption></figcaption></figure>
+
+### Region Flag Hues
+
+Bu bölüm, [<mark style="color:red;">**World Map**</mark>](https://nimloth-uo.gitbook.io/wiki/genel-bilgi/world-map) üzerinde görüntülenen bölge (Region) bilgilerinin yazı renklerini özelleştirmenizi sağlar. Bulunduğunuz bölgenin özelliklerine göre farklı renkler belirleyerek bölgenin güvenlik ve durum bilgilerini harita üzerinden daha kolay ayırt edebilirsiniz.
+
+### Safe Region Hue
+
+Güvenli (Safe) bölgelerde bulunduğunuzda World Map üzerinde görüntülenen bölge adının yazı rengini belirler.
+
+### Guarded Region Hue
+
+Şehir muhafızlarının koruması altında bulunan (Guarded) bölgelerin yazı rengini belirler.
+
+### No PvP Region Hue
+
+Oyuncular arası savaşın (PvP) yasak olduğu bölgelerin yazı rengini belirler.
+
+### Dungeon Region Hue
+
+Dungeon bölgelerinde bulunduğunuzda görüntülenen bölge adının yazı rengini belirler.
+
+### Anti-Magic Region Hue
+
+Büyü kullanımının kısıtlandığı veya engellendiği (Anti-Magic) bölgelerin yazı rengini belirler.
+
+### Default Region Hue
+
+Özel bir bölge türüne dahil olmayan alanlarda görüntülenen bölge adının varsayılan yazı rengini belirler.
+
+> Not: Belirlediğiniz renkler, World Map üzerinde Show Your Region Name seçeneği aktif olduğunda görüntülenen bölge bilgilerine uygulanır. Renk kutularına tıklayarak her bölge türü için istediğiniz rengi seçebilirsiniz.
+
+#### Proximity Voice Chat
+
+Bu bölüm, oyun içerisinde yakındaki oyuncularla sesli iletişim kurulmasına yönelik ayarları içerir.
+
+> Not: Proximity Voice Chat özelliği UO:Nimloth'ta aktif olarak kullanılmamaktadır. Bu nedenle bu bölümde yer alan Proximity Voice Chat Etkin, PTT Tuşu, Mouse ile PTT, Gürültü Baskılama ve Delay ayarlarının herhangi bir işlevi bulunmamaktadır.
+
+### House Client Cache
+
+Bu bölüm, oyun dünyasında bulunan evlerin istemci tarafından önbelleğe alınmasını sağlayan ayarları içerir. Özellikle çok sayıda eşyanın bulunduğu evlerin tekrar görüntülenmesi sırasında oluşabilecek yükleme sürelerini azaltmak ve oyun performansını iyileştirmek amacıyla kullanılabilir.
+
+### Evleri Client Tarafında Önbelleğe Al (Menzil Dışına Çıkınca Hemen Unutma)
+
+Oyun dünyasında karşılaştığınız evlerin ve içerisindeki yerleşimlerin istemci tarafından geçici olarak hafızada tutulmasını sağlar. Bu seçenek aktif olduğunda bir evin görüş alanından çıkıp tekrar yakınına geldiğinizde, önbellekte bulunan bilgiler kullanılarak evin daha hızlı görüntülenmesi sağlanabilir.
+
+### Önbellekteki Maksimum Ev Sayısı
+
+İstemcinin aynı anda önbellekte tutabileceği maksimum ev sayısını belirler. Değer yükseltildiğinde daha fazla evin bilgisi saklanabilir ancak bellek kullanımı da artabilir.
+
+### Önbellek Süresi (Saniye)
+
+Ev bilgilerinin önbellekte ne kadar süre tutulacağını belirler. Belirlenen süre dolduğunda kullanılmayan ev bilgileri önbellekten temizlenebilir.
+
+#### Clear the Client's Cached Multis Now
+
+İstemcinin önbelleğinde bulunan ev ve diğer çok parçalı yapı (Multi) bilgilerini anında temizler. Özellikle evlerde yapılan değişikliklerin doğru görüntülenmediği durumlarda önbelleği temizlemek için kullanabilirsiniz.
+
+### Görsel Efektler
+
+Bu bölüm, oyun içerisindeki büyü, savaş ve karakter durumlarına bağlı olarak kullanılan görsel efektleri özelleştirmenizi sağlar. Büyü animasyonlarından hasar göstergelerine, can azaldığında ortaya çıkan ekran efektlerine kadar birçok özelliği bu bölümden yönetebilirsiniz.
+
+### Büyü Mermilerinin Arkasında İz Efekti Göster
+
+Hedefe doğru ilerleyen büyü mermilerinin arkasında görsel bir iz efekti oluşturulmasını sağlar. Böylece büyülerin hareket yönünü ve izlediği yolu daha belirgin şekilde görebilirsiniz.
+
+### Fırtınada Şimşek Flaşı + Gecikmeli Gök Gürlemesi
+
+Şimşek efektleri sırasında kısa süreli bir ışık parlaması oluşturulmasını ve ardından gecikmeli olarak gök gürlemesi sesi çalınmasını sağlar. Böylece şimşek efektleri daha etkileyici hale gelir.
+
+### Vurulan Hedefte Beyaz Flaş Efekti Göster
+
+Bir hedefe başarılı şekilde hasar verdiğinizde hedefin üzerinde kısa süreli beyaz bir parlama efekti görüntülenmesini sağlar. Bu sayede saldırılarınızın hedefe isabet ettiğini görsel olarak daha kolay fark edebilirsiniz.
+
+### Meşale/Ateş Işıklarında Titreme Efekti
+
+Meşale, ateş ve benzeri ışık kaynaklarının yaydığı ışığın hafifçe titremesini sağlar. Böylece sabit ışıklandırma yerine daha doğal ve hareketli bir aydınlatma efekti oluşturulur.
+
+## Hasar Geldiğinde Ekran Kenarında Yönlü Gösterge
+
+Karakteriniz hasar aldığında ekranın kenarında saldırının geldiği yönü belirten görsel bir gösterge görüntülenmesini sağlar. Özellikle birden fazla düşmanla savaşırken saldırının hangi yönden geldiğini anlamanıza yardımcı olur.
+
+### Skill Kazanımında Işık Sütunu Efekti
+
+Karakteriniz bir beceride (Skill) gelişim gösterdiğinde üzerinde kısa süreli bir ışık sütunu efekti oluşturulmasını sağlar. Böylece beceri kazanımlarını görsel olarak takip edebilirsiniz.
+
+### HP Bar'da Gecikmeli Erime Efekti
+
+Karakteriniz hasar aldığında HP barındaki azalışın gecikmeli bir animasyonla görüntülenmesini sağlar. Can miktarı azalırken önceki can seviyesinin kısa süreliğine gösterilmesi, alınan hasarı daha kolay fark etmenize yardımcı olur.
+
+### Düşük HP Ekran Efekti
+
+<figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+
+### Düşük HP'de Ekran Kenarında Kırmızı Vinyet
+
+Karakterinizin canı belirlenen seviyenin altına düştüğünde ekranın kenarlarında kırmızı bir uyarı efekti görüntülenmesini sağlar. Bu efekt, özellikle savaş sırasında canınızın kritik seviyeye düştüğünü fark etmenize yardımcı olur.
+
+Efektin görünümünü aşağıdaki seçeneklerle özelleştirebilirsiniz:
+
+#### HP Eşiği \[%]
+
+Kırmızı ekran efektinin hangi can yüzdesinin altında devreye gireceğini belirler. Örneğin değeri %20 olarak ayarladığınızda karakterinizin canı bu seviyenin altına düştüğünde efekt aktif hale gelir.
+
+#### Koyuluk
+
+Ekran kenarlarında oluşan kırmızı efektin koyuluk seviyesini belirler. Değer yükseldikçe efekt daha belirgin hale gelir.
+
+#### Yayılma
+
+Kırmızı efektin ekran kenarlarından merkeze doğru ne kadar geniş bir alana yayılacağını belirler.
+
+#### Kenar Sertliği
+
+Kırmızı efektin kenar geçişlerinin ne kadar keskin olacağını belirler. Düşük değerlerde daha yumuşak, yüksek değerlerde daha belirgin geçişler elde edebilirsiniz.
+
+#### Nabız Şiddeti
+
+Kırmızı ekran efektine uygulanan nabız şeklindeki titreşim animasyonunun yoğunluğunu belirler. Değer yükseldikçe efektin ritmik olarak güçlenip zayıflaması daha belirgin hale gelir.
+
+#### Önizle
+
+Belirlediğiniz kırmızı ekran efekti ayarlarını karakterinizin canının azalmasını beklemeden test etmenizi sağlar. Böylece yaptığınız değişikliklerin nasıl görüneceğini doğrudan inceleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+
+### Su Yüzeyinde Parıltı Efekti
+
+Deniz, göl ve nehir gibi su yüzeylerinde ışık yansımalarını temsil eden parıltı efektlerinin görüntülenmesini sağlar. Böylece su yüzeyleri daha canlı ve hareketli bir görünüme kavuşur.
+
+### Koşarken Arkada Toz Bulutu Efekti
+
+Karakteriniz koşarken arkasında kısa süreli toz bulutları oluşmasını sağlar. Bu efekt, karakter hareketlerine görsel bir detay ekler.
+
+### Pencere Çalışırken Slide + Fade Animasyon
+
+Oyun içerisindeki pencerelerin açılıp kapanırken kayma (Slide) ve saydamlık geçişi (Fade) animasyonları kullanmasını sağlar. Böylece pencereler aniden belirip kaybolmak yerine daha akıcı geçişlerle görüntülenir.
+
+<figure><img src="../.gitbook/assets/slide.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+### Çim/Bitkilerde Rüzgâr Salınımı
+
+Oyun dünyasındaki çim ve bitkilerin rüzgâr etkisiyle hafifçe sallanmasını sağlar. Bu özellik, çevreye daha doğal ve hareketli bir görünüm kazandırır.
+
+### Minimap/Worldmap'te Görüş Konisi Göster
+
+Minimap ve World Map üzerinde karakterinizin baktığı yönü temsil eden bir görüş konisinin görüntülenmesini sağlar. Böylece harita üzerinden karakterinizin hangi yöne baktığını daha kolay takip edebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+
+### Gelişmiş Deniz Görünümü: Rüzgârla Sürüklenen Dalga Yansımaları + Köpük
+
+Deniz yüzeylerinde rüzgârın etkisiyle hareket eden dalga yansımaları ve köpük efektlerinin görüntülenmesini sağlar. Bu özellik, denizlerin daha dinamik ve gerçekçi görünmesine yardımcı olur.
+
+Bu ayar henüz kullanıma açılmamıştır.
+
+### Gelişmiş Bataklık Görünümü: Durgun Yüzey, Yavaş Kabarcıklar
+
+Bataklık bölgelerinde durgun su yüzeyi ve yavaşça yükselen kabarcık efektlerinin görüntülenmesini sağlar. Böylece bataklık alanları kendilerine özgü bir görünüme kavuşur.
+
+Bu ayar henüz kullanıma açılmamıştır.
+
+### Gelişmiş Lav Görünümü: Nabız Gibi Atan Parıltı, Ağır Kabarma
+
+Lav yüzeylerinde ritmik parıltılar ve yavaş kabarma animasyonlarının görüntülenmesini sağlar. Bu özellik, lavların daha hareketli ve canlı görünmesine yardımcı olur.
