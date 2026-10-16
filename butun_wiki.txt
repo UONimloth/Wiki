@@ -5168,7 +5168,7 @@ Toplayıcılığın sırlarını keşfet, nadir kaynakların ustası ol ve Nimlo
 
 # Mining Vein
 
-Sosaria'nın yer altı zenginlikleri artık daha değerli!&#x20;
+Sosaria'nın yer altı zenginlikleri artık daha değerli!
 
 Maden bölgelerinde rastgele beliren cevher yığınlarına Mining Vein adı verilir. Bu cevherler, yalnızca madencilik yeteneği 100 olan oyuncular tarafından kazılabilir. Cevhere tıkladığınızda hangi tür madeni içerdiğini görebilirsiniz.
 
@@ -5178,7 +5178,7 @@ Maden bölgelerinde rastgele beliren cevher yığınlarına Mining Vein adı ver
 
 ## Kazım İçin Gerekenler
 
-Kazım işlemi için mutlaka bir Pickaxe'e ihtiyacınız vardır. Cevhere çift tıklayarak kazım işlemini başlatabilirsiniz.
+Iron Mining Vein kazabilmek için en az <mark style="color:red;">**50.0 Mining**</mark>, diğer Mining Vein türlerini kazabilmek için en az <mark style="color:red;">**100.0 Mining**</mark> gereklidir. Kazıma başlamak için uygun Pickaxe elinizde olmalı ve damara en fazla 2 kare uzaklıkta bulunmalısınız.
 
 • Kullanılan Pickaxe'in türüne göre elde edilen maden miktarı ve başarısız olma ihtimali değişiklik gösterir.
 
@@ -5187,6 +5187,8 @@ Kazım işlemi için mutlaka bir Pickaxe'e ihtiyacınız vardır. Cevhere çift 
 • [<mark style="color:red;">**Silver Pickaxe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/silver-pickaxe) ve [<mark style="color:red;">**Gold Pickaxe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-pickaxe), belli bir şansla [<mark style="color:red;">**Granite Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/granite-stone) elde etmenizi sağlar.
 
 • [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi) seviyeniz 21 ise ve Gold Pickaxe ile kazım yapıyorsanız, belli bir şansla [<mark style="color:red;">**Gemstone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar) elde edebilirsiniz.
+
+• Gatherer Mastery’nin 21. seviyesini tamamladıktan sonra, Gold Pickaxe ile Iron dışındaki Mining Vein türlerini kazarken belli bir şansla [<mark style="color:red;">**Gemstone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar) elde edebilirsiniz.
 
 <figure><img src="../.gitbook/assets/vein (1).gif" alt=""><figcaption></figcaption></figure>
 
