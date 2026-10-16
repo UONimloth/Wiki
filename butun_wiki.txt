@@ -15109,6 +15109,52 @@ Bu seçenek aktif edildiğinde, Paperdoll üzerinde karakterinizin profil pencer
 
 <figure><img src="../.gitbook/assets/paperdoll.gif" alt=""><figcaption></figcaption></figure>
 
+### Display
+
+Bu bölüm, oyun içerisindeki çeşitli görsel göstergeleri, nesnelerin parlaklık seviyelerini ve bazı yardımcı bilgilerin görüntülenmesini düzenlemenizi sağlar.
+
+<figure><img src="../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+
+### Show Quest Arrow Coordinate Label
+
+Quest Arrow ile gösterilen hedef noktanın koordinat bilgilerinin görüntülenmesini sağlar. Böylece gitmeniz gereken konumun koordinatlarını takip edebilirsiniz.
+
+### Show Quest Arrow Distance Label
+
+Quest Arrow ile gösterilen hedef noktaya olan mesafenin görüntülenmesini sağlar. Hedefinize ne kadar uzaklıkta olduğunuzu takip edebilirsiniz.
+
+### Beceri Tuşunda Değerini Göster / Gizle
+
+Oyun ekranına yerleştirdiğiniz beceri butonlarının üzerinde ilgili becerinin mevcut değerinin görüntülenmesini sağlar. Bu seçenek kapatıldığında beceri değerleri gizlenir.
+
+<figure><img src="../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+
+### Hareket Eden Varlıklar İçin Görsel Parlaklık
+
+Oyuncu, NPC ve yaratık gibi hareket eden varlıklara parlaklık efekti uygulanmasını sağlar. Bu özellik sayesinde karakterleri ve yaratıkları çevredeki diğer nesnelerden daha kolay ayırt edebilirsiniz.
+
+### Mobil Parlaklık
+
+Hareket eden varlıklara uygulanan parlaklık efektinin yoğunluğunu belirler. Değeri yükselterek efekti daha belirgin, düşürerek daha hafif hale getirebilirsiniz.
+
+### Dinamik Objeler İçin Görsel Parlaklık
+
+Oyun dünyasında bulunan dinamik nesnelere parlaklık efekti uygulanmasını sağlar. Özellikle yerde bulunan eşyaların ve etkileşim kurulabilen nesnelerin daha kolay fark edilmesine yardımcı olur.
+
+### Obje Parlaklık
+
+Dinamik nesnelere uygulanan parlaklık efektinin yoğunluğunu belirler. Değeri yükselterek nesneleri daha belirgin hale getirebilirsiniz.
+
+### Oyun Mesajları İçin Yazı Parlaklığı
+
+Oyun içerisinde görüntülenen mesajlara parlaklık efekti uygulanmasını sağlar. Bu özellik, özellikle koyu renkli arka planlarda mesajların daha kolay okunmasına yardımcı olur.
+
+### Yazı Parlaklık
+
+Oyun mesajlarına uygulanan parlaklık efektinin yoğunluğunu belirler. Değeri yükselterek yazıların daha parlak, düşürerek daha sade görüntülenmesini sağlayabilirsiniz.
+
+<figure><img src="../.gitbook/assets/display.gif" alt=""><figcaption></figcaption></figure>
+
 
 --- Dosya: ./genel-bilgi/world-map.md ---
 
