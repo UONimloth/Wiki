@@ -351,3 +351,51 @@ Hunter Mastery ilerlemenizle yakın dövüş, ilgili saldırı büyüleri ve uyg
 | Macefighting                                | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 | Lockpicking                                 | 100.0                                     |
+
+### Hazine Avcısı
+
+Hunter görevlerini, hazine haritalarını ve sandık açmayı aynı karakterde değerlendirmek isteyen oyuncular için hazırlanmış <mark style="color:red;">**keşif ve ganimet odaklı bir PvM buildidir**</mark>.
+
+Archery ve Tactics ile yaratıklara uzaktan saldırabilir, Magery ile kendinizi tedavi edebilir ve koruma büyülerinden yararlanabilirsiniz. Meditation, karşılaşmalar arasında mana yenilemenizi desteklerken Magic Resistance büyülere karşı savunmanıza katkı sağlar.
+
+Cartography ile hazine haritalarını çözebilir, Lockpicking ile sandıkların kilitlerini açabilir, Remove Trap ile desteklenen sandıkların tuzaklarını çözmeyi deneyebilirsiniz. <mark style="color:red;">**90.0 Remove Trap, tuzak çözme girişimi için gereken yetenek eşiğini karşılar; başarıyı garanti etmez. Kilit açma ve tuzak çözme ayrı işlemlerdir**</mark>**.**
+
+Hunter Mastery’nin <mark style="color:red;">**6. seviyesini tamamladığınızda**</mark>, başarısız tuzak çözme girişimlerinde tuzağın tetiklenmemesi için ek bir şans kazanırsınız. <mark style="color:red;">**20. seviyeyi tamamladığınızda**</mark> ise uygun Bow türü silahlarla Perfect Shot+ bonusundan yararlanabilirsiniz.
+
+Hazine ve dungeon rotalarında tercih edebilirsiniz. Yakın dövüş ve Healing bulunmadığından yaratıklarla aranızdaki mesafeyi korumanız, tedavinizi büyüler ve iksirlerle yönetmeniz gerekir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Magery                                      | 100.0                                     |
+| Meditation                                  | 50.0                                      |
+| Archery                                     | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Cartography                                 | 100.0                                     |
+| Lockpicking                                 | 100.0                                     |
+| Remove Trap                                 | 90.0                                      |
+
+### Discordance Destekli Dungeon Avcısı
+
+Yaratıkları Discordance ile zayıflatıp Archery ile uzaktan avlamayı, sandık açma yetkinliğiyle birleştiren <mark style="color:red;">**PvM ve ganimet odaklı bir builddir**</mark>.
+
+Discordance ile uygun yaratıkların mevcut canını, stamina ve manasını azaltabilir; statlarını, yeteneklerini ve zırhını zayıflatabilirsiniz. Böylece hedefinizi okçuluk saldırılarınız için daha kolay bir hâle getirebilirsiniz. Bu yeteneği kullanabilmek için yanınızda uygun bir <mark style="color:red;">**Lute**</mark> bulunmalıdır.
+
+Magery ile tedavi, güçlendirme ve koruma büyülerini kullanabilir, 75.0 Meditation ile trans sırasında mana yenileyebilirsiniz. Anatomy bulunmadığından kritik vuruş ihtimaliniz daha düşük olsa da Arms Lore bu ihtimale katkı sağlar.
+
+Lockpicking ile sandıkların kilitlerini açabilir, Remove Trap ile desteklenen sandıkların tuzaklarını çözmeyi deneyebilirsiniz. <mark style="color:red;">**Kilit açma ve tuzak çözme ayrı işlemlerdir; 90.0 Remove Trap başarıyı garanti etmez**</mark>**.** Cartography bulunmadığından hazine haritalarını çözmek için başka bir karakterden veya oyuncudan destek almanız gerekir.
+
+Hunter Mastery’nin <mark style="color:red;">**6. seviyesini tamamladığınızda**</mark> başarısız tuzak çözme girişimlerinde tuzağın tetiklenmemesi için ek şans kazanırsınız. <mark style="color:red;">**14. seviyeyi tamamlayıp Yew Lute kullandığınızda**</mark> Discordance’ın etkisi, kullanım mesafesi ve başarı şansı güçlenir. <mark style="color:red;">**20. seviyeyi tamamladığınızda**</mark> ise uygun Bow türü silahlarla Perfect Shot+ bonusundan yararlanabilirsiniz.
+
+Dungeon rotalarında, Hunter görevlerinde ve sandık odaklı avlarda tercih edebilirsiniz. Discordance her yaratıkta kullanılamaz ve hedefin canı %30 seviyesine düşmeden uygulanmalıdır. <mark style="color:red;">**Yakın dövüş, Healing ve Magic Resistance bulunmadığından**</mark> mesafenizi korumanız, tedavinizi büyüler ve iksirlerle yönetmeniz gerekir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Archery                                     | 100.0                                     |
+| Arms Lore                                   | 45.0                                      |
+| Discordance                                 | 100.0                                     |
+| Lockpicking                                 | 100.0                                     |
+| Magery                                      | 90.0                                      |
+| Meditation                                  | 75.0                                      |
+| Remove Trap                                 | 90.0                                      |
+| Tactics                                     | 100.0                                     |
