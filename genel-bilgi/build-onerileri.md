@@ -15,13 +15,13 @@ Bire bir mücadelelerde ve rakibiniz üzerinde sürekli baskı kurabildiğiniz �
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
-| Magic Resistance                            | 40.0                                      |
-| Poisoning                                   | 80.0                                      |
-| Lumberjacking                               | 100.0                                     |
 | Arms Lore                                   | 100.0                                     |
 | Healing                                     | 80.0                                      |
-| Tactics                                     | 100.0                                     |
+| Lumberjacking                               | 100.0                                     |
+| Magic Resistance                            | 40.0                                      |
+| Poisoning                                   | 80.0                                      |
 | Swordsmanship veya Fencing                  | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ### Dengeli Zehirli
 
@@ -32,13 +32,13 @@ Deadly Poison ve kritik vuruş hasarını korurken büyülere karşı savunmaya 
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
-| Magic Resistance                            | 60.0                                      |
-| Poisoning                                   | 80.0                                      |
-| Lumberjacking                               | 100.0                                     |
 | Arms Lore                                   | 80.0                                      |
 | Healing                                     | 80.0                                      |
-| Tactics                                     | 100.0                                     |
+| Lumberjacking                               | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Poisoning                                   | 80.0                                      |
 | Swordsmanship veya Fencing                  | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ### Kalkanlı Zehirli
 
@@ -51,13 +51,13 @@ Parrying’in sağladığı avantaj; zırhınıza, rakibinize ve karşılaşman�
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
-| Magic Resistance                            | 60.0                                      |
-| Poisoning                                   | 80.0                                      |
-| Parrying                                    | 100.0                                     |
 | Arms Lore                                   | 80.0                                      |
 | Healing                                     | 80.0                                      |
-| Tactics                                     | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Parrying                                    | 100.0                                     |
+| Poisoning                                   | 80.0                                      |
 | Swordsmanship veya Fencing                  | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ### Büyü Dirençli Kalkanlı
 
@@ -70,13 +70,13 @@ Kalkan savunmasından yararlanabilmek için kalkanınızı elinizde tutmanız ge
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
-| Magic Resistance                            | 80.0                                      |
-| Poisoning                                   | 80.0                                      |
-| Parrying                                    | 100.0                                     |
 | Arms Lore                                   | 60.0                                      |
 | Healing                                     | 80.0                                      |
-| Tactics                                     | 100.0                                     |
+| Magic Resistance                            | 80.0                                      |
+| Parrying                                    | 100.0                                     |
+| Poisoning                                   | 80.0                                      |
 | Swordsmanship veya Fencing                  | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ### Zehirsiz Kritik
 
@@ -89,12 +89,12 @@ Swordsmanship veya Fencing kullanabileceğiniz gibi, stamina baskısı kurmak i�
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
-| Magic Resistance                            | 100.0                                     |
-| Lumberjacking                               | 100.0                                     |
 | Arms Lore                                   | 100.0                                     |
 | Healing                                     | 100.0                                     |
-| Tactics                                     | 100.0                                     |
+| Lumberjacking                               | 100.0                                     |
+| Magic Resistance                            | 100.0                                     |
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ### Zehirli MF Warrior
 
@@ -109,13 +109,13 @@ Bire bir mücadelelerde ve grup çatışmalarında rakibinizin stamina ve tedavi
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
-| Macefighting                                | 100.0                                     |
-| Tactics                                     | 100.0                                     |
-| Lumberjacking                               | 100.0                                     |
-| Poisoning                                   | 80.0                                      |
-| Healing                                     | 80.0                                      |
 | Arms Lore                                   | 60.0                                      |
+| Healing                                     | 80.0                                      |
+| Lumberjacking                               | 100.0                                     |
+| Macefighting                                | 100.0                                     |
 | Magic Resistance                            | 60.0                                      |
+| Poisoning                                   | 80.0                                      |
+| Tactics                                     | 100.0                                     |
 
 ### Zehirsiz MF Warrior
 
@@ -131,11 +131,11 @@ Bire bir mücadelelerde ve uzayan grup çatışmalarında tercih edebilirsiniz. 
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
 | Arms Lore                                   | 100.0                                     |
+| Healing                                     | 100.0                                     |
 | Lumberjacking                               | 100.0                                     |
 | Macefighting                                | 100.0                                     |
-| Tactics                                     | 100.0                                     |
-| Healing                                     | 100.0                                     |
 | Magic Resistance                            | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ## PvM Warrior
 
@@ -158,12 +158,12 @@ Hunter Mastery’nin <mark style="color:red;">**2. seviyesini tamamladığınız
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
+| Archery                                     | 100.0                                     |
 | Arms Lore                                   | 100.0                                     |
 | Lumberjacking                               | 100.0                                     |
-| Archery                                     | 100.0                                     |
-| Tactics                                     | 100.0                                     |
-| Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 | Parrying                                    | 100.0                                     |
+| Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ### Dengeli Okçu Warrior
 
@@ -176,12 +176,12 @@ Hunter görevlerinde, solo avlarda ve farklı yaratık türleriyle karşılaşt�
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 100.0                                     |
+| Archery                                     | 100.0                                     |
 | Healing                                     | 100.0                                     |
 | Magic Resistance                            | 100.0                                     |
-| Archery                                     | 100.0                                     |
-| Tactics                                     | 100.0                                     |
-| Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 | Parrying                                    | 100.0                                     |
+| Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ### Dungeon Avcısı
 
@@ -196,13 +196,13 @@ Dungeon rotalarında yaratık keserken sandıkları da değerlendirmek isteyen o
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
 | Anatomy                                     | 80.0                                      |
+| Archery                                     | 100.0                                     |
 | Healing                                     | 80.0                                      |
+| Lockpicking                                 | 100.0                                     |
 | Magic Resistance                            | 40.0                                      |
 | Parrying                                    | 100.0                                     |
-| Archery                                     | 100.0                                     |
-| Tactics                                     | 100.0                                     |
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
-| Lockpicking                                 | 100.0                                     |
+| Tactics                                     | 100.0                                     |
 
 ## Warlock
 
@@ -224,15 +224,15 @@ Magic Resistance’ın 50.0 seviyesinde kalması büyü hasarına karşı katkı
 
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 80.0                                      |
+| Arms Lore                                   | 60.0                                      |
+| Healing                                     | 80.0                                      |
 | Magery                                      | 100.0                                     |
+| Magic Resistance                            | 50.0                                      |
+| Meditation                                  | 50.0                                      |
 | Swordsmanship,Fencing veya Macefighting     | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 | Poisoning                                   | 80.0                                      |
-| Anatomy                                     | 80.0                                      |
-| Healing                                     | 80.0                                      |
-| Arms Lore                                   | 60.0                                      |
-| Meditation                                  | 50.0                                      |
-| Magic Resistance                            | 50.0                                      |
 
 ### Mana Odaklı Grup Savaşçısı
 
@@ -246,14 +246,14 @@ Magic Resistance bulunmadığından büyücü rakiplere karşı konumunuzu, koru
 
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 80.0                                      |
+| Arms Lore                                   | 60.0                                      |
+| Healing                                     | 80.0                                      |
 | Magery                                      | 100.0                                     |
 | Meditation                                  | 100.0                                     |
+| Poisoning                                   | 80.0                                      |
 | Swordsmanship,Fencing veya Macefighting     | 100.0                                     |
 | Tactics                                     | 100.0                                     |
-| Poisoning                                   | 80.0                                      |
-| Anatomy                                     | 80.0                                      |
-| Healing                                     | 80.0                                      |
-| Arms Lore                                   | 60.0                                      |
 
 ### Zehirsiz MF Warlock
 
@@ -267,11 +267,87 @@ Uzayan bire bir mücadelelerde ve grup çatışmalarında tercih edebilirsiniz. 
 
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 100.0                                     |
+| Arms Lore                                   | 60.0                                      |
+| Healing                                     | 80.0                                      |
+| Macefighting                                | 100.0                                     |
+| Magery                                      | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Meditation                                  | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+
+## PvM Warlock
+
+PvM Warlock buildleri, <mark style="color:red;">**okçuluk ve silah kullanımını tedavi, güçlendirme ve koruma büyüleriyle birleştiren**</mark> yetenek dağılımlarıdır. Archery ile yaratıklara uzaktan saldırabilir, yakın dövüş yeteneği bulunan dağılımlarda mesafe kapandığında silah değiştirebilirsiniz.
+
+Bu buildlerde büyüler ağırlıklı olarak destek amacıyla kullanıldığı için Meditation 50.0 seviyesinde tutulmuştur. Kalan puanlar, buildin amacına göre hasar, savunma veya hazine yeteneklerine ayrılmıştır.
+
+Hunter Mastery’nin <mark style="color:red;">**2. seviyesini tamamladığınızda**</mark> yakın dövüş silahlarıyla yaratıklara verdiğiniz hasar artar. <mark style="color:red;">**20. seviyeyi tamamladığınızda**</mark> ise uygun Bow türü silahlarla Perfect Shot+ bonusundan yararlanabilirsiniz. Crossbow türü silahlar aynı bonusu sağlamaz.
+
+Aşağıdaki buildlerin her biri <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır.
+
+### Hasar Odaklı Avcı
+
+Okçuluk ve yakın dövüş hasarını büyü desteğiyle birleştiren **saldırı odaklı bir PvM buildidir**. Archery ile yaratıklara uzaktan saldırabilir, yakın mesafede seçtiğiniz yakın dövüş silahına geçebilirsiniz.
+
+Anatomy ve Arms Lore kritik vuruş ihtimalinizi desteklerken Tactics ve Lumberjacking kritik vuruş hasarınıza katkı sağlar. Magery ile kendinizi tedavi edebilir, güçlendirme ve koruma büyülerinden yararlanabilirsiniz. Meditation sayesinde uygun anlarda transa geçerek mana yenileyebilirsiniz.
+
+Hunter görevlerinde, grup avlarında ve yaratık kesme hızına öncelik verdiğiniz dungeon rotalarında tercih edebilirsiniz. Hunter Mastery ilerlemenizle hem yakın dövüş hasarı bonusunu hem de uygun Bow türlerinde Perfect Shot+ bonusunu değerlendirebilirsiniz.
+
+<mark style="color:red;">**Healing ve Magic Resistance bulunmadığından**</mark> tedavinizi büyüler ve iksirlerle yönetmeniz gerekir. Büyü kullanan yaratıklara karşı konumunuz ve grup desteğiniz önem taşır.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 100.0                                     |
+| Archery                                     | 100.0                                     |
+| Arms Lore                                   | 100.0                                     |
+| Lumberjacking                               | 50.0                                      |
+| Magery                                      | 100.0                                     |
+| Meditation                                  | 50.0                                      |
+| Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+
+### Gezgin Savaşçı — PvP ve PvM
+
+Yaratık avlarken oyuncularla da karşılaşabileceğiniz bölgelerde kullanabileceğiniz, <mark style="color:red;">**okçuluk ve yakın dövüşü birleştiren hibrit bir builddir**</mark>. Archery ile mesafeli saldırabilir, rakibiniz yaklaştığında seçtiğiniz yakın dövüş silahına geçebilirsiniz.
+
+Magery ile tedavi, güçlendirme ve koruma büyülerini kullanabilirsiniz. <mark style="color:red;">**100.0 Meditation**</mark> sayesinde trans sırasında en yüksek mana yenileme kademesinden yararlanabilir, uzayan mücadelelerde büyü kullanımınızı destekleyebilirsiniz.
+
+80.0 Anatomy ve Healing ile kendinizi ve arkadaşlarınızı bandajla tedavi edebilir, gerekli koşullarda arkadaşlarınızı diriltebilirsiniz. Bandaj kullanımı, mananızı diğer büyüler için korumanıza da yardımcı olur.
+
+Dungeon avlarında, Hunter görevlerinde ve küçük grup çatışmalarında tercih edebilirsiniz. Magic Resistance’ın 40.0 seviyesinde kalması büyülere karşı sınırlı savunma sağlar; <mark style="color:red;">**60.0 seviyesinde açılan uygun zararlı büyülere tamamen direnme şansına erişemezsiniz**</mark>.
+
+Poisoning, Arms Lore ve Lumberjacking bulunmadığından zehir uygulayamazsınız; kritik vuruş performansınız da hasar odaklı dağılıma göre daha düşüktür.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 80.0                                      |
+| Archery                                     | 100.0                                     |
+| Healing                                     | 80.0                                      |
+| Magery                                      | 100.0                                     |
+| Magic Resistance                            | 40.0                                      |
+| Meditation                                  | 100.0                                     |
+| Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+
+### Büyü Destekli Dungeon Savaşçısı — PvP ve PvM
+
+Okçuluk, yakın dövüş ve büyü desteğini dungeon sandıklarını açma yetkinliğiyle birleştiren <mark style="color:red;">**PvP ve PvM hibrit buildidir**</mark>. Archery ile uzaktan saldırabilir, yakın mesafede Macefighting silahlarına geçebilirsiniz. Tactics, her iki silah yeteneğinizi de destekler.
+
+Magery ile tedavi, güçlendirme ve koruma büyülerini kullanabilirsiniz. Evaluating Intelligence, ilgili büyülerin etkisini ve süresini artırırken Harm gibi saldırı büyülerinizin hasarına da katkı sağlar. **100.0 Meditation** sayesinde trans sırasında en yüksek mana yenileme kademesinden yararlanabilirsiniz.
+
+Lockpicking ile dungeon sandıklarının kilitlerini açarak av sırasında ek ganimet elde edebilirsiniz. <mark style="color:red;">**Kilit açmak sandığın tuzağını etkisiz hâle getirmez**</mark>; bu dağılımda Remove Trap bulunmadığından tuzakları ayrıca değerlendirmeniz gerekir.
+
+Hunter Mastery ilerlemenizle yakın dövüş, ilgili saldırı büyüleri ve uygun Bow türlerinde Perfect Shot+ bonuslarından yararlanabilirsiniz. Dungeon rotalarında, Hunter görevlerinde ve av sırasında oyuncularla karşılaşabileceğiniz bölgelerde tercih edebilirsiniz.
+
+<mark style="color:red;">**Healing ve Magic Resistance bulunmadığından**</mark> tedavinizi büyüler ve iksirlerle yönetmeniz, büyücü rakiplere karşı konumunuza dikkat etmeniz gerekir. Bandajla arkadaşlarınızı diriltemezsiniz; diriltme için Magery üzerinden Resurrection büyüsünü kullanmanız gerekir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
 | Magery                                      | 100.0                                     |
 | Meditation                                  | 100.0                                     |
+| Evaluating Intelligence                     | 100.0                                     |
+| Archery                                     | 100.0                                     |
 | Macefighting                                | 100.0                                     |
 | Tactics                                     | 100.0                                     |
-| Anatomy                                     | 100.0                                     |
-| Healing                                     | 80.0                                      |
-| Arms Lore                                   | 60.0                                      |
-| Magic Resistance                            | 60.0                                      |
+| Lockpicking                                 | 100.0                                     |
