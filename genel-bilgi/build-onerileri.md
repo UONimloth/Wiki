@@ -39,3 +39,22 @@ Deadly Poison ve kritik vuruş hasarını korurken büyülere karşı savunmaya 
 | Healing                                     | 80.0                                      |
 | Tactics                                     | 100.0                                     |
 | Swordsmanship veya Fencing                  | 100.0                                     |
+
+### Kalkanlı Zehirli
+
+Zehir baskısını sürdürürken kalkan kullanımına yatırım yapmak isteyen oyuncular için hazırlanmıştır. <mark style="color:red;">**Lumberjacking yerine Parrying kullanarak**</mark> kritik vuruş hasarınızın bir bölümünden vazgeçer, kalkanla savunma seçeneği kazanırsınız.
+
+Kalkanla birlikte kullanabileceğiniz bir silahla, yakın dövüşte rakibinizin üzerinde kalmak ve Deadly Poison ile baskı kurmak için tercih edebilirsiniz. PvP çatışmalarının yanında, kalkan savunmasının etkili olduğu PvM karşılaşmalarında da değerlendirilebilir.
+
+Parrying’in sağladığı avantaj; zırhınıza, rakibinize ve karşılaşmanın türüne bağlıdır. Çift el silaha geçtiğinizde kalkanın sağladığı savunmadan yararlanamazsınız.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Poisoning                                   | 80.0                                      |
+| Parrying                                    | 100.0                                     |
+| Arms Lore                                   | 80.0                                      |
+| Healing                                     | 80.0                                      |
+| Tactics                                     | 100.0                                     |
+| Swordsmanship veya Fencing                  | 100.0                                     |
