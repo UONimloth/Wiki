@@ -11,6 +11,8 @@
   * [Build Önerileri](genel-bilgi/build-onerileri.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [Ekim 2026](guncelleme-notlari/ekim/README.md)
+    * [17.10.2026 Güncellemeleri](guncelleme-notlari/ekim/17.10.2026-guncellemeleri.md)
+    * [13.10.2026 Güncellemeleri](guncelleme-notlari/ekim/13.10.2026-guncellemeleri.md)
     * [08.10.2026 Güncellemeleri](guncelleme-notlari/ekim/08.10.2026-guncellemeleri.md)
     * [04.10.2026 Güncellemeleri](guncelleme-notlari/ekim/04.10.2026-guncellemeleri.md)
     * [01.10.2026 Güncellemeleri](guncelleme-notlari/ekim/01.10.2026-guncellemeleri.md)
@@ -14164,6 +14166,54 @@ Hunter Mastery ilerlemenizle yakın dövüş, ilgili saldırı büyüleri ve uyg
 | Tactics                                     | 100.0                                     |
 | Lockpicking                                 | 100.0                                     |
 
+### Hazine Avcısı
+
+Hunter görevlerini, hazine haritalarını ve sandık açmayı aynı karakterde değerlendirmek isteyen oyuncular için hazırlanmış <mark style="color:red;">**keşif ve ganimet odaklı bir PvM buildidir**</mark>.
+
+Archery ve Tactics ile yaratıklara uzaktan saldırabilir, Magery ile kendinizi tedavi edebilir ve koruma büyülerinden yararlanabilirsiniz. Meditation, karşılaşmalar arasında mana yenilemenizi desteklerken Magic Resistance büyülere karşı savunmanıza katkı sağlar.
+
+Cartography ile hazine haritalarını çözebilir, Lockpicking ile sandıkların kilitlerini açabilir, Remove Trap ile desteklenen sandıkların tuzaklarını çözmeyi deneyebilirsiniz. <mark style="color:red;">**90.0 Remove Trap, tuzak çözme girişimi için gereken yetenek eşiğini karşılar; başarıyı garanti etmez. Kilit açma ve tuzak çözme ayrı işlemlerdir**</mark>**.**
+
+Hunter Mastery’nin <mark style="color:red;">**6. seviyesini tamamladığınızda**</mark>, başarısız tuzak çözme girişimlerinde tuzağın tetiklenmemesi için ek bir şans kazanırsınız. <mark style="color:red;">**20. seviyeyi tamamladığınızda**</mark> ise uygun Bow türü silahlarla Perfect Shot+ bonusundan yararlanabilirsiniz.
+
+Hazine ve dungeon rotalarında tercih edebilirsiniz. Yakın dövüş ve Healing bulunmadığından yaratıklarla aranızdaki mesafeyi korumanız, tedavinizi büyüler ve iksirlerle yönetmeniz gerekir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Magery                                      | 100.0                                     |
+| Meditation                                  | 50.0                                      |
+| Archery                                     | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Cartography                                 | 100.0                                     |
+| Lockpicking                                 | 100.0                                     |
+| Remove Trap                                 | 90.0                                      |
+
+### Discordance Destekli Dungeon Avcısı
+
+Yaratıkları Discordance ile zayıflatıp Archery ile uzaktan avlamayı, sandık açma yetkinliğiyle birleştiren <mark style="color:red;">**PvM ve ganimet odaklı bir builddir**</mark>.
+
+Discordance ile uygun yaratıkların mevcut canını, stamina ve manasını azaltabilir; statlarını, yeteneklerini ve zırhını zayıflatabilirsiniz. Böylece hedefinizi okçuluk saldırılarınız için daha kolay bir hâle getirebilirsiniz. Bu yeteneği kullanabilmek için yanınızda uygun bir <mark style="color:red;">**Lute**</mark> bulunmalıdır.
+
+Magery ile tedavi, güçlendirme ve koruma büyülerini kullanabilir, 75.0 Meditation ile trans sırasında mana yenileyebilirsiniz. Anatomy bulunmadığından kritik vuruş ihtimaliniz daha düşük olsa da Arms Lore bu ihtimale katkı sağlar.
+
+Lockpicking ile sandıkların kilitlerini açabilir, Remove Trap ile desteklenen sandıkların tuzaklarını çözmeyi deneyebilirsiniz. <mark style="color:red;">**Kilit açma ve tuzak çözme ayrı işlemlerdir; 90.0 Remove Trap başarıyı garanti etmez**</mark>**.** Cartography bulunmadığından hazine haritalarını çözmek için başka bir karakterden veya oyuncudan destek almanız gerekir.
+
+Hunter Mastery’nin <mark style="color:red;">**6. seviyesini tamamladığınızda**</mark> başarısız tuzak çözme girişimlerinde tuzağın tetiklenmemesi için ek şans kazanırsınız. <mark style="color:red;">**14. seviyeyi tamamlayıp Yew Lute kullandığınızda**</mark> Discordance’ın etkisi, kullanım mesafesi ve başarı şansı güçlenir. <mark style="color:red;">**20. seviyeyi tamamladığınızda**</mark> ise uygun Bow türü silahlarla Perfect Shot+ bonusundan yararlanabilirsiniz.
+
+Dungeon rotalarında, Hunter görevlerinde ve sandık odaklı avlarda tercih edebilirsiniz. Discordance her yaratıkta kullanılamaz ve hedefin canı %30 seviyesine düşmeden uygulanmalıdır. <mark style="color:red;">**Yakın dövüş, Healing ve Magic Resistance bulunmadığından**</mark> mesafenizi korumanız, tedavinizi büyüler ve iksirlerle yönetmeniz gerekir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Archery                                     | 100.0                                     |
+| Arms Lore                                   | 45.0                                      |
+| Discordance                                 | 100.0                                     |
+| Lockpicking                                 | 100.0                                     |
+| Magery                                      | 90.0                                      |
+| Meditation                                  | 75.0                                      |
+| Remove Trap                                 | 90.0                                      |
+| Tactics                                     | 100.0                                     |
+
 
 --- Dosya: ./genel-bilgi/oyun-ayarlari.md ---
 
@@ -20834,6 +20884,52 @@ Icon ve Label ları görüntülemek için Show/Hide Specials tikini tiklemeyi un
 [https://nimloth-uo.gitbook.io/wiki/genel-bilgi/world-map#markers-manager](https://nimloth-uo.gitbook.io/wiki/genel-bilgi/world-map#markers-manager)
 
 
+--- Dosya: ./guncelleme-notlari/ekim/13.10.2026-guncellemeleri.md ---
+
+# 13.10.2026 Güncellemeleri
+
+* Craft menülere Tooltip eklendi. Artık üretmek istediğiniz eşyanın üzerine geldiğinizde üretimi için gereken malzemeleri görüntüleyebileceksiniz
+* MF silahların Pure Mage karakterlere karşı stam düşürme oranları güncellendi
+
+Normal şartlarda tek el silahlar karakterin %10-14, çift el silahlar ise %13-17 stamını düşürmekte, Stam Shot ile bu oran 2 katına çıkmakta Güncelleme sonrası Pure mage karakterlerin stam miktarı tek el silahlar ile %15-20, çift el silahlar ile %20-25 oranında azalacak. Stam Shot bonusu yine aynı şekilde 2 kat stam azaltacak
+
+* Spirit Speak yeteneğinin Freeze süresi <mark style="color:red;">**1 saniyeden 1.3 saniyeye**</mark> yükseltildi
+* Stealing yeteneğinin düşük yetenek seviyesinde crim olma ihtimalleri arttırıldı
+
+Eski ve yeni criminal olma şansları Resim1 de yer almaktadır
+
+<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+
+* Vendor arama ekranında artık Container tipi eşyaların içeriklerini görüntüleyebileceksiniz
+* .wiki komutu yeni wiki sayfasına yönlendirilecek şekilde güncellendi
+* Guild dialogunda çeşitli iyileştirmeler yapıldı ve Tooltipler eklendi
+* Guild sisteminde Master menüsüne Yardımcılar sekmesi eklendi. Guild Master en fazla 3 adet yardımcı seçebilecek
+
+Yardımcılar guilde tam üye alabilecek, adayları onaylayabilecek veya adayları reddedebilecekler
+
+<figure><img src="../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
+
+* Guild adaylarının guild menüsünün bir kısmını görmesi sağlandı
+
+Genel sekmesinden guildin genel durumunu görüntüleyebilir, Ayarlar sekmesinden guildden ayrılabilir ve Warzone sekmesinden Geçmiş Karşılaşmaları görüntüleyebilirsiniz
+
+* Craft, Tamer, Hunter ve Gatherer görevlerini teslim ettiğinizde görevin tamamlandığına dair görsel bir bildirim alacaksınız
+* Craft, Tamer, Hunter ve Gatherer Mastery seviyeniz arttığında seviye artışına dair görsel bir bildirim alacaksınız
+* Craft Mastery sayesinde çift üretim yaptığınızda görsel bir bildirim alacaksınız
+
+<figure><img src="../../.gitbook/assets/new_patch.gif" alt=""><figcaption></figcaption></figure>
+
+* Warzone sisteminde puanlama mantığı güncellendi
+
+Kill artık 100 yerine 75 puan vermekte Heal Miktarı satırı artık oyuncunun kendine uyguladığı değil takım arkadaşlarına uyguladığı heal miktarını yansıtmakta
+
+* Warzone sisteminde karşı guilddeki oyunculara bandaj kullanımı ve iyileştirici büyü kullanımı engellendi
+* Warzone sisteminde yere atılan eşyaların silinme süresi 1 dakika olarak güncellendi. Normal şartlarda eşyaların silinme süresi 10 dakikadır
+* Warzone sistemine girişte kutu, saman vs gibi geçişi engelleyen eşyalar artık silinmekte
+* Warzone sisteminde region ayarlamaları yapıldı
+* Warzone sistemine Delucia şehri aktif edildi. Hem Last Stand hem de Team Deathmatch modları artık bu haritada da oynanabilir
+
+
 --- Dosya: ./guncelleme-notlari/ekim/08.10.2026-guncellemeleri.md ---
 
 # 08.10.2026 Güncellemeleri
@@ -20940,6 +21036,28 @@ Ayarlarınızı yaptıktan sonra altta yer alan Önizle butonuna tıklayarak ekr
 
 Bildiğiniz gibi 31 Ekim 2025 tarihinde kapılarımızı siz oyunculara açtık. 1 yılımızı çeşitli ingame ödüller ve etkinlikler ile kutlayacağız\
 Yakın zamanda gerekli bilgilendirmeyi yapacağız
+
+
+--- Dosya: ./guncelleme-notlari/ekim/17.10.2026-guncellemeleri.md ---
+
+# 17.10.2026 Güncellemeleri
+
+* 1\. yıl kutlamaları dahilinde Donate sisteminde tüm içeriklerde %40 indirim yapıldı
+* 1\. yıl kutlamaları dahilinde oyuna giren tüm karakterlere 1 aylık Premium tanımlandı. Oyundan çıkıp tekrar girdiğinizde 1 aylık Premium süreniz aktif edilecek
+* 1\. yıl kutlamaları dahilinde oyuna giren tüm karakterlere 1 adet Wall of Stone büyü efekti verildi. 3 farklı efektten biri rastgele verilmekte.
+
+Profile menüsünden büyü efektini ayarlayabilirsiniz
+
+* 1\. yıl kutlamaları dahilinde tüm karakterlere genel af tanımlandı. Priest vendordan kill ve karma değerlerinizi sıfırlayabilirsi
+* 1\. yıl kutlamaları dahilinde bloke olan tüm hesapların blokesi kaldırıldı
+* Salve bandaj kullanımındaki bir problem düzeltildi
+* Animal Taming yeteneğindeki bir problem düzeltildi
+* Günlük görev sisteminde görev verilen npc lerin üzerine geldiğinizde artık npc lerin hangi bölgelerde sıklıkta bulunabildiğini görüntüleyebileceksiniz
+
+<figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+
+* War Zone sistemine girildiğinde reg, binek, kutu gibi eşyalar silinmekteydi. Artık bu eşyalar bir bag içerisine alınmakta ve savaş bitiminde çantanıza tekrar verilmekte. Çantanızı kapatıp açtığınızda Bag i görebilirsiniz
+* War Zone sisteminde başka bir oyuncuya Cure büyüsü atıldığında artık +15 Heal puanı verilmekte
 
 
 --- Dosya: ./guncelleme-notlari/ekim/README.md ---
