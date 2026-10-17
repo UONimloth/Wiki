@@ -2,7 +2,7 @@
 
 ## Warrior
 
-Warrior buildleri, yakın dövüş yeteneklerini farklı saldırı ve savunma seçenekleriyle birleştirir. Zehir, kritik vuruş, kalkan veya büyü direncine öncelik vererek oyun tarzınıza uygun bir dağılım seçebilirsiniz.
+Warrior buildleri, yakın dövüş yeteneklerini farklı saldırı ve savunma seçenekleriyle birleştiren PvP odaklı yetenek dağılımlarıdır. Zehir, kritik vuruş, kalkan veya büyü direncine öncelik vererek oyun tarzınıza uygun bir dağılım seçebilirsiniz.
 
 Aşağıdaki buildlerin her biri, <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır. Silah tercihinizi ve yetenek dağılımınızı bire bir mücadelelere veya grup çatışmalarındaki rolünüze göre belirleyebilirsiniz.
 
@@ -96,6 +96,47 @@ Swordsmanship veya Fencing kullanabileceğiniz gibi, stamina baskısı kurmak i�
 | Tactics                                     | 100.0                                     |
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 
+### Zehirli MF Warrior
+
+Macefighting silahlarının stamina baskısını <mark style="color:red;">**War Axe ile zehir kullanımına birleştiren, PvP odaklı bir Warrior buildidir**</mark>. War Axe üzerine Deadly Poison sürerek rakibinizi hem zehir tedavisine hem de stamina yönetimine zorlayabilirsiniz.
+
+Anatomy, kritik vuruş ihtimalinizi ve Stam Shot şansını desteklerken Tactics ve Lumberjacking kritik vuruş hasarınızı artırır. Arms Lore’u 60.0 seviyesinde tutarak yüksek seviyeli magical War Axe’lara zehir sürmek için gereken yetkinliği koruyabilirsiniz.
+
+80.0 Healing ve 100.0 Anatomy sayesinde kendinizi ve arkadaşlarınızı bandajla tedavi edebilir, gerekli koşullarda arkadaşlarınızı diriltebilirsiniz. Magic Resistance’ın 60.0 olması, uygun zararlı büyülere tamamen direnme şansından yararlanmanızı sağlar.
+
+Bire bir mücadelelerde ve grup çatışmalarında rakibinizin stamina ve tedavi kaynaklarına baskı kurmak için tercih edebilirsiniz. <mark style="color:red;">**Macefighting silahları arasında yalnızca War Axe’a zehir sürebilirsiniz**</mark>**.** Diğer MF silahlarına geçtiğinizde zehir baskısından vazgeçmiş olursunuz.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 100.0                                     |
+| Macefighting                                | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+| Lumberjacking                               | 100.0                                     |
+| Poisoning                                   | 80.0                                      |
+| Healing                                     | 80.0                                      |
+| Arms Lore                                   | 60.0                                      |
+| Magic Resistance                            | 60.0                                      |
+
+### Zehirsiz MF Warrior
+
+Zehir kullanmak yerine <mark style="color:red;">**kritik vuruşlara, stamina baskısına ve kişisel dayanıklılığa odaklanan bir PvP buildidir**</mark>. Poisoning’e puan ayırmadığınız için silah seçiminizi War Axe ile sınırlamadan, karşılaşmaya uygun Macefighting silahlarını kullanabilirsiniz.
+
+Anatomy ve Arms Lore kritik vuruş ihtimalinizi, Tactics ve Lumberjacking ise kritik vuruş hasarınızı destekler. Uygun silahlarla Stam Shot üzerinden rakibinizin staminasına baskı kurabilir, Black Staff kullanarak Dismount bonusundan da yararlanabilirsiniz.
+
+100.0 Healing ve Anatomy ile kendinizi ve arkadaşlarınızı bandajla tedavi edebilir, gerekli koşullarda arkadaşlarınızı diriltebilirsiniz. Magic Resistance ise büyülere karşı savunmanızı güçlendirir.
+
+Bire bir mücadelelerde ve uzayan grup çatışmalarında tercih edebilirsiniz. Zehir baskınız bulunmadığından rakibinizi silah hasarı, stamina kaybı ve silahınızın özel etkileriyle zorlamanız gerekir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 100.0                                     |
+| Arms Lore                                   | 100.0                                     |
+| Lumberjacking                               | 100.0                                     |
+| Macefighting                                | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+| Healing                                     | 100.0                                     |
+| Magic Resistance                            | 100.0                                     |
+
 ## PvM Warrior
 
 PvM Warrior buildleri; yaratıklarla mücadele, Hunter görevleri ve dungeon avları için hazırlanmış <mark style="color:red;">**silah odaklı yetenek dağılımlarıdır**</mark>. Archery sayesinde uzaktan saldırabilir, yakın dövüş yetenekleriyle mesafe kapandığında mücadeleye devam edebilirsiniz.
@@ -106,7 +147,7 @@ Aşağıdaki buildlerin her biri <mark style="color:red;">**700 toplam yetenek p
 
 ### Hasar Odaklı
 
-Büyü direnci ve bandajla tedaviye puan ayırmadan, <mark style="color:red;">**silah hasarına ve kesintisiz avlanmaya odaklanan bir PvM buildidir**</mark>. Archery ile uzaktan saldırabilir, yakın mesafede ise seçtiğiniz yakın dövüş silahına geçebilirsiniz.
+Büyü direnci ve bandajla tedaviye puan ayırmadan, <mark style="color:red;">**silah hasarına ve yaratık kesme hızına odaklanan bir PvM buildidir**</mark>. Archery ile uzaktan saldırabilir, yakın mesafede ise seçtiğiniz yakın dövüş silahına geçebilirsiniz.
 
 Anatomy ve Arms Lore kritik vuruş ihtimalinizi desteklerken Tactics ve Lumberjacking kritik vuruşlarınızın hasarını artırır. Böylece hem okçulukta hem de yakın dövüşte aynı saldırı yeteneklerinden yararlanabilirsiniz.
 
@@ -162,3 +203,75 @@ Dungeon rotalarında yaratık keserken sandıkları da değerlendirmek isteyen o
 | Tactics                                     | 100.0                                     |
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 | Lockpicking                                 | 100.0                                     |
+
+## Warlock
+
+Warlock buildleri, <mark style="color:red;">**silah ve zehir baskısını büyü desteği ve bandajla tedaviyle birleştiren**</mark> yetenek dağılımlarıdır. Magery ile tedavi, güçlendirme ve koruma büyülerini kullanabilir; bandajla canınızı doldururken mananızı diğer büyüler için koruyabilirsiniz.
+
+Poisoning sayesinde uygun tek el silahlara Deadly Poison sürebilirsiniz. Çift el silahları da kullanabilirsiniz; ancak Warlock karakterler bu silahlara zehir süremez.
+
+Aşağıdaki buildlerin her biri <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır. Grup odaklı dağılımlar bandajla diriltme yetkinliğini korurken solo dağılım bu özellikten vazgeçer.
+
+### Dengeli Grup Savaşçısı
+
+Zehir baskısını, bandajla tedaviyi ve büyü desteğini birleştiren <mark style="color:red;">**grup PvP odaklı bir Warlock buildidir**</mark>. Uygun tek el silahla Deadly Poison uygulayabilir, Magery ile tedavi ve koruma büyülerinden yararlanabilirsiniz.
+
+80.0 Anatomy ve Healing sayesinde kendinizi ve arkadaşlarınızı bandajla tedavi edebilir, gerekli koşullarda arkadaşlarınızı diriltebilirsiniz. Meditation’ı 50.0 seviyesinde tutarak bu mana yenileme kademesinden yararlanırken Magic Resistance’a da puan ayırabilirsiniz.
+
+Magic Resistance’ın 50.0 seviyesinde kalması büyü hasarına karşı katkı sağlar; ancak 60.0 seviyesinde açılan uygun zararlı büyülere tamamen direnme şansını sağlamaz.
+
+<mark style="color:red;">**Macefighting silahları arasında yalnızca War Axe’a zehir sürebilirsiniz**</mark>**.** Başka bir MF silahına geçtiğinizde zehir baskısından vazgeçmiş olursunuz.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Magery                                      | 100.0                                     |
+| Swordsmanship,Fencing veya Macefighting     | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+| Poisoning                                   | 80.0                                      |
+| Anatomy                                     | 80.0                                      |
+| Healing                                     | 80.0                                      |
+| Arms Lore                                   | 60.0                                      |
+| Meditation                                  | 50.0                                      |
+| Magic Resistance                            | 50.0                                      |
+
+### Mana Odaklı Grup Savaşçısı
+
+Bandajla tedavi ve diriltme yetkinliğini korurken <mark style="color:red;">**mana yenilemeye öncelik veren bir Warlock buildidir**</mark>. Meditation’ı 100.0 seviyesinde tutarak en yüksek mana yenileme kademesinden yararlanabilirsiniz.
+
+Uygun tek el silahla Deadly Poison uygulayabilir, bandajla tedavi olurken mananızı ihtiyaç duyduğunuz büyülere ayırabilirsiniz. Uzayan grup çatışmalarında ve güvenli şekilde transa geçme fırsatı bulabildiğiniz mücadelelerde tercih edebilirsiniz.
+
+Magic Resistance bulunmadığından büyücü rakiplere karşı konumunuzu, koruma büyülerinizi ve tedavi zamanlamanızı dikkatli yönetmeniz gerekir.
+
+<mark style="color:red;">**Macefighting silahları arasında yalnızca War Axe’a zehir sürebilirsiniz**</mark>**.** Başka bir MF silahına geçtiğinizde zehir baskısından vazgeçmiş olursunuz.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Magery                                      | 100.0                                     |
+| Meditation                                  | 100.0                                     |
+| Swordsmanship,Fencing veya Macefighting     | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+| Poisoning                                   | 80.0                                      |
+| Anatomy                                     | 80.0                                      |
+| Healing                                     | 80.0                                      |
+| Arms Lore                                   | 60.0                                      |
+
+### Zehirsiz MF Warlock
+
+Zehir kullanımından vazgeçerek <mark style="color:red;">**stamina baskısı, mana yenileme ve büyü desteğine odaklanan bir PvP buildidir**</mark>. Silah seçiminizi War Axe ile sınırlamadan, karşılaşmaya uygun Macefighting silahlarını kullanabilirsiniz.
+
+100.0 Anatomy, kritik vuruş ihtimalinizi ve uygun silahlardaki Stam Shot şansını destekler. Black Staff kullanarak Dismount bonusundan da yararlanabilirsiniz. Magery ile tedavi ve koruma büyülerini kullanırken 100.0 Meditation sayesinde trans sırasında en yüksek mana yenileme kademesinden faydalanabilirsiniz.
+
+80.0 Healing ve 100.0 Anatomy ile kendinizi ve arkadaşlarınızı bandajla tedavi edebilir, gerekli koşullarda arkadaşlarınızı diriltebilirsiniz. Magic Resistance’ın 60.0 olması, uygun zararlı büyülere tamamen direnme şansına erişmenizi sağlar.
+
+Uzayan bire bir mücadelelerde ve grup çatışmalarında tercih edebilirsiniz. Zehir baskınız bulunmadığından rakibinizi silah hasarı, stamina kaybı ve silahınızın özel etkileriyle zorlamanız gerekir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Magery                                      | 100.0                                     |
+| Meditation                                  | 100.0                                     |
+| Macefighting                                | 100.0                                     |
+| Tactics                                     | 100.0                                     |
+| Anatomy                                     | 100.0                                     |
+| Healing                                     | 80.0                                      |
+| Arms Lore                                   | 60.0                                      |
+| Magic Resistance                            | 60.0                                      |
