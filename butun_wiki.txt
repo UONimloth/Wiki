@@ -13910,7 +13910,7 @@ Swordsmanship veya Fencing kullanabileceğiniz gibi, stamina baskısı kurmak i�
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 
-### Zehirli MF Warrior
+### Zehirli MF
 
 Macefighting silahlarının stamina baskısını <mark style="color:red;">**War Axe ile zehir kullanımına birleştiren, PvP odaklı bir Warrior buildidir**</mark>. War Axe üzerine Deadly Poison sürerek rakibinizi hem zehir tedavisine hem de stamina yönetimine zorlayabilirsiniz.
 
@@ -13931,7 +13931,7 @@ Bire bir mücadelelerde ve grup çatışmalarında rakibinizin stamina ve tedavi
 | Poisoning                                   | 80.0                                      |
 | Tactics                                     | 100.0                                     |
 
-### Zehirsiz MF Warrior
+### Zehirsiz MF
 
 Zehir kullanmak yerine <mark style="color:red;">**kritik vuruşlara, stamina baskısına ve kişisel dayanıklılığa odaklanan bir PvP buildidir**</mark>. Poisoning’e puan ayırmadığınız için silah seçiminizi War Axe ile sınırlamadan, karşılaşmaya uygun Macefighting silahlarını kullanabilirsiniz.
 
@@ -13979,7 +13979,7 @@ Hunter Mastery’nin <mark style="color:red;">**2. seviyesini tamamladığınız
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 
-### Dengeli Okçu Warrior
+### Dengeli Okçu
 
 Uzaktan ve yakından savaşmayı aynı karakterde birleştiren <mark style="color:red;">**genel kullanım odaklı bir PvM buildidir**</mark>. Archery ile yaratıklara mesafeli saldırabilir, yaklaştıklarında yakın dövüş silahınıza ve kalkanınıza geçebilirsiniz.
 
@@ -14024,9 +14024,9 @@ Warlock buildleri, <mark style="color:red;">**silah ve zehir baskısını büyü
 
 Poisoning sayesinde uygun tek el silahlara Deadly Poison sürebilirsiniz. Çift el silahları da kullanabilirsiniz; ancak Warlock karakterler bu silahlara zehir süremez.
 
-Aşağıdaki buildlerin her biri <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır. Grup odaklı dağılımlar bandajla diriltme yetkinliğini korurken solo dağılım bu özellikten vazgeçer.
+Aşağıdaki buildlerin her biri <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır.
 
-### Dengeli Grup Savaşçısı
+### Dengeli Zehirli
 
 Zehir baskısını, bandajla tedaviyi ve büyü desteğini birleştiren <mark style="color:red;">**grup PvP odaklı bir Warlock buildidir**</mark>. Uygun tek el silahla Deadly Poison uygulayabilir, Magery ile tedavi ve koruma büyülerinden yararlanabilirsiniz.
 
@@ -14044,11 +14044,11 @@ Magic Resistance’ın 50.0 seviyesinde kalması büyü hasarına karşı katkı
 | Magery                                      | 100.0                                     |
 | Magic Resistance                            | 50.0                                      |
 | Meditation                                  | 50.0                                      |
+| Poisoning                                   | 80.0                                      |
 | Swordsmanship,Fencing veya Macefighting     | 100.0                                     |
 | Tactics                                     | 100.0                                     |
-| Poisoning                                   | 80.0                                      |
 
-### Mana Odaklı Grup Savaşçısı
+### **Mana Odaklı Zehirli**
 
 Bandajla tedavi ve diriltme yetkinliğini korurken <mark style="color:red;">**mana yenilemeye öncelik veren bir Warlock buildidir**</mark>. Meditation’ı 100.0 seviyesinde tutarak en yüksek mana yenileme kademesinden yararlanabilirsiniz.
 
@@ -14069,7 +14069,7 @@ Magic Resistance bulunmadığından büyücü rakiplere karşı konumunuzu, koru
 | Swordsmanship,Fencing veya Macefighting     | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 
-### Zehirsiz MF Warlock
+### Zehirsiz MF
 
 Zehir kullanımından vazgeçerek <mark style="color:red;">**stamina baskısı, mana yenileme ve büyü desteğine odaklanan bir PvP buildidir**</mark>. Silah seçiminizi War Axe ile sınırlamadan, karşılaşmaya uygun Macefighting silahlarını kullanabilirsiniz.
 
@@ -14094,13 +14094,13 @@ Uzayan bire bir mücadelelerde ve grup çatışmalarında tercih edebilirsiniz. 
 
 PvM Warlock buildleri, <mark style="color:red;">**okçuluk ve silah kullanımını tedavi, güçlendirme ve koruma büyüleriyle birleştiren**</mark> yetenek dağılımlarıdır. Archery ile yaratıklara uzaktan saldırabilir, yakın dövüş yeteneği bulunan dağılımlarda mesafe kapandığında silah değiştirebilirsiniz.
 
-Bu buildlerde büyüler ağırlıklı olarak destek amacıyla kullanıldığı için Meditation 50.0 seviyesinde tutulmuştur. Kalan puanlar, buildin amacına göre hasar, savunma veya hazine yeteneklerine ayrılmıştır.
+Meditation seviyesi, buildin mana ihtiyacına göre belirlenmiştir. Kalan puanlar hasar, savunma veya hazine yeteneklerine ayrılmıştır.
 
 Hunter Mastery’nin <mark style="color:red;">**2. seviyesini tamamladığınızda**</mark> yakın dövüş silahlarıyla yaratıklara verdiğiniz hasar artar. <mark style="color:red;">**20. seviyeyi tamamladığınızda**</mark> ise uygun Bow türü silahlarla Perfect Shot+ bonusundan yararlanabilirsiniz. Crossbow türü silahlar aynı bonusu sağlamaz.
 
 Aşağıdaki buildlerin her biri <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır.
 
-### Hasar Odaklı Avcı
+### Hasar Odaklı
 
 Okçuluk ve yakın dövüş hasarını büyü desteğiyle birleştiren **saldırı odaklı bir PvM buildidir**. Archery ile yaratıklara uzaktan saldırabilir, yakın mesafede seçtiğiniz yakın dövüş silahına geçebilirsiniz.
 
@@ -14121,7 +14121,7 @@ Hunter görevlerinde, grup avlarında ve yaratık kesme hızına öncelik verdi�
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 
-### Gezgin Savaşçı — PvP ve PvM
+### **Hibrit Savaşçı**
 
 Yaratık avlarken oyuncularla da karşılaşabileceğiniz bölgelerde kullanabileceğiniz, <mark style="color:red;">**okçuluk ve yakın dövüşü birleştiren hibrit bir builddir**</mark>. Archery ile mesafeli saldırabilir, rakibiniz yaklaştığında seçtiğiniz yakın dövüş silahına geçebilirsiniz.
 
@@ -14144,7 +14144,7 @@ Poisoning, Arms Lore ve Lumberjacking bulunmadığından zehir uygulayamazsını
 | Swordsmanship, Fencing veya Macefighting    | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 
-### Büyü Destekli Dungeon Savaşçısı — PvP ve PvM
+### Dungeon Savaşçısı
 
 Okçuluk, yakın dövüş ve büyü desteğini dungeon sandıklarını açma yetkinliğiyle birleştiren <mark style="color:red;">**PvP ve PvM hibrit buildidir**</mark>. Archery ile uzaktan saldırabilir, yakın mesafede Macefighting silahlarına geçebilirsiniz. Tactics, her iki silah yeteneğinizi de destekler.
 
@@ -14158,13 +14158,13 @@ Hunter Mastery ilerlemenizle yakın dövüş, ilgili saldırı büyüleri ve uyg
 
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
+| Archery                                     | 100.0                                     |
+| Evaluating Intelligence                     | 100.0                                     |
+| Lockpicking                                 | 100.0                                     |
 | Magery                                      | 100.0                                     |
 | Meditation                                  | 100.0                                     |
-| Evaluating Intelligence                     | 100.0                                     |
-| Archery                                     | 100.0                                     |
 | Macefighting                                | 100.0                                     |
 | Tactics                                     | 100.0                                     |
-| Lockpicking                                 | 100.0                                     |
 
 ### Hazine Avcısı
 
@@ -14180,16 +14180,16 @@ Hazine ve dungeon rotalarında tercih edebilirsiniz. Yakın dövüş ve Healing 
 
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
 | ------------------------------------------- | ----------------------------------------- |
-| Magery                                      | 100.0                                     |
-| Meditation                                  | 50.0                                      |
 | Archery                                     | 100.0                                     |
-| Tactics                                     | 100.0                                     |
-| Magic Resistance                            | 60.0                                      |
 | Cartography                                 | 100.0                                     |
 | Lockpicking                                 | 100.0                                     |
+| Magery                                      | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Meditation                                  | 50.0                                      |
 | Remove Trap                                 | 90.0                                      |
+| Tactics                                     | 100.0                                     |
 
-### Discordance Destekli Dungeon Avcısı
+### **Discordance Avcısı**
 
 Yaratıkları Discordance ile zayıflatıp Archery ile uzaktan avlamayı, sandık açma yetkinliğiyle birleştiren <mark style="color:red;">**PvM ve ganimet odaklı bir builddir**</mark>.
 
@@ -14224,7 +14224,7 @@ Pure Mage ekipmanlarının kullanım koşullarını korumak için bu dağılıml
 
 Aşağıdaki buildler <mark style="color:red;">**PvP odaklıdır**</mark> ve her biri <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır.
 
-### Zehirli Grup Büyücüsü
+### Grup Büyücüsü
 
 Büyü hasarını, zehir baskısını ve bandajla tedaviyi birleştiren <mark style="color:red;">**grup PvP odaklı bir Pure Mage buildidir**</mark>. Evaluating Intelligence ve Inscription ile büyülerinizi desteklerken 100.0 Poisoning sayesinde rakibinizin tedavi ihtiyacını artırabilirsiniz.
 
