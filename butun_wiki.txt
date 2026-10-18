@@ -13912,7 +13912,7 @@ Swordsmanship veya Fencing kullanabileceğiniz gibi, stamina baskısı kurmak i�
 
 ### Zehirli MF
 
-Macefighting silahlarının stamina baskısını <mark style="color:red;">**War Axe ile zehir kullanımına birleştiren, PvP odaklı bir Warrior buildidir**</mark>. War Axe üzerine Deadly Poison sürerek rakibinizi hem zehir tedavisine hem de stamina yönetimine zorlayabilirsiniz.
+Macefighting silahlarının stamina baskısını <mark style="color:red;">**War Axe ile zehir kullanımını birleştiren, PvP odaklı bir Warrior buildidir**</mark>. War Axe üzerine Deadly Poison sürerek rakibinizi hem zehir tedavisine hem de stamina yönetimine zorlayabilirsiniz.
 
 Anatomy, kritik vuruş ihtimalinizi ve Stam Shot şansını desteklerken Tactics ve Lumberjacking kritik vuruş hasarınızı artırır. Arms Lore’u 60.0 seviyesinde tutarak yüksek seviyeli magical War Axe’lara zehir sürmek için gereken yetkinliği koruyabilirsiniz.
 
@@ -14161,9 +14161,9 @@ Hunter Mastery ilerlemenizle yakın dövüş, ilgili saldırı büyüleri ve uyg
 | Archery                                     | 100.0                                     |
 | Evaluating Intelligence                     | 100.0                                     |
 | Lockpicking                                 | 100.0                                     |
+| Macefighting                                | 100.0                                     |
 | Magery                                      | 100.0                                     |
 | Meditation                                  | 100.0                                     |
-| Macefighting                                | 100.0                                     |
 | Tactics                                     | 100.0                                     |
 
 ### Hazine Avcısı
