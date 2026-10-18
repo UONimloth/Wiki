@@ -399,3 +399,80 @@ Dungeon rotalarında, Hunter görevlerinde ve sandık odaklı avlarda tercih ede
 | Meditation                                  | 75.0                                      |
 | Remove Trap                                 | 90.0                                      |
 | Tactics                                     | 100.0                                     |
+
+## Pure Mage
+
+Pure Mage buildleri, <mark style="color:red;">**silah kullanmadan büyü hasarı, zehir baskısı ve büyüyle savunmaya odaklanan**</mark> yetenek dağılımlarıdır. Magery ile saldırı, tedavi ve koruma büyülerini kullanabilir; Evaluating Intelligence ve Inscription ile ilgili büyülerin hasarını, etkisini ve süresini destekleyebilirsiniz.
+
+Tüm dağılımlarda <mark style="color:red;">**100.0 Meditation ve 100.0 Poisoning**</mark> bulunur. Meditation ile trans sırasında en yüksek mana yenileme kademesinden yararlanabilirsiniz. Poisoning ise Poison büyüsüyle uyguladığınız zehrin gücünü destekler. Zehrin gücü, hedefinizle aranızdaki mesafeden de etkilenir.
+
+Pure Mage ekipmanlarının kullanım koşullarını korumak için bu dağılımlarda <mark style="color:red;">**Tactics, silah yetenekleri, Wrestling ve Parrying bulunmaz**</mark>.
+
+Aşağıdaki buildler <mark style="color:red;">**PvP odaklıdır**</mark> ve her biri <mark style="color:red;">**700 toplam yetenek puanına**</mark> göre hazırlanmıştır.
+
+### Zehirli Grup Büyücüsü
+
+Büyü hasarını, zehir baskısını ve bandajla tedaviyi birleştiren <mark style="color:red;">**grup PvP odaklı bir Pure Mage buildidir**</mark>. Evaluating Intelligence ve Inscription ile büyülerinizi desteklerken 100.0 Poisoning sayesinde rakibinizin tedavi ihtiyacını artırabilirsiniz.
+
+80.0 Anatomy ve Healing ile kendinizi ve arkadaşlarınızı bandajla tedavi edebilir, gerekli koşullarda arkadaşlarınızı diriltebilirsiniz. Bandaj kullanımı, mananızı saldırı ve koruma büyüleri için saklamanıza yardımcı olur. 100.0 Meditation ile güvenli anlarda transa geçerek en yüksek mana yenileme kademesinden yararlanabilirsiniz.
+
+Evaluating Intelligence’ı 80.0 seviyesinde tutarak Magic Resistance’a daha fazla puan ayırabilirsiniz. <mark style="color:red;">**60.0 Magic Resistance**</mark>, büyülere karşı savunmanızı destekler ve uygun zararlı büyülere tamamen direnme şansı sağlar. Bunun karşılığında ilgili büyülerinizin hasarı, etkisi ve süresi, 100.0 Evaluating Intelligence kullanan dağılıma göre daha düşük olur.
+
+Küçük grup mücadelelerinde ve kalabalık çatışmalarda, saldırı ile takım desteğini birlikte yürütmek isteyen oyuncular için uygundur. Rakibinize zehir ve saldırı büyüleriyle baskı kurarken arkadaşlarınızın tedavi ve diriltme ihtiyaçlarına da karşılık verebilirsiniz.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Anatomy                                     | 80.0                                      |
+| Evaluating Intelligence                     | 80.0                                      |
+| Healing                                     | 80.0                                      |
+| Inscription                                 | 100.0                                     |
+| Magery                                      | 100.0                                     |
+| Magic Resistance                            | 60.0                                      |
+| Meditation                                  | 100.0                                     |
+| Poisoning                                   | 100.0                                     |
+
+### Solo Hasar Odaklı
+
+Bandajla tedavi ve diriltme yetkinliğinden vazgeçerek <mark style="color:red;">**büyü hasarı, zehir baskısı ve kişisel tedaviye odaklanan bir solo PvP buildidir**</mark>.
+
+Evaluating Intelligence ve Inscription ile saldırı büyülerinizi güçlendirebilir, 100.0 Poisoning ile rakibiniz üzerinde zehir baskısı kurabilirsiniz. Magic Resistance’ı 100.0 seviyesinde tutarak büyülere karşı savunmanızı destekleyebilir, Meditation ile güvenli anlarda en yüksek mana yenileme kademesinden yararlanabilirsiniz.
+
+Spirit Speak, zehirli olmadığınız uygun anlarda mana harcayarak kendinizi tedavi etmeniz için ek bir seçenek sunar. Mana tükettiği için bu yeteneği saldırı ve tedavi büyülerinizle birlikte dikkatli yönetmeniz gerekir.
+
+Bire bir mücadelelerde ve kendi tedavi kaynaklarını yönetmek isteyen oyuncular için uygundur. <mark style="color:red;">**Healing bulunmadığından bandajla tedavi veya diriltme yapamazsınız**</mark>. Tedavinizi büyüler, iksirler ve uygun durumlarda Spirit Speak ile sağlayabilir; arkadaşlarınızı diriltmek için Resurrection büyüsünü kullanabilirsiniz.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Evaluating Intelligence                     | 100.0                                     |
+| Inscription                                 | 100.0                                     |
+| Magery                                      | 100.0                                     |
+| Magic Resistance                            | 100.0                                     |
+| Meditation                                  | 100.0                                     |
+| Poisoning                                   | 100.0                                     |
+| Spirit Speak                                | 100.0                                     |
+
+## PvM Pure Mage
+
+PvM Pure Mage buildleri, <mark style="color:red;">**yaratıklarla büyü hasarı ve zehir üzerinden mücadele etmeye odaklanan**</mark> yetenek dağılımlarıdır. Magery ile saldırı, tedavi ve koruma büyülerini kullanabilir; Evaluating Intelligence ve Inscription ile ilgili büyülerin gücünü destekleyebilirsiniz.
+
+Hunter Mastery’nin <mark style="color:red;">**17. seviyesini tamamladığınızda**</mark>, ilgili büyü hasarı hesaplarında Evaluating Intelligence ve Inscription bonusu güçlenir, yaratığın Magic Resistance kaynaklı hasar azaltımı kaldırılır.
+
+### Solo Hasar Odaklı
+
+Büyü hasarı, zehir ve kişisel tedaviyi birleştiren <mark style="color:red;">**solo PvM odaklı bir Pure Mage buildidir**</mark>. Evaluating Intelligence ve Inscription’ı 100.0 seviyesinde tutarak saldırı büyülerinizi güçlendirebilir, uygun yaratıklara karşı Poison büyüsüyle ek baskı kurabilirsiniz.
+
+100.0 Meditation ile güvenli anlarda transa geçerek en yüksek mana yenileme kademesinden yararlanabilirsiniz. Magic Resistance, ilgili yaratık büyülerine karşı savunmanızı destekler. Spirit Speak ise zehirli olmadığınız uygun anlarda mana harcayarak kendinizi tedavi etmeniz için ek bir seçenek sunar.
+
+Hunter görevlerinde, dungeon avlarında ve mesafenizi koruyarak büyü kullanabildiğiniz karşılaşmalarda tercih edebilirsiniz. Hunter Mastery’nin <mark style="color:red;">**17. seviyesini tamamladıktan sonra**</mark> büyü ve zehir odaklı avcılık gücünüz artar.
+
+**Healing bulunmadığından** tedavinizi büyüler, iksirler ve uygun durumlarda Spirit Speak ile yönetmeniz gerekir. Mana hem saldırı hem de tedavi kaynağınız olduğu için güçlü yaratıklarla mücadele ederken güvenli şekilde mana yenileyebileceğiniz anlar oluşturmanız önemlidir.
+
+| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
+| ------------------------------------------- | ----------------------------------------- |
+| Evaluating Intelligence                     | 100.0                                     |
+| Inscription                                 | 100.0                                     |
+| Magery                                      | 100.0                                     |
+| Magic Resistance                            | 100.0                                     |
+| Meditation                                  | 100.0                                     |
+| Poisoning                                   | 100.0                                     |
+| Spirit Speak                                | 100.0                                     |
