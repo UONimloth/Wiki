@@ -12,6 +12,10 @@ Aile ismi oluştururken dikkat etmeniz gereken kurallar:
 
 • Sadece harf, boşluk, - ve ' karakterleri kullanılabilir.
 
+• Aile ismi onaylandıktan sonra değiştirilemez.
+
+• İsimde İngilizce alfabedeki harfler kullanılmalıdır; Türkçe karakterler desteklenmez.
+
 Eğer bu kurallara uyuyorsanız, ailenizi başarıyla kurabilirsiniz.
 
 Aileyi kurduktan sonra <mark style="color:red;">**.ailem**</mark> komutunu kullanarak aile menüsüne erişebilirsiniz.
@@ -22,7 +26,7 @@ Bu menü, ailedeki rolünüze göre farklılık gösterebilir. Menü ilk açıld
 
 ## Üye Listesi
 
-Üye Listesi sekmesine tıkladığınızda aile üyelerini görüntüleyebilirsiniz. Her bir üyenin solunda bulunan butona tıklayarak aşağıdaki bilgileri görebilirsiniz:
+Üye Listesi sekmesinde aile üyelerini, çevrimiçi durumlarını ve çevrimiçi olanların bulunduğu bölgeyi görebilirsiniz. Aile reisi, her bir üyenin solunda bulunan butona tıklayarak aşağıdaki bilgileri görüntüleyebilir:
 
 • Karakter adı
 
@@ -77,6 +81,8 @@ Aile menüsündeki Üye Ekle butonu yalnızca aile reisi tarafından kullanılab
 Bu butona tıkladığınızda, aileye dahil etmek istediğiniz oyuncuyu seçmeniz istenir. Seçilen oyuncuya bir mesaj gönderilir ve bu mesajda aileye katılmak isteyip istemediği sorulur. Oyuncu onay verirse, üyelik işlemi gerçekleşir. Aileye katılım için herhangi bir ücret ödenmez.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/7T7fiy3fXjfxncdDf4CG9G87rLU67UTsuUJdzzbB.png)
+
+Aile üye sınırı, aile reisi dahil <mark style="color:red;">**50 karakterdir**</mark>. Davet edeceğiniz oyuncu en fazla 5 kare uzağınızda bulunmalıdır. Oyuncuya gönderilen davet penceresi 60 saniye sonra kapanır.
 
 Eğer aile reisi, kendi hesabındaki başka bir karakteri aileye eklemek isterse, kendisini seçtiğinde özel bir ekran açılır. Bu ekranda:
 
