@@ -5633,7 +5633,7 @@ Eğer bir zindanda (dungeon) bulunuyorsanız yalnızca girişteki Ankh gösteril
 
 ## Kayıtlı Olduğum Şehre Işınlan
 
-Bu seçeneği kullanarak daha önce kayıt yaptırdığınız şehre ışınlanabilir ve orada yeniden doğabilirsiniz.
+Bu seçeneği kullanarak daha önce kayıt yaptırdığınız şehre ışınlanabilirsiniz. Bu işlem sizi doğrudan canlandırmaz; yeniden hayata dönmek için bir Healer veya Ankh kullanmanız gerekir.
 
 Kullanım için:
 
@@ -5663,7 +5663,7 @@ Gereklilikler:
 
 ## Guilde Işınlan ve Canlan
 
-Bu seçeneği tercih ettiğinizde 15 saniye içerisinde sahip olduğunuz eve ışınlanır ve orada hayata geri dönersiniz.
+Bu seçeneği tercih ettiğinizde 15 saniye içerisinde üye olduğunuz guilde ışınlanır ve orada hayata geri dönersiniz.
 
 Gereklilikler:
 
@@ -5692,6 +5692,8 @@ Resurrection Stone, undead yaratıklardan düşen ve Canlanma Seçenekleri siste
 • Resurrection Stone üzerine çift tıklayın.
 
 • Açılan dialog penceresinden <mark style="color:red;">**“Eşyayı Kullan”**</mark> seçeneğini tıklayın.
+
+<mark style="color:red;">**“Eşyayı Kullan”**</mark> seçeneğini onayladığınızda, çift tıkladığınız Resurrection Stone yığınındaki taşların tamamı tüketilir ve aynı miktarda şarj karakterinize eklenir. Yalnızca belirli sayıda taş kullanmak istiyorsanız, kullanacağınız miktarı önceden ayrı bir yığına ayırmalısınız.
 
 Bu işlem sonrasında Resurrection Stone sayınız sistemde tanımlanır ve Resurrect Options menüsünde görüntülenebilir hale gelir.
 
