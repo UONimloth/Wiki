@@ -16181,7 +16181,7 @@ Toplam <mark style="color:red;">**700 yetenek puanınızı**</mark> ve <mark sty
 
 PvP mücadelelerine, yaratık avlarına, üretime veya kaynak toplamaya yönelebilir; görevler ve Mastery sistemleriyle karakterinizi geliştirebilirsiniz. Dungeon ve hazine keşifleriyle farklı maceralara katılırken seçtiğiniz yetenekler ve ekipmanlar, karakterinizin üstleneceği rolü belirler.
 
-Bu wiki üzerinden **sunucu sistemlerini, yetenekleri, eşyaları ve oyun mekaniklerini** öğrenebilir; build önerileri ve kullanım rehberleriyle karakterinizi planlayabilirsiniz.
+Bu wiki üzerinden <mark style="color:red;">**sunucu sistemlerini, yetenekleri, eşyaları ve oyun mekaniklerini**</mark> öğrenebilir; build önerileri ve kullanım rehberleriyle karakterinizi planlayabilirsiniz.
 
 ***
 
