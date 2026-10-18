@@ -14279,32 +14279,6 @@ Büyü hasarı, zehir ve kişisel tedaviyi birleştiren <mark style="color:red;"
 
 Hunter görevlerinde, dungeon avlarında ve mesafenizi koruyarak büyü kullanabildiğiniz karşılaşmalarda tercih edebilirsiniz. Hunter Mastery’nin <mark style="color:red;">**17. seviyesini tamamladıktan sonra**</mark> büyü ve zehir odaklı avcılık gücünüz artar.
 
-**Healing bulunmadığından** tedavinizi büyüler, iksirler ve uygun durumlarda Spirit Speak ile yönetmeniz gerekir. Mana hem saldırı hem de tedavi kaynağınız olduğu için güçlü yaratıklarla mücadele ederken güvenli şekilde mana yenileyebileceğiniz anlar oluşturmanız önemlidir.
-
-| <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
-| ------------------------------------------- | ----------------------------------------- |
-| Evaluating Intelligence                     | 100.0                                     |
-| Inscription                                 | 100.0                                     |
-| Magery                                      | 100.0                                     |
-| Magic Resistance                            | 100.0                                     |
-| Meditation                                  | 100.0                                     |
-| Poisoning                                   | 100.0                                     |
-| Spirit Speak                                | 100.0                                     |
-
-## PvM Pure Mage
-
-PvM Pure Mage buildleri, <mark style="color:red;">**yaratıklarla büyü hasarı ve zehir üzerinden mücadele etmeye odaklanan**</mark> yetenek dağılımlarıdır. Magery ile saldırı, tedavi ve koruma büyülerini kullanabilir; Evaluating Intelligence ve Inscription ile ilgili büyülerin gücünü destekleyebilirsiniz.
-
-Hunter Mastery’nin **17. seviyesini tamamladığınızda**, ilgili büyü hasarı hesaplarında Evaluating Intelligence ve Inscription bonusu güçlenir, yaratığın Magic Resistance kaynaklı hasar azaltımı kaldırılır.
-
-### Solo Hasar Odaklı
-
-Büyü hasarı, zehir ve kişisel tedaviyi birleştiren <mark style="color:red;">**solo PvM odaklı bir Pure Mage buildidi**</mark>**r**. Evaluating Intelligence ve Inscription’ı 100.0 seviyesinde tutarak saldırı büyülerinizi güçlendirebilir, uygun yaratıklara karşı Poison büyüsüyle ek baskı kurabilirsiniz.
-
-100.0 Meditation ile güvenli anlarda transa geçerek en yüksek mana yenileme kademesinden yararlanabilirsiniz. Magic Resistance, ilgili yaratık büyülerine karşı savunmanızı destekler. Spirit Speak ise zehirli olmadığınız uygun anlarda mana harcayarak kendinizi tedavi etmeniz için ek bir seçenek sunar.
-
-Hunter görevlerinde, dungeon avlarında ve mesafenizi koruyarak büyü kullanabildiğiniz karşılaşmalarda tercih edebilirsiniz. Hunter Mastery’nin <mark style="color:red;">**17. seviyesini tamamladıktan sonra**</mark> büyü ve zehir odaklı avcılık gücünüz artar.
-
 <mark style="color:red;">**Healing bulunmadığından**</mark> tedavinizi büyüler, iksirler ve uygun durumlarda Spirit Speak ile yönetmeniz gerekir. Mana hem saldırı hem de tedavi kaynağınız olduğu için güçlü yaratıklarla mücadele ederken güvenli şekilde mana yenileyebileceğiniz anlar oluşturmanız önemlidir.
 
 | <mark style="color:red;">**Yetenek**</mark> | <mark style="color:red;">**Değer**</mark> |
