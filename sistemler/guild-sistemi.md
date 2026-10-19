@@ -36,7 +36,7 @@ Aşağıdaki bilgiler Genel sekmesinde yer alır:
 
 • Guild Master: Guildin lideri
 
-• Üye Sayısı: Aktif üye sayısı
+• Üye Sayısı: Guild Master dahil toplam üye sayısı
 
 • Aday Sayısı: Guilde katılmak için başvuru yapan oyuncu sayısı
 
@@ -136,9 +136,9 @@ Oyuncu, bu pencerede yer alan soruyu onayladığında guild adayı olarak ekleni
 
 Adaylar bölümünde, guilde katılmak isteyen tüm oyuncular listelenir.
 
-Adaylar sadece <mark style="color:red;">**Guild Master tarafından onaylanabilir veya reddedilebilir**</mark>**.**
+Guild Master ve yardımcıları, oyuncuları doğrudan üye veya aday olarak davet edebilir. Diğer üyeler yalnızca aday daveti gönderebilir.
 
-Guild Master doğrudan aday ekleyemez; adaylık süreci daima başka bir üyenin davetiyle başlar.
+Adayların üyeliğe kabul edilmesi veya reddedilmesi Guild Master ve yardımcıları tarafından gerçekleştirilir.
 
 Her adayın yanında iki buton bulunur:
 
@@ -318,11 +318,19 @@ Bu işlem bazı sınırlamalara tabidir.
 
 • Eski master ise devrin ardından guildde normal bir üye olarak kalmaya devam eder.
 
-### Görevler
+### Yardımcılar
+
+Guild Master, mevcut üyeler arasından en fazla <mark style="color:red;">**3 yardımcı**</mark> belirleyebilir.
+
+Yardımcılar guilde doğrudan üye veya aday davet edebilir; adayları onaylayabilir ya da reddedebilir. Diğer Guild Master işlemlerini gerçekleştiremezler.
+
+Adaylar ve guildden ayrılma sürecindeki oyuncular yardımcı olarak seçilemez.
+
+## Görevler
 
 Görevler sekmesi ilerleyen dönemde aktif edilecektir.
 
-### Guildwars
+## Guildwars
 
 Guildwars sekmesi altında Esyria şehrinin son durumu hakkında bilgi alabilirsiniz.
 
@@ -332,7 +340,7 @@ Bu sistemle ilgili detaylı bilgi Guildwars Sistemi altında verilecektir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/10hW4bdu8XKecWiIbyHGt3nOkQeqt2sl1QAU13CF.png)
 
-### War Zone
+## War Zone
 
 [<mark style="color:red;">**War Zone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/war-zone) sekmesi, <mark style="color:red;">**tamamen eşit koşullar altında, dış etkenlerden bağımsız şekilde**</mark> başka guildler ile karşı karşıya gelmesini sağlar.\
 Bu sekme altından diğer guildler ile <mark style="color:red;">**Last Stand**</mark> ve <mark style="color:red;">**Team Deathmatch**</mark> etkinliklerine katılabilir veya daha önce yapmış olduğunuz savaşları görüntüleyebilirsiniz.
