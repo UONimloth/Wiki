@@ -36,7 +36,7 @@ Bonus etkinleştiğinde, hedefin üzerinde belirgin bir şekilde <mark style="co
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/FGa286bjqgPZCLewFbJuzJbMd6Gdalg8LEpZv5eX.png)
 
-Ayrıca hedef kanarken büyü yapmaya çalışırsa, **büyüsü fizzle olur**, yani başarısız olur.
+Bleed etkisi başladığında ve her kanama hasarı gerçekleştiğinde, hedef o sırada büyü hazırlıyorsa büyüsü kesilir ve başarısız olur. Kanama etkisi, bu anların dışında büyü yapılmasını engellemez.
 
 Bonus her etki ettiğinde hedefin üzerinde <mark style="color:red;">**“Kan Kaybeder”**</mark> ibaresi görünür.
 
@@ -136,13 +136,24 @@ Diğer bonuslarda olduğu gibi, etkinleşme koşulları hedefin **armor değerin
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Stam Shot bonusu <mark style="color:red;">**%50 ihtimalle**</mark> devreye girer.
 
-Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda **Anatomy** yeteneğiniz devreye girer.
+Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda <mark style="color:red;">**Anatomy**</mark> yeteneğiniz devreye girer.
 
 Anatomy seviyesi yükseldikçe Stam Shot bonusunun aktif olma ihtimali de artar.
 
-Macefighting silahları her vuruşta hedefin stamina değerini <mark style="color:red;">**%13 – %17 oranında**</mark> düşürür.
+#### Stam Shot Hasar Oranları
 
-Ancak Stam Shot bonusu aktif hale geldiğinde, bu oran **iki katına** çıkar.
+Macefighting silahlarının verdiği stamina kaybı, silahın tek veya çift elle kullanılmasına ve hedefin <mark style="color:red;">**Pure Mage**</mark> olup olmamasına göre değişir.
+
+Hesaplamada hedefin **maksimum stamina değeri** esas alınır:
+
+| <mark style="color:red;">**Silah kullanımı**</mark> | <mark style="color:red;">**Normal hedef**</mark> | <mark style="color:red;">**Pure Mage hedef**</mark> |
+| --------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- |
+| Tek el                                              | %10–14                                           | %15–20                                              |
+| Çift el                                             | %13–17                                           | %20–25                                              |
+
+Bu oranlar temel stamina kaybını belirler. Hedefin maksimum stamina değerine göre ayrıca bir ölçeklendirme uygulanır.&#x20;
+
+Ancak Stam Shot bonusu aktif hale geldiğinde, bu oran <mark style="color:red;">**iki katına**</mark> çıkar.
 
 Bonustan etkilenen oyuncunun üzerinde <mark style="color:red;">**“Stam Shot”**</mark> ibaresi belirir.
 
@@ -262,6 +273,8 @@ Critical Hit aktif olduğunda sadıran oyuncunun Tactics yeteneği 100 ise <mark
 
 Tactics + Lumberjacking yeteneği 100 ise <mark style="color:red;">**hasar 14-16 olur**</mark>**.**
 
+Bu çarpanlar tek başına nihai hasarı göstermez; hedefin armor değeri hesaplama sonucu etkileyebilir.
+
 ## Evaluating Intelligence
 
 Evaluating Intelligence, büyü odaklı karakterlerin hem savunma hem de saldırı büyülerinden maksimum verimi almasını sağlayan bir büyü bonusudur.
@@ -325,6 +338,18 @@ Yetenek 100 seviyesindeyse, bu büyülerin etki süresi ve gücü <mark style="c
 Yaratıklara uygulanan bonus miktarı oyunculara uygulanan bonusun <mark style="color:red;">**2 katı oranında**</mark> artar.
 
 Bu artış, her bir büyü hasarının hesaplanması sırasında direkt olarak büyü gücüne eklenir.
+
+### Eva + Inscription Etkisi
+
+Desteklenen saldırı büyülerinde Evaluating Intelligence ve Inscription birlikte değerlendirilir. Her iki yetenek de 100.0 olduğunda toplam hasar bonusu:
+
+• Oyuncu hedeflerde yaklaşık %33’tür.
+
+• Yaratık hedeflerde yaklaşık %66’dır.
+
+• Hunter Mastery’nin 17. seviyesini tamamladıysanız yaratık hedeflerde %100’dür.
+
+Yuvarlama, büyüye özel kurallar ve hedefin savunması nihai hasarı etkileyebilir. Magic Arrow’un oyuncu hedeflerdeki hesaplaması ayrıdır.
 
 ## Silahlar ve Bonusları
 
