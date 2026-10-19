@@ -90,13 +90,9 @@ Tıpkı diğer bonuslarda olduğu gibi, etkinleşme koşulları <mark style="col
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Paradarbe bonusu <mark style="color:red;">**%100 ihtimalle**</mark> devreye girer.
 
-Eğer hedefin armor değeri 25 ve üzerindeyse, bonus şansı iki koşula göre değişir:
+Hedefin armor değeri 25 ve üzerindeyse, Paradarbe’nin devreye girme ihtimali <mark style="color:red;">**Anatomy**</mark> yeteneğinize bağlıdır. Anatomy yeteneğiniz yükseldikçe bonus ihtimal artar.&#x20;
 
-• Saldıran oyuncu binekte değilse, bonusun devreye girme ihtimali yüksek olur.
-
-• Saldıran oyuncu binekteyse, bonusun devreye girme ihtimali daha düşüktür.
-
-Her iki durumda da, <mark style="color:red;">**Anatomy**</mark> yeteneği ne kadar yüksekse, bonusun devreye girme olasılığı da o kadar artar.
+Saldıranın binekte olup olmaması bu bonusun şansını değiştirmez.
 
 Paradarbe etkisi altındaki oyuncu, <mark style="color:red;">**2 saniye**</mark> boyunca hareket edemez.
 
@@ -172,7 +168,7 @@ Bonus aktif olduğunda:
 
 • Eğer hedef bir <mark style="color:red;">**oyuncu**</mark> ise, silahın baz hasarının <mark style="color:red;">**2 katı**</mark> kadar hasar verir.
 
-• Eğer hedef bir <mark style="color:red;">**yaratık**</mark> ise, silahın baz hasarının <mark style="color:red;">**3 katı**</mark> kadar hasar verir.
+• Yaratık hedeflere silahın temel hasarının <mark style="color:red;">**3 katı**</mark> hasar verir. [<mark style="color:red;">**Hunter Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hunter-mastery-sistemi)’nin 20. seviyesini tamamladıysanız bu çarpan <mark style="color:red;">**4**</mark> olur.
 
 Bonus aktif olduğunda saldıran oyuncunun üzerinde <mark style="color:red;">**“Perfect Shot”**</mark> ibaresi belirir.
 
@@ -212,13 +208,7 @@ NOT: Disarm bonusu ile birlikte <mark style="color:red;">**kullanılamaz**</mark
 
 ## Disarm
 
-Disarm Bonusu, Wrestling ustalarının yakın dövüşte rakiplerini sersemletmelerini sağlayan özel bir yetenektir.
-
-Bu bonus, herhangi bir silah gerektirmez, yalnızca ellerinizle yapılan saldırılar üzerinden aktif olur.
-
-Disarm bonusunun etkili olabilmesi için, <mark style="color:red;">**Wrestling ve Armslore yeteneklerinizin 80.0 ve üzerinde olması gerekir**</mark>**.**
-
-Eğer bu yeteneklere sahipseniz oyun içerisinde .disarm yazarak ya da Profile menüsünde yer alan bonuslar sekmesinden bonusu aktif-deaktif edebilirsiniz.
+Disarm, silahsız saldırılarla hedef oyuncunun elindeki silahı düşürmenizi sağlayan bir bonustur. Aktifleştirmek için <mark style="color:red;">**Wrestling ve Armslore yeteneklerinizin en az 80.0 olması gerekir**</mark>.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/J296fACfGJ1KSD2mqmn9482kybKRToHH9joKH8QI.png)
 
