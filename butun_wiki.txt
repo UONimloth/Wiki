@@ -5238,7 +5238,7 @@ Unutmayın, doğru bonus kombinasyonu hem savaş alanında hem de büyü sanatla
 
 Bleed, Sword türü silahlarda bulunan ve hedefi kanatarak zamanla hasar veren ölümcül bir silahtır.
 
-Bleed bonusunun etkili olabilmesi için, <mark style="color:red;">**Swordsmanship ve Tactics yeteneklerinizin 98.0 üzerinde olması gerekir**</mark>**.**
+Bleed bonusunun etkili olabilmesi için, <mark style="color:red;">**Swordsmanship ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
 Bu koşulu sağladığınızda ve Bleed bonusuna sahip bir silah kuşandığınızda, ekranın sol kısmında <mark style="color:red;">**“Bleed bonusu aktif”**</mark> ibaresi belirir.
 
@@ -5270,7 +5270,7 @@ Bleed etkisi, toplam 5 defa kan kaybı gerçekleştiğinde ya da hedef Bleed Pot
 
 Dismount, hedef oyuncuyu bineğinden düşürmeye yarayan güçlü bir bonustur.
 
-Dismount bonusunun etkili olabilmesi için, <mark style="color:red;">**silaha ait yeteneğinizin ve Tactics yeteneklerinizin 98.0 üzerinde olması gerekir**</mark>**.**
+Dismount bonusunun etkili olabilmesi için, <mark style="color:red;">**silaha ait yeteneğinizin ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
 Bu koşulu sağladığınızda ve Dismount bonusuna sahip bir silah kuşandığınızda, ekranın sol kısmında <mark style="color:red;">**“Dismount bonusu aktif”**</mark> ibaresi belirir.
 
@@ -5300,7 +5300,7 @@ Paradarbe, yalnızca fencing türü silahlar tarafından kullanılabilen özel b
 
 Bu bonus, hedefi kısa süreliğine felç ederek hareket edemez hale getirir.
 
-Paradarbe bonusunun etkili olabilmesi için, <mark style="color:red;">**Fencing ve Tactics yeteneklerinizin 98.0 üzerinde olması gerekir**</mark>**.**
+Paradarbe bonusunun etkili olabilmesi için, <mark style="color:red;">**Fencing ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
 Bu koşulu sağladığınızda ve Paradarbe bonusuna sahip bir silah kuşandığınızda, ekranın sol kısmında <mark style="color:red;">**“Paradarbe bonusu aktif”**</mark> ibaresi belirir.
 
@@ -5326,13 +5326,13 @@ Armor Ignore, yalnızca Kryss ve War Fork türü silahlarda aktif olabilen özel
 
 Bu bonus, hedefin zırhını tamamen yok sayarak doğrudan hasar vermenizi sağlar.
 
-Armor Ignore bonusunun etkili olabilmesi için, <mark style="color:red;">**Fencing ve Tactics yeteneklerinizin 98.0 üzerinde olması gerekir**</mark>**.**
+Armor Ignore bonusunun etkili olabilmesi için, <mark style="color:red;">**Fencing ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
 Bu koşulu sağladığınızda ve Armor Ignore bonusuna sahip bir silah kuşandığınızda, ekranın sol kısmında <mark style="color:red;">**“Armor Ignore bonusu aktif”**</mark> ibaresi belirir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/6mklrck0GHOsSOKdVcLhNoPCOXOxjiqTUuTk0Z9M.png)
 
-Armor Ignore bonusunda herhangi bir armor değeri kontrolü bulunmaz.
+Bonusun gerçekleşme ihtimali Anatomy yeteneğinize bağlıdır; Anatomy yükseldikçe ihtimal artar. Hedefin armor değeri bu ihtimali değiştirmez.
 
 Bonus devreye girdiğinde, hedef oyuncuya verilen hasar hiç zırhı yokmuş gibi hesaplanır.
 
@@ -5346,7 +5346,7 @@ Stam Shot, yalnızca Macefighting silahlarında aktif olabilen özel bir silaht�
 
 Bu bonus, rakip oyuncunun stamina değerini normalden çok daha fazla düşürmenizi sağlar.
 
-Stam Shot bonusunun etkili olabilmesi için, <mark style="color:red;">**Macefighting ve Tactics yeteneklerinizin 98.0 üzerinde olması gerekir**</mark>**.**
+Stam Shot bonusunun etkili olabilmesi için, <mark style="color:red;">**Macefighting ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
 Bu koşulu sağladığınızda ve Stam Shot bonusuna sahip bir silah kuşandığınızda, ekranın sol kısmında <mark style="color:red;">**“Stam Shot bonusu aktif”**</mark> ibaresi belirir.
 
@@ -5385,7 +5385,7 @@ Perfect Shot, yalnızca <mark style="color:red;">**Bow tipi(Bow, Elven Bow, Yew 
 
 Bu bonus, ustalaşmış okçuların tek bir atışla yıkıcı hasar vermesini sağlar.
 
-Perfect Shot bonusunun etkili olabilmesi için, <mark style="color:red;">**Archery ve Tactics yeteneklerinizin 98.0 üzerinde olması gerekir**</mark>**.**
+Perfect Shot bonusunun etkili olabilmesi için, <mark style="color:red;">**Archery ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
 Bu koşulu sağladığınızda ve Perfect Shot bonusuna sahip bir silah kuşandığınızda, ekranın sol kısmında <mark style="color:red;">**“Perfect Shot bonusu aktif”**</mark> ibaresi belirir.
 
@@ -5411,7 +5411,7 @@ Stun Bonusu, Wrestling ustalarının yakın dövüşte rakiplerini sersemletmele
 
 Bu bonus, herhangi bir silah gerektirmez, yalnızca ellerinizle yapılan saldırılar üzerinden aktif olur.
 
-Stun bonusunun etkili olabilmesi için, <mark style="color:red;">**Wrestling ve Tactics yeteneklerinizin 98.0 üzerinde olması gerekir**</mark>**.**
+Stun bonusunun etkili olabilmesi için, <mark style="color:red;">**Wrestling ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
 Eğer bu yeteneklere sahipseniz oyun içerisinde .stun yazarak ya da Profile menüsünde yer alan bonuslar sekmesinden bonusu aktif-deaktif edebilirsiniz.
 
