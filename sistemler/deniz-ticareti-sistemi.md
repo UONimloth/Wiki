@@ -15,7 +15,7 @@ Bu nedenle yalnızca o şehrin kabul ettiği mal türlerini ticaret kargosuna ek
 | Şehir          | Ticaret Türü             | Ticaret Edilebilen Eşyalar                                                           |
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------ |
 | **Vesper**     | Blacksmith (Metal)       | _Ringmail_ ve _Chainmail_ set parçaları                                              |
-| **Skara Brae** | Farming (Tarım)          | Tarımsal ürünler, tohumlar, bitkisel mallar                                          |
+| **Skara Brae** | Farming (Tarım)          | Hasat edilmiş meyve ve sebzeler                                                      |
 | **Ocllo**      | Fishing (Balıkçılık)     | Çeşitli balık türleri ve deniz mahsulleri                                            |
 | **Moonglow**   | Scroll (Büyü Kağıtları)  | Büyü parşömenleri                                                                    |
 | **Magincia**   | Cloth (Kumaş & Tekstil)  | Kumaş ile üretilmiş tekstil ürünleri                                                 |
@@ -113,15 +113,17 @@ Bu hedef ile Sea Trader vendoru seçmelisiniz. Sadece görevi aldığınız şeh
 
 Sea Trader vendorunu seçtiğinizde bir onay ekranı açılacak, onayladığınızda ise ticaretiniz resmiyet kazanacaktır.
 
+Kontratı imzalatabilmek için karakterinizin bankasında en az <mark style="color:red;">**10.000 altın**</mark> bulunmalıdır.
+
+Kontrat imzalandıktan sonra Trade Crate’e yeni eşya <mark style="color:red;">**eklenemez**</mark>. Bu nedenle taşımak istediğiniz malları imza işleminden önce yüklemelisiniz.
+
 Bu noktadan itibaren Ticaret Konratınızın rengi yeşil olacaktır ve artık ticaretiniz başlamış olur.
 
-Kontrat imzalandıktan sonra ticareti **4 saat içinde teslim etmeniz gerekmektedir.**
+Kontrat imzalandıktan sonra ticareti <mark style="color:red;">**4 saat içinde teslim etmeniz gerekmektedir**</mark>**.**
 
 <mark style="color:red;">**Bu süre içerisinde teslim edilmeyen ticaretler iptal edilir ve geçersiz sayılır.**</mark>
 
 Not: Ticaret başladıktan sonra gemiden inebilir, runebook gibi eşyalar kullanabilirsiniz.
-
-<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 Ticarete başladığınızda tüm sunucuya ticaretin hangi şehirden başladığı ile ilgili bir bildirim mesajı paylaşılacaktır
 
@@ -149,7 +151,9 @@ Not: Geminiz batırıldığında veya gemide öldüğünüzde ticaretiniz iptal 
 
 ### Ticaretin Teslim Edilmesi
 
-Ticaretinizi tamamlamak istediğiniz noktayı dilediğiniz gibi seçebilirsiniz. Tek istisna, ticareti başlattığınız şehre teslimat yapamamanızdır.
+Ticaretinizi tamamlamak istediğiniz noktayı dilediğiniz gibi seçebilirsiniz. Teslimat yapacağınız şehrin taşıdığınız mala ihtiyacı kalmamışsa Sea Trader teslimatı kabul etmez. Bu durumda ticaretinizi başka bir şehre götürmeniz gerekir.
+
+Teslimat sırasında Trade Crate’in bulunduğu gemide olmalı ve Sea Trader’a en fazla 15 kare uzaklıkta bulunmalısınız.
 
 Ticareti teslim etmek için çantanızdaki Trade Contract’a çift tıklayın ve ardından <mark style="color:red;">**“Teslim Et”**</mark> butonuna basın.
 
