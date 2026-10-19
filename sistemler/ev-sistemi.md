@@ -116,6 +116,8 @@ Evi yenileme ücreti günlük olarak artar ve evin boyutuna göre değişiklik g
 
 Eğer [<mark style="color:red;">**premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) <mark style="color:red;">**üyeyseniz**</mark> ve hesabınızda evi yenilemek için yeterli miktarda altın bulunuyorsa, eviniz otomatik olarak yenilenir.
 
+Premium üyeyseniz,&#x20;
+
 Bu sayede premium oyuncular, çevrimdışı olsalar dahi evlerinin yıkılma riskinden korunurlar.
 
 Evin yenileme işlemini ev sahibi, evin dostları veya ortakları yapabilir.
@@ -260,23 +262,19 @@ Dilerseniz vendorlarınızı buradan Kontrat haline getirebilirsiniz.
 
 ### Evi Transfer Et
 
-Evi Transfer Et butonu üzerinden sahip olduğunuz evi başka bir oyuncuya devredebilirsiniz.
-
-Transfer işlemi sırasında dilerseniz evin mevcut <mark style="color:red;">**dostlarını ve ortaklarını**</mark> da yeni sahibine aktarabilirsiniz.
+Evi Transfer Et butonunu kullanarak evinizi başka bir oyuncuya devredebilirsiniz. Transfer sırasında mevcut dost ve ortak listesini korumayı da seçebilirsiniz.
 
 Transferin gerçekleşebilmesi için:
 
-• Evin sahibinin en az <mark style="color:red;">**50.000 altın**</mark> bulundurması,
+• Ev sahibinin ve evi devralacak oyuncunun bankasında ayrı ayrı en az <mark style="color:red;">**25.000 altın**</mark> bulunmalıdır. İşlem tamamlandığında her iki taraftan <mark style="color:red;">**25.000’er altın**</mark> kesilir.
 
-• Evin devredileceği oyuncunun ise en az <mark style="color:red;">**25.000 altına**</mark> sahip olması gerekmektedir.
+• Evi devralacak oyuncu çevrimiçi olmalı ve evin içinde bulunmalıdır.
 
-Ancak dikkat edilmesi gereken önemli noktalar vardır:
+• Evi devralacak oyuncunun başka bir evi bulunmamalı ve devralacağı evin dost veya ortak listesinde yer almamalıdır.
 
-• Ev satışta iken başka bir oyuncuya transfer edilemez.
+• Ev satışta olmamalıdır.
 
-• Transfer işlemi yapılırken evde <mark style="color:red;">**strongbox**</mark> veya <mark style="color:red;">**vendor**</mark> bulunmamalıdır.
-
-Bu koşullar sağlandığında evinizi güvenle devredebilir, Nimloth dünyasında yeni sahiplerine bırakabilirsiniz.
+• Evde <mark style="color:red;">**strongbox**</mark> veya <mark style="color:red;">**vendor**</mark> bulunmamalıdır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Mi2em6U0axytY5vOWrcVciCEUAnFb5lOPTjsaoo6.png)
 
@@ -310,6 +308,8 @@ Tüm bilgiler doğruysa <mark style="color:red;">**“Satışa Çıkart”**</ma
 Eviniz satışa çıkarıldığında tabelası yeşil renge dönecektir.
 
 Ayrıca premium üyeler, evlerinde yanan bir “Satılık” tabelasına da sahip olurlar.
+
+Evinizi satıştan çekebilirsiniz. Ancak satışa çıkarırken ödediğiniz 50.000 altın iade edilmez.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lCHHpPtw73bQz55C56ksz6H2z7DiC6wBTWYqnog1.png)
 

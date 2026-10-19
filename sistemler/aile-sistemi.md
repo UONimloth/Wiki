@@ -40,7 +40,7 @@ Bu menü, ailedeki rolünüze göre farklılık gösterebilir. Menü ilk açıld
 
 • Skill toplamı
 
-• Online süresi
+• Hesabın online süresi
 
 • Etkinlik puanı
 
