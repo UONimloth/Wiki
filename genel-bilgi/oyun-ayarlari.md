@@ -991,7 +991,7 @@ Oyun içerisinde oluşturulan büyü alanlarının (Field) nasıl görüntülene
 * <mark style="color:red;">**Static Fields**</mark>: Büyü alanlarını animasyonsuz, sabit grafiklerle görüntüler.
 * <mark style="color:red;">**Tile Fields**</mark>: Büyü alanlarını daha sade, zemin üzerinde karo (tile) şeklinde görüntüler.
 
-<figure><img src="../.gitbook/assets/fields.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tile.gif" alt=""><figcaption></figcaption></figure>
 
 ### Use Waypoint
 
@@ -1142,7 +1142,7 @@ Açık konteyner pencerelerinde konteynerin isminin görüntülenmesini sağlar.
 
 Çanta ve konteyner pencerelerinin açıldığında ekranın hangi konumunda görüntüleneceğini belirler. Dört farklı yerleşim seçeneğinden birini kullanabilirsiniz:
 
-#### **Near Container Position**&#x20;
+#### **Near Container Position**
 
 Konteyner penceresini, oyun dünyasındaki konteynerin bulunduğu konuma yakın bir yerde açar.
 
@@ -1481,8 +1481,6 @@ Karakteriniz koşarken arkasında kısa süreli toz bulutları oluşmasını sa�
 Oyun içerisindeki pencerelerin açılıp kapanırken kayma (Slide) ve saydamlık geçişi (Fade) animasyonları kullanmasını sağlar. Böylece pencereler aniden belirip kaybolmak yerine daha akıcı geçişlerle görüntülenir.
 
 <figure><img src="../.gitbook/assets/slide.gif" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Çim/Bitkilerde Rüzgâr Salınımı
 
