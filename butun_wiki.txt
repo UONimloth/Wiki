@@ -6209,7 +6209,7 @@ Bu menü, ailedeki rolünüze göre farklılık gösterebilir. Menü ilk açıld
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SCpgcW60vhrz9MfYI0pU8GmQ7cQTHEXGcfzOuy1n.png)
 
-Eğer aile reisiyseniz, üyelerin sağ tarafında bir X butonu göreceksiniz. Bu butona tıklayarak ilgili üyeyi aileden çıkartabilirsiniz. Bu işlemden önce bir onay ekranı açılır ve yalnızca onay verdikten sonra işlem tamamlanır.
+Aile reisi, üyenin sağındaki X butonunu kullanarak ve açılan onay penceresini onaylayarak üyeyi aileden çıkarabilir.
 
 Bu özellik sayesinde aile içi düzenlemeleri daha sağlıklı bir şekilde gerçekleştirebilirsiniz.
 
@@ -6219,7 +6219,7 @@ Bu özellik sayesinde aile içi düzenlemeleri daha sağlıklı bir şekilde ger
 
 Menüde yer alan bir diğer önemli sekme ise <mark style="color:red;">**Aileyi Yık / Aileden Ayrıl**</mark> sekmesidir. Bu sekme, ailedeki pozisyonunuza göre farklı işlev gösterir:
 
-• Eğer aile reisiniz, bu butona tıklayarak aileyi tamamen yıkabilirsiniz.
+• Eğer aile reisiyseniz, bu butona tıklayarak aileyi tamamen yıkabilirsiniz.
 
 • Eğer sıradan bir aile üyesiyseniz, bu butona tıklayarak aileden ayrılabilirsiniz.
 
