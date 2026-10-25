@@ -94,7 +94,7 @@ Ekranın alt kısmında ise ev türüne istinaden genel bilgiler yer almaktadır
 
 • Secure Eşya Sayısı
 
-Bu değerler evin büyüklüğüne göre değişiklik gösterir.
+Dost, ortak, sabit eşya, kuluçka ve secure eşya kapasiteleri ev modeline göre değişir. Strongbox ve vendor sınırı ise her ev için 3’tür.
 
 Evlere ait detaylı bilgilere oyun içerisindeki <mark style="color:red;">**House Crafting Tool**</mark> üzerinden veya wiki’deki evler sayfasından ulaşabilirsiniz.
 
@@ -188,6 +188,8 @@ Kasanın erişim yetkisini değiştirmek için, görüntülediğiniz listeden di
 
 Evin sahibi olarak bu seçenekleri istediğiniz an değiştirebilir ve kasalarınızı güvenli biçimde yönetebilirsiniz.
 
+Ev sahibi, seçilen erişim ayarından bağımsız olarak tüm secure kasalara erişebilir.
+
 Not:Secure hale getirilen kasalar <mark style="color:red;">**varsayılan olarak sadece ev sahibinin erişimine açık**</mark> olacak şekilde ayarlanır.
 
 <figure><img src="../.gitbook/assets/secure.gif" alt=""><figcaption></figcaption></figure>
@@ -218,11 +220,7 @@ Boyalar butonuna tıklayarak evinizi dilediğiniz renkle boyayabilir, tarzınız
 
 Toplamda <mark style="color:red;">**14 farklı renk seçeneği**</mark> bulunmaktadır.
 
-İsterseniz bu renkleri hemen uygulayabilir, isterseniz de önce test ederek nasıl göründüğüne karar verebilirsiniz.
-
-Bir rengi test etmek için <mark style="color:red;">**50.000 altın**</mark> ödemeniz yeterlidir.
-
-Ayrıca [<mark style="color:red;">**House Dye**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/rare-dye-sistemi#house-dye) kullanarak, bu menü üzerinden seçtiğiniz rengi doğrudan evinize uygulayabilirsiniz.
+Menüdeki 14 rengi <mark style="color:red;">**50.000 altın**</mark> karşılığında deneyebilirsiniz. Deneme <mark style="color:red;">**5 saniye**</mark> sürer, ardından ev eski rengine döner. Kalıcı boyama için <mark style="color:red;">**“Boya Uygula”**</mark> butonuna basıp kullanmak istediğiniz [<mark style="color:red;">**House Dye**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/rare-dye-sistemi#house-dye) eşyasını seçmelisiniz.
 
 Renkleri deneyin, tarzınızı belirleyin ve Nimloth dünyasında evinizi fark edilir kılın
 
@@ -280,20 +278,22 @@ Transferin gerçekleşebilmesi için:
 
 ### Kapıları Linkle
 
-Evlerinize ait kapıları artık birbirleriyle **linkleyebilirsiniz**. Linklenen kapılar, biri açıldığında diğer kapıyla birlikte açılarak kullanım kolaylığı sağlar.
+Evlerinize ait kapıları artık birbirleriyle <mark style="color:red;">**linkleyebilirsiniz**</mark>. Linklenen kapılar, biri açıldığında diğer kapıyla birlikte açılarak kullanım kolaylığı sağlar.
 
 * Linkleme İşlemi yalnızca <mark style="color:red;">**ev sahibi**</mark> tarafından gerçekleştirilebilir.
 * Linkleme işleminin ücreti <mark style="color:red;">**25.000 altındır**</mark>**.**
 * Linklenen kapılar birlikte açılıp kapanır.
 * Kapı linkini istediğiniz zaman <mark style="color:red;">**25.000 altın**</mark> karşılığında kaldırabilirsiniz.
 
-Bu özellik sayesinde evinizde birbirinden farklı konumlarda bulunan kapıları tek bir işlemle birlikte kontrol edebilirsiniz.
+Bu özellik sayesinde yan yana bulunan çift kapıları birlikte açıp kapatabilirsiniz.
 
 <figure><img src="../.gitbook/assets/door link.gif" alt=""><figcaption></figcaption></figure>
 
 ## Evi Satışa Çıkart
 
 Bu buton aracılığıyla sahip olduğunuz evi belirlediğiniz fiyattan satışa çıkarabilirsiniz.
+
+Evde vendor, strongbox veya guildstone bulunuyorsa ev satışa çıkarılamaz.
 
 Evi satışa çıkartmak için <mark style="color:red;">**50.000 altın**</mark> gereklidir.
 
