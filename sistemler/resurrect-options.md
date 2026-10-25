@@ -20,7 +20,9 @@ Eğer bir zindanda (dungeon) bulunuyorsanız yalnızca girişteki Ankh gösteril
 
 ## Kayıtlı Olduğum Şehre Işınlan
 
-Bu seçeneği kullanarak daha önce kayıt yaptırdığınız şehre ışınlanabilirsiniz. Bu işlem sizi doğrudan canlandırmaz; yeniden hayata dönmek için bir Healer veya Ankh kullanmanız gerekir.
+Bu seçeneği kullanarak daha önce kayıt yaptırdığınız şehre ışınlanabilirsiniz. Aynı anda sadece tek bir şehre kayıt olabilirsiniz ve dilediğiniz zaman kayıtlı olduğunuz şehri değiştirebilirsiniz.
+
+Bu işlem sizi doğrudan canlandırmaz; yeniden hayata dönmek için bir Healer veya Ankh kullanmanız gerekir.
 
 Kullanım için:
 
@@ -40,7 +42,7 @@ Bu seçeneği kullanabilmek için <mark style="color:red;">**1 adet**</mark> Res
 
 ## Evime Işınlan ve Canlan
 
-Bu seçeneği tercih ettiğinizde 15 saniye içerisinde sahip olduğunuz eve ışınlanır ve orada hayata geri dönersiniz.
+Bu seçeneği tercih ettiğinizde 15 saniye sonra sahip olduğunuz eve ışınlanır ve orada hayata geri dönersiniz.
 
 Gereklilikler:
 
