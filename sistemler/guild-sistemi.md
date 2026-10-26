@@ -252,6 +252,8 @@ Bu sekmeden guildler kendi bayraklarını seçebilir ve bağımsızlıklarını 
 
 Bayrak seçimi yapılmadan <mark style="color:red;">**Guild Wars sistemine katılım mümkün değildir**</mark>**.**
 
+Guild Bayrağı butonuna tekrar tıkladığınızda mevcut bayrağınızı görüntüleyebilirsiniz. Bayrak veya tasarım değişikliği 7 günde bir yapılabilir.
+
 ### Bayrak Seçimi ve Bayrakların Önemi
 
 Guild bayrakları tamamen ücretsizdir ve isteyen tüm guildler tarafından seçilebilmektedir.

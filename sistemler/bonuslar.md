@@ -229,7 +229,7 @@ Bonus aktif veya deaktif edildiğinde ekranın sol kısmında <mark style="color
 
 Diğer bir çok bonusta olduğu gibi, etkinleşme koşulları hedefin <mark style="color:red;">**armor değerine ve saldıranın durumuna göre**</mark> belirlenir:
 
-Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Disarm bonusu <mark style="color:red;">**%50 ihtimalle**</mark> devreye girer.
+Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Disarm bonusu <mark style="color:red;">**%100 ihtimalle**</mark> devreye girer.
 
 Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda **Armslore** yeteneğiniz devreye girer.
 
@@ -319,7 +319,7 @@ Inscription bonusu iki farklı şekilde etkisini gösterir:
 
 • Hedeflere atılan saldırı büyülerinde
 
-Her iki durumda da bonusun gücü, oyuncunun Evaluating Intelligence yeteneğine doğrudan bağlıdır.
+Her iki durumda da bonusun gücü, oyuncunun Inscription yeteneğine doğrudan bağlıdır.
 
 ### Buff & Debuff Etkileri
 
