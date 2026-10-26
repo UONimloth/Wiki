@@ -3108,8 +3108,6 @@ Evi yenileme ücreti günlük olarak artar ve evin boyutuna göre değişiklik g
 
 Eğer [<mark style="color:red;">**premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) <mark style="color:red;">**üyeyseniz**</mark> ve hesabınızda evi yenilemek için yeterli miktarda altın bulunuyorsa, eviniz otomatik olarak yenilenir.
 
-Premium üyeyseniz,&#x20;
-
 Bu sayede premium oyuncular, çevrimdışı olsalar dahi evlerinin yıkılma riskinden korunurlar.
 
 Evin yenileme işlemini ev sahibi, evin dostları veya ortakları yapabilir.
@@ -4428,12 +4426,12 @@ Bu nedenle yalnızca o şehrin kabul ettiği mal türlerini ticaret kargosuna ek
 | -------------- | ------------------------ | ------------------------------------------------------------------------------------ |
 | **Vesper**     | Blacksmith (Metal)       | _Ringmail_ ve _Chainmail_ set parçaları                                              |
 | **Skara Brae** | Farming (Tarım)          | Hasat edilmiş meyve ve sebzeler                                                      |
-| **Ocllo**      | Fishing (Balıkçılık)     | Çeşitli balık türleri ve deniz mahsulleri                                            |
+| **Ocllo**      | Fishing (Balıkçılık)     | Normal ve özel balıklar ile çiğ veya pişmiş balık dilimleri                          |
 | **Moonglow**   | Scroll (Büyü Kağıtları)  | Büyü parşömenleri                                                                    |
 | **Magincia**   | Cloth (Kumaş & Tekstil)  | Kumaş ile üretilmiş tekstil ürünleri                                                 |
-| **Jhelom**     | Leather (Deri)           | İşlenmiş deri ürünleri                                                               |
+| **Jhelom**     | Leather (Deri)           | Sistemin kabul ettiği deri zırhlar ve ayakkabılar                                    |
 | **Britain**    | Food & Drink (Yiyecek)   | Yemek ve içecek ürünleri _(<mark style="color:red;">**şu anda aktif değil**</mark>)_ |
-| **Trinsic**    | Potion (İksir & Alchemy) | Alchemy ürünleri ve iksirler                                                         |
+| **Trinsic**    | Potion (İksir & Alchemy) | İksirler                                                                             |
 
 ## Ticarete Başlama
 
@@ -4563,7 +4561,9 @@ Not: Geminiz batırıldığında veya gemide öldüğünüzde ticaretiniz iptal 
 
 ### Ticaretin Teslim Edilmesi
 
-Ticaretinizi tamamlamak istediğiniz noktayı dilediğiniz gibi seçebilirsiniz. Teslimat yapacağınız şehrin taşıdığınız mala ihtiyacı kalmamışsa Sea Trader teslimatı kabul etmez. Bu durumda ticaretinizi başka bir şehre götürmeniz gerekir.
+Ticaretinizi, kontratı aldığınız şehir dışında, taşıdığınız mala ihtiyacı bulunan başka bir şehirde tamamlayabilirsiniz.
+
+Teslimat yapacağınız şehrin taşıdığınız mala ihtiyacı kalmamışsa Sea Trader teslimatı kabul etmez. Bu durumda ticaretinizi başka bir şehre götürmeniz gerekir.
 
 Teslimat sırasında Trade Crate’in bulunduğu gemide olmalı ve Sea Trader’a en fazla 15 kare uzaklıkta bulunmalısınız.
 
