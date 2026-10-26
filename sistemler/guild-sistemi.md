@@ -282,7 +282,7 @@ Bu bayraklar yalnızca görsel bir detay değil, aynı zamanda guildin gücünü
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/M7vijIVblOEXYTeLXwAzhYprMMKcOBh4zTFS1Yy5.png)
 
-Bayrak seçimi yapıldıktan sonra Guild bayrağı butonuna tekrar tıkladığınızda aktif bayrağı ve kalan süresini görüntüleyebilirsiniz.
+Bayrak seçimi yapıldıktan sonra Guild bayrağı butonuna tekrar tıkladığınızda aktif bayrağı görüntüleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/otowa5tIvBMOVL7BRrw4XGsNvEmb9go5V5QuDRWf.png)
 
