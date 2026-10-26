@@ -116,8 +116,6 @@ Evi yenileme ücreti günlük olarak artar ve evin boyutuna göre değişiklik g
 
 Eğer [<mark style="color:red;">**premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi) <mark style="color:red;">**üyeyseniz**</mark> ve hesabınızda evi yenilemek için yeterli miktarda altın bulunuyorsa, eviniz otomatik olarak yenilenir.
 
-Premium üyeyseniz,&#x20;
-
 Bu sayede premium oyuncular, çevrimdışı olsalar dahi evlerinin yıkılma riskinden korunurlar.
 
 Evin yenileme işlemini ev sahibi, evin dostları veya ortakları yapabilir.
