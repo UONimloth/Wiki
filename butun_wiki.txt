@@ -4757,7 +4757,7 @@ Silahlar, kullanıcılarına farklı savaş avantajları sağlayan çeşitli bon
 
 Aynı şekilde, büyüler de yalnızca ham mana gücüne değil, büyü bonuslarına da bağlı olarak şekillenir.
 
-Bu bonuslar, büyülerin etkisini artırabilir, mana kullanımını azaltabilir veya özel durumlarda rakiplerinizi savunmasız bırakabilir.
+Bu bonuslar, büyülerin etkisini artırabilir veya özel durumlarda rakiplerinizi savunmasız bırakabilir.
 
 Bu sayfada Nimloth evreninde yer alan tüm silah ve büyü bonuslarını, işlevlerini ve etkilerini detaylı biçimde bulabilirsiniz.
 
@@ -4765,7 +4765,7 @@ Unutmayın, doğru bonus kombinasyonu hem savaş alanında hem de büyü sanatla
 
 ## Bleed
 
-Bleed, Sword türü silahlarda bulunan ve hedefi kanatarak zamanla hasar veren ölümcül bir silahtır.
+Bleed, Sword türü silahlarda bulunan ve hedefi kanatarak zamanla hasar veren ölümcül bir bonustur.
 
 Bleed bonusunun etkili olabilmesi için, <mark style="color:red;">**Swordsmanship ve Tactics yeteneklerinizin 98.0 ve üzerinde olması gerekir**</mark>**.**
 
@@ -4851,7 +4851,7 @@ Etkilenen oyuncunun üzerinde <mark style="color:red;">**“Paradarbe Alır”**
 
 ## Armor Ignore
 
-Armor Ignore, yalnızca Kryss ve War Fork türü silahlarda aktif olabilen özel bir silahtır.
+Armor Ignore, yalnızca Kryss ve War Fork türü silahlarda aktif olabilen özel bir bonustur.
 
 Bu bonus, hedefin zırhını tamamen yok sayarak doğrudan hasar vermenizi sağlar.
 
@@ -4871,7 +4871,7 @@ Bonus devreye girdiğinde etkilenen oyuncunun üzerinde <mark style="color:red;"
 
 ## Stam Shot
 
-Stam Shot, yalnızca Macefighting silahlarında aktif olabilen özel bir silahtır.
+Stam Shot, yalnızca Macefighting silahlarında aktif olabilen özel bir bonustur.
 
 Bu bonus, rakip oyuncunun stamina değerini normalden çok daha fazla düşürmenizi sağlar.
 
@@ -4910,7 +4910,7 @@ Bonustan etkilenen oyuncunun üzerinde <mark style="color:red;">**“Stam Shot�
 
 ## Perfect Shot
 
-Perfect Shot, yalnızca <mark style="color:red;">**Bow tipi(Bow, Elven Bow, Yew Bow)**</mark> silahlarda aktif olan ölümcül bir silahtır.
+Perfect Shot, yalnızca <mark style="color:red;">**Bow tipi(Bow, Elven Bow, Yew Bow)**</mark> silahlarda aktif olan özel bir bonustur.
 
 Bu bonus, ustalaşmış okçuların tek bir atışla yıkıcı hasar vermesini sağlar.
 
