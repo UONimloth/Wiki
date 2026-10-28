@@ -28,7 +28,7 @@ Town Resistance NPC’sine summon yaratıklar, binekler veya petler ile saldır�
 
 NPC’nin canı azaldıkça, şehrin saldırı altında olduğunu belirten uyarı mesajları şehir sahibinin guild üyelerine gönderilir.
 
-NPC öldürüldüğünde şehir kontrolü saldırıyı yapan guildin eline geçer.
+Town Resistance öldürüldüğünde şehir kontrolü, <mark style="color:red;">**NPC’ye en fazla toplam hasarı veren**</mark> guildin eline geçer.
 
 Şehri ele geçiren guildin <mark style="color:red;">**bayrakları şehrin dört bir yanında dalgalanmaya başlar**</mark>.
 
@@ -49,13 +49,11 @@ NPC öldürüldüğünde şehir kontrolü saldırıyı yapan guildin eline geçe
 | 1 – 3 gün               | 10 GP             |
 | 4 – 5 gün               | 15 GP             |
 | 6 – 7 gün               | 20 GP             |
-| 7+ gün                  | 25 GP             |
+| 8+ gün                  | 25 GP             |
 
 <mark style="color:red;">**Şehri başka bir guild ele geçirirse süre sıfırlanır**</mark>**.**
 
-Guildler kazandıkları GP ile şu an için yalnızca bayrak işlemleri yapabilirler.
-
-Ancak ilerleyen dönemde GP ile daha fazla item, geliştirme ve özel sistem eklenecektir.
+İlerleyen dönemde GP ile daha fazla item, geliştirme ve özel sistem eklenecektir.
 
 ## Amaç
 
