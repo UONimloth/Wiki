@@ -1,179 +1,213 @@
 # Achievement Sistemi
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/5W3g5m5c93PaCZki6aPqZ3LDAcPo5LiTAM526wSw.png" 
-       alt="Nimloth Logo">
-</div>
+Nimloth dünyasında ilerleyişinizi adım adım takip edebileceğiniz, başarılarınızı kayıt altına alabileceğiniz ve çeşitli ödüller kazanabileceğiniz kapsamlı bir başarı sistemi sizleri beklemekte.
 
-<p>
+Achievement sistemi bir görev sistemi değildir; tamamen gelişiminizi görmek, hedefler belirlemek ve bu hedeflere ulaştığınızda ödüller kazanmak üzerine kuruludur.
 
-<p>Nimloth dünyasında ilerleyişinizi adım adım takip edebileceğiniz, başarılarınızı kayıt altına alabileceğiniz ve çeşitli ödüller kazanabileceğiniz kapsamlı bir başarı sistemi sizleri beklemekte.</p>
-<p>Achievement sistemi bir görev sistemi değildir; tamamen gelişiminizi görmek, hedefler belirlemek ve bu hedeflere ulaştığınızda ödüller kazanmak üzerine kuruludur.</p>
+## Achievement Menüsüne Nasıl Ulaşılır?
 
-<h2>Achievement Menüsüne Nasıl Ulaşılır?</h2>
-<p>Achievement sistemine erişmek için:</p>
-<p>Help menüsüne tıklayın ve <strong style="color: #410000;">Başarımlar</strong> sekmesini seçin.</p>
-<p>Bu ekranda farklı alanlardaki ilerlemenizi gösteren toplam 7 kategori bulunmaktadır:</p>
-<p>• Craft</p>
-<p>• PvM</p>
-<p>• Tame</p>
-<p>• PvP</p>
-<p>• Etkinlik</p>
-<p>• Dungeon</p>
-<p>• Gatherer</p>
-<p>Bu kategoriler oyun içerisindeki her hareketinizi kayıt altına alarak gelişiminizi görmenize yardımcı olur.</p>
+Achievement sistemine erişmek için:
 
-<h2>Craft Achievementları</h2>
-<p>Craft sekmesi tamamen üretim odaklı bir başarı alanıdır ve Nimloth’ta üretilebilen her eşya için ayrı bir başarı kategorisi içerir.</p>
+Help menüsüne tıklayın ve <mark style="color:red;">**Başarımlar**</mark> sekmesini seçin.
 
-<p>Bu ekranda her eşyanın adı ve bu eşya ile ilgili mevcut seviyeniz görüntülenir. Eşyaya tıklayarak detay ekranına geçebilirsiniz.</p>
+Bu ekranda farklı alanlardaki ilerlemenizi gösteren toplam 7 kategori bulunmaktadır:
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/oqPlWrbfCNmBAFwI3kntY9VJQLDfvzl7LALqlgAh.png)
-<p>Detay ekranında:
-<p>• O eşyadan şu ana kadar kaç kez ürettiğinizi</p>
-<p>• Her 3 seviyeyi tamamlamak için tamamlamanız gereken üretim miktarları</p>
-<p>• İlerleme seviyesi ve yüzdesi bilgileri yer alır</p>
+• Craft
 
-<p>Üretim yaptıkça seviyeler yükselir ve seviyeler yükseldikçe çeşitli ödüller kazanırsınız.</p>
-<p>Nimloth dünyasında ürettiğiniz her eşyanın bir Achivement’ı bulunmaktadır ve tamamı bu sistemde takip edilmektedir.</p>
+• PvM
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/0Fe9Lo2Yn4KbgJp5nlR9SRCqhVKJGfQOiF5ypN6g.png)
+• Tame
 
-<h2>PvM Achievementları</h2>
-<p>Nimloth dünyasında yalnızca üretim değil, savaş sanatları da birer başarı öyküsüdür.</p>
-<p>PvM Achievement sistemi, her bir yaratığı alt etme yolculuğunuzu takip eder ve ilerledikçe sizi ödüllendirir.</p>
+• PvP
 
-<p>Bu sistemin çalışma mantığı, Craft Achievementları ile benzerdir; ancak burada odak yaratık öldürme üzerinedir.</p>
-<p>Her yaratık için üç seviye bulunmaktadır ve 3. seviyesi tamamlandığında, o yaratığa özel benzersiz bir Title kazanırsınız.</p>
+• Etkinlik
 
-<p>Kazandığınız tüm Title'lar Profile menüsünden seçilebilir ve gururla karakterinizde sergileyebilirsiniz.</p>
+• Dungeon
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/uxSrg8rvBDVQKHuTHDDgSklPNInN8Gstws91lEQv.png)
+• Gatherer
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/AGdg5EqclTPNYRxSTU2dCcQMjJRNo98si1K8HMW2.png)
+Bu kategoriler oyun içerisindeki her hareketinizi kayıt altına alarak gelişiminizi görmenize yardımcı olur.
 
-<h2>Tame Achievementları</h2>
-<p>Nimloth’ta ehlileştirme sanatı yalnızca bir yetenek değil, aynı zamanda sabır ve ustalık isteyen bir yolculuktur.</p>
-<p>Taming Achievement sistemi, sunucuda bulunan tüm NPC'leri kapsamaktadır ve her birini başarıyla ehlileştirdiğinizde ilerlemeniz otomatik olarak kaydedilir.</p>
+## Craft Achievementları
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/o5qQoW6eoVyFE7qqvwUeseCTmqU7PT0M350EbIgY.png)
+Craft Achievement’ları, sistemde tanımlı eşyaları ürettikçe ilerleyen üretim başarımlarıdır. Listede eşyanın adını ve mevcut ilerlemenizi görebilir, eşyaya tıklayarak detay ekranını açabilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/eqg4h4gypAohursBQqNrECAkvRTbsfdIVUAFUFAF.png)
+<figure><img src="../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
 
-<h2>PvP Achievementları</h2>
-<p>PvP Achievement'ları tamamen oyuncu öldürme odaklı bir ilerleme sistemidir.</p>
-<p>Diğer achievement kategorilerinde olduğu gibi burada da öldürülen oyuncu sayısına göre seviye ilerleyişi bulunur ve her seviye başarı ile birlikte çeşitli ödüller kazanılabilir.</p>
-<p>PvP Achievementları <strong style="color: #410000;">şu an aktif değildir</strong>, fakat ilerleyen dönemlerde devreye alınacak ve Nimloth PvP dünyasına yeni bir rekabet ruhu katacaktır.</p>
+Her başarım <mark style="color:red;">**üç seviyeden**</mark> oluşur.&#x20;
 
-<h2>Etkinlik Achievementları</h2>
-<p>Etkinlik Achievement'ları, sunucuda düzenlenen etkinliklere katıldıkça ve kazandıkça ilerleyen bir başarı sistemidir.</p>
-<p>Nimloth’ta toplamda 7 farklı etkinlik bulunmaktadır ve bu etkinliklerin her biri için iki ayrı Achievement mevcuttur:</p>
-<p>Katılım ve Zafer.</p>
+Detay ekranında:
 
-<p>Toplamda 14 farklı Etkinlik Achievement'ı bulunmaktadır ve her biri, etkinlik yapısına uygun şekilde seviye seviye ilerler.</p>
-<p>Etkinliklere katılarak veya kazanarak gelişiminizi takip edebilir, benzersiz ödüllere sahip olabilirsiniz.</p>
+* Achievement’ın adı, kategorisi veya alt kategorisi, toplam ilerleme sayınız ve tamamladığınız seviye gösterilir.
+* Üç seviyenin her biri ayrı bir bölümde yer alır. Her bölümde hedef miktarı, mevcut ilerlemeniz, tamamlanma yüzdesi ve kazanacağınız ödüller görüntülenir.
+* Henüz tamamlanmayan seviyelerde hedefe ulaşmak için gereken kalan miktar belirtilir.
+* Tamamladığınız seviyenin ödülünü <mark style="color:red;">**“Ödülü Al”**</mark> butonuyla alabilirsiniz. Ödüller sırayla alınır; ikinci seviyenin ödülünü almadan önce birinci seviyenin ödülünü almanız gerekir.
+* Aldığınız ödüller <mark style="color:red;">**“Ödül alındı”**</mark> olarak işaretlenir. İşaretin üzerine geldiğinizde ödülü aldığınız tarihi görebilirsiniz.
+* Ünvan ödülü bulunan Achievement’larda kazanılacak ünvan da gösterilir. Ünvan, üçüncü seviyenin ödülü alındığında kazanılır.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/P8xXBt43BGqfQsaeZshbW8w5Jc0sK0iyRMGbTWQV.png)
+<figure><img src="../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/7euP7TMlWoBIWtPMNTbLRlc2WBKRRPU9nzo3bT9g.png)
+## PvM Achievementları
 
-<h2>Dungeon Achievementları</h2>
-<p>Dungeon Achievement’ları, Nimloth dünyasında yer alan 9 farklı dungeon için ayrı ayrı takip edilen başarımlardır.</p>
-<p>Bu bölümde amaç, dungeon içerisinde öldürülen yaratıkların toplam sayısını artırarak ilerlemek ve seviye atlamaktır.</p>
-<p>Her dungeon kendi içerisinde bağımsız olarak takip edilir ve o dungeon’da öldürdüğünüz her yaratık ilerlemenize katkı sağlar. </p>
-<p>Seviye tamamlandıkça ödüller kazanabilir, gelişiminizi Achievement menüsünden detaylı şekilde izleyebilirsiniz.</p>
-<p>Bu sistem, hem PvM mücadelelerini daha anlamlı hale getirir hem de dungeon keşiflerinize uzun vadeli bir hedef sunar.</p>
+Nimloth dünyasında yalnızca üretim değil, savaş sanatları da birer başarı öyküsüdür.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Xoz12fVOs94fsKnDAjECqpiL7mNiWJLrv3QzpxCD.png)
+PvM Achievement’ları, sistemde tanımlı yaratıkları öldürdükçe ilerleyen başarımlardır. Her yaratık için ilerlemeniz ayrı tutulur. Listedeki yaratığa tıklayarak toplam öldürme sayınızı, üç seviyenin hedeflerini ve ödüllerini görebilirsiniz.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/2gPBhi9qDLjYbYqwmmmQxDbunJJiWMNBfy90t6S3.png)
+Her seviyenin hedefini tamamladığınızda ilgili ödülü detay ekranından alabilirsiniz. PvM Achievement’ları ayrıca özel ünvan kazandırır. Bu ünvanlar, üçüncü seviyenin ödülü alındığında açılır ve profilinizden seçilebilir.
 
-<h2>Gatherer Achievementları</h2>
-<p>Gatherer Achievement’ları, Nimloth dünyasında yer alan tüm toplayıcılık (Gatherer) yeteneklerinin ilerlemesini takip eden başarımlardır.</p>
-<p>Bu bölümde Mining, Fishing, Lumberjacking, Farming ve Lockpicking yeteneklerine ait tüm üretim ve toplama faaliyetleri takip edilir.</p>
-<p>Bu sekmede her yeteneğin toplam toplama / üretim sayısı, mevcut seviyeniz ve ilerleme durumunuz detaylı şekilde görüntülenebilir.</p>
-<p>Eğer toplayıcılık odaklı ilerlemeyi seviyorsanız, bu bölüm gelişiminizi adım adım takip etmeniz için ideal bir alandır.</p>
+<figure><img src="../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/6KzTzNjYEHyTPPWhBuNgozoLTLqrLnXqx2s9pjAi.png)
+<figure><img src="../.gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/JyHIpEIAMm6bTQb09iBeH8lJOviEBUm2jxnyyxyG.png)
+## Tame Achievementları
 
-<h2>Ödüller ve Ödül Alma Sistemi</h2>
-<p>Achievement sisteminde ilerledikçe, ana ekranda her bir Achievement için o seviyedeki ilerlemenizi gösteren bir ilerleme barı göreceksiniz.</p>
-<p>Her başarı türünün içerisinde, detay ekranına girdiğinizde ise 1. 2. ve 3. seviyeler için ayrı ilerleme durumunuzu takip edebilirsiniz.</p>
+Nimloth’ta ehlileştirme sanatı yalnızca bir yetenek değil, aynı zamanda sabır ve ustalık isteyen bir yolculuktur.
+
+Tame Achievement’ları, başarım sistemine dahil edilen yaratıkları ehlileştirdikçe ilerler. Her yaratığa ait ehlileştirme sayısı ayrı takip edilir. Başarımın detay ekranından mevcut ilerlemenizi ve üç seviyenin tamamlanması için gereken miktarları görüntüleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
+
+## PvP Achievementları
+
+PvP Achievement’ları, oyunculara karşı elde ettiğiniz öldürmeler üzerinden ilerleyen başarımlardır. Genel oyuncu öldürme başarımlarının yanında, zindan, Esyria ve War Zone gibi farklı bölgelerde veya belirli özelliklere sahip oyunculara karşı elde edilen öldürmeler de ayrı başarımlarda takip edilebilir.
+
+Her başarımın hedeflerini, mevcut ilerlemenizi ve kazanabileceğiniz ödülleri detay ekranından görüntüleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+
+## Etkinlik Achievementları
+
+Etkinlik Achievement'ları, sunucuda düzenlenen etkinliklere katıldıkça ve kazandıkça ilerleyen bir başarı sistemidir.
+
+Etkinlik Achievement’ları, desteklenen etkinliklere katıldıkça veya bu etkinlikleri kazandıkça ilerler. Katılım ve zafer başarımları ayrı takip edilir; tamamlanması gereken hedefler etkinliğe ve başarım türüne göre değişir.
+
+İlgili başarımın detay ekranından mevcut sayınızı, seviye hedeflerini ve ödüllerini görüntüleyebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
+
+## Dungeon Achievementları
+
+Dungeon Achievement’ları, 10 farklı zindanda elde ettiğiniz yaratık öldürmelerini ayrı ayrı takip eder:
+
+Wrong, Shame, Hythloth, Destard, Despise, Covetous, Deceit, Fire Dungeon, Ice Dungeon ve Terathan Keep.
+
+Her zindanın başarımı üç seviyeden oluşur. İlgili zindandaki öldürmelerinizle ilerleyebilir, seviye hedeflerini tamamladığınızda ödüllerinizi alabilirsiniz. Üçüncü seviye ödülünü aldığınızda o zindana ait özel bir ünvan da kazanırsınız.
+
+<figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
+
+## Gatherer Achievementları
+
+Gatherer Achievement’ları, Nimloth dünyasında yer alan tüm toplayıcılık (Gatherer) yeteneklerinin ilerlemesini takip eden başarımlardır.
+
+Bu bölümde Mining, Fishing, Lumberjacking, Farming ve Lockpicking yeteneklerine ait tüm üretim ve toplama faaliyetleri takip edilir.
+
+Bu sekmede her yeteneğin toplam toplama / üretim sayısı, mevcut seviyeniz ve ilerleme durumunuz detaylı şekilde görüntülenebilir.
+
+Eğer toplayıcılık odaklı ilerlemeyi seviyorsanız, bu bölüm gelişiminizi adım adım takip etmeniz için ideal bir alandır.
+
+<figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+
+## Ödüller ve Ödül Alma Sistemi
+
+Achievement sisteminde ilerledikçe, ana ekranda her bir Achievement için o seviyedeki ilerlemenizi gösteren bir ilerleme barı göreceksiniz.
+
+Her başarı türünün içerisinde, detay ekranına girdiğinizde ise 1. 2. ve 3. seviyeler için ayrı ilerleme durumunuzu takip edebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/uuLlS2xYV0907FkjALHUDYaZ4yoVIVhsbp4yDdoD.png)
 
-
-<p>Bir seviyeyi tamamladığınızda, seviyenin tamamlandığına dair bir mesaj ve bilgilendirme alırsınız.</p>
+Bir seviyeyi tamamladığınızda, seviyenin tamamlandığına dair bir mesaj ve bilgilendirme alırsınız.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/86b90FZg2Nr2wcmJ322LVKRTSMNMLjLlEs8zLrQV.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/RB2RtvOT4VfzbEMXek2EHGv1UZIQI1m5DrzQwkr2.png)
 
-<p>Ayrıca Achievement menüsünü açtığınızda o Achievement'ın rengi sarıdan yeşile dönecektir.</p>
-	
+Ayrıca Achievement menüsünü açtığınızda o Achievement'ın rengi sarıdan yeşile dönecektir.
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/qyY0XNn2c6F1iTQT3UbEszJKb1zws8QYT5eLksVD.png)
 
-<p>Detay sayfasına girdiğinizde ise o seviyeye ait <strong style="color: #410000;">“Ödül Al”</strong> butonu aktif hale gelir.</p>
-<p>Butona tıklayarak ödülünüzü anında hesabınıza tanımlayabilirsiniz.</p>
-<p>Tamamladığınız seviyeye göre Nimloth Puanı ve Achievement Puanı kazanırsınız.</p>
+Detay sayfasına girdiğinizde ise o seviyeye ait **“Ödül Al”** butonu aktif hale gelir.
+
+Butona tıklayarak ödülünüzü anında hesabınıza tanımlayabilirsiniz.
+
+Tamamladığınız seviyeye göre Nimloth Puanı ve Achievement Puanı kazanırsınız.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/w4mHwHaE3lYHaR8PFh1mswa2t2qgSbQiCknzmjSB.png)
 
-<p>Ödülü aldığınızda kazandığınız Achievement ve Nimloth puanı bilgisi mesaj olarak gösterilir.</p>
+Ödülü aldığınızda kazandığınız Achievement ve Nimloth puanı bilgisi mesaj olarak gösterilir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ER9aoJcfsFCkPHdrM6oOk5AY55zpdt92EVk36upk.png)
 
-<p>Her seviyenin verdiği Nimloth ve Achievement puanları farklıdır.</p>
-<p>• 1. Seviye Tamamlandığında <strong style="color: #410000;">10 Nimloth Puanı + 10 Achievement Puanı</strong></p>
-<p>• 2. Seviye Tamamlandığında <strong style="color: #410000;">40 Nimloth Puanı + 40 Achievement Puanı</strong></p>
-<p>• 3. Seviye Tamamlandığında <strong style="color: #410000;">100 Nimloth Puanı + 100 Achievement Puanı</strong></p>
+Her seviyenin verdiği Nimloth ve Achievement puanları farklıdır.
 
-<h2>Nimloth Puanı Kullanımı</h2>
-<p>Kazandığınız Nimloth Puanlarını Donate Market içerisinde kullanarak çeşitli eşyalar, efektler ve kozmetik ürünler satın alabilirsiniz.</p>
+• 1. Seviye Tamamlandığında **10 Nimloth Puanı + 10 Achievement Puanı**
 
-<h2>Achievement Puanları</h2>
-<p>Achievement Puanları herhangi bir yerde harcanmaz.</p>
-<p>Bu puanlar tamamen başarı ve prestij göstergesi olarak tutulur.</p>
-<p>Profil menünüzde görüntülenebilir ve Top 10 başarı listesinde yer almanızı sağlar.</p>
+• 2. Seviye Tamamlandığında **40 Nimloth Puanı + 40 Achievement Puanı**
 
-<h2>PvM Özel Ödülleri</h2>
-<p>PvM Achievement’larında 3. seviyeyi tamamladığınızda, ilgili yaratığa özel eşsiz bir Title (ünvan) kazanırsınız.</p>
-<p>Bu ünvanlar Profil Menüsünden seçilerek karakterinizde görüntülenebilir.</p>
-<p>Ayrıca her bir yaratığın vermiş olduğu ünvanı yaratıkların Wiki sayfalarından görüntüleyebilirsiniz.</p>
+• 3. Seviye Tamamlandığında **100 Nimloth Puanı + 100 Achievement Puanı**
 
-<h2>Filtreleme ve Sıralama Özellikleri</h2>
-<p>Achievement menüsünde aradığınız başarımları kolayca bulabilmeniz için gelişmiş bir filtreleme ve sıralama sistemi bulunmaktadır.</p>
-<p>Bu sayede ilerlemenizi daha rahat takip edebilir ve istediğiniz kategorilere hızlıca ulaşabilirsiniz.</p>
+## Nimloth Puanı Kullanımı
+
+Kazandığınız Nimloth Puanlarını Donate Market içerisinde kullanarak çeşitli eşyalar, efektler ve kozmetik ürünler satın alabilirsiniz.
+
+## Achievement Puanları
+
+Achievement Puanları herhangi bir yerde harcanmaz.
+
+Bu puanlar tamamen başarı ve prestij göstergesi olarak tutulur.
+
+Profil menünüzde görüntülenebilir ve Top 10 başarı listesinde yer almanızı sağlar.
+
+## PvM ve Dungeon Özel Ödülleri
+
+PvM ve Dungeon başarımlarında üçüncü seviye ödülünü aldığınızda, ilgili başarım için tanımlanmış özel ünvanı da kazanırsınız.
+
+Kazandığınız ünvanları [<mark style="color:red;">**Profile**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/oyuncu-profili-sistemi) menüsünden seçerek karakterinizde sergileyebilirsiniz.
+
+## Filtreleme ve Sıralama Özellikleri
+
+Achievement menüsünde aradığınız başarımları kolayca bulabilmeniz için gelişmiş bir filtreleme ve sıralama sistemi bulunmaktadır.
+
+Bu sayede ilerlemenizi daha rahat takip edebilir ve istediğiniz kategorilere hızlıca ulaşabilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Ovym5IFS5MmP2dk7Vyoe93xP0p5CoxDjnFOWggpu.png)
-<h2>Filtreleme Seçenekleri</h2>
-<p>Aşağıdaki üç farklı filtre seçeneğinden birini kullanarak achievement listenizi daraltabilirsiniz:</p>
 
-<p>• <strong style="color: #410000;">Tümünü Göster</strong> : Tüm achievement listesini görüntüler.</p>
+## Filtreleme Seçenekleri
 
-<p>• <strong style="color: #410000;">Başladıklarımı Göster</strong> : Başlamış olduğunuz, üzerinde ilerleme kaydettiğiniz achievementları filtreler.</p>
+Aşağıdaki üç farklı filtre seçeneğinden birini kullanarak achievement listenizi daraltabilirsiniz:
 
-<p>• <strong style="color: #410000;">Tamamladıklarımı Göster</strong> : Tamamladığınız achievementları filtreler.</p>
+• **Tümünü Göster** : Tüm achievement listesini görüntüler.
 
-<p>• <strong style="color: #410000;">Ödül Almadıklarımı Göster</strong> : Tamamladığınız fakat ödülünü almadığınız achievementları filtreler.</p>
+• **Başladıklarımı Göster** : Başlamış olduğunuz, üzerinde ilerleme kaydettiğiniz achievementları filtreler.
 
-<p>Bu sayede ister başlangıç aşamasında olduklarınızı, ister tamamladıklarınızı kolayca ayırabilir ve takibinizi daha kontrollü sürdürebilirsiniz.</p>
+• **Tamamladıklarımı Göster** : Tamamladığınız achievementları filtreler.
 
-<h2>Sıralama Seçenekleri</h2>
+• **Ödül Almadıklarımı Göster** : Tamamladığınız fakat ödülünü almadığınız achievementları filtreler.
 
-<p>Achievement listenizi daha düzenli görüntülemek için aşağıdaki sıralama seçeneklerini kullanabilirsiniz:</p>
+Bu sayede ister başlangıç aşamasında olduklarınızı, ister tamamladıklarınızı kolayca ayırabilir ve takibinizi daha kontrollü sürdürebilirsiniz.
 
-<p>• <strong style="color: #410000;">İsme göre (A → Z)</strong></p>
+## Sıralama Seçenekleri
 
-<p>• <strong style="color: #410000;">İsme göre (Z → A)</strong></p>
+Achievement listenizi daha düzenli görüntülemek için aşağıdaki sıralama seçeneklerini kullanabilirsiniz:
 
-<p>• <strong style="color: #410000;">Rakama göre artan</strong> (En az ilerleme → En çok ilerleme)</p>
+• **İsme göre (A → Z)**
 
-<p>• <strong style="color: #410000;">Rakama göre azalan</strong> (En çok ilerleme → En az ilerleme)</p>
+• **İsme göre (Z → A)**
 
-<p>Bu sayede ister alfabetik sıralama ile, ister ilerleme durumunuza göre achievementları listeleyebilirsiniz.</p>
+• **Rakama göre artan** (En az ilerleme → En çok ilerleme)
+
+• **Rakama göre azalan** (En çok ilerleme → En az ilerleme)
+
+Bu sayede ister alfabetik sıralama ile, ister ilerleme durumunuza göre achievementları listeleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/zNOvGMe82p5QGEmlybxcqjUA9ssinv95hD2SUAUZ.png)
 
@@ -181,17 +215,18 @@
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/S7KhAa4ZQMa70l6IWlh0Vjrzo1U0eQ39EHw9rxWd.png)
 
-<h2>Achievement Takibi</h2>
-<p>Achievement sistemi sadece ilerlemenizi görüntülemekle kalmaz, aynı zamanda gerçek zamanlı takip yapabilmenizi de sağlar.</p>
-<p>Bu özellik yalnızca <strong style="color: #410000;">Premium oyuncular</strong> tarafından kullanılabilir.</p>
+## Achievement Takibi
 
-<p>Achievement listesinin sağ üst köşesinde yer alan mavi takip butonuna tıklayarak istediğiniz achievementı takibe alabilirsiniz.</p>
+Achievement sistemi sadece ilerlemenizi görüntülemekle kalmaz, aynı zamanda gerçek zamanlı takip yapabilmenizi de sağlar.
+
+Bu özellik yalnızca **Premium oyuncular** tarafından kullanılabilir.
+
+Achievement listesinin sağ üst köşesinde yer alan mavi takip butonuna tıklayarak istediğiniz achievementı takibe alabilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/S2VWpH0tOUtfSPyRkJprjmiCSJDuCAKjjEZ1OImG.png)
 
-<p>Takibe alınan achievementlar ekranın sağ tarafında ayrı bir dialog içerisinde gösterilir ve ilerlemeniz anlık olarak güncellenir.</p>
+Takibe alınan achievementlar ekranın sağ tarafında ayrı bir dialog içerisinde gösterilir ve ilerlemeniz anlık olarak güncellenir.
 
-<p>Takipten çıkmak isterseniz dialog üzerinde bulunan <strong style="color: #410000;">“X”</strong> butonuna tıklamanız yeterlidir.</p>
+Takipten çıkmak isterseniz dialog üzerinde bulunan **“X”** butonuna tıklamanız yeterlidir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rVs24hlZLGZgnkzWYaEsLbYlEAuxMEHafqOb669Q.png)
-
