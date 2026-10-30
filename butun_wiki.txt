@@ -1314,6 +1314,60 @@ Dispel büyüsünün Cast süresi 2.5 saniyeden 2 saniyeye, Freeze süresi ise 2
 * Superior eşya üretebilen karakterlerin Fishing net üretimi sırasında yaşadığı problem düzeltildi
 
 
+--- Dosya: ./guncelleme-notlari/ekim/24.10.2026-guncellemeleri.md ---
+
+# 24.10.2026 Güncellemeleri
+
+* Bundle eşyalar artık Superior olarak üretilebilmekte
+* Superior olarak üretilen Bundle açıldığında verilen eşyalar da Superior olacak şekilde güncellendi
+* Üretilen Bundle eğer crafted by ise Bundle açıldığında verilen eşyalarda da artık crafted by yazısı yazmakta
+* Sipariş sisteminde silah talepleri ile alakalı bir hata düzeltildi
+* Sipariş sisteminde açılan taleplar artık 14 günlük olarak açılmakta. 14 gün sonunda talepler otomatik olarak kapanmakta
+
+Sipariş kapandığında verilen ana para iade edilmekte, komisyon iade edilmemekte Sipariş detayında kalan süreyi görüntüleyebilirsiniz
+
+* Sipariş sisteminende Zırh sekmesi aktif edildi
+
+Normal parçalar için Hasarsız, Tamir edilmemiş ve Superior ek kriterleri bulunmakta. Bundle parçalar için ise sadece Superior ek kriteri bulunmakta
+
+* Oyun içerisindeki tüm duyurular Türkçe karakterleri destekleyecek şekilde güncellendi
+* Düello sisteminde davet ile alakalı bir problem düzeltildi
+* Düello başlangıcına sesli 3-2-1 geri sayımı eklendi
+* PvP başlangıcına sesli 3-2-1 geri sayımı eklendi
+* War Zone başlangıcına sesli 3-2-1 geri sayımı eklendi
+* Zar Turnuvası ve Rus Ruleti etkinliklerinde bekleme alanında artık hareket edilebilecek ve konuşulabilecek
+* Client içerisine çeşitli ek geliştirmeler eklendi
+* Music sekmesi altında yer alan Voice Chat ile artık oyun içerisinde diğer oyuncular ile sesli iletişim kurabilirsiniz
+
+Voice Chat için 2 farklı mod bulunmakta. Biri Voice Activity, diğeri ise Push to Talk Voice Activity anlık olarak tüm konuşmalarınızı karşı tarafa aktarır, Push to Talk ise atadığınız tuşa basıldığında konuşmaları karşı tarafa aktarır Voice Chat 3 farklı kanalda çalışabilmekte:
+
+* Party: Eğer bir partide iseniz sadece o partideki kişilerin sesini duyarsınız
+* Map Room: Eğer Worldmap içerisinde kurulmuş bir odada iseniz, sadece odadaki kişilerin sesini duyarsınız
+* Nearby: Ekranda görebildiğiniz(18 kare) kişilerin sesini duyarsınız. Ses yüksekliği aradaki mesafeye göre değişiklik gösterir
+
+<figure><img src="../../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
+
+* Video sekmesi altından Terrain and Liquids ile oyunun görüntüsünü değiştirebilirsiniz
+* Terrain sekmesinde Classic ve Enhanced Client arasında seçim yapabilirsiniz
+* Sea sekmesinde Classic, Animated, Realistic ve Enhanced Client arasında seçim yapabilirsiniz
+* Swamp sekmesinde Classic ve Enhanced Client arasında seçim yapabilirsiniz, Realistic seçimi henüz aktif değildir
+* Lava sekmesinde Classic, Realistic ve Enhanced Client arasında seçim yapabilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (423).png" alt=""><figcaption></figcaption></figure>
+
+* Containers içerisinden 4 farklı Backpack görüntüsünden birini seçebilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (424).png" alt=""><figcaption></figcaption></figure>
+
+* World Map içerisinden In-Game View When Zoomed In seçeneğini seçerek Zoom seviyesi 8 den sonra World Map de oyunun gerçek görüntüsünü görebilirsiniz. Zoom seviyesi 8'in altı 2D, 8 ve üstü 2.5D görüntüyü göstermektedir
+
+<figure><img src="../../.gitbook/assets/image (425).png" alt=""><figcaption></figcaption></figure>
+
+* MISC sekmesinde Minimap'te yaklaşınca oyun içi görünümü tiklediğinizde minimap görüntüsü 2.5D görüntüyü göstermektedir
+
+<figure><img src="../../.gitbook/assets/image (427).png" alt=""><figcaption></figcaption></figure>
+
+
 --- Dosya: ./guncelleme-notlari/ekim/04.10.2026-guncellemeleri.md ---
 
 # 04.10.2026 Güncellemeleri
@@ -21162,6 +21216,7 @@ Yetenek seviyeniz yükseldikçe saldırılarınız daha isabetli hale gelir ve k
   * [Fenerci Jack](genel-bilgi/fenerci-jack.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [Ekim 2026](guncelleme-notlari/ekim/README.md)
+    * [24.10.2026 Güncellemeleri](guncelleme-notlari/ekim/24.10.2026-guncellemeleri.md)
     * [17.10.2026 Güncellemeleri](guncelleme-notlari/ekim/17.10.2026-guncellemeleri.md)
     * [13.10.2026 Güncellemeleri](guncelleme-notlari/ekim/13.10.2026-guncellemeleri.md)
     * [08.10.2026 Güncellemeleri](guncelleme-notlari/ekim/08.10.2026-guncellemeleri.md)
