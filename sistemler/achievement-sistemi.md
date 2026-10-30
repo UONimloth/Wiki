@@ -30,9 +30,22 @@ Bu kategoriler oyun içerisindeki her hareketinizi kayıt altına alarak gelişi
 
 ## Craft Achievementları
 
-Craft Achievement’ları, sistemde tanımlı eşyaları ürettikçe ilerleyen üretim başarımlarıdır. Listede eşyanın adını ve mevcut ilerlemenizi görebilir, eşyaya tıklayarak detay ekranını açabilirsiniz.
+Craft Achievement’ları, sistemde tanımlı eşyaları ürettikçe ilerleyen başarımlardır. Üretimleriniz ilgili yetenek veya üretim kategorisi altında takip edilir:
 
-<figure><img src="../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+* <mark style="color:red;">**Alchemy**</mark>**:** İksir üretimine ait başarımlar.
+* <mark style="color:red;">**Blacksmith**</mark>**:** Metal silah, zırh ve diğer demircilik ürünlerine ait başarımlar.
+* <mark style="color:red;">**Bowcraft**</mark>**:** Yay, arbalet ve mühimmat üretimine ait başarımlar.
+* <mark style="color:red;">**Carpenter**</mark>**:** Mobilya ve diğer ahşap eşya üretimlerine ait başarımlar.
+* <mark style="color:red;">**Cooking**</mark>**:** Yiyecek ve yemek hazırlamaya ait başarımlar.
+* <mark style="color:red;">**Inscription**</mark>**:** Büyü parşömeni ve diğer yazıcılık ürünlerine ait başarımlar.
+* <mark style="color:red;">**Tailor**</mark>**:** Giysi ve deri ekipman üretimine ait başarımlar.
+* <mark style="color:red;">**Tinker**</mark>**:** Alet, takı ve diğer tinkering ürünlerine ait başarımlar.
+* <mark style="color:red;">**Masonry**</mark>**:** Taş işçiliğiyle üretilen eşyalara ait başarımlar.
+* <mark style="color:red;">**HouseCraft**</mark>**:** Ev üretimine ait başarımlar.
+* <mark style="color:red;">**ShipCraft**</mark>**:** Gemi üretimine ait başarımlar.
+* <mark style="color:red;">**Carving**</mark>**:** Balkabağı oyma çalışmalarına ait başarımlar.
+
+Her eşyanın üretim sayısı ayrı tutulur. Listedeki eşyaya tıklayarak mevcut üretim sayınızı, üç seviyenin hedeflerini ve kazanabileceğiniz ödülleri görüntüleyebilirsiniz.
 
 Her başarım <mark style="color:red;">**üç seviyeden**</mark> oluşur.&#x20;
 
@@ -105,13 +118,15 @@ Her zindanın başarımı üç seviyeden oluşur. İlgili zindandaki öldürmele
 
 ## Gatherer Achievementları
 
-Gatherer Achievement’ları, Nimloth dünyasında yer alan tüm toplayıcılık (Gatherer) yeteneklerinin ilerlemesini takip eden başarımlardır.
+Gatherer Achievement’ları; toplama ve kaynak elde etme faaliyetlerini takip eder.
 
-Bu bölümde Mining, Fishing, Lumberjacking, Farming ve Lockpicking yeteneklerine ait tüm üretim ve toplama faaliyetleri takip edilir.
+* <mark style="color:red;">**Mining**</mark>**:** Maden çıkarma ve madencilik sırasında elde edilen kaynaklara ait başarımlar.
+* <mark style="color:red;">**Fishing**</mark>**:** Balık tutma ve balıkçılıkla elde edilen eşyalara ait başarımlar.
+* <mark style="color:red;">**Lumberjacking**</mark>**:** Odun toplama ve Tree Grove faaliyetlerine ait başarımlar.
+* <mark style="color:red;">**Farming**</mark>**:** Yetiştirdiğiniz ürünleri hasat etme ve çiftçilikten elde edilen ürünlere ait başarımlar.
+* <mark style="color:red;">**Lockpicking**</mark>**:** Kilitli hazine ve zindan sandıklarını açmaya ait başarımlar.
 
-Bu sekmede her yeteneğin toplam toplama / üretim sayısı, mevcut seviyeniz ve ilerleme durumunuz detaylı şekilde görüntülenebilir.
-
-Eğer toplayıcılık odaklı ilerlemeyi seviyorsanız, bu bölüm gelişiminizi adım adım takip etmeniz için ideal bir alandır.
+Her yeteneğin altında, sistemde tanımlı kaynak veya faaliyetler için ayrı başarımlar bulunur. Örneğin farklı maden ve balık türlerinin ilerlemesi ayrı tutulur. İlgili başarıma tıklayarak mevcut sayınızı, üç seviyenin hedeflerini ve kazanabileceğiniz ödülleri görüntüleyebilirsiniz.
 
 <figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
 
