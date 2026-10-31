@@ -5971,63 +5971,70 @@ PvM ve Dungeon başarımlarında üçüncü seviye ödülünü aldığınızda, 
 
 Kazandığınız ünvanları [<mark style="color:red;">**Profile**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/oyuncu-profili-sistemi) menüsünden seçerek karakterinizde sergileyebilirsiniz.
 
-## Filtreleme ve Sıralama Özellikleri
+## **Filtreleme ve Sıralama Özellikleri**
 
-Achievement menüsünde aradığınız başarımları kolayca bulabilmeniz için gelişmiş bir filtreleme ve sıralama sistemi bulunmaktadır.
-
-Bu sayede ilerlemenizi daha rahat takip edebilir ve istediğiniz kategorilere hızlıca ulaşabilirsiniz.
+Achievement menüsündeki filtreleme butonuyla başarımlarınızı durumlarına, yeteneklerine veya alt kategorilerine göre daraltabilir ve sıralama düzenini değiştirebilirsiniz. Bu seçenekleri birlikte kullanabilirsiniz. Seçimlerinizi yaptıktan sonra <mark style="color:red;">**“Filtreyi Uygula”**</mark> butonuna tıklayın.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/Ovym5IFS5MmP2dk7Vyoe93xP0p5CoxDjnFOWggpu.png)
 
-## Filtreleme Seçenekleri
+### **Sıralama**
 
-Aşağıdaki üç farklı filtre seçeneğinden birini kullanarak achievement listenizi daraltabilirsiniz:
+* <mark style="color:red;">**İsme göre A–Z sırala**</mark>**:** Başarım adına göre alfabetik sıralar.
+* <mark style="color:red;">**İsme göre Z–A sırala**</mark>**:** Başarım adına göre ters alfabetik sıralar.
+* <mark style="color:red;">**Rakama göre artan sırala**</mark>**:** Mevcut ilerleme sayısı en düşük olandan başlayarak sıralar.
+* <mark style="color:red;">**Rakama göre azalan sırala**</mark>**:** Mevcut ilerleme sayısı en yüksek olandan başlayarak sıralar.
 
-• **Tümünü Göster** : Tüm achievement listesini görüntüler.
+Rakama göre sıralama; tamamlanma yüzdesini değil, ilgili başarımda biriktirdiğiniz üretim, öldürme, toplama veya katılım gibi faaliyetlerin sayısını esas alır.
 
-• **Başladıklarımı Göster** : Başlamış olduğunuz, üzerinde ilerleme kaydettiğiniz achievementları filtreler.
+### **Achievement Durumu**
 
-• **Tamamladıklarımı Göster** : Tamamladığınız achievementları filtreler.
+* <mark style="color:red;">**Tümünü Göster**</mark>**:** Seçtiğiniz yetenek veya kategori filtrelerine uyan tüm başarımları gösterir.
+* <mark style="color:red;">**Başladıklarımı Göster**</mark>**:** İlerleme kaydettiğiniz başarımları gösterir.
+* <mark style="color:red;">**Tamamladıklarımı Göster**</mark>**:** En az bir seviyesini tamamladığınız başarımları gösterir. Üç seviyenin de tamamlanması gerekmez.
+* <mark style="color:red;">**Ödül Almadıklarımı Göster**</mark>**:** Tamamladığınız seviyeler arasında henüz ödülünü almadığınız başarımları gösterir.
 
-• **Ödül Almadıklarımı Göster** : Tamamladığınız fakat ödülünü almadığınız achievementları filtreler.
+### **Yetenek ve Kategori Filtreleri**
 
-Bu sayede ister başlangıç aşamasında olduklarınızı, ister tamamladıklarınızı kolayca ayırabilir ve takibinizi daha kontrollü sürdürebilirsiniz.
+Seçili Achievement bölümünde birden fazla alt grup bulunuyorsa filtre ekranında ek seçenekler açılır:
 
-## Sıralama Seçenekleri
+* <mark style="color:red;">**Craft ve Gatherer**</mark> bölümlerinde <mark style="color:red;">**“Yetenekler”**</mark> başlığı altında üretim veya toplama alanlarını seçebilirsiniz. Örneğin Craft bölümünde yalnızca Alchemy ve Blacksmith, Gatherer bölümünde ise yalnızca Mining ve Fishing başarımlarını görüntüleyebilirsiniz.
+* <mark style="color:red;">**Diğer bölümlerde**</mark> tanımlı alt gruplar varsa <mark style="color:red;">**“Kategoriler”**</mark> başlığı altında gösterilir. Örneğin PvM bölümünde yaratık gruplarına göre listenizi daraltabilirsiniz.
 
-Achievement listenizi daha düzenli görüntülemek için aşağıdaki sıralama seçeneklerini kullanabilirsiniz:
+Birden fazla seçeneği birlikte işaretleyebilirsiniz. <mark style="color:red;">**“Tümünü Seç”**</mark> seçeneği alt grup sınırlamasını kaldırır. Hiçbir alt grup seçmezseniz de tümü gösterilir. Yetenek ve alt kategori seçimleriniz her ana Achievement bölümü için ayrı tutulur.
 
-• **İsme göre (A → Z)**
+<figure><img src="../.gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
 
-• **İsme göre (Z → A)**
+<figure><img src="../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
 
-• **Rakama göre artan** (En az ilerleme → En çok ilerleme)
-
-• **Rakama göre azalan** (En çok ilerleme → En az ilerleme)
-
-Bu sayede ister alfabetik sıralama ile, ister ilerleme durumunuza göre achievementları listeleyebilirsiniz.
-
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/zNOvGMe82p5QGEmlybxcqjUA9ssinv95hD2SUAUZ.png)
-
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/mpgfP29OzVib0YFg9WoYlcUgjJdNSdhr8XMW2cF8.png)
-
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/S7KhAa4ZQMa70l6IWlh0Vjrzo1U0eQ39EHw9rxWd.png)
+<figure><img src="../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure>
 
 ## Achievement Takibi
 
-Achievement sistemi sadece ilerlemenizi görüntülemekle kalmaz, aynı zamanda gerçek zamanlı takip yapabilmenizi de sağlar.
+Achievement takibi, yalnızca [<mark style="color:red;">**Premium**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/premium-sistemi#premium-sistemi) <mark style="color:red;">**oyuncuların**</mark> kullanabildiği bir özelliktir. Aynı anda en fazla <mark style="color:red;">**3 Achievement**</mark> takip edebilirsiniz.
 
-Bu özellik yalnızca **Premium oyuncular** tarafından kullanılabilir.
+Listedeki ilgili başarımın sağ üst köşesinde bulunan mavi takip butonuna tıklayarak başarımı takip listenize ekleyebilirsiniz. Zaten takip ettiğiniz, üçüncü seviyesini tamamladığınız veya takip listeniz doluyken ekleyemeyeceğiniz başarımlarda bu buton gösterilmez.
 
-Achievement listesinin sağ üst köşesinde yer alan mavi takip butonuna tıklayarak istediğiniz achievementı takibe alabilirsiniz.
+<figure><img src="../.gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/S2VWpH0tOUtfSPyRkJprjmiCSJDuCAKjjEZ1OImG.png)
+Takibe aldığınız başarımlar ayrı bir takip penceresinde görüntülenir. Bu pencereden sıradaki seviye hedefine doğru ilerlemenizi anlık olarak izleyebilirsiniz. İlgili başarımın yanındaki <mark style="color:red;">**“X”**</mark> butonuyla takipten çıkarabilirsiniz.
 
-Takibe alınan achievementlar ekranın sağ tarafında ayrı bir dialog içerisinde gösterilir ve ilerlemeniz anlık olarak güncellenir.
+Takip penceresini kapattığınızda **`.achi`** komutuyla tekrar açabilirsiniz.
 
-Takipten çıkmak isterseniz dialog üzerinde bulunan **“X”** butonuna tıklamanız yeterlidir.
+<figure><img src="../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rVs24hlZLGZgnkzWYaEsLbYlEAuxMEHafqOb669Q.png)
+### Takip Önerileri
+
+Takip penceresinin sol üst köşesindeki öneri butonundan <mark style="color:red;">**500.000 gold**</mark> karşılığında takip önerisi alabilirsiniz.
+
+Öneriler; ilerleme kaydettiğiniz, üçüncü seviyesini henüz tamamlamadığınız ve takip listenizde bulunmayan başarımlar arasından seçilir. Sıradaki seviye hedefine tamamlanma oranı bakımından en yakın olduğunuz <mark style="color:red;">**en fazla 10 başarım**</mark> listelenir.
+
+Öneri listesindeki takip butonlarını kullanarak başarımları doğrudan takibe alabilirsiniz. Aynı anda en fazla <mark style="color:red;">**3 başarım takip etme sınırı**</mark> burada da geçerlidir.
+
+Oluşturulan öneri listesini <mark style="color:red;">**1 saat boyunca yeniden ücret ödemeden**</mark> açabilirsiniz. Bu süre içinde aynı liste gösterilir; öneriler yeniden hesaplanmaz. Süre dolduğunda yeni bir liste almak için tekrar ödeme yapmanız gerekir. Önerilebilecek başarım bulunamazsa ücret alınmaz.
+
+<figure><img src="../.gitbook/assets/image (433).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/achi_oneri.gif" alt=""><figcaption></figcaption></figure>
 
 
 --- Dosya: ./sistemler/README.md ---
