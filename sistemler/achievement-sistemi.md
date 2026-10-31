@@ -94,8 +94,6 @@ Her başarımın hedeflerini, mevcut ilerlemenizi ve kazanabileceğiniz ödülle
 
 ## Etkinlik Achievementları
 
-Etkinlik Achievement'ları, sunucuda düzenlenen etkinliklere katıldıkça ve kazandıkça ilerleyen bir başarı sistemidir.
-
 Etkinlik Achievement’ları, desteklenen etkinliklere katıldıkça veya bu etkinlikleri kazandıkça ilerler. Katılım ve zafer başarımları ayrı takip edilir; tamamlanması gereken hedefler etkinliğe ve başarım türüne göre değişir.
 
 İlgili başarımın detay ekranından mevcut sayınızı, seviye hedeflerini ve ödüllerini görüntüleyebilirsiniz.
