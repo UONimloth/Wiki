@@ -28,7 +28,7 @@ Hasar hesaplamasında kullanılan değişkenler şu şekildedir:
 
 Oyuncunun <mark style="color:red;">**Swordsmanship yeteneğinin ve Tactics yeteneğinin 100**</mark>, silahın <mark style="color:red;">**Katana ve hasarın 10**</mark> olduğu üzerinden gidersek;
 
-İlk katsayımız: <mark style="color:red;">**10 \* 1 \* 1 = 10**</mark> olacaktır
+İlk katsayımız: <mark style="color:red;">**10 \* (1 + 1) / 2 = 10**</mark> olacaktır
 
 Bu değer critical hesaplanmadan önceki temel hasardır.
 
@@ -184,7 +184,7 @@ Magical silahlara zehir sürebilmek için ekstra olarak Armslore yeteneği gerek
 | +15 Silahlar   | 60.0             |
 | +12 Silahlar   | 50.0             |
 | +9 Silahlar    | 40.0             |
-| +6 Silahlar    | 30.0             |
+| +6 Silahlar    | 20.0             |
 
 +3 ve magical olmayan silahlar için ek Armslore gereksinimi bulunmamaktadır.
 
