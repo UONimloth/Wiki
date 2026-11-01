@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Genel Bilgi](README.md)
+  * [Oyuncu Komutları](genel-bilgi/oyuncu-komutlari.md)
   * [Aktif Spawnlar](genel-bilgi/aktif-spawnlar.md)
   * [World Map](genel-bilgi/world-map.md)
   * [Oyun Ayarları](genel-bilgi/oyun-ayarlari.md)

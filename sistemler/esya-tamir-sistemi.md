@@ -100,7 +100,7 @@ Tamir başarılı olduğunda silahın dayanıklılığı tam seviyeye yükselir.
 
 Silahın tamiri için gereken Virtue Stone miktarı, eksilen dayanıklılık puanı kadar hesaplanır. Her 1 dayanıklılık puanının onarılması için 1 Virtue Stone gerekir.
 
-Örneğin maksimum dayanıklılığı 75, mevcut dayanıklılığı 50 olan bir silahın tamiri için <mark style="color:red;">**25 Virtue Stone**</mark> gerekir. Tamir tamamlandığında silahın dayanıklılığı tekrar 100 olur.
+Örneğin maksimum dayanıklılığı 75, mevcut dayanıklılığı 50 olan bir silahın tamiri için <mark style="color:red;">**25 Virtue Stone**</mark> gerekir. Tamir tamamlandığında silahın dayanıklılığı tekrar 75 olur.
 
 Tamir için gereken Virtue Stone miktarı, silah üzerinde ArmsLore kullanılarak görüntülenebilir.
 
