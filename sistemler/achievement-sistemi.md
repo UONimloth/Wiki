@@ -130,7 +130,7 @@ Her yeteneğin altında, sistemde tanımlı kaynak veya faaliyetler için ayrı 
 
 <figure><img src="../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
 
-## Ödüller ve Ödül Alma Sistemi
+## Ödüller ve Ödül Alma Yapısı
 
 Achievement sisteminde ilerledikçe, ana ekranda her bir Achievement için o seviyedeki ilerlemenizi gösteren bir ilerleme barı göreceksiniz.
 
@@ -148,13 +148,13 @@ Ayrıca Achievement menüsünü açtığınızda o Achievement'ın rengi sarıda
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/qyY0XNn2c6F1iTQT3UbEszJKb1zws8QYT5eLksVD.png)
 
-Detay sayfasına girdiğinizde ise o seviyeye ait **“Ödül Al”** butonu aktif hale gelir.
+Detay sayfasına girdiğinizde ise o seviyeye ait <mark style="color:red;">**“Ödül Al”**</mark> butonu aktif hale gelir.
 
 Butona tıklayarak ödülünüzü anında hesabınıza tanımlayabilirsiniz.
 
 Tamamladığınız seviyeye göre Nimloth Puanı ve Achievement Puanı kazanırsınız.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/w4mHwHaE3lYHaR8PFh1mswa2t2qgSbQiCknzmjSB.png)
+<figure><img src="../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
 Ödülü aldığınızda kazandığınız Achievement ve Nimloth puanı bilgisi mesaj olarak gösterilir.
 
@@ -162,11 +162,11 @@ Tamamladığınız seviyeye göre Nimloth Puanı ve Achievement Puanı kazanırs
 
 Her seviyenin verdiği Nimloth ve Achievement puanları farklıdır.
 
-• 1. Seviye Tamamlandığında **10 Nimloth Puanı + 10 Achievement Puanı**
+• 1. Seviye Tamamlandığında <mark style="color:red;">**10 Nimloth Puanı**</mark> ve <mark style="color:red;">**10 Achievement Puanı**</mark>
 
-• 2. Seviye Tamamlandığında **40 Nimloth Puanı + 40 Achievement Puanı**
+• 2. Seviye Tamamlandığında <mark style="color:red;">**40 Nimloth Puanı**</mark> ve <mark style="color:red;">**40 Achievement Puanı**</mark>
 
-• 3. Seviye Tamamlandığında **100 Nimloth Puanı + 100 Achievement Puanı**
+• 3. Seviye Tamamlandığında <mark style="color:red;">**100 Nimloth Puanı**</mark> ve <mark style="color:red;">**100 Achievement Puanı**</mark>
 
 ## Nimloth Puanı Kullanımı
 
