@@ -1,5 +1,7 @@
 # Earrings of Warding
 
+<figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>
+
 Earrings of Warding, yaratıkların kullandığı düşük seviye zararlı büyülere karşı koruma sağlayan özel bir takıdır.
 
 Tüm oyuncular tarafından kullanılabilen bu eşya, takılı olduğu sürece <mark style="color:red;">**NPC’lerden gelen birinci seviye zararlı büyüleri engeller**</mark>:
