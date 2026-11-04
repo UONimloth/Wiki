@@ -124,7 +124,7 @@ Sistemin amacı, değer kazandırmakta zorlanan düşük seviye blueprintlerin a
 
 Yeni bir blueprint üretmek için <mark style="color:red;">**6 adet blueprint**</mark> eklemeniz gerekmektedir.
 
-Blueprint eklemek için <mark style="color:red;">**"+"**</mark> butonuna tıklayarak Blueprintleri tek tek ekleyebilir veya <mark style="color:red;">**"Çantadan Al"**</mark> butonuna basarak çantanızda bulunan tüm Blueprintleri otomatik olarak ekleyebilirsiniz.
+Blueprint eklemek için <mark style="color:red;">**"+"**</mark> butonuna tıklayarak Blueprintleri tek tek ekleyebilir veya <mark style="color:red;">**"Çantadan Al"**</mark> butonuna basarak çantanızda bulunan 6 adet Blueprinti otomatik olarak ekleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/M8cM3PtmyCOOJx4NSG2gwjkiJrCC5umv2narMME4.png)
 
