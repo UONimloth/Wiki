@@ -170,6 +170,7 @@
     * [Normal Cannon](esyalar/cannonlar/normal-cannon.md)
     * [Heavy Cannon](esyalar/cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](esyalar/diger-esyalar/README.md)
+    * [House Keyring](esyalar/diger-esyalar/house-keyring.md)
     * [Wizard Crystal](esyalar/diger-esyalar/wizard-crystal.md)
     * [Wizard Cloth](esyalar/diger-esyalar/wizard-cloth.md)
     * [Magic Cloth](esyalar/diger-esyalar/magic-cloth.md)
