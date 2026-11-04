@@ -52,7 +52,7 @@ Patlayan tuzaklar yalnızca hafif hasar verir, ancak dikkatsiz davranırsanız b
 
 • %50 şansla Defence, Guarding veya Hardening [<mark style="color:red;">**Magical Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/magical-robe)
 
-• %33 şansla +6 veya +9 Magical Weapon
+• %50 şansla +6 veya +9 Magical Weapon
 
 • %33 şansla [<mark style="color:red;">**Invul Studded Armor**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/magical-studded) parçası
 
@@ -84,7 +84,7 @@ Patlayan tuzaklar orta düzeyde hasar verir.
 
 • %50 şansla Hardening veya Fortification [<mark style="color:red;">**Magical Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/magical-robe)
 
-• %50 şansla +9 Magical Weapon
+• %50 şansla +9 veya +12 Magical Weapon
 
 • %50 şansla [<mark style="color:red;">**Resurrection Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/resurrect-options#resurrection-stone-nedir-ve-nasil-kullanilir)
 
@@ -124,7 +124,7 @@ Başarısız olursanız, tuzak yüksek hasar verir ve birden fazla güçlü yara
 
 • [<mark style="color:red;">**Invul Studded Armor**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/magical-studded) parçası
 
-• %50 şansla +9 veya +12 Magical Weapon
+• %50 şansla +9, +12 veya +15 Magical Weapon
 
 • %50 şansla [<mark style="color:red;">**Magic Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-cloth), [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal), [<mark style="color:red;">**Wizard Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-cloth) veya [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
 
