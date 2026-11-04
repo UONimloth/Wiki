@@ -22,6 +22,8 @@ Night Eye, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir
 
 • 1 [<mark style="color:red;">**Cut Star Sapphire**</mark>](https://uo-nimloth.net/wiki/esyalar/gemstonelar)
 
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
 • 98.0 Tinkering
 
 • 25 Craft Mastery XP

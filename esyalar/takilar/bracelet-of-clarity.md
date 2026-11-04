@@ -20,6 +20,8 @@ Bracelet of Clarity, Tinkering yeteneğine sahip oyuncular tarafından üretileb
 
 • 1 [<mark style="color:red;">**Cut Sapphire**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
 • 99.0 Tinkering
 
 • 25 Craft Mastery XP
@@ -28,4 +30,4 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 
 ## Blueprint Elde Etme
 
-Bracelet of Clarity üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Bracelet of Clarity üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) veya [<mark style="color:red;">**Blueprint Vendor**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-vendor) aracılığı ile elde edebilirsiniz.

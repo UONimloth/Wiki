@@ -115,6 +115,8 @@
   * [Silahlar](esyalar/silahlar.md)
   * [Gemstonelar](esyalar/gemstonelar.md)
   * [Takılar](esyalar/takilar/README.md)
+    * [Earrings of Warding](esyalar/takilar/earrings-of-warding.md)
+    * [Bracelet of Vitality](esyalar/takilar/bracelet-of-vitality.md)
     * [Bracelet of Endurance](esyalar/takilar/bracelet-of-endurance.md)
     * [Bracelet of Clarity](esyalar/takilar/bracelet-of-clarity.md)
     * [Necklace of Spellchant](esyalar/takilar/necklace-of-spellchant.md)
