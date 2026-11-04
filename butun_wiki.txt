@@ -16293,6 +16293,8 @@ Night Eye, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir
 
 • 1 [<mark style="color:red;">**Cut Star Sapphire**</mark>](https://uo-nimloth.net/wiki/esyalar/gemstonelar)
 
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
 • 98.0 Tinkering
 
 • 25 Craft Mastery XP
@@ -16302,6 +16304,43 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 ## Blueprint Elde Etme
 
 Night Eye üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+
+
+--- Dosya: ./esyalar/takilar/earrings-of-warding.md ---
+
+# Earrings of Warding
+
+Earrings of Warding, yaratıkların kullandığı düşük seviye zararlı büyülere karşı koruma sağlayan özel bir takıdır.
+
+Tüm oyuncular tarafından kullanılabilen bu eşya, takılı olduğu sürece <mark style="color:red;">**NPC’lerden gelen birinci seviye zararlı büyüleri engeller**</mark>:
+
+<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**Clumsy**</mark>\ <mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**Feeblemind**</mark>\ <mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**Magic Arrow**</mark>\ <mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**Weaken**</mark>
+
+Bu koruma, oyuncuların kullandığı büyülerde veya daha yüksek seviyeli büyülerde geçerli değildir.
+
+Earrings of Warding, büyüleri engelledikçe zamanla eskir. <mark style="color:red;">**Dayanıklılığı tamamen tükendiğinde kırılarak yok olur**</mark>**.** Bu nedenle aktif kullanımda yeniden üretilmesi gerekebilir.
+
+## Üretim
+
+Earrings of Warding, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
+
+• 5 Bloodrock Ingot
+
+• 5 Shadow Ingot
+
+• 1 [<mark style="color:red;">**Cut Diamond**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
+
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
+• 99.0 Tinkering
+
+• 25 Craft Mastery XP
+
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
+
+## Blueprint Elde Etme
+
+Earrings of Warding üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
 
 
 --- Dosya: ./esyalar/takilar/necklace-of-spellchant.md ---
@@ -16328,6 +16367,8 @@ Necklace of Spellchant, Tinkering yeteneğine sahip oyuncular tarafından üreti
 
 • 1 [<mark style="color:red;">**Cut Amethyst**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
 • 99.0 Tinkering
 
 • 25 Craft Mastery XP
@@ -16336,7 +16377,7 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 
 ## Blueprint Elde Etme
 
-Necklace of Spellchant üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Necklace of Spellchant üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) veya [<mark style="color:red;">**Blueprint Vendor**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-vendor) aracılığı ile elde edebilirsiniz.
 
 
 --- Dosya: ./esyalar/takilar/README.md ---
@@ -16369,6 +16410,8 @@ Bracelet of Clarity, Tinkering yeteneğine sahip oyuncular tarafından üretileb
 
 • 1 [<mark style="color:red;">**Cut Sapphire**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
 • 99.0 Tinkering
 
 • 25 Craft Mastery XP
@@ -16377,7 +16420,44 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 
 ## Blueprint Elde Etme
 
-Bracelet of Clarity üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Bracelet of Clarity üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) veya [<mark style="color:red;">**Blueprint Vendor**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-vendor) aracılığı ile elde edebilirsiniz.
+
+
+--- Dosya: ./esyalar/takilar/bracelet-of-vitality.md ---
+
+# Bracelet of Vitality
+
+<figure><img src="../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
+
+Bracelet of Vitality, can yenilenmesini destekleyen özel bir takıdır.
+
+Tüm oyuncular tarafından kullanılabilen bu eşya, takılı olduğu sürece <mark style="color:red;">**her 5 saniyede 1 can yeniler**</mark>. Canınız maksimum değerdeyken yenileme yapılmaz.
+
+Özellikle uzun süreli mücadelelerde ve çatışmalar arasında canınızı toparlarken yardımcı olur.
+
+Bracelet of Vitality, can yeniledikçe zamanla eskir. <mark style="color:red;">**Dayanıklılığı tamamen tükendiğinde kırılarak yok olur**</mark>**.** Bu nedenle aktif kullanımda yeniden üretilmesi gerekebilir.
+
+## Üretim
+
+Bracelet of Vitality, Tinkering yeteneğine sahip oyuncular tarafından üretilebilmektedir. Üretim için gerekenler şu şekildedir:
+
+• 5 Bloodrock Ingot
+
+• 5 Agapite Ingot
+
+• 1 [<mark style="color:red;">**Cut Ruby**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
+
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
+• 99.0 Tinkering
+
+• 25 Craft Mastery XP
+
+Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi) gerekmektedir.
+
+## Blueprint Elde Etme
+
+Bracelet of Vitality üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
 
 
 --- Dosya: ./esyalar/takilar/bracelet-of-endurance.md ---
@@ -16404,6 +16484,8 @@ Bracelet of Endurance, Tinkering yeteneğine sahip oyuncular tarafından üretil
 
 • 1 [<mark style="color:red;">**Cut Amber**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
+• 10 [<mark style="color:red;">**Virtue Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/virtue-stone)
+
 • 99.0 Tinkering
 
 • 25 Craft Mastery XP
@@ -16412,7 +16494,7 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 
 ## Blueprint Elde Etme
 
-Bracelet of Endurance üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Bracelet of Endurance üretimi için gereken Blueprint'i Tinker vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://uo-nimloth.net/wiki/sistemler/craft-gorev-sistemi) veya [<mark style="color:red;">**Blueprint Vendor**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/blueprint-sistemi#blueprint-vendor) aracılığı ile elde edebilirsiniz.
 
 
 --- Dosya: ./esyalar/zirhlar/bronze-platemail.md ---
@@ -21511,6 +21593,8 @@ Yetenek seviyeniz yükseldikçe saldırılarınız daha isabetli hale gelir ve k
   * [Silahlar](esyalar/silahlar.md)
   * [Gemstonelar](esyalar/gemstonelar.md)
   * [Takılar](esyalar/takilar/README.md)
+    * [Earrings of Warding](esyalar/takilar/earrings-of-warding.md)
+    * [Bracelet of Vitality](esyalar/takilar/bracelet-of-vitality.md)
     * [Bracelet of Endurance](esyalar/takilar/bracelet-of-endurance.md)
     * [Bracelet of Clarity](esyalar/takilar/bracelet-of-clarity.md)
     * [Necklace of Spellchant](esyalar/takilar/necklace-of-spellchant.md)
