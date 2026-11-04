@@ -44,19 +44,23 @@ Blueprint öğrenildiğinde eşya tüketilir ve tasarım, öğrenen karaktere ka
 
 Blueprintleri Nimloth dünyasında birçok farklı yolla elde edebilirsiniz:
 
-• Craft görevlerini tamamlayarak
+• [<mark style="color:red;">**Craft görevlerini**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) tamamlayarak
 
-• Deniz Ticaret yaparak
+• [<mark style="color:red;">**Craft Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) seviye ödülleri
 
-• Hazine sandıklarını açarak
+• [<mark style="color:red;">**Deniz Ticareti**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/deniz-ticareti-sistemi) yaparak
 
-• Dungeon sandıklarını (chest) keşfederek
+• [<mark style="color:red;">**Hazine**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hazine-sistemi) sandıklarını açarak
 
-• Blueprint Trader vendoru ile takas yaparak
+• [<mark style="color:red;">**Dungeon sandıklarını**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/dungeon-chest-sistemi) (chest) keşfederek
+
+• Blueprint vendordan takas yaparak veya satın alarak
 
 • Blueprint Combiner ile birleştirme işlemi yaparak
 
-• Donate sistemi üzerinden ödül olarak
+• [<mark style="color:red;">**Donate sistemi**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/donate) üzerinden ödül olarak
+
+• [<mark style="color:red;">**Fenerci Jack**</mark>](https://nimloth-uo.gitbook.io/wiki/genel-bilgi/fenerci-jack)
 
 Her biri farklı türde blueprintler kazanmanızı sağlar.
 
@@ -150,20 +154,26 @@ Bu işlem Blueprintlerin geri dönüşümünü sağlar ve oyuncuların farklı �
 
 ## **Alchemy**
 
-Alchemy yeteneği için <mark style="color:red;">**76 adet**</mark> Blueprint bulunmaktadır.
+Alchemy yeteneği için <mark style="color:red;">**89 adet**</mark> Blueprint bulunmaktadır.
 
-| Eşya                   | Elde Edildiği Yer                             |
-| ---------------------- | --------------------------------------------- |
-| Cloth Dye (11 Adet)    | Treasure Chest, Blueprint Vendor              |
-| Furniture Dye (7 Adet) | Treasure Chest, Blueprint Vendor              |
-| Ship Dye (7 Adet)      | Treasure Chest, Blueprint Vendor              |
-| Hair Dye (14 Adet)     | Treasure Chest, Blueprint Vendor              |
-| Leather Dye (7 Adet)   | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
-| Golem Dye (7 Adet)     | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
-| House Dye (7 Adet)     | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
-| Beard Dye (14 Adet)    | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
-| Salve Potion           | Blueprint Trader, Blueprint Vendor            |
-| Vaccine Potion         | Blueprint Trader, Blueprint Vendor            |
+| Eşya                     | Elde Edildiği Yer                             |
+| ------------------------ | --------------------------------------------- |
+| Cloth Dye (11 Adet)      | Treasure Chest, Blueprint Vendor              |
+| Cloth Dye (3 yeni renk)  | Treasure Chest                                |
+| Furniture Dye (7 Adet)   | Treasure Chest, Blueprint Vendor              |
+| Ship Dye (7 Adet)        | Treasure Chest, Blueprint Vendor              |
+| Hair Dye (14 Adet)       | Treasure Chest, Blueprint Vendor              |
+| Leather Dye (7 Adet)     | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
+| Golem Dye (7 Adet)       | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
+| House Dye (7 Adet)       | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
+| Beard Dye (14 Adet)      | Dungeon Chest (Level 2 - 3), Blueprint Vendor |
+| Salve Potion             | Blueprint Trader, Blueprint Vendor            |
+| Vaccine Potion           | Blueprint Trader, Blueprint Vendor            |
+| Black Cat Statuette      | Fenerci Jack                                  |
+| Crystal Ball ( 2 Adet )  | Fenerci Jack                                  |
+| Crystal Skull ( 5 Adet ) | Fenerci Jack                                  |
+| Jade Skull               | Fenerci Jack                                  |
+| Obsidian Skull           | Fenerci Jack                                  |
 
 ## Blacksmith
 
@@ -188,7 +198,7 @@ Blacksmith yeteneği için <mark style="color:red;">**75 adet**</mark> Blueprint
 
 ## Carpenter
 
-Carpentery yeteneği için <mark style="color:red;">**61 adet**</mark> Blueprint bulunmaktadır.
+Carpentery yeteneği için <mark style="color:red;">**57 adet**</mark> Blueprint bulunmaktadır.
 
 | Eşya                                                                                            | Elde Edildiği Yer                                     |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -209,8 +219,6 @@ Carpentery yeteneği için <mark style="color:red;">**61 adet**</mark> Blueprint
 | Decorative Weapons (3 Adet)                                                                     | Blueprint Combiner, Blueprint Vendor                  |
 | Fishing Pole (Oak, Yew)                                                                         | Blueprint Trader, Blueprint Vendor                    |
 | Yew Lute                                                                                        | Blueprint Trader, Blueprint Vendor                    |
-| Glass Table                                                                                     | Blueprint Vendor                                      |
-| Round Table (3 Adet)                                                                            | Blueprint Vendor                                      |
 
 ## Tailoring
 
@@ -229,7 +237,7 @@ Tailoring yeteneği için <mark style="color:red;">**22 adet**</mark> Blueprint 
 
 ## Tinkering
 
-Tinkering yeteneği için <mark style="color:red;">**65 adet**</mark> Blueprint bulunmaktadır
+Tinkering yeteneği için <mark style="color:red;">**67 adet**</mark> Blueprint bulunmaktadır
 
 | Eşya                                                                                    | Elde Edildiği Yer                         |
 | --------------------------------------------------------------------------------------- | ----------------------------------------- |
@@ -255,6 +263,16 @@ Tinkering yeteneği için <mark style="color:red;">**65 adet**</mark> Blueprint 
 | Golden Tools (Hatchet, Pickaxe, Sickle)                                                 | Blueprint Trader, Blueprint Vendor        |
 | Golem                                                                                   | Craft Mastery (Level 6), Blueprint Vendor |
 | Stained Glass Lamp                                                                      | Blueprint Combiner, Blueprint Vendor      |
+| Bracelet of Vitality                                                                    | Craft Görevleri                           |
+| Earrings of Warding                                                                     | Craft Görevleri                           |
+
+## Bowcraft
+
+Bowcraft yeteneği için <mark style="color:red;">**1 adet**</mark> Blueprint bulunmaktadır
+
+| Eşya    | Elde Edildiği Yer              |
+| ------- | ------------------------------ |
+| Yew Bow | Craft Mastery — Seviye 2 ödülü |
 
 ## Shipcraft
 
