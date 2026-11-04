@@ -8,7 +8,7 @@ Klasik bandajların aksine, oyuncuların aktif üretim ve toplama süreçlerine 
 
 Salve üretiminin ilk adımı ağaç kesme sürecidir.
 
-Lumberjacking yeteneğiniz en az <mark style="color:red;">**90.0**</mark> olduğunda, ağaç keserken belirli bir şansla Ağaç Özü elde edebilirsiniz. Yere düşen öz <mark style="color:red;">**5 dakika sonra kaybolur.**</mark> Bu süre içinde Provisioner vendorlarından satın alınabilen Empty Jar kullanarak, yere düşen Ağaç Özünü kavanozu doldurabilirsiniz.
+Lumberjacking yeteneğiniz en az <mark style="color:red;">**90.0**</mark> olduğunda, ağaç keserken belirli bir şansla Ağaç Özü elde edebilirsiniz. Yere düşen öz <mark style="color:red;">**5 dakika sonra kaybolur.**</mark> Yere düşen Ağaç Özünü, Provisioner vendorlarından satın alabileceğiniz Empty Jar’a doldurabilirsiniz.
 
 Böylece Ağaç Özü Jar haline gelir ve salve üretiminin ilk adımı tamamlanmış olur.
 
