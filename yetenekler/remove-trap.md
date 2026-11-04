@@ -44,6 +44,8 @@ Her sandık için <mark style="color:red;">**3 deneme hakkınız**</mark> bulunm
 
 [<mark style="color:red;">**Hunter Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hunter-mastery-sistemi#oduller) <mark style="color:red;">**Seviye 7**</mark>'ye ulaştığınızda ek bir avantaj kazanırsınız. Remove Trap başarısız olsa bile, <mark style="color:red;">**%33 ihtimalle tuzak tetiklenmez**</mark>. Bu sayede başarısız denemelerinizin bir kısmında hasar almadan ve yaratık ortaya çıkmadan sandığı tekrar deneme şansı elde edebilirsiniz.
 
+<mark style="color:red;">**Tuzak patladığında sandığın kilidi açılmaz.**</mark> Sandığı daha sonra Lockpicking yeteneği ile açmanız gerekir. Ancak tuzak zaten tetiklendiği için kilidi açarken tekrar patlama yaşanmaz ve yeni koruyucu yaratıklar ortaya çıkmaz. Patlama sırasında oluşan yaratıklar bu işlemden etkilenmez.
+
 ## Süre ve Kullanım Kuralları
 
 Tuzak çözme işlemi başladığında <mark style="color:red;">**60 saniye**</mark> içerisinde tamamlanmalıdır.
@@ -85,7 +87,7 @@ Bu durumda:
 
 ## Tuzağı Atlayarak Sandığı Açmak
 
-Sandığın tuzağını kaldırmadan doğrudan <mark style="color:red;">**Lockpicking**</mark> kullanmayı denerseniz, tuzak tam gücüyle etkinleşir.
+Sandığın tuzağı hâlâ aktifken, Remove Trap ile etkisiz hâle getirmeden doğrudan Lockpicking kullanarak kilidi açarsanız tuzak tam gücüyle etkinleşir.
 
 Bu durumda:
 
@@ -96,7 +98,7 @@ Bu nedenle sandıkları açmadan önce Remove Trap kullanmanız tavsiye edilir.
 
 ## Kombinasyonlar ve Çözüm Yöntemleri
 
-Remove Trap mini oyununda karşınıza çıkabilecek toplam **12 farklı kombinasyon** bulunmaktadır. Her bir kombinasyon, mavi noktadan kırmızı noktaya ulaşmak için farklı bir yol çözümüne sahiptir. Bazı kombinasyonlar 4, bazı kombinasyonlar 6, bazıları ise 8 hamle yapmanızı gerektirmektedir.
+Remove Trap mini oyununda karşınıza çıkabilecek toplam <mark style="color:red;">**12 farklı kombinasyon**</mark> bulunmaktadır. Her bir kombinasyon, mavi noktadan kırmızı noktaya ulaşmak için farklı bir yol çözümüne sahiptir. Bazı kombinasyonlar 4, bazı kombinasyonlar 6, bazıları ise 8 hamle yapmanızı gerektirmektedir.
 
 Hamle miktarlarına göre çözüm kombinasyonları şu şekildedir;
 
