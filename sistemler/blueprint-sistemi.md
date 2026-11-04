@@ -34,6 +34,8 @@ Blueprint’i öğrendikten sonra, artık o tasarıma ait kilit ortadan kalkar..
 
 Üretim menüsünde yer alan kilit simgesi kaybolur ve eşya, gerekli malzemeleriniz varsa doğrudan üretilebilir hale gelir.
 
+Blueprint öğrenildiğinde eşya tüketilir ve tasarım, öğrenen karaktere kalıcı olarak kaydedilir. Aynı hesaptaki diğer karakterler bu tasarımı ayrıca öğrenmelidir. Blueprint’i öğrenmek, eşyanın diğer yetenek, malzeme ve üretim koşullarını kaldırmaz.
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ncIoFUyysVBAnEOs2ou2tb29Is6UP4jtZM9ca078.png)
 
 <figure><img src="../.gitbook/assets/blueprint 1.gif" alt=""><figcaption></figcaption></figure>
@@ -76,69 +78,33 @@ Bu özel sekmeye yalnızca [<mark style="color:red;">**premium üyeler**</mark>]
 
 <figure><img src="../.gitbook/assets/blueprint 2.gif" alt=""><figcaption></figcaption></figure>
 
-## Blueprint Trader
+## Blueprint Vendor
 
-Nimloth dünyasında blueprint geliştirme süreci Blueprint Trader vendorları aracılığıyla gerçekleştirilebilmektedir.
+Britain ve Minoc şehirlerinde bulunan Blueprint Vendor üzerinden blueprint takası yapabilir, satıştaki tasarımları satın alabilir veya kullanmadığınız blueprintleri Craft XP karşılığında verebilirsiniz. Vendor menüsü <mark style="color:red;">**Trade, Satın Al**</mark> ve <mark style="color:red;">**Satış**</mark> olmak üzere üç sekmeden oluşur.
 
-Oyuncular mevcut blueprintlerini daha üst seviyeye çıkararak daha değerli tasarımlara ulaşma fırsatı bulurlar.
+<figure><img src="../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
-Britain ve Minoc şehirlerinde bulunan Blueprint Trader vendorlarına giderek birleştirme işlemini yapabilirsiniz.
+### Trade - Blueprint Takası&#x20;
 
-Trader, bu işlem için sizden 5 adet Blueprint ve 50.000 altın talep edecektir.
+<mark style="color:red;">**5 adet Blueprint ve 50.000 gold**</mark> karşılığında, takas listesindeki <mark style="color:red;">**20 tasarımdan birine ait rastgele bir Blueprint**</mark> elde edebilirsiniz. Elde edilebilecek tasarımlar Trade ekranında listelenir.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZbCuqxNi8gve4iyGYBMwACFh3awKFi4u3bYCqwtB.png)
+Takas sırasında verdiğiniz 5 Blueprint tüketilir. Sonuç, verdiğiniz blueprintlerin türüne veya değerine bağlı değildir. <mark style="color:red;">**Dye blueprintleri dahil tüm Blueprint türleri**</mark> takasta kullanılabilir.
 
-Bu işlem gerçekleştirildiğinde, altta yer alan <mark style="color:red;">**20 Blueprint'den birini**</mark> elde edebilirsiniz.
+Sistem, çantanızın ana bölümündeki 5 Blueprint’i alır. Takasta kullanmak istemediğiniz blueprintleri işlemden önce ayrı bir çantaya kaldırmalısınız.
 
-• [<mark style="color:red;">**Yew Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/yew-fishing-pole)
+### Satın Al - Blueprint Satın Alma
 
-• [<mark style="color:red;">**Oak Fishing Pole**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/oak-fishing-pole)
+Bu sekmede satışa sunulan blueprintleri, fiyatlarını ve kalan stoklarını görüntüleyebilirsiniz. Daha önce öğrendiğiniz tasarımların isimleri <mark style="color:green;">**yeşil**</mark> gösterilir.
 
-• [<mark style="color:red;">**Vaccine Potion**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/iksirler/vaccine-potion)
+Stoklar her gün <mark style="color:red;">**18.00–23.59 arasında belirlenen bir saatte, bir kez**</mark> yenilenir. Her stok yenilenmesinde <mark style="color:red;">**aynı hesapla her kategoriden en fazla 1 Blueprint**</mark> satın alınabilir. Stoklar sınırlıdır ve diğer oyuncuların alışverişleriyle tükenebilir.
 
-• [<mark style="color:red;">**Salve Potion**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/iksirler/salve-potion)
+<figure><img src="../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>
 
-• [<mark style="color:red;">**Golden Hatchet**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-hatchet)
+### Satış - Craft XP Karşılığında Blueprint Verme
 
-• [<mark style="color:red;">**Golden Pickaxe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-pickaxe)
+Kullanmadığınız blueprintleri bu sekmeden vererek <mark style="color:red;">**her biri için 150 Craft XP**</mark> kazanabilirsiniz. Tüm Blueprint türleri kabul edilir.
 
-• [<mark style="color:red;">**Golden Sickle**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/uretimtoplayici/gold-sickle)
-
-• [<mark style="color:red;">**Yew Lute**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/yew-lute)
-
-• [<mark style="color:red;">**Small Wood and Plaster Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-wood-and-plaster-cottage)
-
-• [<mark style="color:red;">**Small Stone Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-stone-cottage)
-
-• [<mark style="color:red;">**Small Wood and Stone Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-wood-and-stone-cottage)
-
-• [<mark style="color:red;">**Small Stone and Plaster Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-stone-and-plaster-cottage)
-
-• [<mark style="color:red;">**Small Wooden Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-wooden-cottage)
-
-• [<mark style="color:red;">**Small Timber Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-timber-cottage)
-
-• [<mark style="color:red;">**Small Shingle Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-shingle-cottage)
-
-• [<mark style="color:red;">**Small Granite Cottage**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/small-houses/small-granite-cottage)
-
-• [<mark style="color:red;">**Small Sandstone Workshop**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/medium-houses/small-sandstone-workshop)
-
-• [<mark style="color:red;">**Large Wood and Plaster House**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/large-houses/large-wood-and-plaster-house-with-patio)
-
-• [<mark style="color:red;">**Large Wooden House with Patio**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/large-houses/large-wooden-house-with-patio)
-
-• [<mark style="color:red;">**Large Stone House with Patio**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler/large-houses/large-stone-house-with-patio)
-
-Ayrıca Blueprint Trade vendorunda yer alan <mark style="color:red;">**"İnfo"**</mark> butonuna tıklayarak da bu listeye ulaşabilirsiniz
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-### ÖNEMLİ NOT
-
-Birleştirme işleminde bazı blueprint türleri kabul edilmez.
-
-<mark style="color:red;">**Her türlü Dye kategorisindeki özel Blueprintler sistem tarafından reddedilir ve birleştirme sürecinde kullanılamazlar.**</mark>
+<mark style="color:red;">**“Blueprint Sat”**</mark> butonuna tıklayıp çantanızdaki blueprinti seçmeniz yeterlidir. Verdiğiniz blueprint tüketilir ve geri alınamaz. Başarılı işlemden sonra başka bir blueprint seçerek devam edebilir, <mark style="color:red;">**Esc**</mark> tuşuyla işlemi sonlandırabilirsiniz.
 
 ## Blueprint Combiner
 
@@ -174,13 +140,13 @@ Bunun için, listede yer alan Blueprintin yanındaki <mark style="color:red;">**
 
 6 adet blueprint eklendikten sonra <mark style="color:red;">**"Birleştir"**</mark> butonuna tıklayarak yeni bir Blueprint elde edebilirsiniz.
 
-Sistem tüm Blueprintleri değerlendirir ve oyuncuya 36 adet Blueprintten birini rastgele olarak verir.
+Sistem tüm Blueprintleri değerlendirir ve oyuncuya 40 adet Blueprintten birini rastgele olarak verir.
 
 Bu işlem Blueprintlerin geri dönüşümünü sağlar ve oyuncuların farklı üretim tarifleri elde etmesine yardımcı olur.
 
 <figure><img src="../.gitbook/assets/blueprint 3.gif" alt=""><figcaption></figcaption></figure>
 
-**Nimloth dünyasında bulunan Blueprintler ve elde edebileceğiniz yerler şu şekildedir:**
+<mark style="color:red;">**Nimloth dünyasında bulunan Blueprintler ve elde edebileceğiniz yerler şu şekildedir:**</mark>
 
 ## **Alchemy**
 
@@ -201,7 +167,7 @@ Alchemy yeteneği için <mark style="color:red;">**76 adet**</mark> Blueprint bu
 
 ## Blacksmith
 
-Alchemy yeteneği için <mark style="color:red;">**75 adet**</mark> Blueprint bulunmaktadır.
+Blacksmith yeteneği için <mark style="color:red;">**75 adet**</mark> Blueprint bulunmaktadır.
 
 | Eşya                                           | Elde Edildiği Yer                            |
 | ---------------------------------------------- | -------------------------------------------- |
@@ -292,7 +258,7 @@ Tinkering yeteneği için <mark style="color:red;">**65 adet**</mark> Blueprint 
 
 ## Shipcraft
 
-Tinkering kategorisinde <mark style="color:red;">**55 adet**</mark> Blueprint bulunmaktadır
+Shipcraft kategorisinde <mark style="color:red;">**55 adet**</mark> Blueprint bulunmaktadır
 
 | Eşya                                                                          | Elde Edildiği Yer                  |
 | ----------------------------------------------------------------------------- | ---------------------------------- |
@@ -304,7 +270,7 @@ Tinkering kategorisinde <mark style="color:red;">**55 adet**</mark> Blueprint bu
 
 ## Housecraft
 
-Tinkering kategorisinde <mark style="color:red;">**18 adet**</mark> Blueprint bulunmaktadır
+Housecraft kategorisinde <mark style="color:red;">**18 adet**</mark> Blueprint bulunmaktadır
 
 | Eşya                                                                                                         | Elde Edildiği Yer                  |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
