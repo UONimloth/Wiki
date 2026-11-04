@@ -32,7 +32,7 @@ Ayrıca World Map üzerinde hazine konumunu gösteren özel bir hazine ikonu da 
 
 Hazine konumuna ulaştığınızda elinize <mark style="color:red;">**Pickaxe**</mark> alıp hazine haritasına tekrar tıklayarak kazmaya başlayabilirsiniz. Bir süre sonra kasa yüzeye çıkar. Ancak dikkatli olmalısınız:
 
-Her hazine kasasında <mark style="color:red;">**orta veya zor seviyede bir tuzak bulunur**</mark>**.** Hazine kasasındaki tuzağı <mark style="color:red;">**90.0**</mark> [<mark style="color:red;">**Remove Trap**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/remove-trap) yeteneği ile etkisiz hale getirebilirsiniz.
+Her hazine kasasında <mark style="color:red;">**zor seviyede bir tuzak bulunur**</mark>**.** Hazine kasasındaki tuzağı <mark style="color:red;">**90.0**</mark> [<mark style="color:red;">**Remove Trap**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/remove-trap) yeteneği ile etkisiz hale getirebilirsiniz.
 
 Tuzak başarıyla etkisiz hâle getirilirse kasayı açarken <mark style="color:red;">**hiçbir koruyucu spawn olmaz**</mark>**.**
 
@@ -60,9 +60,9 @@ Hazinenin içeriği, denizlerin ve yer altının derinliklerinden gelen gerçek 
 
 • %50 şansla [<mark style="color:red;">**Invul Studded Armor**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/magical-studded) parçası
 
-• %33 şansla +9 ila +12 arası Magical Weapon
+• %50 şansla +9,+12 veya +15 Magical Weapon
 
-• %33 şansla [<mark style="color:red;">**Magic Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-cloth), [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal), [<mark style="color:red;">**Wizard Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-cloth) veya [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
+• %50 şansla [<mark style="color:red;">**Magic Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-cloth), [<mark style="color:red;">**Magic Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/magic-crystal), [<mark style="color:red;">**Wizard Cloth**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-cloth) veya [<mark style="color:red;">**Wizard Crystal**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/wizard-crystal)
 
 • %33 şansla [<mark style="color:red;">**Blueprint Combiner**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/blueprint-combiner)
 
@@ -74,7 +74,7 @@ Hazinenin içeriği, denizlerin ve yer altının derinliklerinden gelen gerçek 
 
 • %16 şansla [<mark style="color:red;">**Armor Bundler**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/armor-bundler)
 
-• %12 şansla [<mark style="color:red;">**Gem Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
+• %16 şansla [<mark style="color:red;">**Gem Stone**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/gemstonelar)
 
 • %10 şansla [<mark style="color:red;">**Runebook Linker**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/diger-esyalar/runebook-linker)
 
