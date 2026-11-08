@@ -1,6 +1,6 @@
 # Gatherer's Apron
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/nG7x6WqUkDSW5rfLv91t1Qisa8lqB4WT2j7TySck.png)
+<figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
 
 Gatherer's Apron, Sosaria’nın bereketli topraklarında çalışan usta toplayıcılar için tasarlanmış özel bir ekipmandır.
 
@@ -10,7 +10,7 @@ Bu apron sayesinde, topladığınız ürünleri daha uzun süre yanınızda taş
 
 ## Özellikler
 
-Taşıma kapasitenizi <mark style="color:red;">**+100**</mark> artırır
+Normal üretimi taşıma kapasitenizi <mark style="color:red;">**+100**</mark> artırır, Superior Gatherer's Apron ise taşıma kapasitenizi <mark style="color:red;">**+125**</mark> artırır.
 
 ## Üretim
 
@@ -26,8 +26,8 @@ Ayrıca üretim için bir [<mark style="color:red;">**Blueprint**</mark>](https:
 
 ## Blueprint Elde Etme
 
-Watering Can üretimi için gereken Blueprint'i Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
+Gatherer Apron üretimi için gereken Blueprint'i Tailor vendorlardan alabileceğiniz [<mark style="color:red;">**Craft görevleri**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi) ile elde edebilirsiniz.
 
 ## Kullanım Gereksinimleri
 
-Watering Can kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 17 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
+Gatherer Apron kullanımı için [<mark style="color:red;">**Gatherer Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-mastery-sistemi#oduller) seviyenizin 17 olması gerekmektedir. Gatherer yeteneklere ait görevler alarak Gatherer Mastery seviyenizi yükseltebilirsiniz.
