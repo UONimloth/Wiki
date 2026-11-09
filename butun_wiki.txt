@@ -13291,7 +13291,7 @@ Premium oyuncular için bu süreç otomatikleştirilmiştir:
 
 Eğer bankanızda yeterli miktarda altın varsa, ev otomatik olarak yenilenir ve yıkım riski ortadan kalkar.
 
-Eviniz yenilendiğinde eğer online isenir mesaj, değilseniz evinizin otomatik olarak yenilendiğine dair bir bildirim alırsınız.
+Eviniz yenilendiğinde eğer online iseniz mesaj, değilseniz evinizin otomatik olarak yenilendiğine dair bir bildirim alırsınız.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/nWPCD4MVtdAeIxzEWm5CWHWSGNM0uO3cbnbqLyu9.png)
 
@@ -13461,7 +13461,7 @@ Premium oyuncular, Profile menüsü üzerinden aşağıdaki duyuruları ayrı ay
 • Nadir bineklerin görüldüğü bölgelere ilişkin duyurular\
 • Deniz ticareti mesajları
 
-Bu özellik, yoğun savaş ve ticaret ortamlarında bilgi karmaşasını azaltarak daha keyifli ev özelleştirilebilir oyun deneyimi sağlar.
+Bu özellik, yoğun savaş ve ticaret ortamlarında bilgi karmaşasını azaltarak daha keyifli ve özelleştirilebilir oyun deneyimi sağlar.
 
 <figure><img src="../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
