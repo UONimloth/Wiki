@@ -190,9 +190,9 @@ Bu özellik, yoğun savaş ve ticaret ortamlarında bilgi karmaşasını azaltar
 
 <figure><img src="../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
-## [Online Ödül Bonusu](https://uo-nimloth.net/wiki/sistemler/online-odul-sistemi)
+## Online Ödül Bonusu
 
-Nimloth’da oyuncular, gün içerisinde çevrimiçi kaldıkları süreye bağlı olarak Nimloth Puanı kazanırlar.
+Nimloth’da oyuncular, gün içerisinde [<mark style="color:red;">**çevrimiçi kaldıkları süreye bağlı**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/online-odul-sistemi) olarak Nimloth Puanı kazanırlar.
 
 Normal şartlarda gün içerisinde ilk 5 saat boyunca tamamladıkları her saat için <mark style="color:red;">**1 Nimloth Puanı**</mark> kazanırsınız.
 
