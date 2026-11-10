@@ -38,7 +38,7 @@ Menüde yazan seviyeyi tamamlayıp bir üst seviyeye geçtiğinizde ilgili avant
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wpNecNWeUIegKngIe6KEOqHT5WgHK6lQ4Vver9um.png)
 
-#### Seviye Ödülleri
+### Seviye Ödülleri
 
 * <mark style="color:red;">**3. seviye | Tracking Alanı**</mark>**:** Tracking ile taradığınız mesafe <mark style="color:red;">**10 adım**</mark> artar.
 * <mark style="color:red;">**7. seviye | Daha Kısa Kuluçka**</mark>**:** Ostard Egg’in kuluçka süresi <mark style="color:red;">**1 gün**</mark> kısalır. [<mark style="color:red;">**Veterinary**</mark> ](https://nimloth-uo.gitbook.io/wiki/yetenekler/veterinary)yeteneğiniz <mark style="color:red;">**100**</mark> ise kuluçka süresi yaklaşık <mark style="color:red;">**2 güne**</mark> düşer.
