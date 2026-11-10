@@ -51,7 +51,7 @@ Menüde yazan seviyeyi tamamlayıp bir üst seviyeye geçtiğinizde ilgili avant
 
 Master Tamer menüsündeki <mark style="color:red;">**Takas**</mark> sekmesinden uygun binek kontratlarını <mark style="color:red;">**Tamer Mastery XP**</mark> karşılığında verebilirsiniz. Sol üstteki <mark style="color:red;">**?**</mark> butonu, kabul edilen binekleri ve her kontratın kazandırdığı XP’yi gösterir. Bir kontrat, ilgili bineği Random Spawn sisteminde evcilleştirerek kazanacağınız XP’nin <mark style="color:red;">**yarısını**</mark> verir.
 
-Takas yapmak için <mark style="color:red;">**Kontrat Ver**</mark> butonuna tıklayın ve ana çantanızdaki <mark style="color:red;">**Animal Contract Deed**</mark>’i seçin. Takas tamamlandığında kontrat tüketilir ve XP’niz eklenir. Başka bir kontrat seçerek devam edebilir veya **Esc** tuşuna basarak işlemi bitirebilirsiniz.
+Takas yapmak için <mark style="color:red;">**Kontrat Ver**</mark> butonuna tıklayın ve ana çantanızdaki <mark style="color:red;">**Animal Contract Deed**</mark>’i seçin. Takas tamamlandığında kontrat tüketilir ve XP’niz eklenir. Başka bir kontrat seçerek devam edebilir veya <mark style="color:red;">**Esc**</mark> tuşuna basarak işlemi bitirebilirsiniz.
 
 #### Kontrat Başına Kazanılan Tamer Mastery XP
 
