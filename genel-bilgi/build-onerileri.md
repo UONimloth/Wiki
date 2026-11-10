@@ -288,7 +288,7 @@ Aşağıdaki buildlerin her biri <mark style="color:red;">**700 toplam yetenek p
 
 ### Hasar Odaklı
 
-Okçuluk ve yakın dövüş hasarını büyü desteğiyle birleştiren **saldırı odaklı bir PvM buildidir**. Archery ile yaratıklara uzaktan saldırabilir, yakın mesafede seçtiğiniz yakın dövüş silahına geçebilirsiniz.
+Okçuluk ve yakın dövüş hasarını büyü desteğiyle birleştiren <mark style="color:red;">**saldırı odaklı bir PvM buildidir**</mark>. Archery ile yaratıklara uzaktan saldırabilir, yakın mesafede seçtiğiniz yakın dövüş silahına geçebilirsiniz.
 
 Anatomy ve Arms Lore kritik vuruş ihtimalinizi desteklerken Tactics ve Lumberjacking kritik vuruş hasarınıza katkı sağlar. Magery ile kendinizi tedavi edebilir, güçlendirme ve koruma büyülerinden yararlanabilirsiniz. Meditation sayesinde uygun anlarda transa geçerek mana yenileyebilirsiniz.
 
@@ -334,7 +334,7 @@ Poisoning, Arms Lore ve Lumberjacking bulunmadığından zehir uygulayamazsını
 
 Okçuluk, yakın dövüş ve büyü desteğini dungeon sandıklarını açma yetkinliğiyle birleştiren <mark style="color:red;">**PvP ve PvM hibrit buildidir**</mark>. Archery ile uzaktan saldırabilir, yakın mesafede Macefighting silahlarına geçebilirsiniz. Tactics, her iki silah yeteneğinizi de destekler.
 
-Magery ile tedavi, güçlendirme ve koruma büyülerini kullanabilirsiniz. Evaluating Intelligence, ilgili büyülerin etkisini ve süresini artırırken Harm gibi saldırı büyülerinizin hasarına da katkı sağlar. **100.0 Meditation** sayesinde trans sırasında en yüksek mana yenileme kademesinden yararlanabilirsiniz.
+Magery ile tedavi, güçlendirme ve koruma büyülerini kullanabilirsiniz. Evaluating Intelligence, ilgili büyülerin etkisini ve süresini artırırken Harm gibi saldırı büyülerinizin hasarına da katkı sağlar. <mark style="color:red;">**100.0 Meditation**</mark> sayesinde trans sırasında en yüksek mana yenileme kademesinden yararlanabilirsiniz.
 
 Lockpicking ile dungeon sandıklarının kilitlerini açarak av sırasında ek ganimet elde edebilirsiniz. <mark style="color:red;">**Kilit açmak sandığın tuzağını etkisiz hâle getirmez**</mark>; bu dağılımda Remove Trap bulunmadığından tuzakları ayrıca değerlendirmeniz gerekir.
 
