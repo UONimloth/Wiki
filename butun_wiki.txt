@@ -13167,7 +13167,11 @@ Arayüzde bulunan <mark style="color:red;">**Quests**</mark> butonu üzerinden b
 
 <figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (449).png" alt=""><figcaption></figcaption></figure>
+
+Görev ekranında yaratığın simgesinin üzerine geldiğinizde, konum bilgisi mevcutsa yaratığı bulabileceğiniz bölgeleri görebilirsiniz.
+
+<figure><img src="../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
 
 ## Sıralama
 
@@ -13185,7 +13189,7 @@ Bir görev yaratığını öldürdüğünüzde, sistem size öldürdüğünüz y
 
 <figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
-Her Tier seviyesi, ay sonundaki sıralamaya farklı miktarda puan kazandırır:
+Her Tier seviyesi, hafta sonundaki sıralamaya farklı miktarda puan kazandırır:
 
 | Tier       | Kazanılan Puan |
 | ---------- | -------------: |
@@ -13194,6 +13198,10 @@ Her Tier seviyesi, ay sonundaki sıralamaya farklı miktarda puan kazandırır:
 | **Tier 3** |        40 Puan |
 | **Tier 2** |        66 Puan |
 | **Tier 1** |       100 Puan |
+
+## Cumartesi Görevi - Zul’Thar
+
+Cumartesi günleri, günlük görevlere ek olarak <mark style="color:red;">**Tier 0**</mark> görevi açılır. [<mark style="color:red;">**World Boss**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/world-boss-sistemi) etkinliğinde Zul’Thar’a verdiğiniz her <mark style="color:red;">**5 hasar**</mark>, bu görevde <mark style="color:red;">**1 puan**</mark> kazandırır. Görevden en fazla <mark style="color:red;">**1.000 puan**</mark> alabilirsiniz. Üst sınıra ulaşmak için toplam <mark style="color:red;">**5.000 hasar**</mark> vermeniz gerekir.
 
 ## Puanların Hesaplanması
 
@@ -13219,7 +13227,9 @@ Puan hesaplaması tamamlandıktan sonra, kazandığınız puan ve Hunter Mastery
 
 ## Hafta Sonu Ödülleri
 
-Hafta sonunda sıralama, o hafta boyunca toplanan toplam puanlar üzerinden belirlenir.
+Haftalık ödüller <mark style="color:red;">**Pazar günü saat 23:59’da**</mark>, günün puanları hesaplandıktan sonra dağıtılır. Listenin ilk <mark style="color:red;">**10 sırasında yer alan karakterlerin**</mark> çantasına <mark style="color:red;">**Daily Mission Reward**</mark> gönderilir. Bu eşyaya çift tıklayarak ödülünüzü alabilirsiniz.
+
+Eşit puana sahip karakterler aynı dereceyi paylaşır. Ödül dağıtımı listedeki ilk <mark style="color:red;">**10 karakterle**</mark> sınırlıdır.
 
 Sıralamada <mark style="color:red;">**ilk 3 oyuncu**</mark>, birbirinden farklı ödüller kazanmaya hak kazanır. Bunun yanı sıra, sıralamada yer alan diğer oyuncular da bulundukları dereceye göre çeşitli ödüller kazanabilirler.\
 Ödül havuzu şu şekildedir:
@@ -13259,9 +13269,9 @@ Sıralamada <mark style="color:red;">**ilk 3 oyuncu**</mark>, birbirinden farkl�
 
 ### **8–10. Sıralar**
 
-* Random **Ostard**
+* Random <mark style="color:red;">**Ostard**</mark>
 * 1 Faster veya Wizard Robe
-* 3 adet +15 Silah
+* 4 adet +15 Silah
 
 ## Rare Renkler ve Binekler
 
