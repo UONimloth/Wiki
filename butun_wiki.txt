@@ -11686,57 +11686,53 @@ Bu sekme altından diğer guildler ile <mark style="color:red;">**Last Stand**</
 
 # Random Spawn Sistemi
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/rDT42tIeisCR67zSUUNdJoViBse1e0SY4gznMDdN.png" 
-       alt="Nimloth Logo">
-</div>
-<p></p>
+Random Spawn Sistemi, Sosaria dünyasında binek keşfini daha dinamik ve öngörülemez hâle getiren özel bir sistemdir.
 
-<p>Random Spawn Sistemi, Sosaria dünyasında binek keşfini daha dinamik ve öngörülemez hâle getiren özel bir sistemdir.</p>
-<p>Bu sistem sayesinde belirli binekler, harita üzerinde rastgele noktalarda ortaya çıkar ve oyuncuların keşif ve takip becerilerini ön plana çıkarır.</p>
+Bu sistem sayesinde belirli binekler, harita üzerinde rastgele noktalarda ortaya çıkar ve oyuncuların keşif ve takip becerilerini ön plana çıkarır.
 
-<h2>Spawn Kuralları</h2>
+## Spawn Kuralları
 
-<p>Random spawn binekler, haritanın büyük bir kısmında ortaya çıkabilir. Ancak bazı bölgeler bu sistemin dışında tutulmuştur.</p>
+Random Spawn binekleri, Sosaria’da yürünebilir çimenlik, orman, bataklık ve karlı alanlarda rastgele ortaya çıkar. Guard Zone’lar, güvenli bölgeler, zindanlar, Lost Lands ve Esyria otomatik spawn alanının dışındadır.
 
-<p>Binekler;</p>
+Binekler ortaya çıktığında çevrelerinde onları koruyan yaratıklar da belirir.
 
-<p>• Guard Zone bölgelerinde</p>
+## Random Mount Informer
 
-<p>• Zindanlar içerisinde</p>
+Binek ortaya çıktığında, öldüğünde veya evcilleştirildiğinde anlık bir sistem duyurusu yapılmaz. Aktif binekler hakkında bilgi almak için Animal Trainer’dan <mark style="color:red;">**Random Mount Informer**</mark> satın alabilirsiniz.
 
-<p>• Lost Lands (Wastelands) bölgesinde <strong style="color: #410000;">spawn olmazlar.</strong> Bunların dışında kalan tüm bölgelerde rastgele olarak spawn olabilirler.</p>
+Bu durum, sistemin keşif ve takip odaklı yapısını korumak için özellikle tercih edilmiştir.
 
-<h2>Random Mount Informer</h2>
-<p>Random spawn sisteminde binekler spawn olduğunda, öldüklerinde, evcilleştirildiklerinde herhangi bir global ya da kişisel bilgilendirme mesajı oluşturmaz.</p>
-<p>Bu durum, sistemin keşif ve takip odaklı yapısını korumak için özellikle tercih edilmiştir.</p>
+Random spawn binekler hakkında bilgi alabilmek için Animal Trainer vendor üzerinden satılan Random Mount Informer isimli scroll’u kullanabilirsiniz.
 
-<p>Random spawn binekler hakkında bilgi alabilmek için Animal Trainer vendor üzerinden satılan Random Mount Informer isimli scroll’u kullanabilirsiniz.</p>
+Bu eşyayı kullanabilmek için <mark style="color:red;">**Tamer Mastery seviyesinin en az 11 olması**</mark> gerekmektedir.
 
-<p>Bu eşyayı kullanabilmek için <strong style="color: #410000;">Tamer Mastery seviyesinin en az 11 olması</strong> gerekmektedir.</p>
+Tamer Mastery seviyesine göre sağlanan bilgiler şu şekildedir:
 
-<p>Tamer Mastery seviyesine göre sağlanan bilgiler şu şekildedir:</p>
+### **Mastery Seviye 11**
 
-<strong style="color: #410000;">Mastery Seviye 11</strong>
-<p>Harita üzerinde aktif olan toplam random binek sayısı görüntüleyebilirsiniz.</p>
+Harita üzerinde aktif olan toplam random binek sayısı görüntüleyebilirsiniz.
 
-<strong style="color: #410000;">Mastery Seviye 21</strong>
-<p>Aktif olan binekler detaylı şekilde listelenir ve bineklere ait özellikler görüntüleyebilirsiniz.</p>
+### **Mastery Seviye 21**
 
-<p><strong style="color: #410000;">Eşyanın kullanımında bineklerin konumu ile ilgili herhangi bir bilgi verilmez.</strong></p>
+Aktif olan binekler detaylı şekilde listelenir ve bineklere ait özellikler görüntüleyebilirsiniz.
 
-<h2>Bölgesel Duyuru Sistemi</h2>
-<p>Bir random spawn binek aktif olduktan sonra <strong style="color: #410000;">6 saat içerisinde evcilleştirilmezse</strong>, sistem tarafından tüm sunucuya, bineğin bulunduğu bölgeyi belirten bir bilgi mesajı gönderilir.</p>
-<p>Bu duyuru bineğin tam konumunu paylaşmaz.</p>
+<mark style="color:red;">**Eşyanın kullanımında bineklerin konumu ile ilgili herhangi bir bilgi verilmez.**</mark>
 
-<h2>Tamer Mastery XP Kazanımı</h2>
-<p>Random Spawn Sistemi kapsamında evcilleştirilen binekler, Tamer Mastery XP kazandırır.</p>
-<p>Aktif binekler ve verdikleri XP miktarları şu şekildedir:</p>
-<p>Ore Llama, Desert Ostard, Forest Ostard: <strong style="color: #410000;">250 XP</strong></p>
-<p>Frenzied Ostard, Mid Ostard: <strong style="color: #410000;">400 XP</strong></p>
-<p>Shire, Mustang, Night Llama, Fire Llama: <strong style="color: #410000;">600 XP</strong></p>
-<p>Ice Ostard, Silver Steed, Fire Steed, Kii Rin: <strong style="color: #410000;">1000 XP</strong></p>
-<p>Wine Steed, Unicorn: <strong style="color: #410000;">1500 XP</strong></p>
+## Bölgesel Duyuru Sistemi
+
+Bir binek ortaya çıktıktan <mark style="color:red;">**5 saat sonra**</mark> hâlâ hayattaysa ve evcilleştirilmemişse, adı ve bulunduğu bölge oyun içinde duyurulur. Binek evcilleştirilene veya ölene kadar duyuru <mark style="color:red;">**30 dakikada bir**</mark> tekrarlanır. Tam konum paylaşılmaz.
+
+Premium oyuncular bu duyuruları <mark style="color:red;">**Profile → Binek Mesajları**</mark> ayarından açıp kapatabilir.
+
+## Tamer Mastery XP Kazanımı
+
+Random Spawn sistemindeki bir bineği evcilleştirdiğinizde, <mark style="color:red;">**Tamer Mastery seviyeniz 21’in altındaysa**</mark> bineğin türüne göre XP kazanırsınız.
+
+* <mark style="color:red;">**400 XP**</mark> - Mid Ostard, Frenzied Ostard
+* <mark style="color:red;">**600 XP**</mark> - Shire, Mustang, Fire Llama, Night Llama
+* <mark style="color:red;">**1.000 XP**</mark> - Ice Ostard, Silver Steed, Fire Steed, Kii Rin
+* <mark style="color:red;">**1.500 XP**</mark> - Wine Steed, Unicorn
+
 
 --- Dosya: ./sistemler/donate.md ---
 
