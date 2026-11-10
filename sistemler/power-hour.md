@@ -34,50 +34,52 @@ Takvim ekranı üzerinden her güne ait planlanmış Power Hour saatlerini gör�
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/J4ikHELAPitUJRkoA4ZdWdjaCdsjy8Z2sRQYwuwY.gif)
 
-| Yetenek          | Baz Skill Gain | PH Skill Gain |
-| ---------------- | -------------- | ------------- |
-| Alchemy          | %25            | %50           |
-| Anatomy          | %50            | %100          |
-| Animal Lore      | %25            | %50           |
-| ItemID           | %50            | %100          |
-| ArmsLore         | %50            | %100          |
-| Parrying         | %50            | %100          |
-| Blacksmithing    | %16            | %33           |
-| Bowcraft         | %16            | %33           |
-| Peacemaking      | %50            | %100          |
-| Carpentry        | %16            | %33           |
-| Cartography      | %25            | %50           |
-| Cooking          | %25            | %50           |
-| Detecting Hidden | %50            | %100          |
-| Discordance      | %100           | %100          |
-| Evaluating Intel | %50            | %100          |
-| Healing          | %50            | %100          |
-| Fishing          | %50            | %100          |
-| Farming          | %25            | %50           |
-| Herding          | %16            | %33           |
-| Hiding           | %50            | %100          |
-| Inscription      | %50            | %100          |
-| Lockpicking      | %25            | %50           |
-| Magery           | %50            | %100          |
-| Magic Resistance | %50            | %100          |
-| Tactics          | %50            | %100          |
-| Snooping         | %8             | %8            |
-| Musicianship     | %50            | %100          |
-| Poisoning        | %50            | %100          |
-| Archery          | %50            | %100          |
-| Spirit Speak     | %50            | %100          |
-| Stealing         | %8             | %8            |
-| Tailoring        | %16            | %33           |
-| Animal Taming    | %8             | %8            |
-| Tinkering        | %16            | %33           |
-| Tracking         | %50            | %100          |
-| Veterinary       | %50            | %100          |
-| Swordsmanship    | %50            | %100          |
-| Macefighting     | %50            | %100          |
-| Fencing          | %50            | %100          |
-| Wrestling        | %50            | %100          |
-| Lumberjacking    | %25            | %50           |
-| Mining           | %16            | %33           |
-| Meditation       | %50            | %100          |
-| Stealth          | %25            | %50           |
-| Sailormanship    | %25            | %50           |
+| Yetenek                | Baz Skill Gain | PH Skill Gain |
+| ---------------------- | -------------- | ------------- |
+| Alchemy                | %25            | %50           |
+| Anatomy                | %50            | %100          |
+| Animal Lore            | %25            | %50           |
+| Animal Taming          | %8             | %8            |
+| Archery                | %50            | %100          |
+| ArmsLore               | %50            | %100          |
+| Blacksmithing          | %16            | %33           |
+| Bowcraft               | %16            | %33           |
+| Carpentry              | %16            | %33           |
+| Cartography            | %25            | %50           |
+| Cooking                | %25            | %50           |
+| Detecting Hidden       | %50            | %100          |
+| Discordance            | %100           | %100          |
+| Evaluating Intel       | %50            | %100          |
+| Farming                | %25            | %50           |
+| Fencing                | %50            | %100          |
+| Fishing                | %50            | %100          |
+| Healing                | %50            | %100          |
+| Herding                | %16            | %33           |
+| Hiding                 | %50            | %100          |
+| Inscription            | %50            | %100          |
+| ItemID                 | %50            | %100          |
+| Lockpicking            | %25            | %50           |
+| Lumberjacking          | %25            | %50           |
+| Macefighting           | %50            | %100          |
+| Magery                 | %50            | %100          |
+| Magic Resistance       | %50            | %100          |
+| Meditation             | %50            | %100          |
+| Mining                 | %16            | %33           |
+| Musicianship           | %50            | %100          |
+| Parrying               | %50            | %100          |
+| Peacemaking(Başarılı)  | %50            | %100          |
+| Peacemaking(Başarısız) | %16            | %33           |
+| Poisoning              | %50            | %100          |
+| Remove Trap            | %50            | %100          |
+| Sailormanship          | %16            | %33           |
+| Snooping               | %8             | %8            |
+| Spirit Speak           | %50            | %100          |
+| Stealing               | %8             | %8            |
+| Stealth                | %25            | %50           |
+| Swordsmanship          | %50            | %100          |
+| Tactics                | %50            | %100          |
+| Tailoring              | %16            | %33           |
+| Tinkering              | %16            | %33           |
+| Tracking               | %50            | %100          |
+| Veterinary             | %50            | %100          |
+| Wrestling              | %50            | %100          |
