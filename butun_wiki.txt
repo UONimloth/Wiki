@@ -16406,77 +16406,65 @@ Guildwars’ın temel amacı:
 
 # Hunter Mastery Sistemi
 
-![Nimloth Logo](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/iLSwzFJWbZmlXhpSQ7dRXMMZAQ7P8fMZpe0Frt8Y.png)
+Hunter Mastery Sistemi, Sosaria’da avlandıkça ustalığınızı geliştirmenizi sağlar. Hunter görevlerinden ve Günlük Görevlerden kazandığınız XP ile seviye atlayabilir, yaratıklara karşı daha etkili savaşabilir ve av sırasında işinize yarayacak yeni avantajlar kazanabilirsiniz.
 
-Hunter Mastery Sistemi, Ultima Online dünyasında avcılık becerilerinizi bir üst seviyeye taşımanızı sağlayan özel bir ilerleme sistemidir.
+### Genel Bakış
 
-Bu sistemde, Master Hunter vendorundan aldığınız görevler ile XP kazanır ve kazandıkları XP’ler sayesinde Hunter Mastery seviyelenizi yükseltebilirsiniz.
+<mark style="color:red;">**Master Hunter**</mark>’a `gorev` diyerek bir [<mark style="color:red;">**Hunter görevi**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/hunter-gorev-sistemi) alabilirsiniz. Görevde belirtilen yaratıkları avlayıp görevi teslim ettiğinizde <mark style="color:red;">**altın ve Hunter Mastery XP**</mark> kazanırsınız.
 
-Her av artık yalnızca ganimet elde etmek değil, aynı zamanda ustalık yolunda atılmış önemli bir adım hâline gelir.
-
-## Genel Bakış
-
-Hunter Mastery Sistemi, görev tabanlı bir ilerleme yapısına sahiptir. Hunter görevleri alarak belirlenen hedefleri tamamlar ve görevleri tamamladıkça XP kazanırsınız.
-
-Bu yapı sayesinde avcılık süreci daha planlı, hedef odaklı ve uzun vadeli bir ustalık yolculuğuna dönüşür.
-
-Görevler, oyuncuları farklı yaratık türlerine, farklı bölgelere ve daha zorlu PvM içeriklerine yönlendirir.
-
-## Master Hunter Vendorlar
-
-Master Hunter vendorlar, Sosaria’nın çeşitli bölgelerinde bulunur ve Hunter görevleri ile Hunter Mastery ilerlemenizi takip etmenizi sağlar.
-
-Görev almak ve ilerlemenizi takip etmek için Hunter Master isimli vendor ile etkileşime geçmeniz gerekmektedir.
-
-• Vendor’a **“gorev”** yazarak görev alabilirsiniz
-
-• Aynı NPC üzerinden görevlerinizi teslim edebilirsiniz
-
-Tüm ilerleme süreci bu vendor üzerinden yönetildiği için sistem oldukça sade ve anlaşılır bir yapı sunar.
-
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wcUwtNrtbk3ahKDabgUYH3vCkeQ0gyhYaEPJTHMK.png)
+[<mark style="color:red;">**Günlük Görevler**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gunluk-gorev-sistemi) de Hunter Mastery ilerlemenize katkı sağlar. Gün sonunda puanlarınız hesaplandığında, kazandığınız her <mark style="color:red;">**4 Günlük Görev puanı**</mark> için <mark style="color:red;">**1 Hunter Mastery XP**</mark> alırsınız.
 
 ## Master Hunter Menüsü
 
-Master Hunter’a çift tıklandığınınızda, aşağıdaki gibi bir menü açılır. Bu menüde iki farklı sekme bulunmaktadır:
+Master Hunter’a çift tıkladığınızda <mark style="color:red;">**Mastery**</mark> ve <mark style="color:red;">**Ödüller**</mark> olmak üzere iki sekme açılır.
+
+![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wcUwtNrtbk3ahKDabgUYH3vCkeQ0gyhYaEPJTHMK.png)
+
+### Mastery
+
+<mark style="color:red;">**Mastery**</mark> sekmesinde mevcut seviyenizi ve bir sonraki seviyeye geçmek için ne kadar XP gerektiğini görebilirsiniz. Yeterli XP biriktirdiğinizde <mark style="color:red;">**Seviye Atla**</mark> butonu aktif olur. Seviye atladıktan sonra artan XP’niz bir sonraki seviye için kalır.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/suCtYca3tdrWxb3Lshc3DVH48ctY9D3s2hNYGhTU.png)
 
-## Mastery
-
-Mastery sekmesinde, mevcut Hunter Mastery seviyenizi ve bir sonraki seviyeye geçmek için gereken XP miktarını görebilirsiniz. Eğer yeterli XP’ye sahipseniz, Seviye Atla butonu aktif olacaktır. Bu butona tıklayarak bir üst seviyeye geçebilirsiniz.
-
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/VaD8em0C31IWv13cN42cbSetY1suFww4fqkGiP9J.png)
 
-## Ödüller
+### Ödüller
 
-Ödüller sekmesinde, Hunter Mastery seviyelerine göre alabileceğiniz ödülleri görebilirsiniz. Her ödülün yanında bir kilit simgesi veya tik işareti bulunur. Ödüller alınmadıysa ödül kutusu üzerinde kilit, alındıysa tik işareti gösterilir.
+<mark style="color:red;">**Ödüller**</mark> sekmesinde ise hangi avantajları açtığınızı görebilirsiniz. Henüz açılmamış ödüllerin üzerinde kilit, kullanabildiğiniz ödüllerin üzerinde tik işareti bulunur. Ödüller, menüde yazan seviyeyi tamamladığınızda açılır. Örneğin <mark style="color:red;">**Lvl 2**</mark> ödülü, <mark style="color:red;">**2. seviyeyi tamamlayıp 3. seviyeye geçtiğinizd**</mark>**e** aktif olur.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SZrnEobi0cy2CI8CYfQlN0XzbifexdnlWLlabIsd.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/5Rn2txJs7ZU82f4l4l01doxQNtnLLKdwsnJJCM6i.png)
 
-**Seviyelere göre ödüller şu şekildedir:**
 
-• **Level 2: Yakın Dövüş Ustalığı** -> Melee silahlar ile yaratıklara vurduğunuz hasar miktarını 2 katına çıkartır. Bunun yanı sıra yaratıklardan aldığınız hasar miktarını da ciddi oranda düşürür
 
-Örnek vermek gerekirse 100 armorlu bir oyuncu yaratıktan gelen hasar miktarını 10 azaltmaktadır. Hunter Mastery seviyesi 2 den yüksekse bu rakam 2 katına yani 20'ye çıkmaktadır.
+### Seviye Ödülleri
 
-Ayrıca eğer oyuncuda kalkan varsa normal şartlarda def miktarı 10'dan 30'a çıkmaktadır. Hunter Mastery seviyesi 2 den yüksekse azaltacağı hasar miktarı 20'den 80'e çıkmaktadır.
+#### 3. Seviye - Yakın Dövüş Ustalığı
 
-• **Level 6: Tuzak Tecrübesi** -> Remove Trap ile tuzakları açmayı başaramadığınızda tuzağın %33 ihtimalle tetiklenmemesini sağlar.
+Yakın dövüş silahlarıyla yaratıklara verdiğiniz hasar <mark style="color:red;">**iki katına**</mark> çıkar. Zırhınız da yaratıklardan gelen fiziksel hasarı daha fazla azaltır. Örneğin kalkan bonusu olmadan <mark style="color:red;">**100 zırh**</mark> normalde <mark style="color:red;">**10 hasar**</mark> azaltırken, bu ödül açıldığında <mark style="color:red;">**20 hasar**</mark> azaltır.
 
-• **Level 10: Wand Kullanımı** -> Wand kullanarak büyüleri cast etmeinizi sağlar. Wand kullanımı şu an için aktif değildir, yakın zamandaki bir güncelleme ile aktif edilecektir.
+<mark style="color:red;">**Parrying**</mark> yeteneğiniz en az <mark style="color:red;">**99.0**</mark> ise ve kalkan takıyorsanız, kalkanın sağladığı hasar azaltımı da artar. Aynı örnekte, <mark style="color:red;">**100 zırh ve kalkanla**</mark> normalde <mark style="color:red;">**30 hasar**</mark> azaltırken, Yakın Dövüş Ustalığı açıldığında <mark style="color:red;">**80 hasar**</mark> azaltırsınız.
 
-• **Level 14: Yew Lute Kullanımı** -> Discordance yeteneği ile yaratıkları mayıştırırken çeşitli ek özellikler kazanmanızı sağlar.
+#### 7. Seviye - Tuzak Tecrübesi
 
-Yetenek seviyesi 100 olan bir oyuncu Lute kullandığında bir yaratığın tüm statları ve armor değerini en fazla %25 azaltabilmektedir. Yew Lute kullanımı ile bu rakam %30 a çıkmaktadır.
+[<mark style="color:red;">**Remove Trap**</mark>](https://nimloth-uo.gitbook.io/wiki/yetenekler/remove-trap) ile bir tuzağı çözmeyi başaramadığınızda, ustalığınız sayesinde <mark style="color:red;">**%33 ihtimalle**</mark> tuzak tetiklenmez ve deneme hakkınız eksilmez.
 
-Bunun yanı sıra yaratıklar normal Lute ile 4 kareden mayıştırılabilmekteyken, Yew Lute ile bu mesafe 5 kareye çıkmaktadır.
+#### 11. Seviye - Wand Kullanımı
 
-Son olarak da Yew Lute kullanımı ile birlikte Discordance yeteneğinin başarısız olma şansı azalacaktır.
+<mark style="color:red;">**11. seviyeye**</mark> ulaştığınızda büyü asalarını kullanmak için gereken Hunter Mastery koşulunu karşılamış olursunuz.
 
-• **Level 17: Büyü Ustalığı** -> Mage karakterlerin büyüler ile yaratıklara verdiği hasar miktarını arttırmaktadır ve yaratığın Magic Resistance yeteneğini kullanmasını engellemektedir . Eva+Ins yeteneği ile birlikte kullanılmaktadır.
+#### 15. Seviye - Yew Lute Kullanımı
+
+<mark style="color:red;">**Yew Lute**</mark> ile yaratıkları daha uzaktan mayıştırabilir ve Discordance denemelerinizde daha sık başarılı olabilirsiniz. Normalde <mark style="color:red;">**4 kare**</mark> olan kullanım mesafesi Yew Lute ile <mark style="color:red;">**5 kareye**</mark> çıkar.
+
+Mayıştırma başarılı olduğunda yaratığın zırh değeri sıfırlanır. Discordance yeteneğiniz <mark style="color:red;">**100**</mark> ise yaratığın etkilenen özellikleri ve yetenekleri <mark style="color:red;">**%26–30**</mark> azalır.
+
+#### 18. Seviye - Büyü Ustalığı
+
+Yaratıklara büyüyle saldırırken <mark style="color:red;">**Evaluating Intelligence**</mark> ve <mark style="color:red;">**Inscription**</mark> yeteneklerinden aldığınız hasar bonusu artar. Yaratığın <mark style="color:red;">**Magic Resistance**</mark> yeteneği de bu büyülerden aldığı hasarı düşürmez.
+
+Ayrıca <mark style="color:red;">**Poison**</mark> büyüsünün etkisi, Evaluating Intelligence ve Inscription seviyelerinize bağlı olarak güçlenir.
 
 Örnek vermek gerekirse 100 Magery yeteneğine sahip bir oyuncu 115 Magic Resistance yeteneğine sahip olan Platinum Dragona Energy Bolt büyüsü ile 26 yerine 19 hasar verebilmektedir. ( 7 hasar azaltımı magic resistance kaynaklıdır )
 
@@ -16492,13 +16480,15 @@ Oyuncunun Hunter Mastery seviyesi 17 den yüksekse bu hasar 52 ye yükselecektir
 
 Oluşan 21 hasarlık fark oyuncunun ek Eva+Ins bonusu ve yaratığın Magic Resistance yeteneğini kullanamaması kaynaklıdır
 
-• **Level 20: Perfect Shot+** -> Bow türü silahlarda aktif olan Perfect Shot bonusu, silahın baz hasarının 3 katı kadar hasar vermenizi sağlamaktadır. Perfect Shot+ bonusu ise bu hasarı 4 katına çıkartmaktadır.
+#### 21. Seviye - Perfect Shot+
+
+Yaratıklara karşı [<mark style="color:red;">**Perfect Shot**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/bonuslar#perfect-shot) tetiklendiğinde normalde yayınızın temel hasarının <mark style="color:red;">**3 katı**</mark> kadar hasar verirsiniz. <mark style="color:red;">**Perfect Shot+**</mark> açıldığında bu hasar <mark style="color:red;">**4 katına**</mark> çıkar.
 
 ## Seviye Sınırı
 
-Hunter Mastery Sistemi’nde maksimum seviye 20’dir. Oyuncular 20. seviyeyi tamamladıktan sonra görev almaya devam edebilirler
+Hunter Mastery’nin son seviyesi <mark style="color:red;">**21**</mark>’dir. Bu seviyeye ulaştığınızda <mark style="color:red;">**Master Hunter**</mark> unvanını kazanırsınız ve Master Hunter’dan yeni Hunter görevi alma aşamasını tamamlamış olursunuz.
 
-Hunter Mastery sisteminde XP aktarma seçeneği bulunmamaktadır.
+Hunter Mastery sisteminde XP aktarma seçeneği <mark style="color:red;">**bulunmamaktadır**</mark>.
 
 
 --- Dosya: ./sistemler/war-zone.md ---
@@ -16852,7 +16842,7 @@ Menüde yazan seviyeyi tamamlayıp bir üst seviyeye geçtiğinizde ilgili avant
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wpNecNWeUIegKngIe6KEOqHT5WgHK6lQ4Vver9um.png)
 
-#### Seviye Ödülleri
+### Seviye Ödülleri
 
 * <mark style="color:red;">**3. seviye | Tracking Alanı**</mark>**:** Tracking ile taradığınız mesafe <mark style="color:red;">**10 adım**</mark> artar.
 * <mark style="color:red;">**7. seviye | Daha Kısa Kuluçka**</mark>**:** Ostard Egg’in kuluçka süresi <mark style="color:red;">**1 gün**</mark> kısalır. [<mark style="color:red;">**Veterinary**</mark> ](https://nimloth-uo.gitbook.io/wiki/yetenekler/veterinary)yeteneğiniz <mark style="color:red;">**100**</mark> ise kuluçka süresi yaklaşık <mark style="color:red;">**2 güne**</mark> düşer.
