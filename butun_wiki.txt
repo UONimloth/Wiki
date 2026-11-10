@@ -16865,7 +16865,7 @@ Menüde yazan seviyeyi tamamlayıp bir üst seviyeye geçtiğinizde ilgili avant
 
 Master Tamer menüsündeki <mark style="color:red;">**Takas**</mark> sekmesinden uygun binek kontratlarını <mark style="color:red;">**Tamer Mastery XP**</mark> karşılığında verebilirsiniz. Sol üstteki <mark style="color:red;">**?**</mark> butonu, kabul edilen binekleri ve her kontratın kazandırdığı XP’yi gösterir. Bir kontrat, ilgili bineği Random Spawn sisteminde evcilleştirerek kazanacağınız XP’nin <mark style="color:red;">**yarısını**</mark> verir.
 
-Takas yapmak için <mark style="color:red;">**Kontrat Ver**</mark> butonuna tıklayın ve ana çantanızdaki <mark style="color:red;">**Animal Contract Deed**</mark>’i seçin. Takas tamamlandığında kontrat tüketilir ve XP’niz eklenir. Başka bir kontrat seçerek devam edebilir veya **Esc** tuşuna basarak işlemi bitirebilirsiniz.
+Takas yapmak için <mark style="color:red;">**Kontrat Ver**</mark> butonuna tıklayın ve ana çantanızdaki <mark style="color:red;">**Animal Contract Deed**</mark>’i seçin. Takas tamamlandığında kontrat tüketilir ve XP’niz eklenir. Başka bir kontrat seçerek devam edebilir veya <mark style="color:red;">**Esc**</mark> tuşuna basarak işlemi bitirebilirsiniz.
 
 #### Kontrat Başına Kazanılan Tamer Mastery XP
 
@@ -16964,7 +16964,7 @@ Bu sistem sayesinde avlanma süreciniz daha ödüllendirici hâle gelir ve farkl
 
 ## Genel Bilgi
 
-Hunter görevleri için herhangi bir yetenek veya sınıf kısıtlaması **bulunmamaktadır.**
+Hunter görevleri için herhangi bir yetenek veya sınıf kısıtlaması <mark style="color:red;">**bulunmamaktadır**</mark>**.**
 
 Dileyen tüm oyuncular bu görevlere katılabilir.
 
@@ -16972,29 +16972,33 @@ Görevleri tamamladıkça çeşitli ödüller ve karakterinizi güçlendirecek k
 
 ## Görev Alma
 
-Hunter görev sistemi, diğer görev sistemlerinden farklı olarak tek bir NPC üzerinden ilerlemektedir.
+<mark style="color:red;">**Master Hunter**</mark>’a `gorev` diyerek rastgele bir av görevi alabilirsiniz. Sistem, <mark style="color:red;">**166 farklı yaratık türünden**</mark> birini seçer ve görevin zorluğuna göre o türden <mark style="color:red;">**3 ila 25**</mark> yaratık öldürmenizi ister.
 
-Görev almak ve tamamladığınız görevleri teslim etmek için **Hunter Master** isimli vendor ile etkileşime geçmeniz gerekmektedir.
+Hunter görevi almak için belirli bir yetenek seviyesi veya sınıf gerekmez. <mark style="color:red;">**Hunter Mastery 21. seviyeye**</mark> ulaştığınızda yeni Hunter görevi alamazsınız.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/wcUwtNrtbk3ahKDabgUYH3vCkeQ0gyhYaEPJTHMK.png)
-
-Vendor’a **“gorev”** yazarak 166 farklı görevden birini alabilirsiniz.
 
 ## Görev Detaylarını Görüntüleme
 
 Master Hunter vendorundan görev aldığınızda, çantanıza **Hunter Quest Deed** adında bir belge düşecektir.
 
-• **Tek tıklayarak** görevle ilgili genel bilgilere hızlıca erişebilirsiniz.
+• <mark style="color:red;">**Tek tıklayarak**</mark> görevle ilgili genel bilgilere hızlıca erişebilirsiniz.
 
-• **Çift tıklayarak** detaylı görev menüsünü açabilir ve görev bilgilerini inceleyebilirsiniz.
+• <mark style="color:red;">**Çift tıklayarak**</mark> detaylı görev menüsünü açabilir ve görev bilgilerini inceleyebilirsiniz.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/11BeZqUhnX6EHtrUfewpws2uUoZLPSI6ZkW9wQH1.png)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/PyFOh1xrgEtoXBVgfIVQWNvT1fve7yU6VV20BqH9.png)
 
+## Görev İlerlemesi
+
+<mark style="color:red;">**Hunter Quest Deed**</mark><mark style="color:red;">’</mark>de avlamanız gereken yaratık türü ve hedef adet yazar. Belirtilen türden bir yaratığı karakteriniz öldürdüğünde görev sayacı otomatik olarak ilerler. Grup halinde avlanırken öldürme, son vuruşu yapan oyuncunun görevine sayılır.
+
+<mark style="color:red;">**Ganimet Vakti**</mark> sırasında etkinliğin geçerli olduğu zindanda, görevinize uygun her öldürme sayacı <mark style="color:red;">**1 yerine 2**</mark> artırır.
+
 ## Görev Teslimi ve Ödüller
 
-Görevi tamamlamak için, görev menüsünde yer alan **Teslim Et** butonuna tıklamanız gerekmektedir. Ardından, Master Hunter vendoru seçerek görevi teslim edebilirsiniz.
+Hedef sayıya ulaştığınızda görev belgesindeki <mark style="color:red;">**Teslim Et**</mark> butonuna tıklayın ve <mark style="color:red;">**Master Hunter**</mark>’ı seçin. Kazanacağınız <mark style="color:red;">**altın**</mark> ve <mark style="color:red;">**Hunter XP**</mark> miktarını teslim etmeden önce görev menüsünde görebilirsiniz.
 
 Görev teslim edildikten sonra görev menüsünü tekrar açamazsınız.
 
@@ -17002,19 +17006,11 @@ Görev teslim edildikten sonra görev menüsünü tekrar açamazsınız.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/pYR7MqNotgQjZvd0wwJx4NEvSUeazp8cBXTaI8e8.png)
 
-Görevi başarıyla tamamladığınızda şu ödülleri kazanırsınız:
-
-• Hunter XP
-
-• Gold
-
-Kazandığınız Hunter XP ile Hunter Mastery seviyenizi yükseltebilir ve çeşitli ek özellikleri aktif edebilirsiniz
-
 ## Bir Kerede Sadece Bir Görev
 
-Her seferinde yalnızca bir görev alabilirsiniz.
+Aktif bir [<mark style="color:red;">**Craft**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-gorev-sistemi)<mark style="color:red;">**,**</mark> [<mark style="color:red;">**Gatherer**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gatherer-gorev-sistemi)<mark style="color:red;">**,**</mark> [<mark style="color:red;">**Tamer**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/tamer-gorev-sistemi) <mark style="color:red;">**veya Hunter**</mark> göreviniz varken yeni bir Hunter görevi alamazsınız.
 
-Görevi iptal etmeniz durumunda yeni bir Hunter görevi alabilmek için <mark style="color:red;">**2 saat**</mark> beklemeniz gerekir. Dilerseniz Master Hunter vendoruna <mark style="color:red;">**“sifirla”**</mark> yazarak kalan bekleme süresine göre hesaplanan altın bedelini ödeyebilir ve bekleme süresini kaldırarak hemen yeni bir görev alabilirsiniz.
+Hunter görevinizi iptal ederseniz yeni bir Hunter görevi almak için <mark style="color:red;">**2 saat**</mark> beklemeniz gerekir. Beklemeden yeni görev almak için <mark style="color:red;">**Master Hunter’a**</mark> `sifirla` diyerek kalan süreye göre hesaplanan altın bedelini ödeyebilirsiniz. Bekleme süresi sıfırlandıktan sonra `gorev` diyerek yeni görevinizi alabilirsiniz.
 
 ## Avcılığını Kanıtla!
 
