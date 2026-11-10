@@ -34,7 +34,7 @@ Kazandığınız puanlar farklı amaçlarla kullanılır:
 
 ## Kalan Süre Takibi
 
-Bir sonraki ödülünüze ne kadar süre kaldığını görmek için @Profile menüsünü kullanabilirsiniz.
+Bir sonraki ödülünüze ne kadar süre kaldığını görmek için [<mark style="color:red;">**Profile menüsünü**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/oyuncu-profili-sistemi) kullanabilirsiniz.
 
 Burada sonraki ödüle kalan süreyi kolayca takip edebilirsiniz.
 
