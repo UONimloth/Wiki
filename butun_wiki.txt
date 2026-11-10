@@ -16933,11 +16933,11 @@ Seçilen oyuncunun karşısına, belirlediğiniz kuralları içeren bir onay pen
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/bkuP6bNc70qGCfkl2S2kJhbXlCD05oAFcFspGx7o.png)
 
-Düellonun başlayabilmesi için her iki oyuncunun da bankasında <mark style="color:red;">**25.000 altın**</mark> bulunması gerekmektedir.
+Düellonun başlayabilmesi için her iki oyuncunun da bankasında <mark style="color:red;">**25.000 altın**</mark> bulunması gerekmektedir. Düello başlatıldığında bu tutar her iki oyuncunun bankasından ayrı ayrı kesilir.
 
 ## Arena Hazırlığı
 
-Düello başlatıldığında, her iki oyuncunun çantasında bulunan tüm reagentlar ve potionlar temizlenir. Ardından oyuncular düello alanına gönderilir ve belirlenen kurallara uygun olarak gerekli potionlar kendilerine teslim edilir.
+Düello başlatıldığında, her iki oyuncunun çantasındaki <mark style="color:red;">**regler, Reg Crystal’lar, potionlar, boş şişeler, bandajlar, oklar, figürler, TP ler ve Oil Cloth’lar**</mark> silinir. Saklamak istediğiniz malzemeleri düellodan önce bankanıza bırakabilirsiniz. Arenaya geçtikten sonra sistem, seçilen kurallara göre her iki oyuncuya da gerekli malzemeleri verir.
 
 Düello başlamadan önce oyunculara <mark style="color:red;">**60 saniyelik**</mark> hazırlık süresi tanınır. Bu süre boyunca büyü atabilir, yeteneklerinizi kullanabilirsiniz; ancak hareket etmeniz mümkün değildir. Süre sona erdiğinde kısıtlamalar kaldırılır ve düello resmen başlar.
 
