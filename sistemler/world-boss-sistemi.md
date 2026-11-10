@@ -1,50 +1,49 @@
 # World Boss Sistemi
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/sq9hObmHQ5I1ZkBjXa7HvuStomWtNgz0YcPUFJI4.png" 
-       alt="Nimloth Logo">
-</div>
-<p></p>
+World Boss, <mark style="color:red;">**Britain Territory**</mark> bölgesinde düzenlenen haftalık bir etkinliktir. Oyuncular <mark style="color:red;">**Zul’Thar**</mark>’ı alt etmek için birlikte savaşabilir, kişisel hasar ödülü kazanabilir ve boss öldüğünde ortaya çıkan nadir bineği evcilleştirmek için yarışabilir.
 
-<p><strong style="color: #410000;">World Boss</strong> sistemi, belirli günlerde ortaya çıkan güçlü yaratıkların avlanmasını amaçlayan özel bir PvE etkinliğidir.</p>
-<p>Bu etkinlik hem PvE hem PvP rekabetini aynı anda tetikler ve sunucuda önemli bir buluşma noktası oluşturur.</p>
+## Etkinlik Başlangıcı
 
-<p>Her <strong style="color: #410000;">Cumartesi günü saat 22:30'da Britain Territory</strong> bölgesinde <strong style="color: #410000;">Zul’Thar</strong> isimli World Boss spawn olur. Etkinliğin amacı Zul’Thar’ı alt ederek değerli ödülleri elde etmektir.</p>
+Etkinlik her <mark style="color:red;">**Cumartesi saat 22:30’da**</mark> başlar. Duyuruyla birlikte Britain Territory’de gizemli bir yapı belirir. Yaklaşık <mark style="color:red;">**5 dakika sonra**</mark> yapı kaybolur ve aynı noktada <mark style="color:red;">**Zul’Thar**</mark> ortaya çıkar.
 
-<h2>Etkinlik Başlangıcı</h2>
-<p>Etkinlik başladığında tüm oyunculara sistem tarafından bilgilendirme mesajı gönderilir.</p>
-<p>Duyurunun ardından <strong style="color: #410000;">etkinlik bölgesinde</strong> gizemli bir yapı belirir. Bu yapı yalnızca bölgenin konumunu işaret etmek amacıyla görünür ve herhangi bir koruma, saldırı veya etkileşim sunmaz.</p>
-<p>Yapı yaklaşık <strong style="color: #410000;">5 dakika</strong> boyunca bölgede kalır ve sürenin sonunda kaybolarak yerini <strong style="color: #410000;">Zul’Thar</strong>’a bırakır.</p>
+Zul’Thar ortaya çıktıktan sonra <mark style="color:red;">**3 saat**</mark> içinde öldürülmezse kaybolur ve etkinlik sona erer.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/kR75tOML4heR0F689v0XucDDwhK9bwNfUJr6O9h0.gif)
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/pyTpsQpDXsLTVdmU7qaBdhRUKSjStOVKcOj9SFtE.png)
 
-<h2>Genel Özellikler</h2>
-<p>Zul’Thar uzun menzilli saldırılarıyla bilinir ve <strong style="color: #410000;">4 kare mesafeden</strong> oyunculara hasar verebilir.</p>
-<p>Savaş boyunca çeşitli ölümcül yetenekler kullanır.</p>
-<p>Kendini savunmak için <strong style="color: #410000;">koruma çağırabilir</strong> ve bu korumalar oyuncuların baskısını kırmaya çalışır.</p>
-<p>Yüksek can değeri ve dirençleri sebebiyle <strong style="color: #410000;">solo kesilmesi neredeyse imkânsızdır</strong>; etkinlik grup koordinasyonu gerektirir.</p>
+## Zul’Thar ile Savaş
 
-<h2>Boss Arayüzü</h2>
-<p>Zul’Thar’a saldırdığınız anda özel bir <strong style="color: #410000;">boss arayüzü</strong> otomatik olarak açılır.</p>
-<p>Bu arayüz üzerinden yaratığın sağlık durumunu ve savaşın ilerleyişini takip edebilirsiniz.</p>
-<p>İstenirse bu arayüz oyuncu tarafından manuel olarak <strong style="color: #410000;">kapatılabilir</strong>.</p>
-<p>Arayüz kapalıyken Zul’Thar’a hasar verdiğinizde arayüz otomatik olarak açılır.</p>
+Zul’Thar, savaş sırasında <mark style="color:red;">**alan saldırıları**</mark> kullanır, kendini iyileştirebilir ve yardımına örümcekler çağırabilir. Yüksek canı ve alan saldırıları nedeniyle bir grupla savaşmak, hasar vermeyi ve çağırdığı yaratıkları kontrol altında tutmayı kolaylaştırır.
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/h1IqoFrYj2mLz2B0FzwCDw7JHJymlW79DyhjuYDB.png)
+Etkinlik bölgesinde <mark style="color:red;">**PvP serbesttir**</mark>. Zul’Thar ile savaşırken ve ödülleri toplarken diğer oyuncuların saldırılarına da dikkat edin.
 
-<h2>PvP & Rekabet</h2>
-<p>Etkinlik bölgesi boyunca <strong style="color: #410000;">PvP serbesttir.</strong></p>
-<p>Bu nedenle Zul’Thar ile savaşırken yalnızca yaratığın saldırılarını değil, diğer oyuncuların yaklaşımını da takip etmeniz gerekir.</p>
-<p>Ödüller ve ortaya çıkan binek sebebiyle etkinlik özellikle yoğun rekabet içerir.</p>
+## Ödüller
 
-<h2>Ödüller</h2>
-<p>Zul’Thar öldürüldüğünde belli bir hasar veren her oyuncunun <strong style="color: #410000;">banka hesabına</strong> özel bir <strong style="color: #410000;">loot kutusu</strong> düşer.</p>
-<p>Bunun yanı sıra yaratığın cesedinde ek lootlar bulunmaktadır.</p>
-<p>Zul’Thar öldüğünde, öldüğü noktada <strong style="color: #410000;">sunucudaki en güçlü 3 binekten biri</strong> aktif olur.</p>
-<p>Bu binek hem PvE hem PvP tarafında önemli bir hedef hâline gelir ve genelde kısa süre içerisinde ciddi rekabet oluşturur.</p>
+### World Boss Gift
 
-<h2>Katılım ve Hazırlık</h2>
-<p>Etkinlik tüm oyunculara açıktır. Ancak menzilli saldırılar, koruma çağırma mekanikleri ve PvP serbestliği sebebiyle doğru ekipman, iksir ve taktik ile hazırlık yapmak büyük önem taşır.</p>
-<p>Etkinlik zaman sınırlamasına sahip değildir; Zul’Thar’ın öldürülmesi tamamen oyuncuların koordinasyonuna bağlıdır.</p>
+Zul’Thar’a toplam <mark style="color:red;">**250’den fazla hasar veren**</mark> her oyuncunun <mark style="color:red;">**bankasına**</mark> bir <mark style="color:red;">**World Boss Gift**</mark> gönderilir. Zul’Thar süre dolduğunda kaybolsa bile hasar şartını karşılayan oyuncular kutularını alır.
+
+Kutuyu açtığınızda aşağıdaki ödüllerin her birinden <mark style="color:red;">**1 adet**</mark> alırsınız.
+
+* Rastgele <mark style="color:red;">**Power**</mark> silah
+* Rastgele <mark style="color:red;">**Vanquishing**</mark> silah
+* Rastgele <mark style="color:red;">**Platemail Armor Bundle**</mark>
+* [<mark style="color:red;">**Invulnerability Studded**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/magical-studded), [<mark style="color:red;">**Dragonic**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/dragonic-studded) veya [<mark style="color:red;">**Nordomir Armor Bundle**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/zirhlar/nordomir-leather)
+* [<mark style="color:red;">**Wizard Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/wizard-robe) veya [<mark style="color:red;">**Faster Casting Robe**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/robelar/faster-casting-robe)
+
+### Ceset Ödülleri
+
+Zul’Thar öldürüldüğünde cesedinden <mark style="color:red;">**altın, Power ve Vanquishing silahlar, robe’lar ve zırh paketleri**</mark> çıkar.
+
+#### Nadir Binek
+
+Zul’Thar öldürüldüğünde, öldüğü noktada aşağıdaki bineklerden **biri** rastgele ortaya çıkar.
+
+* Kii Rin
+* Silver Steed
+* Fire Steed
+* Wine Steed
+* Unicorn
+
+Oyuncular ortaya çıkan bineği evcilleştirmek için yarışabilir.
