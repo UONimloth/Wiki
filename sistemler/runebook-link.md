@@ -1,59 +1,75 @@
 # Runebook Link
 
-<div style="text-align:center;">
-  <img src="https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/IOJLgUdtp2Sua9pBJIliW4cxOtbTqss7EeTqOGpr.png" 
-       alt="Nimloth Logo">
-</div>
+Runebook Link sistemi sayesinde, mevcut runebook’larınızı birbirine bağlayarak tek bir ana kitap üzerinden tüm kitaplarınızı yönetebilirsiniz.
 
-<p>
-<p>Runebook Link sistemi sayesinde, mevcut runebook’larınızı birbirine bağlayarak tek bir ana kitap üzerinden tüm kitaplarınızı yönetebilirsiniz.</p>
-<p>Bu sistem, klasik runebook kopyalama sisteminden farklı olarak çalışmaktadır.</p>
-<p>Kopyalama işleminde, yalnızca o anki bilgiler çoğaltılır ve ana kitapta yapılan değişiklikler kopyalanan kitaplara yansımaz.</p>
-<p>Ancak linkleme sisteminde bir master (ana) runebook belirlenir ve bu kitaba yapılan tüm değişiklikler, linklenmiş diğer kitaplara anlık olarak yansır.</p>
-<p>Bu sayede, birden fazla runebook’u tek tek güncellemek yerine yalnızca ana kitap üzerinden tümünü kontrol edebilirsiniz.</p>
+Bu sistem, klasik runebook kopyalama sisteminden farklı olarak çalışmaktadır.
 
-<h2>Nasıl Kullanılır?</h2>
-<p>Runebook Linker üzerine çift tıkladığınızda, sizden linklemek istediğiniz runebook’u seçmeniz istenir.</p>
+Kopyalama işleminde, yalnızca o anki bilgiler çoğaltılır ve ana kitapta yapılan değişiklikler kopyalanan kitaplara yansımaz.
+
+Linkleme sisteminde ana runebook’a eklenen veya ana kitaptan çıkarılan rune kayıtları, bu kitaba bağlı runebook’lara da yansır. Rune kayıtları ana kitap üzerinden düzenlenir.
+
+Bu sayede, birden fazla runebook’u tek tek güncellemek yerine yalnızca ana kitap üzerinden tümünü kontrol edebilirsiniz.
+
+## Nasıl Kullanılır?
+
+Runebook Linker üzerine çift tıkladığınızda, sizden linklemek istediğiniz runebook’u seçmeniz istenir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/14Jiqo6SsiqtTcetjsMD6afSh4HQ8UErH8SD3vuV.png)
-<p>Kitabı seçtiğiniz anda seçilen runebook ana kitap olarak belirlenir ve bu kitaba bağlı yeni bir runebook oluşturulur.</p>
-<p>Oluşturulan linklenmiş kitap doğrudan çantanıza eklenir.</p>
+
+Kitabı seçtiğiniz anda seçilen runebook ana kitap olarak belirlenir ve bu kitaba bağlı yeni bir runebook oluşturulur.
+
+Oluşturulan linklenmiş kitap doğrudan çantanıza eklenir.
+
+Kopyalanmış veya daha önce linklenmiş runebook’lar ana kitap olarak seçilemez. Bir ana kitaba en fazla <mark style="color:red;">**80 runebook**</mark> bağlayabilirsiniz. İşlem tamamlandığında <mark style="color:red;">**Runebook Linker**</mark> tüketilir ve yeni kitap çantanıza eklenir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/KJDjhLwc7Im86Q4iLVIXaaQjxNEZ1jPNOH3VGj11.gif)
 
-<h2>Nasıl Elde Edilir?</h2>
+## Nasıl Elde Edilir?
 
-<p>Runebook linkleme işlemini gerçekleştirebilmek için Runebook Linker isimli özel bir eşya gerekmektedir.</p>
-	
+Runebook linkleme işlemini gerçekleştirebilmek için Runebook Linker isimli özel bir eşya gerekmektedir.
+
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ZbsZOHhrLb37T6KYJxozeXwynU6WuMaCmqBCSNfz.png)
 
-<p>Bu eşyayı aşağıdaki kaynaklardan elde edebilirsiniz:</p>
+Bu eşyayı aşağıdaki kaynaklardan elde edebilirsiniz:
 
-<p>• Dungeon Chest (Level 3)</p>
-<p>• Hazine sistemi</p>
+• Dungeon Chest (Level 3)
 
-<p>Ayrıca şu yaratıklardan da düşmektedir:</p>
-<p>• Zul'Thar( World Boss )</p>
-<p>• Crimson Dragon</p>
-<p>• Exodus Demon</p>
-<p>• Platinum Dragon</p>
-<p>• Shadow Knight</p>
-<p>• Stygian Dragon</p>
-<p>• Blackrock Golem</p>
-<p>• Shadow Lord</p>
+• Hazine sistemi
 
-<h2>Link Yönetimi</h2>
-<p>Ana (master) runebook’a tıkladığınızda, kitabın ortasında yer alan buton aracılığıyla linklenmiş tüm runebook’ları görüntüleyebilir ve yönetebilirsiniz.</p>
-<p>Bu butonun üzerinde yer alan sayı, ilgili runebook’un toplam kaç kez linklendiğini gösterir.</p>
+Ayrıca şu yaratıklardan da düşmektedir:
+
+• Crimson Dragon
+
+• Exodus Demon
+
+• Platinum Dragon
+
+• Shadow Knight
+
+• Stygian Dragon
+
+• Blackrock Golem
+
+• Shadow Lord
+
+## Link Yönetimi
+
+Ana (master) runebook’a tıkladığınızda, kitabın ortasında yer alan buton aracılığıyla linklenmiş tüm runebook’ları görüntüleyebilir ve yönetebilirsiniz.
+
+Bu butonun üzerinde yer alan sayı, ilgili runebook’un toplam kaç kez linklendiğini gösterir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/xRYeZZjUfEK7Jtc8dwxIXGBRg78SggXt71UsjaKk.png)
 
-<h2>Link Yönetim Ekranı</h2>
-<p>Link yönetim ekranını açtığınızda sol tarafta, linklenmiş runebook’ların isimleri, sağ tarafta ise bu kitapların hangi oyuncuda olduğu bilgisi görüntülenir.</p>
-<p>Bu ekran üzerinden aşağıdaki işlemleri gerçekleştirebilirsiniz:</p>
-<p>• Sol tarafta yer alan butona tıklayarak, linklenmiş runebook’un ismini değiştirebilirsiniz</p>
-<p>• Sağ tarafta bulunan Çıkart butonu ile ilgili runebook’un linkini kaldırabilirsiniz</p>
+## Link Yönetim Ekranı
 
-<strong style="color: #410000;">Çıkart butonuna bastığınızda herhangi bir onay ekranı bulunmaz. Link anında kaldırılır ve bu işlemin geri dönüşü yoktur.</strong>
+Link yönetim ekranını açtığınızda sol tarafta, linklenmiş runebook’ların isimleri, sağ tarafta ise bu kitapların hangi oyuncuda olduğu bilgisi görüntülenir.
+
+Bu ekran üzerinden aşağıdaki işlemleri gerçekleştirebilirsiniz:
+
+• Sol tarafta yer alan butona tıklayarak, linklenmiş runebook’un ismini değiştirebilirsiniz
+
+• Sağ tarafta bulunan Çıkart butonu ile ilgili runebook’un linkini kaldırabilirsiniz
+
+Sağ tarafta bulunan **Çıkart** butonuna bastığınızda, ilgili runebook bağlantısıyla birlikte silinir. <mark style="color:red;">**İşlem onay ekranı olmadan gerçekleşir ve geri alınamaz.**</mark>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lPiH8TwBRq9uAMqTkuviWpsGfS2j2XetUAk2X34X.png)
