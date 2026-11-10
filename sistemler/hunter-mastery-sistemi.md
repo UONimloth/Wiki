@@ -24,7 +24,7 @@ Master Hunter’a çift tıkladığınızda <mark style="color:red;">**Mastery**
 
 ### Ödüller
 
-<mark style="color:red;">**Ödüller**</mark> sekmesinde ise hangi avantajları açtığınızı görebilirsiniz. Henüz açılmamış ödüllerin üzerinde kilit, kullanabildiğiniz ödüllerin üzerinde tik işareti bulunur. Ödüller, menüde yazan seviyeyi tamamladığınızda açılır. Örneğin <mark style="color:red;">**Lvl 2**</mark> ödülü, <mark style="color:red;">**2. seviyeyi tamamlayıp 3. seviyeye geçtiğinizd**</mark>**e** aktif olur.
+<mark style="color:red;">**Ödüller**</mark> sekmesinde ise hangi avantajları açtığınızı görebilirsiniz. Henüz açılmamış ödüllerin üzerinde kilit, kullanabildiğiniz ödüllerin üzerinde tik işareti bulunur. Ödüller, menüde yazan seviyeyi tamamladığınızda açılır. Örneğin <mark style="color:red;">**Lvl 2**</mark> ödülü, <mark style="color:red;">**2. seviyeyi tamamlayıp 3. seviyeye geçtiğinizde**</mark> aktif olur.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SZrnEobi0cy2CI8CYfQlN0XzbifexdnlWLlabIsd.png)
 
