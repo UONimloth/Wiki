@@ -17284,31 +17284,24 @@ Katılmak için `.etkinlik` komutunu yazın ve açılan ekranda <mark style="col
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-• Katılım ücreti <mark style="color:red;">**25.000 GP**</mark>'dir ve bankanızdan tahsil edilir.
+Mini oyunlara katılım ücreti <mark style="color:red;">**25.000 GP**</mark>, PvP Turnuvası’na katılım ücreti ise <mark style="color:red;">**250.000 GP**</mark>’dir. Katılım ücreti bankanızdan tahsil edilir.
 
-• Etkinliğin başlayabilmesi için en az <mark style="color:red;">**4 oyuncunun**</mark> katılması gerekir.
+Mini oyunların ve PvP Turnuvasının başlayabilmesi için en az <mark style="color:red;">**4 oyuncunun**</mark> katılması gerekir. Yeterli katılım sağlanamazsa etkinlik iptal edilir ve katılım ücreti bankanıza iade edilir.&#x20;
 
-• Yeterli katılım sağlanamazsa etkinlik iptal edilir ve katılım ücreti bankanıza iade edilir.
+Etkinlik en fazla oyuncu sayısına ulaşırsa süre beklenmeden hemen başlar.
 
-• Etkinlik en fazla oyuncu sayısına ulaşırsa süre beklenmeden hemen başlar.
+<mark style="color:red;">**Aşağıdaki durumlarda etkinliğe katılamazsınız**</mark>
 
-Aşağıdaki durumlarda <mark style="color:red;">**etkinliğe katılamazsınız**</mark>:
-
-• Canınız tam değilse, zehirliyseniz veya kanamanız varsa
-
-• Ölüyseniz, hapisteyseniz veya hareket edemez durumdaysanız
-
-• Binek üzerindeyseniz veya ekranınızda size ait bir canlı bulunuyorsa
-
-• Elinizde sürüklediğiniz bir eşya ya da açık bir trade ekranı varsa
-
-• Çantanızda ticaret kontratı bulunuyorsa
-
-• Düelloda, War Zone'da veya zaten başka bir etkinlikteyseniz
+* Canınız tam değilse, zehirliyseniz veya kanamanız varsa.
+* Ölüyseniz, hapisteyseniz veya hareket edemiyorsanız.
+* Binek üzerindeyseniz veya yakınınızda size ait bir canlı varsa.
+* Bir eşyayı sürüklüyorsanız veya çantanızda ticaret kontratı varsa.
+* Düellodaysanız, War Zone’daysanız veya başka bir etkinliğe katıldıysanız.
+* Hesabınızın etkinliklere katılımı engellenmişse.
 
 ## Katıldıktan Sonra
 
-Katıl butonuna tıkladığınız anda etkinlik alanına ışınlanırsınız ve etkinlik başlayana kadar hareket edemezsiniz. Bu sırada ekranınızda etkinliğin kuralları gösterilir.
+**Katıl** butonuna tıkladığınızda etkinlik alanına ışınlanırsınız ve ekranınızda etkinliğin kuralları gösterilir. Çoğu mini oyunda etkinlik başlayana kadar hareket edemezsiniz. <mark style="color:red;">**Zar Turnuvası**</mark> ve <mark style="color:red;">**Rus Ruleti**</mark> bekleme alanlarında ise hareket edebilirsiniz.
 
 • Üzerinizdeki eşyalar ve çantanız <mark style="color:red;">**güvenli bir şekilde bankanıza kaldırılır**</mark>, size geçici bir çanta ve etkinlik kıyafeti verilir.
 
@@ -17322,7 +17315,7 @@ Katılımlar sona erdiğinde etkinlik <mark style="color:red;">**10 saniye**</ma
 
 ### Ödüller
 
-Etkinliğe katılmanız veya kazanmanız durumunda hem etkinlik puanı hem de Nimloth puanı kazanırsınız.
+Mini oyunlara katıldığınızda veya bir mini oyunu kazandığınızda <mark style="color:red;">**Etkinlik Puanı**</mark> ve <mark style="color:red;">**Nimloth Puanı**</mark> kazanabilirsiniz.
 
 ### Katılım Ödülü
 
@@ -17362,7 +17355,7 @@ Her etkinlik için ayrı <mark style="color:red;">**Katıl**</mark> ve <mark sty
 
 ## Mini Oyunlar
 
-Her akşam 21:00'de aşağıdaki 7 oyundan biri rastgele seçilir.
+Her akşam <mark style="color:red;">**21:00’da**</mark> bir mini oyun düzenlenir. O gün hangi oyunun oynanacağını <mark style="color:red;">**Help menüsündeki Takvim**</mark> üzerinden görebilirsiniz.
 
 ### Engelli Koşu
 
@@ -17560,7 +17553,9 @@ Zul'Thar sıradan bir yaratık değildir, dikkatli olmalısınız:
 
 #### World Boss Ödülleri
 
-Zul'Thar'a <mark style="color:red;">**250'den fazla hasar**</mark> veren her oyuncunun bankasına bir <mark style="color:red;">**World Boss Gift**</mark> gönderilir. Hediye kutusunu açtığınızda içinden şunlar çıkar:
+Zul’Thar’a toplam <mark style="color:red;">**250’den fazla hasar**</mark> veren her oyuncunun bankasına bir <mark style="color:red;">**World Boss Gift**</mark> gönderilir. Zul’Thar süre dolduğunda kaybolsa bile hasar şartını karşılayan oyuncular kutularını alır.
+
+Hediye kutusunu açtığınızda içinden şunlar çıkar:
 
 • Power Weapon
 
@@ -17578,19 +17573,17 @@ Zul'Thar öldürüldüğünde ayrıca:
 
 • Öldüğü yerde evcilleştirilebilir nadir bir binek belirir: <mark style="color:red;">**Ki-rin, Silver Steed, Fire Steed, Wine Steed**</mark> veya <mark style="color:red;">**Unicorn**</mark>.
 
-• Son vuruşu yapan oyuncu ve tüm katılımcıların verdiği hasar, `.takvim` üzerindeki etkinlik detayında sıralı olarak gösterilir.
+• Son vuruşu yapan oyuncuyu ve katılımcıların verdiği hasarı <mark style="color:red;">**Help menüsündeki Takvim**</mark> üzerinden, etkinlik detaylarına girerek görebilirsiniz.
 
 <mark style="color:red;">**Not**</mark>**:** Cumartesi günleri [<mark style="color:red;">**Günlük Görevler**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/gunluk-gorev-sistemi) arasına World Boss'a hasar verme görevi de eklenir.
 
 ### Power Hour
 
-[<mark style="color:red;">**Power Hour**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/power-hour), sunucu genelinde <mark style="color:red;">**2 saat boyunca**</mark> yetenek gelişiminin hızlandığı bonus etkinliğidir.
+[<mark style="color:red;">**Power Hour**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/power-hour), Nimloth’ta yeteneklerinizi daha hızlı geliştirebileceğiniz bir bonus etkinliğidir. Her gün <mark style="color:red;">**10:00–14:00**</mark> ve <mark style="color:red;">**19:00–23:00**</mark> aralıklarında birer kez başlar ve her oturum yaklaşık <mark style="color:red;">**2 saat**</mark> sürer. Günün başlangıç saatlerini <mark style="color:red;">**Help menüsündeki Takvim**</mark> üzerinden görebilirsiniz.
 
-• Her gün iki kez gerçekleşir: bir kez 10:00 - 14:00 arasında, bir kez de 19:00 - 23:00 arasında rastgele bir saatte başlar.
+Etkinlik başladığında bonus tüm oyuncular için otomatik olarak devreye girer. Bu süre boyunca desteklenen yeteneklerde <mark style="color:red;">**skill gain şansı iki katına**</mark> çıkar. Örneğin normalde ortalama <mark style="color:red;">**6 denemede bir**</mark> gelişim aldığınız bir yetenekte, Power Hour sırasında ortalama <mark style="color:red;">**3 denemede bir**</mark> gelişim alırsınız.
 
-• Katılmak için herhangi bir şey yapmanıza gerek yoktur. Etkinlik süresince tüm oyuncuların yetenek kazanma şansı <mark style="color:red;">**2 katına**</mark> çıkar.
-
-• Kalan süre her 15 dakikada bir duyurulur.
+Power Hour’un başladığı ve sona erdiği oyun içinde duyurulur. Etkinlik devam ederken kalan süre <mark style="color:red;">**15 dakikada bir**</mark> bildirilir.
 
 ### Ganimet Vakti
 
@@ -17610,7 +17603,7 @@ Seçilen zindanda etkinlik süresince:
 
 • Açtığınız zindan sandıkları başarımlarda <mark style="color:red;">**2 adet**</mark> sayılır.
 
-Seçilen zindanı gün içinde `.takvim` ekranında Ganimet Vakti satırının yanında da görebilirsiniz. Kalan süre her 15 dakikada bir duyurulur.
+Seçilen zindanı <mark style="color:red;">**Help menüsündeki Takvim**</mark> ekranında, <mark style="color:red;">**Ganimet Vakti**</mark> satırının yanında görebilirsiniz. Etkinliğin bitmesine kalan süre <mark style="color:red;">**15 dakikada bir**</mark> duyurulur.
 
 <mark style="color:red;">**Not**</mark>**:** Ganimet Vakti ve Power Hour için katılım ücreti yoktur, katılım ödülü ve başarım kazandırmazlar.
 
