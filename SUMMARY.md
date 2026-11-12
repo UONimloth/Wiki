@@ -9,6 +9,7 @@
   * [Fenerci Jack](genel-bilgi/fenerci-jack.md)
 * [Güncelleme Notları](guncelleme-notlari/README.md)
   * [Kasım 2026](guncelleme-notlari/kasim-2026/README.md)
+    * [12.11.2026 Güncellemeleri](guncelleme-notlari/kasim-2026/12.11.2026-guncellemeleri.md)
     * [04.11.2026 Güncellemeleri](guncelleme-notlari/kasim-2026/04.11.2026-guncellemeleri.md)
   * [Ekim 2026](guncelleme-notlari/ekim/README.md)
     * [24.10.2026 Güncellemeleri](guncelleme-notlari/ekim/24.10.2026-guncellemeleri.md)
