@@ -82,3 +82,5 @@ Grid layer ile eşyaları isme göre arayabilir, ayrıca tip ve renge göre ve i
 * Makro yaratma ekranında üstte yer alan arama seçeneği ile istediğiniz makroyu hızlıca bulup ayarlayabilirsiniz
 
 <figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
+
+* Büyü freezetime sırasında oyunda titreme problemi tamamen düzeltildi
