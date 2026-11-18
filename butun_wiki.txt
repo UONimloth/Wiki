@@ -4266,6 +4266,8 @@ Grid layer ile eşyaları isme göre arayabilir, ayrıca tip ve renge göre ve i
 
 <figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
 
+* Büyü freezetime sırasında oyunda titreme problemi tamamen düzeltildi
+
 
 --- Dosya: ./guncelleme-notlari/kasim-2026/README.md ---
 
