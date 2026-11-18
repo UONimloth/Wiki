@@ -22,7 +22,6 @@ Davet görüntülendiğinde çıkan ekranda talebin detaylarını görüntülebi
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2Fcks9PWCi7Ct3Z214159c%2Fprofile2.mp4?alt=media&token=9fcaa9b7-449b-4643-b6c6-f24097caec5e" %}
 
-*
 * Client üzerinden video kaydı yapabilme özelliği eklendi
 
 Options menüsündeki Video sekmesinde en altta video ayarlarına ulaşabilirsiniz&#x20;
@@ -47,3 +46,31 @@ Bu ayarların yanı sıra oyun sesleri, mikrofon sesleri, mouse kursörü, upsca
 
 * Karakterlerin üstündeki isim ve konuşma yazıları artık her zaman fareyle üzerine gelince sararıyor
 * Gerçekçi denizde bazı kıyı su karoları bir piksel yukarıda duruyordu ve kıyı sularının üstünde mavi-gri noktalar görünüyordu
+* Atılan büyü sürelerinin gösterimi için Action Progressbar eklendi. Basic ve extended olmak üzere 2 farklı progressbar seçilebilmekte
+
+<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2FpImNPxVrjw3hi3BpatU3%2Fspellbar_new.mp4?alt=media&token=3985d38d-6f76-4439-9a51-12bbf41e40b2" %}
+
+* Spell Indicators ayarı eklendi. Aktif edildiğinde atılacak büyünün mesafesini, field ise nereye atılacağını görüntüleyebilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
+
+* Ayarlar -> Video sekmesine Mouse Cursor özelleştirme seçeneği eklendi.
+
+7 farklı cursor den birini seçebilirsiniz. Default olarak Ultima Online seçilebilmekte
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2Fqq6FTAga4yfbT075jhav%2Fcursor.mp4?alt=media&token=d66a24d3-0a32-4ea7-add4-e3ffbc1d50b4" %}
+
+* Health bar collector eklendi. Aktif ettiğinizde ekranınıza giren tüm canlıların HP bar larını çekmekte
+
+Filter butonu ile hangi canlıların HP barlarının gösterilmesi istediğini seçebilirsiniz \
+Health Barda yer alan ismi seçerek büyü atabilir veya saldırabilirsiniz
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2F6RalTpSpEVjusTfwws4Z%2Fhp%20bar.mp4?alt=media&token=ebaaadf6-29a6-4a25-ba6e-db8452c991df" %}
+
+* Backpack ve Bankbox için Grid layer özelliği eklendi
+
+Grid layer ile eşyaları isme göre arayabilir, ayrıca tip ve renge göre ve isme göre sıralayabilirsiniz
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2FtzCwUnXGEWpZ1tz837hr%2Fbackpack.mp4?alt=media&token=7ba04027-a15c-46b8-a570-89ecf2efe46c" %}
