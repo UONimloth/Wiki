@@ -11,6 +11,7 @@
   * [Kasım 2026](guncelleme-notlari/kasim-2026/README.md)
     * [12.11.2026 Güncellemeleri](guncelleme-notlari/kasim-2026/12.11.2026-guncellemeleri.md)
     * [04.11.2026 Güncellemeleri](guncelleme-notlari/kasim-2026/04.11.2026-guncellemeleri.md)
+    * [Kasım 2026 Client Güncellemeleri](guncelleme-notlari/kasim-2026/kasim-2026-client-guncellemeleri.md)
   * [Ekim 2026](guncelleme-notlari/ekim/README.md)
     * [24.10.2026 Güncellemeleri](guncelleme-notlari/ekim/24.10.2026-guncellemeleri.md)
     * [17.10.2026 Güncellemeleri](guncelleme-notlari/ekim/17.10.2026-guncellemeleri.md)
