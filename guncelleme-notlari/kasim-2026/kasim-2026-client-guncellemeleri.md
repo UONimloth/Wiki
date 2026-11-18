@@ -16,4 +16,6 @@ Oyuncu bu daveti görüntüleyebilir, reddedebilir veya davet atan kişiyi bloke
 
 Davet görüntülendiğinde çıkan ekranda talebin detaylarını görüntülebilirler, kabul edebilir veya iptal edebilirler
 
+[https://1014450636-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2FsxBmXPJ9ht16W5Rceey8%2Fprofile.mp4?alt=media\&token=5dbad605-4419-42cf-97d7-769188d0d412](https://1014450636-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2FsxBmXPJ9ht16W5Rceey8%2Fprofile.mp4?alt=media\&token=5dbad605-4419-42cf-97d7-769188d0d412)
+
 {% file src="../../.gitbook/assets/profile.mp4" %}
