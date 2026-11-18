@@ -74,3 +74,11 @@ Health Barda yer alan ismi seçerek büyü atabilir veya saldırabilirsiniz
 Grid layer ile eşyaları isme göre arayabilir, ayrıca tip ve renge göre ve isme göre sıralayabilirsiniz
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2FtzCwUnXGEWpZ1tz837hr%2Fbackpack.mp4?alt=media&token=7ba04027-a15c-46b8-a570-89ecf2efe46c" %}
+
+* Karakter yaratma ekranında üstte yer alan arama seçeneği ile istediğiniz yeteneği hızlıca arayabilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure>
+
+* Makro yaratma ekranında üstte yer alan arama seçeneği ile istediğiniz makroyu hızlıca bulup ayarlayabilirsiniz
+
+<figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
