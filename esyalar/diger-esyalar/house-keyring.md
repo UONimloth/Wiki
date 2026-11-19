@@ -2,7 +2,7 @@
 
 House Keyring, farklı evlere ait anahtarlarınızı tek bir yerde saklamanızı ve ev bilgilerini kolayca takip etmenizi sağlayan özel bir anahtarlıktır.
 
-Anahtarlıkta en fazla <mark style="color:red;">**50 farklı evin anahtarı**</mark> <mark style="color:red;"></mark><mark style="color:red;">saklanabilir</mark>. Aynı eve ait birden fazla anahtar eklenmez.
+Anahtarlıkta en fazla <mark style="color:red;">**50 farklı evin anahtarı**</mark> <mark style="color:red;">**saklanabilir**</mark>. Aynı eve ait birden fazla anahtar eklenmez.
 
 ### Elde Etme
 
@@ -16,7 +16,7 @@ Açılan pencerede <mark style="color:red;">**“Anahtar Ekle”**</mark> butonu
 
 Anahtarlar sürükleyip bırakarak eklenmez; ekleme işlemi anahtarlık menüsünden yapılır.
 
-<figure><img src="../../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (471).png" alt=""><figcaption></figcaption></figure>
 
 ### Ev Bilgilerini Görüntüleme
 
@@ -24,7 +24,8 @@ Anahtarlığa eklediğiniz her ev için şu bilgiler gösterilir:
 
 • <mark style="color:red;">**Ev sahibi**</mark>\
 • <mark style="color:red;">**Evin bulunduğu bölge ve koordinatları**</mark>\
-• <mark style="color:red;">**Evdeki durumunuz**</mark>**:** Sahip, Ortak veya Dost
+• <mark style="color:red;">**Evin durumu:**</mark> Yepyeni, Yeni, Bakımsız, Eskimiş, Dökülüyor, Yıkılmak Üzere\
+• <mark style="color:red;">**Evdeki yetkiniz**</mark>**:** Sahip, Ortak veya Dost
 
 Anahtarlar sayfalar hâlinde listelenir. Alt kısımdaki oklarla sayfalar arasında geçiş yapabilirsiniz.
 
