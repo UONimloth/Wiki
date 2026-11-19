@@ -1,6 +1,6 @@
 # Pack Binekler
 
-![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/ILjHeb4YThF6BJUpmuidIZsonEAOUoNSihzW6Soa.png)
+<figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/SqZSMATv3YtHDzmNipQIOE9FcYUaKWWk8UMWSIfL.png)
 
