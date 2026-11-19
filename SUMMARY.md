@@ -174,6 +174,7 @@
     * [Normal Cannon](esyalar/cannonlar/normal-cannon.md)
     * [Heavy Cannon](esyalar/cannonlar/heavy-cannon.md)
   * [Diğer Eşyalar](esyalar/diger-esyalar/README.md)
+    * [Disguise Kit](esyalar/diger-esyalar/disguise-kit.md)
     * [Sailor's Spyglass](esyalar/diger-esyalar/sailors-spyglass.md)
     * [Tracker's Spyglass](esyalar/diger-esyalar/trackers-spyglass.md)
     * [Random Mount Informer](esyalar/diger-esyalar/random-mount-informer.md)

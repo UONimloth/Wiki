@@ -6,7 +6,7 @@ Bir eşya arıyorsanız istediğiniz özellikleri ve ödemek istediğiniz tutar�
 
 Sisteme bankalarda bulunan <mark style="color:red;">**Sipariş Panoları**</mark> üzerinden ulaşabilirsiniz. Panoda <mark style="color:red;">**Siparişler**</mark>, <mark style="color:red;">**Oluştur**</mark> ve <mark style="color:red;">**Siparişlerim**</mark> olmak üzere üç sekme bulunur.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Siparişler
 
