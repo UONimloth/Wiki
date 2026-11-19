@@ -18,9 +18,9 @@ Disguise Kit, şehirlerdeki <mark style="color:red;">**Provisioner**</mark> NPC'
 Kiti kullanmak için çantanızın <mark style="color:red;">**üst kısmında**</mark> olması gerekir (çanta içindeki başka bir çantada ya da bankada kullanılamaz). \
 Kite çift tıkladığınızda kılık ekranı açılır. Ekran, şu anki görünüşünüzle başlar ve yaptığınız her seçim soldaki önizlemede anında görünür.
 
-### Disguise Kit ekranı
+### Disguise Kit Ekranı
 
-Ekranın solunda üç sekme bulunur:
+Disguise kit ekranında üç sekme bulunur:
 
 • <mark style="color:red;">**Saç**</mark> – 9 farklı saç stilinden birini seçebilir ya da boş kartı işaretleyerek saçsız dolaşabilirsiniz.\
 • <mark style="color:red;">**Sakal**</mark> – 7 farklı sakal / bıyık stilinden birini seçebilir ya da sakalsız bir görünümü tercih edebilirsiniz. Bu sekme yalnızca erkek karakterlerde görünür.\
