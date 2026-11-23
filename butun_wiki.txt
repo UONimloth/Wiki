@@ -3854,7 +3854,7 @@ Kritik vuruşun hasar artışını <mark style="color:red;">**Tactics**</mark> v
 
 Yalnızca 100 Tactics bulunduğunda kritik hasar katsayısı <mark style="color:red;">**1,2–1,3**</mark>, hem Tactics hem Lumberjacking 100 olduğunda <mark style="color:red;">**1,4–1,6**</mark> arasında olur.
 
-Hedef oyuncunun armor değeri 25’in altındaysa bu hesap yerine doğrudan **2 kat hasar katsayısı** kullanılır.
+Hedef oyuncunun armor değeri 25’in altındaysa bu hesap yerine doğrudan <mark style="color:red;">**2 kat hasar katsayısı**</mark> kullanılır.
 
 Örneğin sadece 100 Tactics olduğunu varsayarsak:
 
@@ -3866,15 +3866,15 @@ Critical hasar hesaplamasının ardından bir sonraki aşama, silahın magical (
 
 Magical seviye ve hasar katsayıları:
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+3 Silahlar için: 1.2**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+3 Silahlar için: 1.2**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+6 Silahlar için: 1.4**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+6 Silahlar için: 1.4**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+9 Silahlar için: 1.6**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+9 Silahlar için: 1.6**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+12 Silahlar için: 1.8**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+12 Silahlar için: 1.8**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+15 Silahlar için: 2.0**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+15 Silahlar için: 2.0**</mark>
 
 Örneğimizdeki katananın <mark style="color:red;">**+15**</mark> olduğunu varsayarsak:
 
@@ -3956,7 +3956,7 @@ Zehir, rakibe her başarılı vuruşta ek hasar verir veya statü etkisi uygular
 
 ### Çift El Silahlar ve Zehir Sürme Şartları
 
-Uygun çift el silahlara zehir sürebilmek için <mark style="color:red;">**Magery en fazla 25.0**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Evaluating Intelligence ise 0**</mark> olmalıdır. Bu koşulları sağlamayan bir karakter zehirli çift el silah kuşandığında silahın zehri kaldırılır.
+Uygun çift el silahlara zehir sürebilmek için <mark style="color:red;">**Magery en fazla 25.0**</mark><mark style="color:red;">,</mark> <mark style="color:red;">**Evaluating Intelligence ise 0**</mark> olmalıdır. Bu koşulları sağlamayan bir karakter zehirli çift el silah kuşandığında silahın zehri kaldırılır.
 
 Tek el silahlarda böyle bir kısıtlama yoktur.
 
@@ -4178,7 +4178,7 @@ Eğer evin sahibi sizseniz, evin isminin yanında bir isim düzenleme butonu bul
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/0HyCdhCat6Z2Zc6fvqoiD6n1zSuyczFZ8Ikl9Th5.png)
 
-Bu butona tıkladığınızda karşınıza yeni bir ekran çıkacaktır. Bu ekranda evin yeni ismini yazıp **Onayla** butonuna basarak evin ismini değiştirebilirsiniz
+Bu butona tıkladığınızda karşınıza yeni bir ekran çıkacaktır. Bu ekranda evin yeni ismini yazıp <mark style="color:red;">**Onayla**</mark> butonuna basarak evin ismini değiştirebilirsiniz
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/peTYPHtvE6Zev2ArzNN86UJtBpRqLBKPsDZN1iKR.png)
 
@@ -4769,7 +4769,7 @@ Craft Achievement’ları, sistemde tanımlı eşyaları ürettikçe ilerleyen b
 
 Her eşyanın üretim sayısı ayrı tutulur. Listedeki eşyaya tıklayarak mevcut üretim sayınızı, üç seviyenin hedeflerini ve kazanabileceğiniz ödülleri görüntüleyebilirsiniz.
 
-Her başarım <mark style="color:red;">**üç seviyeden**</mark> oluşur.&#x20;
+Her başarım <mark style="color:red;">**üç seviyeden**</mark> oluşur.
 
 Detay ekranında:
 
@@ -4955,7 +4955,7 @@ Listedeki ilgili başarımın sağ üst köşesinde bulunan mavi takip butonuna 
 
 Takibe aldığınız başarımlar ayrı bir takip penceresinde görüntülenir. Bu pencereden sıradaki seviye hedefine doğru ilerlemenizi anlık olarak izleyebilirsiniz. İlgili başarımın yanındaki <mark style="color:red;">**“X”**</mark> butonuyla takipten çıkarabilirsiniz.
 
-Takip penceresini kapattığınızda **`.achi`** komutuyla tekrar açabilirsiniz.
+Takip penceresini kapattığınızda <mark style="color:red;">**`.achi`**</mark> komutuyla tekrar açabilirsiniz.
 
 <figure><img src="../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 
@@ -5478,7 +5478,7 @@ Tamir işlemi, Minoc ve Serpent's Hold şehirlerinde yer alan <mark style="color
 
 Bu özel tamir ocağını kullanabilmek için aşağıdaki şartların sağlanması gerekmektedir:
 
-• **Blacksmithing 100.0**
+• <mark style="color:red;">**Blacksmithing 100.0**</mark>
 
 • [<mark style="color:red;">**Craft Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) <mark style="color:red;">**Seviye 20**</mark> tamamlanmış olmalı
 
@@ -5506,7 +5506,7 @@ Not: Tamir hiçbir şekilde başarısız olmaz ve işlem her zaman başarılı �
 
 ## Metal Zırh Tamiri
 
-Metal zırhların tamiri için, eşyanın üretiminde kullanılan türde ingot gerekir. Gereken miktar, parçanın üretim maliyetine ve hasar oranına göre hesaplanır. Hasar arttıkça tamir için gereken ingot miktarı da artar.&#x20;
+Metal zırhların tamiri için, eşyanın üretiminde kullanılan türde ingot gerekir. Gereken miktar, parçanın üretim maliyetine ve hasar oranına göre hesaplanır. Hasar arttıkça tamir için gereken ingot miktarı da artar.
 
 Örnek olarak:
 
@@ -6239,7 +6239,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/xRO2fGh0rvCDwdYJepWQYDFQw1rOMCbrLvdFmBNT.png)
 
-**Seviyelere göre ödüller şu şekildedir:**
+<mark style="color:red;">**Seviyelere göre ödüller şu şekildedir:**</mark>
 
 • <mark style="color:red;">**Level 2:**</mark> [<mark style="color:red;">**Yew Bow**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#yew-bow) <mark style="color:red;">**(Blueprint)**</mark> -> Yew Bow üretimi için gereken Blueprint'i elde edersiniz.
 
@@ -7973,7 +7973,7 @@ En riskli ama en doğrudan seçenektir. Bu tercihle birlikte 30 saniye sonra do�
 
 Ana dialog ekranında ayrıca sahip olduğunuz Resurrection Stone miktarı da açıkça görüntülenmektedir. Bunun yanı sıra her bir seçeneğin kaç taş gerektirdiği bilgisi de ilgili seçeneğin yanında yer alır. Böylece hangi canlanma yönteminin sizin için uygun olduğunu hızlıca değerlendirebilirsiniz.
 
-**Ev veya gemi içinde bu seçenekleri kullanmanız mümkün değildir.**
+<mark style="color:red;">**Ev veya gemi içinde bu seçenekleri kullanmanız mümkün değildir.**</mark>
 
 ## Resurrection Stone Nedir ve Nasıl Kullanılır?
 
@@ -8169,7 +8169,7 @@ Tıpkı diğer bonuslarda olduğu gibi, etkinleşme koşulları <mark style="col
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Paradarbe bonusu <mark style="color:red;">**%100 ihtimalle**</mark> devreye girer.
 
-Hedefin armor değeri 25 ve üzerindeyse, Paradarbe’nin devreye girme ihtimali <mark style="color:red;">**Anatomy**</mark> yeteneğinize bağlıdır. Anatomy yeteneğiniz yükseldikçe bonus ihtimal artar.&#x20;
+Hedefin armor değeri 25 ve üzerindeyse, Paradarbe’nin devreye girme ihtimali <mark style="color:red;">**Anatomy**</mark> yeteneğinize bağlıdır. Anatomy yeteneğiniz yükseldikçe bonus ihtimal artar.
 
 Saldıranın binekte olup olmaması bu bonusun şansını değiştirmez.
 
@@ -8211,7 +8211,7 @@ Bu koşulu sağladığınızda ve Stam Shot bonusuna sahip bir silah kuşandığ
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/1gaseRTaY13mQ2ugo4359WJ59mARBBDwPi7gjOTf.png)
 
-Diğer bonuslarda olduğu gibi, etkinleşme koşulları hedefin **armor değerine ve saldırganın durumuna göre** belirlenir:
+Diğer bonuslarda olduğu gibi, etkinleşme koşulları hedefin <mark style="color:red;">**armor değerine ve saldırganın durumuna göre**</mark> belirlenir:
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Stam Shot bonusu <mark style="color:red;">**%50 ihtimalle**</mark> devreye girer.
 
@@ -8223,14 +8223,14 @@ Anatomy seviyesi yükseldikçe Stam Shot bonusunun aktif olma ihtimali de artar.
 
 Macefighting silahlarının verdiği stamina kaybı, silahın tek veya çift elle kullanılmasına ve hedefin <mark style="color:red;">**Pure Mage**</mark> olup olmamasına göre değişir.
 
-Hesaplamada hedefin **maksimum stamina değeri** esas alınır:
+Hesaplamada hedefin <mark style="color:red;">**maksimum stamina değeri**</mark> esas alınır:
 
 | <mark style="color:red;">**Silah kullanımı**</mark> | <mark style="color:red;">**Normal hedef**</mark> | <mark style="color:red;">**Pure Mage hedef**</mark> |
 | --------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- |
 | Tek el                                              | %10–14                                           | %15–20                                              |
 | Çift el                                             | %13–17                                           | %20–25                                              |
 
-Bu oranlar temel stamina kaybını belirler. Hedefin maksimum stamina değerine göre ayrıca bir ölçeklendirme uygulanır.&#x20;
+Bu oranlar temel stamina kaybını belirler. Hedefin maksimum stamina değerine göre ayrıca bir ölçeklendirme uygulanır.
 
 Ancak Stam Shot bonusu aktif hale geldiğinde, bu oran <mark style="color:red;">**iki katına**</mark> çıkar.
 
@@ -8290,7 +8290,7 @@ Tactics seviyesi yükseldikçe Stun bonusunun aktif olma ihtimali de artar.
 
 Eğer hedef oyuncunun elinde kalkan varsa, bonusun aktif olma şansı bir miktar azalır.
 
-Bonus aktif olduğunda etkilenen oyuncunun üzerinde **“Sersemler”** ibaresi belirir ve oyuncu **2 saniye** boyunca hareket edemez ve büyü yapamaz hale gelir
+Bonus aktif olduğunda etkilenen oyuncunun üzerinde <mark style="color:red;">**“Sersemler”**</mark> ibaresi belirir ve oyuncu <mark style="color:red;">**2 saniye**</mark> boyunca hareket edemez ve büyü yapamaz hale gelir
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/hofB2Y4Q5PrqzugkTjJHJr4nFD8dZ51EsgPKOTRT.png)
 
@@ -8310,7 +8310,7 @@ Diğer bir çok bonusta olduğu gibi, etkinleşme koşulları hedefin <mark styl
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Disarm bonusu <mark style="color:red;">**%100 ihtimalle**</mark> devreye girer.
 
-Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda **Armslore** yeteneğiniz devreye girer.
+Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda <mark style="color:red;">**Armslore**</mark> yeteneğiniz devreye girer.
 
 Armslore seviyesi yükseldikçe Disarm bonusunun aktif olma ihtimali de artar.
 
@@ -8445,7 +8445,7 @@ Yuvarlama, büyüye özel kurallar ve hedefin savunması nihai hasarı etkileyeb
 | Bow, Elven Bow, Yew Bow                                                                    | Perfect Shot           |
 | Crossbow, Heavy Crossbow                                                                   | Dismount               |
 
-Not: Silahlara ait tüm bonus ve hasar değerlerini **Armslore** yeteneğini silah üzerinde kullanarak görüntüleyebilirsiniz.
+Not: Silahlara ait tüm bonus ve hasar değerlerini <mark style="color:red;">**Armslore**</mark> yeteneğini silah üzerinde kullanarak görüntüleyebilirsiniz.
 
 
 --- Dosya: ./sistemler/guild-sistemi.md ---
@@ -8738,7 +8738,7 @@ Bayrak seçimi yapıldıktan sonra Guild bayrağı butonuna tekrar tıkladığı
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/otowa5tIvBMOVL7BRrw4XGsNvEmb9go5V5QuDRWf.png)
 
-Bayrak başka bir guild tarafından seçili ise gri olarak gözükür ve üzerinde **“X”** işareti bulunur.
+Bayrak başka bir guild tarafından seçili ise gri olarak gözükür ve üzerinde <mark style="color:red;">**“X”**</mark> işareti bulunur.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/BuspwKLCQoeIEIAKw6sVqfHzqjU2nT5cqGIpIaUj.png)
 
@@ -8828,7 +8828,7 @@ Hunter görevi almak için belirli bir yetenek seviyesi veya sınıf gerekmez. <
 
 ## Görev Detaylarını Görüntüleme
 
-Master Hunter vendorundan görev aldığınızda, çantanıza **Hunter Quest Deed** adında bir belge düşecektir.
+Master Hunter vendorundan görev aldığınızda, çantanıza <mark style="color:red;">**Hunter Quest Deed**</mark> adında bir belge düşecektir.
 
 • <mark style="color:red;">**Tek tıklayarak**</mark> görevle ilgili genel bilgilere hızlıca erişebilirsiniz.
 
@@ -9273,7 +9273,7 @@ Zul’Thar öldürüldüğünde cesedinden <mark style="color:red;">**altın, Po
 
 #### Nadir Binek
 
-Zul’Thar öldürüldüğünde, öldüğü noktada aşağıdaki bineklerden **biri** rastgele ortaya çıkar.
+Zul’Thar öldürüldüğünde, öldüğü noktada <mark style="color:red;">**aşağıdaki bineklerden biri**</mark> rastgele ortaya çıkar.
 
 * Kii Rin
 * Silver Steed
