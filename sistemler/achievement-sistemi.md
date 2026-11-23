@@ -47,7 +47,7 @@ Craft Achievement’ları, sistemde tanımlı eşyaları ürettikçe ilerleyen b
 
 Her eşyanın üretim sayısı ayrı tutulur. Listedeki eşyaya tıklayarak mevcut üretim sayınızı, üç seviyenin hedeflerini ve kazanabileceğiniz ödülleri görüntüleyebilirsiniz.
 
-Her başarım <mark style="color:red;">**üç seviyeden**</mark> oluşur.&#x20;
+Her başarım <mark style="color:red;">**üç seviyeden**</mark> oluşur.
 
 Detay ekranında:
 
@@ -233,7 +233,7 @@ Listedeki ilgili başarımın sağ üst köşesinde bulunan mavi takip butonuna 
 
 Takibe aldığınız başarımlar ayrı bir takip penceresinde görüntülenir. Bu pencereden sıradaki seviye hedefine doğru ilerlemenizi anlık olarak izleyebilirsiniz. İlgili başarımın yanındaki <mark style="color:red;">**“X”**</mark> butonuyla takipten çıkarabilirsiniz.
 
-Takip penceresini kapattığınızda **`.achi`** komutuyla tekrar açabilirsiniz.
+Takip penceresini kapattığınızda <mark style="color:red;">**`.achi`**</mark> komutuyla tekrar açabilirsiniz.
 
 <figure><img src="../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 

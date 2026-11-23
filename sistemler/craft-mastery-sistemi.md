@@ -36,7 +36,7 @@ Ayrıca bu menüde seviye atladığınızda bir ödül kazanacaksanız o ödüle
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/xRO2fGh0rvCDwdYJepWQYDFQw1rOMCbrLvdFmBNT.png)
 
-**Seviyelere göre ödüller şu şekildedir:**
+<mark style="color:red;">**Seviyelere göre ödüller şu şekildedir:**</mark>
 
 • <mark style="color:red;">**Level 2:**</mark> [<mark style="color:red;">**Yew Bow**</mark>](https://nimloth-uo.gitbook.io/wiki/esyalar/silahlar#yew-bow) <mark style="color:red;">**(Blueprint)**</mark> -> Yew Bow üretimi için gereken Blueprint'i elde edersiniz.
 

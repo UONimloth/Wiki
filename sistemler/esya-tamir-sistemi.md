@@ -10,7 +10,7 @@ Tamir işlemi, Minoc ve Serpent's Hold şehirlerinde yer alan <mark style="color
 
 Bu özel tamir ocağını kullanabilmek için aşağıdaki şartların sağlanması gerekmektedir:
 
-• **Blacksmithing 100.0**
+• <mark style="color:red;">**Blacksmithing 100.0**</mark>
 
 • [<mark style="color:red;">**Craft Mastery**</mark>](https://nimloth-uo.gitbook.io/wiki/sistemler/craft-mastery-sistemi) <mark style="color:red;">**Seviye 20**</mark> tamamlanmış olmalı
 
@@ -38,7 +38,7 @@ Not: Tamir hiçbir şekilde başarısız olmaz ve işlem her zaman başarılı �
 
 ## Metal Zırh Tamiri
 
-Metal zırhların tamiri için, eşyanın üretiminde kullanılan türde ingot gerekir. Gereken miktar, parçanın üretim maliyetine ve hasar oranına göre hesaplanır. Hasar arttıkça tamir için gereken ingot miktarı da artar.&#x20;
+Metal zırhların tamiri için, eşyanın üretiminde kullanılan türde ingot gerekir. Gereken miktar, parçanın üretim maliyetine ve hasar oranına göre hesaplanır. Hasar arttıkça tamir için gereken ingot miktarı da artar.
 
 Örnek olarak:
 

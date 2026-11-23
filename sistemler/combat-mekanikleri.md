@@ -58,7 +58,7 @@ Kritik vuruşun hasar artışını <mark style="color:red;">**Tactics**</mark> v
 
 Yalnızca 100 Tactics bulunduğunda kritik hasar katsayısı <mark style="color:red;">**1,2–1,3**</mark>, hem Tactics hem Lumberjacking 100 olduğunda <mark style="color:red;">**1,4–1,6**</mark> arasında olur.
 
-Hedef oyuncunun armor değeri 25’in altındaysa bu hesap yerine doğrudan **2 kat hasar katsayısı** kullanılır.
+Hedef oyuncunun armor değeri 25’in altındaysa bu hesap yerine doğrudan <mark style="color:red;">**2 kat hasar katsayısı**</mark> kullanılır.
 
 Örneğin sadece 100 Tactics olduğunu varsayarsak:
 
@@ -70,15 +70,15 @@ Critical hasar hesaplamasının ardından bir sonraki aşama, silahın magical (
 
 Magical seviye ve hasar katsayıları:
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+3 Silahlar için: 1.2**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+3 Silahlar için: 1.2**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+6 Silahlar için: 1.4**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+6 Silahlar için: 1.4**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+9 Silahlar için: 1.6**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+9 Silahlar için: 1.6**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+12 Silahlar için: 1.8**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+12 Silahlar için: 1.8**</mark>
 
-<mark style="color:red;">•</mark> <mark style="color:red;"></mark><mark style="color:red;">**+15 Silahlar için: 2.0**</mark>
+<mark style="color:red;">•</mark> <mark style="color:red;">**+15 Silahlar için: 2.0**</mark>
 
 Örneğimizdeki katananın <mark style="color:red;">**+15**</mark> olduğunu varsayarsak:
 
@@ -160,7 +160,7 @@ Zehir, rakibe her başarılı vuruşta ek hasar verir veya statü etkisi uygular
 
 ### Çift El Silahlar ve Zehir Sürme Şartları
 
-Uygun çift el silahlara zehir sürebilmek için <mark style="color:red;">**Magery en fazla 25.0**</mark><mark style="color:red;">,</mark> <mark style="color:red;"></mark><mark style="color:red;">**Evaluating Intelligence ise 0**</mark> olmalıdır. Bu koşulları sağlamayan bir karakter zehirli çift el silah kuşandığında silahın zehri kaldırılır.
+Uygun çift el silahlara zehir sürebilmek için <mark style="color:red;">**Magery en fazla 25.0**</mark><mark style="color:red;">,</mark> <mark style="color:red;">**Evaluating Intelligence ise 0**</mark> olmalıdır. Bu koşulları sağlamayan bir karakter zehirli çift el silah kuşandığında silahın zehri kaldırılır.
 
 Tek el silahlarda böyle bir kısıtlama yoktur.
 

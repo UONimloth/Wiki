@@ -90,7 +90,7 @@ Tıpkı diğer bonuslarda olduğu gibi, etkinleşme koşulları <mark style="col
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Paradarbe bonusu <mark style="color:red;">**%100 ihtimalle**</mark> devreye girer.
 
-Hedefin armor değeri 25 ve üzerindeyse, Paradarbe’nin devreye girme ihtimali <mark style="color:red;">**Anatomy**</mark> yeteneğinize bağlıdır. Anatomy yeteneğiniz yükseldikçe bonus ihtimal artar.&#x20;
+Hedefin armor değeri 25 ve üzerindeyse, Paradarbe’nin devreye girme ihtimali <mark style="color:red;">**Anatomy**</mark> yeteneğinize bağlıdır. Anatomy yeteneğiniz yükseldikçe bonus ihtimal artar.
 
 Saldıranın binekte olup olmaması bu bonusun şansını değiştirmez.
 
@@ -132,7 +132,7 @@ Bu koşulu sağladığınızda ve Stam Shot bonusuna sahip bir silah kuşandığ
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/1gaseRTaY13mQ2ugo4359WJ59mARBBDwPi7gjOTf.png)
 
-Diğer bonuslarda olduğu gibi, etkinleşme koşulları hedefin **armor değerine ve saldırganın durumuna göre** belirlenir:
+Diğer bonuslarda olduğu gibi, etkinleşme koşulları hedefin <mark style="color:red;">**armor değerine ve saldırganın durumuna göre**</mark> belirlenir:
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Stam Shot bonusu <mark style="color:red;">**%50 ihtimalle**</mark> devreye girer.
 
@@ -144,14 +144,14 @@ Anatomy seviyesi yükseldikçe Stam Shot bonusunun aktif olma ihtimali de artar.
 
 Macefighting silahlarının verdiği stamina kaybı, silahın tek veya çift elle kullanılmasına ve hedefin <mark style="color:red;">**Pure Mage**</mark> olup olmamasına göre değişir.
 
-Hesaplamada hedefin **maksimum stamina değeri** esas alınır:
+Hesaplamada hedefin <mark style="color:red;">**maksimum stamina değeri**</mark> esas alınır:
 
 | <mark style="color:red;">**Silah kullanımı**</mark> | <mark style="color:red;">**Normal hedef**</mark> | <mark style="color:red;">**Pure Mage hedef**</mark> |
 | --------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- |
 | Tek el                                              | %10–14                                           | %15–20                                              |
 | Çift el                                             | %13–17                                           | %20–25                                              |
 
-Bu oranlar temel stamina kaybını belirler. Hedefin maksimum stamina değerine göre ayrıca bir ölçeklendirme uygulanır.&#x20;
+Bu oranlar temel stamina kaybını belirler. Hedefin maksimum stamina değerine göre ayrıca bir ölçeklendirme uygulanır.
 
 Ancak Stam Shot bonusu aktif hale geldiğinde, bu oran <mark style="color:red;">**iki katına**</mark> çıkar.
 
@@ -211,7 +211,7 @@ Tactics seviyesi yükseldikçe Stun bonusunun aktif olma ihtimali de artar.
 
 Eğer hedef oyuncunun elinde kalkan varsa, bonusun aktif olma şansı bir miktar azalır.
 
-Bonus aktif olduğunda etkilenen oyuncunun üzerinde **“Sersemler”** ibaresi belirir ve oyuncu **2 saniye** boyunca hareket edemez ve büyü yapamaz hale gelir
+Bonus aktif olduğunda etkilenen oyuncunun üzerinde <mark style="color:red;">**“Sersemler”**</mark> ibaresi belirir ve oyuncu <mark style="color:red;">**2 saniye**</mark> boyunca hareket edemez ve büyü yapamaz hale gelir
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/hofB2Y4Q5PrqzugkTjJHJr4nFD8dZ51EsgPKOTRT.png)
 
@@ -231,7 +231,7 @@ Diğer bir çok bonusta olduğu gibi, etkinleşme koşulları hedefin <mark styl
 
 Eğer hedefin armor değeri <mark style="color:red;">**25’in altındaysa**</mark>, Disarm bonusu <mark style="color:red;">**%100 ihtimalle**</mark> devreye girer.
 
-Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda **Armslore** yeteneğiniz devreye girer.
+Ancak hedefin armor değeri 25 ve üzerindeyse, bonusun çalışma mantığı değişir. Bu durumda <mark style="color:red;">**Armslore**</mark> yeteneğiniz devreye girer.
 
 Armslore seviyesi yükseldikçe Disarm bonusunun aktif olma ihtimali de artar.
 
@@ -366,4 +366,4 @@ Yuvarlama, büyüye özel kurallar ve hedefin savunması nihai hasarı etkileyeb
 | Bow, Elven Bow, Yew Bow                                                                    | Perfect Shot           |
 | Crossbow, Heavy Crossbow                                                                   | Dismount               |
 
-Not: Silahlara ait tüm bonus ve hasar değerlerini **Armslore** yeteneğini silah üzerinde kullanarak görüntüleyebilirsiniz.
+Not: Silahlara ait tüm bonus ve hasar değerlerini <mark style="color:red;">**Armslore**</mark> yeteneğini silah üzerinde kullanarak görüntüleyebilirsiniz.

@@ -286,7 +286,7 @@ Bayrak seçimi yapıldıktan sonra Guild bayrağı butonuna tekrar tıkladığı
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/otowa5tIvBMOVL7BRrw4XGsNvEmb9go5V5QuDRWf.png)
 
-Bayrak başka bir guild tarafından seçili ise gri olarak gözükür ve üzerinde **“X”** işareti bulunur.
+Bayrak başka bir guild tarafından seçili ise gri olarak gözükür ve üzerinde <mark style="color:red;">**“X”**</mark> işareti bulunur.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/BuspwKLCQoeIEIAKw6sVqfHzqjU2nT5cqGIpIaUj.png)
 

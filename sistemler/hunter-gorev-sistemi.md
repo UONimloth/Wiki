@@ -22,7 +22,7 @@ Hunter görevi almak için belirli bir yetenek seviyesi veya sınıf gerekmez. <
 
 ## Görev Detaylarını Görüntüleme
 
-Master Hunter vendorundan görev aldığınızda, çantanıza **Hunter Quest Deed** adında bir belge düşecektir.
+Master Hunter vendorundan görev aldığınızda, çantanıza <mark style="color:red;">**Hunter Quest Deed**</mark> adında bir belge düşecektir.
 
 • <mark style="color:red;">**Tek tıklayarak**</mark> görevle ilgili genel bilgilere hızlıca erişebilirsiniz.
 

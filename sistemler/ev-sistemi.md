@@ -104,7 +104,7 @@ Eğer evin sahibi sizseniz, evin isminin yanında bir isim düzenleme butonu bul
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/0HyCdhCat6Z2Zc6fvqoiD6n1zSuyczFZ8Ikl9Th5.png)
 
-Bu butona tıkladığınızda karşınıza yeni bir ekran çıkacaktır. Bu ekranda evin yeni ismini yazıp **Onayla** butonuna basarak evin ismini değiştirebilirsiniz
+Bu butona tıkladığınızda karşınıza yeni bir ekran çıkacaktır. Bu ekranda evin yeni ismini yazıp <mark style="color:red;">**Onayla**</mark> butonuna basarak evin ismini değiştirebilirsiniz
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/peTYPHtvE6Zev2ArzNN86UJtBpRqLBKPsDZN1iKR.png)
 

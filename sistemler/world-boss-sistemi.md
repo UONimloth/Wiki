@@ -38,7 +38,7 @@ Zul’Thar öldürüldüğünde cesedinden <mark style="color:red;">**altın, Po
 
 #### Nadir Binek
 
-Zul’Thar öldürüldüğünde, öldüğü noktada aşağıdaki bineklerden **biri** rastgele ortaya çıkar.
+Zul’Thar öldürüldüğünde, öldüğü noktada <mark style="color:red;">**aşağıdaki bineklerden biri**</mark> rastgele ortaya çıkar.
 
 * Kii Rin
 * Silver Steed

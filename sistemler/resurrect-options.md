@@ -72,7 +72,7 @@ En riskli ama en doğrudan seçenektir. Bu tercihle birlikte 30 saniye sonra do�
 
 Ana dialog ekranında ayrıca sahip olduğunuz Resurrection Stone miktarı da açıkça görüntülenmektedir. Bunun yanı sıra her bir seçeneğin kaç taş gerektirdiği bilgisi de ilgili seçeneğin yanında yer alır. Böylece hangi canlanma yönteminin sizin için uygun olduğunu hızlıca değerlendirebilirsiniz.
 
-**Ev veya gemi içinde bu seçenekleri kullanmanız mümkün değildir.**
+<mark style="color:red;">**Ev veya gemi içinde bu seçenekleri kullanmanız mümkün değildir.**</mark>
 
 ## Resurrection Stone Nedir ve Nasıl Kullanılır?
 
