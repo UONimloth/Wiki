@@ -38,13 +38,13 @@ Bir görev yaratığını öldürdüğünüzde, sistem size öldürdüğünüz y
 
 Her Tier seviyesi, hafta sonundaki sıralamaya farklı miktarda puan kazandırır:
 
-| Tier       | Kazanılan Puan |
-| ---------- | -------------: |
-| **Tier 5** |        15 Puan |
-| **Tier 4** |        25 Puan |
-| **Tier 3** |        40 Puan |
-| **Tier 2** |        66 Puan |
-| **Tier 1** |       100 Puan |
+| Tier   | Kazanılan Puan |
+| ------ | -------------: |
+| Tier 5 |        15 Puan |
+| Tier 4 |        25 Puan |
+| Tier 3 |        40 Puan |
+| Tier 2 |        66 Puan |
+| Tier 1 |       100 Puan |
 
 ## Cumartesi Görevi - Zul’Thar
 
@@ -99,7 +99,7 @@ Sıralamada <mark style="color:red;">**ilk 3 oyuncu**</mark>, birbirinden farkl�
 
 * 3 Rare renk arasından random <mark style="color:red;">**1 Charge Rare Dye**</mark>
 * Random [<mark style="color:red;">**Ascendant Ostard**</mark>](https://nimloth-uo.gitbook.io/wiki/binekler/ascendant-ostard)
-* **Random** binek rengi
+* <mark style="color:red;">**Random**</mark> binek rengi
 * Newbified Hood
 
 ### 4–5. Sıralar

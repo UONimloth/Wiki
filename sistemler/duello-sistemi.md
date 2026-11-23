@@ -70,6 +70,6 @@ Eğer düello oluşturulurken loot seçeneği aktif olarak belirlenmişse, kazan
 
 Düello sona erdiğinde, sonuç tüm sunucuya duyuru olarak iletilir ve kazanan (ya da beraberlik durumu) herkes tarafından görülebilir.
 
-Premium oyuncular bu duyuruları **Profile → Düello Mesajları** ayarından açıp kapatabilir.
+Premium oyuncular bu duyuruları <mark style="color:red;">**Profile → Düello Mesajları**</mark> ayarından açıp kapatabilir.
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/MSUfruGBgCaZH6k2dXJPtNKRsUMvZFV0rn0buRDl.png)

@@ -8,7 +8,7 @@ Her kategori, farklı bir uzmanlık alanını temsil eder ve oyunculara kendi oy
 
 ## Top 10 Menüsüne Nasıl Ulaşılır?
 
-Oyun içerisinde **.top10** komutunu kullanarak Top 10 menüsünü açabilirsiniz.
+Oyun içerisinde <mark style="color:red;">**.top10**</mark> komutunu kullanarak Top 10 menüsünü açabilirsiniz.
 
 Bu menü üzerinden farklı kategorilerdeki sıralamaları görüntüleyebilir, oyuncuların ve guild’lerin mevcut başarı durumlarını inceleyebilirsiniz.
 

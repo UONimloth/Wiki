@@ -80,7 +80,7 @@ Gemi üretiminde, malzemelere ek olarak üretim ekranında belirtilen miktarda <
 
 Gemi üretimi, yüksek seviye zanaatkârlar için Nimloth dünyasında büyük prestij ve kazanç fırsatı sunar.
 
-Nimloth dünyasında bulunan gemilere [<mark style="color:red;">**buradan**</mark>](https://uo-nimloth.net/wiki/category/gemiler) ulaşabilirsiniz
+Nimloth dünyasında bulunan gemilere [<mark style="color:red;">**buradan**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/gemiler) ulaşabilirsiniz
 
 ## Ev Üretimi
 
@@ -144,4 +144,4 @@ Her ev türü farklı miktarda kaynak gerektirir ve farklı depolama/yerleşim �
 
 Bu nedenle yüksek seviye ev üretimi, yalnızca deneyimli zanaatkârların başarabileceği bir süreçtir.
 
-Nimloth dünyasında bulunan evlere [<mark style="color:red;">**buradan**</mark>](https://uo-nimloth.net/wiki/category/evler) ulaşabilirsiniz
+Nimloth dünyasında bulunan evlere [<mark style="color:red;">**buradan**</mark>](https://nimloth-uo.gitbook.io/wiki/yapilar/evler) ulaşabilirsiniz

@@ -134,7 +134,7 @@ Giyeceklerde de yıpranma yüzdesi gösterilir. [<mark style="color:red;">**Fast
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/4aVXngug52MUmYuPR2kQRQTTlKHydEa53xBuYs61.png)
 
-Boya ilanlarında <mark style="color:red;">**renk seviyesi**</mark>, Craft ve Gatherer XP belgelerinde ise <mark style="color:red;">**XP miktarı**</mark> görüntülenir. İçeriği görüntülenebilen dolu çanta ve kutularda **İçerik** butonuna tıklayarak içindeki eşyaları inceleyebilirsiniz.
+Boya ilanlarında <mark style="color:red;">**renk seviyesi**</mark>, Craft ve Gatherer XP belgelerinde ise <mark style="color:red;">**XP miktarı**</mark> görüntülenir. İçeriği görüntülenebilen dolu çanta ve kutularda <mark style="color:red;">**İçerik**</mark> butonuna tıklayarak içindeki eşyaları inceleyebilirsiniz.
 
 Konum bilgisinin yanında bulunan butonu kullanarak, vendorun yerini kolayca tespit edebilirsiniz. Bu butona tıkladığınızda:
 

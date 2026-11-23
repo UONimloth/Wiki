@@ -70,6 +70,6 @@ Bu ekran üzerinden aşağıdaki işlemleri gerçekleştirebilirsiniz:
 
 • Sağ tarafta bulunan Çıkart butonu ile ilgili runebook’un linkini kaldırabilirsiniz
 
-Sağ tarafta bulunan **Çıkart** butonuna bastığınızda, ilgili runebook bağlantısıyla birlikte silinir. <mark style="color:red;">**İşlem onay ekranı olmadan gerçekleşir ve geri alınamaz.**</mark>
+Sağ tarafta bulunan <mark style="color:red;">**Çıkart**</mark> butonuna bastığınızda, ilgili runebook bağlantısıyla birlikte silinir. <mark style="color:red;">**İşlem onay ekranı olmadan gerçekleşir ve geri alınamaz.**</mark>
 
 ![](https://uo-nimloth.net/tenancy/assets/wiki/posts/attachments/lPiH8TwBRq9uAMqTkuviWpsGfS2j2XetUAk2X34X.png)

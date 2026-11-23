@@ -61,7 +61,7 @@ Etkinlik en fazla oyuncu sayısına ulaşırsa süre beklenmeden hemen başlar.
 
 Katılımlar sona erdiğinde etkinlik <mark style="color:red;">**10 saniye**</mark> sonra başlar.
 
-**Not:** Etkinlik sırasında bağlantınız koparsa kısa süre içinde oyuna geri dönmeniz gerekir. Geri dönmezseniz etkinlikten elenirsiniz ve katılım puanı kazanamazsınız.
+<mark style="color:red;">**Not**</mark>**:** Etkinlik sırasında bağlantınız koparsa kısa süre içinde oyuna geri dönmeniz gerekir. Geri dönmezseniz etkinlikten elenirsiniz ve katılım puanı kazanamazsınız.
 
 ### Ödüller
 
@@ -241,7 +241,7 @@ Rakiplerinizi yumruklayarak alanın dışına itmeye çalışırsınız.
 
 • Tüm oyuncuların statları eşitlenir (100 Str, 100 Dex, 25 Int), Wrestling ve Tactics yetenekleri 100.0 olarak ayarlanır.
 
-• Yumruklar hasar vermez, rakibinizi baktığınız yöne doğru **2 kare** geri iter. Her 2 saniyede bir yumruk atabilirsiniz.
+• Yumruklar hasar vermez, rakibinizi baktığınız yöne doğru <mark style="color:red;">**2 kare**</mark> geri iter. Her 2 saniyede bir yumruk atabilirsiniz.
 
 • Her yumruğun %20 şansla <mark style="color:red;">**MEGA PUNCH**</mark> olma ihtimali vardır. Mega Punch rakibi <mark style="color:red;">**4 kare**</mark> geri iter.
 
@@ -337,7 +337,7 @@ Power Hour’un başladığı ve sona erdiği oyun içinde duyurulur. Etkinlik d
 
 ### Ganimet Vakti
 
-Ganimet Vakti, rastgele seçilen bir zindanda **2 saat** boyunca kazancın arttığı bonus etkinliğidir. <mark style="color:red;">**Salı, Cuma ve Pazar**</mark> günleri saat <mark style="color:red;">**19:00**</mark>'da başlar.
+Ganimet Vakti, rastgele seçilen bir zindanda <mark style="color:red;">**2 saat**</mark> boyunca kazancın arttığı bonus etkinliğidir. <mark style="color:red;">**Salı, Cuma ve Pazar**</mark> günleri saat <mark style="color:red;">**19:00**</mark>'da başlar.
 
 Etkinlik başladığında aşağıdaki zindanlardan biri rastgele seçilir ve sunucu genelinde duyurulur:
 
