@@ -2,15 +2,15 @@
 
 * Oyuna "-profil" komutu eklendi. Bu komut ile Makro, Infobar, Skills Groups, Window Layout, Settings ve Ingore List inizi aktarabilirsiniz
 
-Aktarım yapabilmek için diğer oyuncunun ayarlardan "Receive profile sharing offers from other players" tikini açması gerekmektedir. Bu ayarı Counters -> MISC sekmesinde en altta bulabilirsiniz&#x20;
+Aktarım yapabilmek için diğer oyuncunun ayarlardan "Receive profile sharing offers from other players" tikini açması gerekmektedir. Bu ayarı Counters -> MISC sekmesinde en altta bulabilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
 
-Aktarım yapabilmek için oyun içerisinde belli koşulları sağlamanız gerekmektedir(görünmez olmama, savaşta olmama gibi) Eğer bu koşulları sağlıyorsanız karşıdaki oyuncuya profil paylaşım daveti iletebilirsiniz&#x20;
+Aktarım yapabilmek için oyun içerisinde belli koşulları sağlamanız gerekmektedir(görünmez olmama, savaşta olmama gibi) Eğer bu koşulları sağlıyorsanız karşıdaki oyuncuya profil paylaşım daveti iletebilirsiniz
 
 Davet ilettiğiniz oyuncunun ekranında sağ altta gelen davet ile ilgili bir popup açılacaktır
 
-Oyuncu bu daveti görüntüleyebilir, reddedebilir veya davet atan kişiyi bloke edebilir &#x20;
+Oyuncu bu daveti görüntüleyebilir, reddedebilir veya davet atan kişiyi bloke edebilir
 
 <figure><img src="../../.gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,11 +24,11 @@ Davet görüntülendiğinde çıkan ekranda talebin detaylarını görüntülebi
 
 * Client üzerinden video kaydı yapabilme özelliği eklendi
 
-Options menüsündeki Video sekmesinde en altta video ayarlarına ulaşabilirsiniz&#x20;
+Options menüsündeki Video sekmesinde en altta video ayarlarına ulaşabilirsiniz
 
-Video çözünürlüğü, Kare sayısı, Kalite, Video formatı, Süre limiti gibi ayarları yapabilirsiniz&#x20;
+Video çözünürlüğü, Kare sayısı, Kalite, Video formatı, Süre limiti gibi ayarları yapabilirsiniz
 
-Bu ayarların yanı sıra oyun sesleri, mikrofon sesleri, mouse kursörü, upscale ve kayıt sırasında kayıt panelinin görüntülenmesi ayarlarını yapabilir, kayıt için kısa yol tuşları atayabilirsiniz&#x20;
+Bu ayarların yanı sıra oyun sesleri, mikrofon sesleri, mouse kursörü, upscale ve kayıt sırasında kayıt panelinin görüntülenmesi ayarlarını yapabilir, kayıt için kısa yol tuşları atayabilirsiniz
 
 -video komutu ile hızlı ayarlara ulaşabilirsiniz
 
@@ -64,7 +64,7 @@ Bu ayarların yanı sıra oyun sesleri, mikrofon sesleri, mouse kursörü, upsca
 
 * Health bar collector eklendi. Aktif ettiğinizde ekranınıza giren tüm canlıların HP bar larını çekmekte
 
-Filter butonu ile hangi canlıların HP barlarının gösterilmesi istediğini seçebilirsiniz \
+Filter butonu ile hangi canlıların HP barlarının gösterilmesi istediğini seçebilirsiniz\
 Health Barda yer alan ismi seçerek büyü atabilir veya saldırabilirsiniz
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2F6RalTpSpEVjusTfwws4Z%2Fhp%20bar.mp4?alt=media&token=ebaaadf6-29a6-4a25-ba6e-db8452c991df" %}

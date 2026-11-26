@@ -6,7 +6,7 @@ Labirent Yarışı, tek kişilik ve süreye karşı oynanan bir etkinliktir. Her
 
 Etkinliğe <mark style="color:red;">**Maze Guide**</mark> üzerinden katılabilirsiniz. Rehbere çift tıkladığınızda Labirent Yarışı ekranı açılır.
 
-<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (473).png" alt=""><figcaption></figcaption></figure>
 
 Ekranda iki sekme bulunur:
 
@@ -55,6 +55,8 @@ Koşu sırasında sayacın altında bulunan <mark style="color:red;">**Merkeze D
 
 Bu özellik her koşuda yalnızca bir kez kullanılabilir. Merkeze döndüğünüzde süreniz işlemeye devam eder ve buton ekrandan kaldırılır.
 
+<figure><img src="../../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
+
 #### Labirentte Kullanılamayan Özellikler
 
 Koşu sırasında aşağıdaki işlemleri gerçekleştiremezsiniz:
@@ -80,6 +82,8 @@ Açılan onay ekranında:
 
 * <mark style="color:red;">**Koşuyu Bırak**</mark>**:** Koşunuzu iptal eder.
 * <mark style="color:red;">**Devam Et**</mark>**:** Koşunuza kaldığınız yerden devam etmenizi sağlar.
+
+<figure><img src="../../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
 ### Sonuç Ekranı
 
@@ -122,3 +126,5 @@ Bu ekranda koşularınızın tarihi, durumu ve süresi listelenir. Koşular aşa
 Tamamlanmış bir koşunun solundaki butona basarak koşu detaylarını görüntüleyebilirsiniz.
 
 Detay ekranında hangi çıkışı hangi sırada bulduğunuzu, her çıkış için geçen süreyi ve toplam koşu sürenizi görebilirsiniz. Sol üst köşedeki ok ile tekrar koşu listesine dönebilirsiniz.
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2FRytMW6zdL0MqzrV6tYrD%2Fmaze%20runner.mp4?alt=media&token=b5f33f5b-63b9-474c-80f1-de5462464bb4" %}
