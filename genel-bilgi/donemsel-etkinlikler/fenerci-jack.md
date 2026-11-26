@@ -18,7 +18,7 @@ Fenerci Jack her saat başında aşağıdaki yedi mezarlıktan birinde ortaya ç
 
 Jack aynı mezarlıkta üst üste ortaya çıkmaz. Bulunduğu mezarlık sunucu duyurusuyla bildirilir. Jack hayattayken saatin <mark style="color:red;">**15, 30 ve 45. dakikalarında**</mark> konumu tekrar hatırlatılır. Bu duyuruları görebilmek için etkinlik duyurularınızın açık olması gerekir.
 
-<figure><img src="../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
 
 Jack yenilmezse saat değişiminde korumalarıyla birlikte bulunduğu mezarlıktan ayrılır ve başka bir mezarlıkta ortaya çıkar. Öldürülürse yeniden ortaya çıkması için bir sonraki saat başını beklemeniz gerekir.
 
@@ -36,7 +36,7 @@ Lanetli yaratıklar normal ganimetlerine ek olarak <mark style="color:red;">**Cu
 | 101–150             | %14                  | 1      |
 | 150 üzeri           | %25                  | 1      |
 
-<figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 ## Killer Pumpkin ve Jack'in Koruması
 
@@ -44,11 +44,11 @@ Jack ile birlikte mezarlıkta <mark style="color:red;">**dört Killer Pumpkin**<
 
 Önce Killer Pumpkin'lerin tamamını öldürmeniz gerekir. Son koruma öldüğünde mezarlıktaki oyunculara Jack'in saldırıya açık olduğu bildirilir.
 
-<figure><img src="../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Killer Pumpkin'ler yeniden doğabilir**</mark>**.** Jack hayattayken korumalar geri dönerse Jack tekrar hasar almaz ve korumaları yeniden öldürmeniz gerekir. Bu nedenle korumaları temizledikten sonra Jack'i mümkün olduğunca kısa sürede yenmeniz önemlidir.
 
-<figure><img src="../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
 ## Etkinlik Ödülleri
 
@@ -77,13 +77,13 @@ Ayrıca aşağıdaki ödüller için ayrı ayrı şans hesaplanır:
 
 Bu ödüllerden birden fazlası aynı cesetten çıkabilir. Maske şansı, iki maskeden rastgele birinin düşmesi içindir.
 
-<figure><img src="../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 Dekor blueprint'leri; Black Cat Statuette, küçük ve büyük kristal küreler, Crystal Skull, Jade Skull, Obsidian Skull ve çeşitli kristal kafatası modellerini kapsar. Bu blueprint'ler <mark style="color:red;">**Glassblowing**</mark> üretiminde kullanılır ve <mark style="color:red;">**Blueprint Vendor'da satılmaz**</mark>.
 
-<figure><img src="../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 ## Cursed Pumpkin Seed Yetiştirme
 
@@ -99,7 +99,7 @@ Olgunlaşan bitkiyi elinizde <mark style="color:red;">**Sickle**</mark> varken �
 
 Olgunlaşan bitki <mark style="color:red;">**2 saat içinde toplanmazsa çürür**</mark>.
 
-<figure><img src="../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 
 ## Balkabağı Oyma
 
@@ -120,9 +120,7 @@ Kitin ve balkabağının <mark style="color:red;">**çantanızın ana bölümün
 
 Her başarılı işlemde <mark style="color:red;">**1 balkabağı ve 1 Pumpkin Carve Kit tüketilir**</mark>. Aynı anda yalnızca bir balkabağı oyabilirsiniz. Sickle çantanızın ana bölümündeyse işlem başlarken otomatik olarak elinize alınır.
 
-<figure><img src="../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 ### Oyma Modelleri
 
@@ -135,9 +133,9 @@ Her balkabağı türü için 8, toplamda <mark style="color:red;">**16 farklı m
 
 Oyma işlemi için <mark style="color:red;">**Cursed Pumpkin Seed hasadından elde edilen**</mark> balkabaklarını kullanmanız gerekir. Aynı görünüme sahip standart dekor balkabakları kit tarafından kabul edilmez.
 
-<figure><img src="../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
 ## Başarımlar
 
