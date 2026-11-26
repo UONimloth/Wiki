@@ -81,3 +81,44 @@ Açılan onay ekranında:
 * <mark style="color:red;">**Koşuyu Bırak**</mark>**:** Koşunuzu iptal eder.
 * <mark style="color:red;">**Devam Et**</mark>**:** Koşunuza kaldığınız yerden devam etmenizi sağlar.
 
+### Sonuç Ekranı
+
+Dördüncü çıkışı bulduğunuzda <mark style="color:red;">**Yarış Tamamlandı**</mark> ekranı açılır.
+
+Bu ekranda bulduğunuz çıkışlar, bulma sıranıza göre listelenir.
+
+| Sütun  | Açıklama                                                              |
+| ------ | --------------------------------------------------------------------- |
+| Sıra   | Çıkışı kaçıncı sırada bulduğunuz                                      |
+| Kapı   | Bulduğunuz çıkışın yönü                                               |
+| Geçiş  | Bir önceki çıkıştan (ilk çıkış için başlangıçtan) itibaren geçen süre |
+| Toplam | O ana kadar geçen toplam süre                                         |
+
+Ekranın altında toplam koşu süreniz yeşil renkte gösterilir. Koşu sırasında **Merkeze Dön** özelliğini kullandıysanız bu bilgi de sonuç ekranında belirtilir.
+
+### Sıralama ve Ödüller
+
+**Sıralama** sekmesinde ilgili ayın en iyi 10 oyuncusu listelenir.
+
+* Her oyuncunun yalnızca en iyi süresi sıralamaya dahil edilir.
+* Eşit süreye sahip oyuncular aynı sırayı paylaşır.
+* Koşunuz, tamamlandığı günün ait olduğu aya dahil edilir.
+* Kendi karakterinizin sıralamadaki satırı yeşil renkte gösterilir.
+
+Listenin altında bu ay elde ettiğiniz en iyi süreyi ve mevcut sıranızı görebilirsiniz.
+
+Ay sonunda labirenti en kısa sürede tamamlayan oyuncu ödül kazanır.
+
+#### Sürelerim
+
+Sıralama sekmesinin altındaki <mark style="color:red;">**Sürelerim**</mark> butonundan son 10 koşunuzun kayıtlarına ulaşabilirsiniz.
+
+Bu ekranda koşularınızın tarihi, durumu ve süresi listelenir. Koşular aşağıdaki durumlarla gösterilir:
+
+* Tamamlandı
+* İptal Edildi
+* Devam Ediyor
+
+Tamamlanmış bir koşunun solundaki butona basarak koşu detaylarını görüntüleyebilirsiniz.
+
+Detay ekranında hangi çıkışı hangi sırada bulduğunuzu, her çıkış için geçen süreyi ve toplam koşu sürenizi görebilirsiniz. Sol üst köşedeki ok ile tekrar koşu listesine dönebilirsiniz.
