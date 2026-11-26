@@ -11148,18 +11148,18 @@ Kill Sayısı Ölüm Sayısı Verilen Hasar Alınan Hasar Heal Miktarı Canland�
 Eğer bankanızda altın varsa bankanızdan, altın yoksa banka hesabınızdan parayı tedarik edecek\
 Eğer satın alma işlemi banka hesabından yapıldıysa bunla ilgili ek bir bildirim alacaksınız<br>
 
-<figure><img src="../../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
 
 * Tamer Mastery sistemi için Takas sistemi eklendi
 
-Evcilleştirmiş olduğunuz binekleri Master Tamerlara vererek karşılığında XP alabilirsiniz \
-Sisteme ait detaylar wiki sayfasında yer almakta \
+Evcilleştirmiş olduğunuz binekleri Master Tamerlara vererek karşılığında XP alabilirsiniz\
+Sisteme ait detaylar wiki sayfasında yer almakta\
 [https://nimloth-uo.gitbook.io/wiki/sistemler/tamer-mastery-sistemi#binek-kontrati-takasi](https://nimloth-uo.gitbook.io/wiki/sistemler/tamer-mastery-sistemi#binek-kontrati-takasi)
 
 * Deniz ticaretinde kontrat değeri eğer 50.000 altının altında ise artık Blueprint düşmemekte
 * Britain şehri için deniz ticareti aktif edildi
 
-Cooking yeteneğiniz ile üretmiş olduğunuz Ekmek, pasta, kek, çorba ve salatalar ile ticaret yapabilirsiniz \
+Cooking yeteneğiniz ile üretmiş olduğunuz Ekmek, pasta, kek, çorba ve salatalar ile ticaret yapabilirsiniz\
 Pişmiş balıkların ticaretini Britainden yapamazsınız, bunun için Ocllo şehrini kullanmaya devam edebilirsiniz
 
 * Deniz ticareti için ihtiyaç miktarları 2000 den 1000 e indirildi. Mevcut 8 şehirden rastgele seçilen 2 tanesinin ihtiyacı 1000 yerine 2000 olacak
@@ -11168,10 +11168,10 @@ Stok güncellemesi bugünden itibaren geçerli
 
 * Deniz ticaretinde gemi batırılması yapısı güncellendi
 
-Deniz ticareti sırasında geminin korsanlar tarafından batırılması durumunda kontrat değerinin belli bir miktarı kadar çek verilmekteydi \
-Güncelleme sonrasında gemiyi batıran oyuncuya 2 seçenek sunulmakta. Oyuncu isterse çeki alabilir, isterse de ticareti devralabilir \
-Ticaret devir alındığında tüm sunucuya bilgi verilmekte \
-Ticaret tamamlandığında normal ticaret süreci ile benzer şekilde çalışmakta \
+Deniz ticareti sırasında geminin korsanlar tarafından batırılması durumunda kontrat değerinin belli bir miktarı kadar çek verilmekteydi\
+Güncelleme sonrasında gemiyi batıran oyuncuya 2 seçenek sunulmakta. Oyuncu isterse çeki alabilir, isterse de ticareti devralabilir\
+Ticaret devir alındığında tüm sunucuya bilgi verilmekte\
+Ticaret tamamlandığında normal ticaret süreci ile benzer şekilde çalışmakta\
 Gemi batırıldıktan sonra önceki ticarete ait kasa su üzerinde 120 saniye kalmakta. Süre sonunda kasa batmakta
 
 <figure><img src="../../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
@@ -11200,15 +11200,15 @@ Eklenen yeni Achievementlar ile PvP sekmesindeki toplam Achievement sayısı 45 
 
 * Oyuna "-profil" komutu eklendi. Bu komut ile Makro, Infobar, Skills Groups, Window Layout, Settings ve Ingore List inizi aktarabilirsiniz
 
-Aktarım yapabilmek için diğer oyuncunun ayarlardan "Receive profile sharing offers from other players" tikini açması gerekmektedir. Bu ayarı Counters -> MISC sekmesinde en altta bulabilirsiniz&#x20;
+Aktarım yapabilmek için diğer oyuncunun ayarlardan "Receive profile sharing offers from other players" tikini açması gerekmektedir. Bu ayarı Counters -> MISC sekmesinde en altta bulabilirsiniz
 
-<figure><img src="../../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
 
-Aktarım yapabilmek için oyun içerisinde belli koşulları sağlamanız gerekmektedir(görünmez olmama, savaşta olmama gibi) Eğer bu koşulları sağlıyorsanız karşıdaki oyuncuya profil paylaşım daveti iletebilirsiniz&#x20;
+Aktarım yapabilmek için oyun içerisinde belli koşulları sağlamanız gerekmektedir(görünmez olmama, savaşta olmama gibi) Eğer bu koşulları sağlıyorsanız karşıdaki oyuncuya profil paylaşım daveti iletebilirsiniz
 
 Davet ilettiğiniz oyuncunun ekranında sağ altta gelen davet ile ilgili bir popup açılacaktır
 
-Oyuncu bu daveti görüntüleyebilir, reddedebilir veya davet atan kişiyi bloke edebilir &#x20;
+Oyuncu bu daveti görüntüleyebilir, reddedebilir veya davet atan kişiyi bloke edebilir
 
 <figure><img src="../../.gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
 
@@ -11222,11 +11222,11 @@ Davet görüntülendiğinde çıkan ekranda talebin detaylarını görüntülebi
 
 * Client üzerinden video kaydı yapabilme özelliği eklendi
 
-Options menüsündeki Video sekmesinde en altta video ayarlarına ulaşabilirsiniz&#x20;
+Options menüsündeki Video sekmesinde en altta video ayarlarına ulaşabilirsiniz
 
-Video çözünürlüğü, Kare sayısı, Kalite, Video formatı, Süre limiti gibi ayarları yapabilirsiniz&#x20;
+Video çözünürlüğü, Kare sayısı, Kalite, Video formatı, Süre limiti gibi ayarları yapabilirsiniz
 
-Bu ayarların yanı sıra oyun sesleri, mikrofon sesleri, mouse kursörü, upscale ve kayıt sırasında kayıt panelinin görüntülenmesi ayarlarını yapabilir, kayıt için kısa yol tuşları atayabilirsiniz&#x20;
+Bu ayarların yanı sıra oyun sesleri, mikrofon sesleri, mouse kursörü, upscale ve kayıt sırasında kayıt panelinin görüntülenmesi ayarlarını yapabilir, kayıt için kısa yol tuşları atayabilirsiniz
 
 -video komutu ile hızlı ayarlara ulaşabilirsiniz
 
@@ -11262,7 +11262,7 @@ Bu ayarların yanı sıra oyun sesleri, mikrofon sesleri, mouse kursörü, upsca
 
 * Health bar collector eklendi. Aktif ettiğinizde ekranınıza giren tüm canlıların HP bar larını çekmekte
 
-Filter butonu ile hangi canlıların HP barlarının gösterilmesi istediğini seçebilirsiniz \
+Filter butonu ile hangi canlıların HP barlarının gösterilmesi istediğini seçebilirsiniz\
 Health Barda yer alan ismi seçerek büyü atabilir veya saldırabilirsiniz
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2F6RalTpSpEVjusTfwws4Z%2Fhp%20bar.mp4?alt=media&token=ebaaadf6-29a6-4a25-ba6e-db8452c991df" %}
@@ -14344,7 +14344,7 @@ Labirent Yarışı, tek kişilik ve süreye karşı oynanan bir etkinliktir. Her
 
 Etkinliğe <mark style="color:red;">**Maze Guide**</mark> üzerinden katılabilirsiniz. Rehbere çift tıkladığınızda Labirent Yarışı ekranı açılır.
 
-<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (473).png" alt=""><figcaption></figcaption></figure>
 
 Ekranda iki sekme bulunur:
 
@@ -14393,6 +14393,8 @@ Koşu sırasında sayacın altında bulunan <mark style="color:red;">**Merkeze D
 
 Bu özellik her koşuda yalnızca bir kez kullanılabilir. Merkeze döndüğünüzde süreniz işlemeye devam eder ve buton ekrandan kaldırılır.
 
+<figure><img src="../../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
+
 #### Labirentte Kullanılamayan Özellikler
 
 Koşu sırasında aşağıdaki işlemleri gerçekleştiremezsiniz:
@@ -14418,6 +14420,8 @@ Açılan onay ekranında:
 
 * <mark style="color:red;">**Koşuyu Bırak**</mark>**:** Koşunuzu iptal eder.
 * <mark style="color:red;">**Devam Et**</mark>**:** Koşunuza kaldığınız yerden devam etmenizi sağlar.
+
+<figure><img src="../../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
 ### Sonuç Ekranı
 
@@ -14460,6 +14464,8 @@ Bu ekranda koşularınızın tarihi, durumu ve süresi listelenir. Koşular aşa
 Tamamlanmış bir koşunun solundaki butona basarak koşu detaylarını görüntüleyebilirsiniz.
 
 Detay ekranında hangi çıkışı hangi sırada bulduğunuzu, her çıkış için geçen süreyi ve toplam koşu sürenizi görebilirsiniz. Sol üst köşedeki ok ile tekrar koşu listesine dönebilirsiniz.
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsfsUbVM9k2zNqazagdML%2Fuploads%2FRytMW6zdL0MqzrV6tYrD%2Fmaze%20runner.mp4?alt=media&token=b5f33f5b-63b9-474c-80f1-de5462464bb4" %}
 
 
 --- Dosya: ./genel-bilgi/build-onerileri.md ---
