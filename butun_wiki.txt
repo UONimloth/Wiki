@@ -14338,85 +14338,87 @@ Fenerci Jack için <mark style="color:red;">**Lantern Snuffer**</mark>, Killer P
 
 # Labirent Yarışı
 
-Labirent Yarışı, tek kişilik ve süreye karşı oynanan bir etkinliktir. Her koşuda yeniden kurulan labirentin dört köşesindeki çıkışları bulmanız gerekir. Ay boyunca en kısa sürede bitiren oyuncu ödül kazanır.
+Labirent Yarışı, tek kişilik ve süreye karşı oynanan bir etkinliktir. Her koşuda yeniden oluşturulan labirentte dört farklı çıkışı bulmanız gerekir. Ay sonunda en kısa sürede tamamlayan oyuncu ödül kazanır.
 
-### Maze Guide <a href="#user-content-maze-guide" id="user-content-maze-guide"></a>
+### Etkinliğe Katılım
+
+Etkinliğe <mark style="color:red;">**Maze Guide**</mark> üzerinden katılabilirsiniz. Rehbere çift tıkladığınızda Labirent Yarışı ekranı açılır.
 
 <figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
 
-Etkinliğe <mark style="color:red;">**Maze Guide**</mark> üzerinden katılırsınız. Rehbere çift tıkladığınızda Labirent Yarışı ekranı açılır. Ekranın sol tarafında iki sekme bulunur:
+Ekranda iki sekme bulunur:
 
-* <mark style="color:red;">**Kurallar**</mark>**:** Etkinliğin kurallarını, bugün kalan deneme hakkınızı ve <mark style="color:red;">**Başla**</mark> butonunu gösterir.
-* <mark style="color:red;">**Sıralama**</mark>**:** Ayın en iyi 10 oyuncusunu ve sizin bu ayki en iyi sürenizle sıranızı gösterir.
+* <mark style="color:red;">**Kurallar**</mark>**:** Etkinlik kurallarını, günlük kalan deneme hakkınızı ve Başla butonunu gösterir.
+* <mark style="color:red;">**Sıralama**</mark>**:** Ayın en iyi 10 oyuncusunu, kendi en iyi sürenizi ve sıralamadaki yerinizi gösterir.
 
-Labirentte <mark style="color:red;">**aynı anda tek bir oyuncu**</mark> koşabilir. Başka bir oyuncu koşarken Başla'ya basarsanız, onun koşusu bitince tekrar denemeniz istenir.
+Labirentte aynı anda yalnızca <mark style="color:red;">**bir oyuncu**</mark> koşabilir. Başka bir oyuncu koşu yaparken Başla butonuna basarsanız, mevcut koşunun tamamlanmasını beklemeniz gerekir.
 
 <figure><img src="../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
 
-### Katılım Şartları <a href="#user-content-katilim-sartlari" id="user-content-katilim-sartlari"></a>
+### Katılım Şartları
 
-Koşuya başlayabilmek için:
+Koşuya başlayabilmek için aşağıdaki şartları sağlamalısınız:
 
-* Canınız tam olmalı, zehirli veya yaralı (kanamalı) olmamalısınız.
+* Canınız tam olmalı; zehirli veya yaralı (kanamalı) olmamalısınız.
 * Binek üzerinde olmamalısınız ve ekranınızda size ait bir canlı bulunmamalıdır.
-* Elinizde eşya, çantanızda ticaret kontratı olmamalı, trade ekranınız açık olmamalıdır.
+* Çantanızda ticaret kontratı olmamalı ve trade ekranınız açık olmamalıdır.
 * Başka bir etkinlikte, düelloda, War Zone'da veya hapiste olmamalısınız.
 
-Her hesabın <mark style="color:red;">**günde 3 deneme hakkı**</mark> vardır. Hak, koşuya başladığınız anda düşer. Bu yüzden yarıda bırakılan veya iptal olan koşular da haktan sayılır.
+Her hesabın <mark style="color:red;">**günde 3 koşu hakkı**</mark> bulunur. Hakkınız koşuya başladığınız anda düşer. Yarıda bırakılan veya iptal edilen koşular da koşu hakkından sayılır.
 
-### Koşu Nasıl Oynanır? <a href="#user-content-kosu-nasil-oynanir" id="user-content-kosu-nasil-oynanir"></a>
+### Koşu Nasıl Oynanır?
 
-1. Maze Guide'ın ekranında <mark style="color:red;">**Başla**</mark> butonuna basın.
-2. Labirentin merkezine ışınlanırsınız ve süreniz başlar. Ekranda geçen süreyi gösteren bir sayaç açılır.
-3. Dört köşedeki çıkışları (Kuzeybatı, Kuzeydoğu, Güneydoğu, Güneybatı) dilediğiniz sırayla bulun.
-4. İlk üç çıkış sizi merkeze geri gönderir. Dördüncü çıkışı bulduğunuzda koşunuz biter.
+Maze Guide ekranındaki <mark style="color:red;">**Başla**</mark> butonuna basın.
 
-Labirent her Başla'da <mark style="color:red;">**50 farklı yerleşimden biriyle sıfırdan kurulur**</mark>, bu yüzden yolu ezberlemek mümkün değildir. Daha önce bulduğunuz bir çıkışa tekrar girerseniz merkeze dönersiniz ama o çıkış ikinci kez sayılmaz.
+Labirentin merkezine ışınlanırsınız ve süre sayacı çalışmaya başlar.
 
-#### Merkeze Dön <a href="#user-content-merkeze-don" id="user-content-merkeze-don"></a>
+Labirentin dört köşesindeki çıkışları bulmanız gerekir:
 
-Sayacın altındaki <mark style="color:red;">**Merkeze Dön**</mark> butonuyla koşu başına bir kez merkeze ışınlanabilirsiniz. Süreniz işlemeye devam eder. Kullandıktan sonra buton sayaçtan kalkar.
+* Kuzeybatı
+* Kuzeydoğu
+* Güneydoğu
+* Güneybatı
 
-#### Labirentte Yapılamayanlar <a href="#user-content-labirentte-yapilamayanlar" id="user-content-labirentte-yapilamayanlar"></a>
+İlk üç çıkışı bulduğunuzda tekrar merkeze dönersiniz. Dördüncü çıkışı bulduğunuzda koşu tamamlanır.
 
-Koşu sırasında büyü ve yetenek kullanamaz, saldıramaz, binek çağıramazsınız. Runebook, Stuck ve yere eşya bırakma da kapalıdır.
+Labirent, her koşuda <mark style="color:red;">**50 farklı yerleşimden biriyle**</mark> yeniden oluşturulur. Bu nedenle önceki koşularda öğrendiğiniz yolları kullanamazsınız.
 
-#### Koşunun İptal Olması <a href="#user-content-kosunun-iptal-olmasi" id="user-content-kosunun-iptal-olmasi"></a>
+Daha önce bulduğunuz bir çıkışa tekrar girerseniz merkeze dönersiniz ancak bu geçiş yeni bir çıkış olarak sayılmaz.
 
-Aşağıdaki durumlarda koşunuz <mark style="color:red;">**iptal edilir**</mark> ve başladığınız yere geri dönersiniz:
+#### Merkeze Dön
 
-* Oyundan çıkarsanız.
-* Labirentin dışına çıkarsanız.
-* Binek kullanırsanız.
+Koşu sırasında sayacın altında bulunan <mark style="color:red;">**Merkeze Dön**</mark> butonunu kullanarak merkeze ışınlanabilirsiniz.
 
-Koşuyu kendiniz bırakmak isterseniz sohbete **iptal** yazın. Açılan onay ekranında **Koşuyu Bırak**'a basarsanız koşunuz iptal olur, **Devam Et**'e basarsanız koşu sürer.
+Bu özellik her koşuda yalnızca bir kez kullanılabilir. Merkeze döndüğünüzde süreniz işlemeye devam eder ve buton ekrandan kaldırılır.
 
-### Sonuç Ekranı <a href="#user-content-sonuc-ekrani" id="user-content-sonuc-ekrani"></a>
+#### Labirentte Kullanılamayan Özellikler
 
-Dördüncü çıkışı bulduğunuzda <mark style="color:red;">**Yarış Tamamlandı**</mark> ekranı açılır. Bu ekranda çıkışlar bulduğunuz sırayla listelenir:
+Koşu sırasında aşağıdaki işlemleri gerçekleştiremezsiniz:
 
-| Sütun  | Anlamı                                                          |
-| ------ | --------------------------------------------------------------- |
-| Sıra   | Çıkışı kaçıncı bulduğunuz                                       |
-| Kapı   | Bulduğunuz çıkış                                                |
-| Geçiş  | Bir önceki çıkıştan (ilki için başlangıçtan) bu yana geçen süre |
-| Toplam | O ana kadar geçen toplam süre                                   |
+* Büyü veya yetenek kullanamazsınız
+* Saldırı gerçekleştiremezsiniz
+* Binek çağıramazsınız
+* Runebook kullanamazsınız
+* Stuck özelliğini kullanamazsınız
+* Yere eşya bırakamazsınız
 
-En altta toplam süreniz yeşil olarak yazar. Merkeze Dön kullandıysanız bu da belirtilir.
+#### Koşunun İptal Edilmesi
 
-### Sıralama ve Ödül <a href="#user-content-siralama-ve-odul" id="user-content-siralama-ve-odul"></a>
+Aşağıdaki durumlarda koşunuz iptal edilir ve başlangıç noktanıza geri gönderilirsiniz:
 
-Sıralama sekmesi <mark style="color:red;">**o ayın en iyi 10 oyuncusunu**</mark> gösterir. Her oyuncunun yalnızca en iyi süresi sayılır. Eşit süreye sahip oyuncular aynı sırayı paylaşır. Koşu, bittiği günün ayına sayılır. Listede sizin satırınız yeşil görünür. Listenin altında da bu ayki en iyi süreniz ve sıranız yazar.
+* Oyundan çıkmanız
+* Labirentin dışına çıkmanız
+* Binek kullanmanız
 
-Ay sonunda en kısa sürede bitiren oyuncu ödül kazanır.
+Koşuyu kendiniz sonlandırmak isterseniz sohbet ekranına <mark style="color:red;">**iptal**</mark> yazabilirsiniz.
 
-#### Sürelerim <a href="#user-content-surelerim" id="user-content-surelerim"></a>
+Açılan onay ekranında:
 
-Sıralama sekmesinin altındaki <mark style="color:red;">**Sürelerim**</mark> butonu son 10 koşunuzu tarih, durum (Tamamlandı, İptal Edildi, Devam Ediyor) ve süreyle listeler.
+* <mark style="color:red;">**Koşuyu Bırak**</mark>**:** Koşunuzu iptal eder.
+* <mark style="color:red;">**Devam Et**</mark>**:** Koşunuza kaldığınız yerden devam etmenizi sağlar.
 
-Tamamlanmış bir koşunun solundaki butona bastığınızda o koşunun detayı açılır. Detayda sonuç ekranındaki gibi hangi çıkışı kaçıncı bulduğunuz, her çıkışın geçiş süresi ve toplam süreniz yer alır. Sol üstteki ok sizi tekrar listeye döndürür.
 
 
 --- Dosya: ./genel-bilgi/build-onerileri.md ---
